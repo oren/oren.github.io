@@ -1,0 +1,17 @@
+# Talks
+
+* [AI, Healthcare, and the Sopranos test](talks/ai-healthcare/)
+* [Evolving Graphs and Pokemon](talks/pokemon-graphs/)
+* [Introduction to graph databases](talks/graphs-intro/)
+* [Docker Los Angeles - Lightning Talks](talks/docker-los-angeles/)
+* [Intro to Docker](talks/intro-to-docker/)
+* [Hello World in Go](talks/go/)
+* [Graph databases workshop](talks/graphs/)
+* [Docker as a catalyst of culture change](talks/docker-culture/)
+* [Docker Crash Course](talks/docker/)
+* [Don't Panic - The Hitchhiker's Guide to Node](https://www.joyent.com/developers/videos/node-js-on-the-road-la-oren-golan)
+* [Node.js at YP.com](https://jsconfchina.com/)
+* [Flappy Bird Arcade game](https://www.youtube.com/watch?v=qkqRBHw7iNk)
+* [How I learned to stop worrying and love the Node](https://www.youtube.com/watch?v=1RW9bxQ1EXI)
+* [Sinatra - The little framework that could](https://www.youtube.com/watch?v=8-zGQn_Fs4k)
+* [Angular - HTML on Steroids](https://chicagowebconf2012.sched.org/event/3231b6996ed535e2345a6b2969d2fa81#.VVwaMd-c2C)
