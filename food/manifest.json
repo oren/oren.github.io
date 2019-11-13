@@ -4,7 +4,7 @@
 	"name": "TODO",
 	"short_name": "TODO",
 	"display": "minimal-ui",
-	"start_url": "/",
+	"start_url": "/food",
 	"icons": [
 		{
 			"src": "logo-192.png",
