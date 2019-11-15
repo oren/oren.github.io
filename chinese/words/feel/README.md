@@ -8,7 +8,7 @@ Examples:
 
 I can **feel** your love
 
-我能 **感受到** 你的爱
+我能**感受到**你的爱
 
 Wǒ néng **gǎn shòu dào** nǐ de ài
 
