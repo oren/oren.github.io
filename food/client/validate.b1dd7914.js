@@ -1,1 +1,0 @@
-function s(s){return s.name?s.protein?s.carbs?s.fat?{valid:!0,message:""}:{valid:!1,message:"Fat is missing"}:{valid:!1,message:"Carbs is missing"}:{valid:!1,message:"Protein is missing"}:{valid:!1,message:"Name is missing"}}export{s as v};
