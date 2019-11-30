@@ -1,1 +1,0 @@
-function s(s){return s.name?null===s.protein||""===s.protein||NaN===s.protein?{valid:!1,message:"Protein is missing"}:null===s.carbs||""===s.carbs||NaN===s.carbs?{valid:!1,message:"Carbs is missing"}:null===s.fat||""===s.fat||NaN===s.fat?{valid:!1,message:"Fat is missing"}:{valid:!0,message:""}:{valid:!1,message:"Name is missing"}}export{s as v};
