@@ -1,5 +1,7 @@
 # V Language
 
+The [V programming language](https://vlang.io/) is a new language that is simpler than Go, performant as C, and safe as Rust.
+
 ## 1. Install
 ```
 git clone git@github.com:vlang/v.git
