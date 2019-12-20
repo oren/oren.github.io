@@ -1,7 +1,6 @@
 # Articles
 
 ## 1. Technology
-* [V Language](articles/vlang/)
 * [re:Invent 2018 Videos](articles/reinvent2018/)
 * [AI vs Humans - 人工智能](articles/ai/)
 * [Microservices with Go Micro and NATS](articles/micro/)
