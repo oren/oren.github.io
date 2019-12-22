@@ -32,6 +32,8 @@
 * [Toxic Behaviors](articles/toxic-behaviors/)
 * [Relationship Guidelines](articles/relationship-guidelines/)
 * [Hacking Relationships](articles/hacking-relationships/)
+* [Gratitude](articles/gratitude/)
+* [Spontaneous Speaking](articles/spontaneous-speaking/)
 
 ## 3. Tools
 * [Text-based Gmail](articles/text-based-gmail/)

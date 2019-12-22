@@ -1,18 +1,13 @@
 # Gratitude
 
 ## 1. What is it?
-Gratitude is a mechanism for scaling relationships.
+Gratitude is a mechanism for increasing your satisfaction and happiness.
 
-## 2. The four parts of Gratitude:
-1. **Build** - write some code in rust/Go/JS/Typescript
-1. **Monetize** - make $$$
-1. **Chill** - but don't skip leg day.
+## 2. 10 min video about gratitude
+Summary of the video:
+1. **What is it?** character trait, feeling, virtue, and a behavior.
+1. **Why it exist?** Being social and playing better with others connects us to to other humans and groups and protects us.
+1. **The benefits**: People who are grateful are happier and more satisfied. They have better relationship and easier time making friends. They also sleep better and better at dealing with traumatic events.
+1. **How to increase it?** Write a gratitude journal.
 
-## 3. Example
-
-1. Build NVC Chatbot.
-1. Charge $299 if customer is happy.
-1. Leg day.
-
-## 4. Video version of Gratitue - 10 min Video
 * https://www.youtube.com/watch?v=WPPPFqsECz0
