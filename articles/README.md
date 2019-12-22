@@ -31,6 +31,7 @@
 * [Empathy](articles/empathy/)
 * [Toxic Behaviors](articles/toxic-behaviors/)
 * [Relationship Guidelines](articles/relationship-guidelines/)
+* [Hacking Relationships](articles/hacking-relationships/)
 
 ## 3. Tools
 * [Text-based Gmail](articles/text-based-gmail/)
