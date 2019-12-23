@@ -1,16 +1,18 @@
 # Spontaneous Speaking
 
 ## 1. What is this page?
-A mechanism for improving the impact of your spontaneous speaking. Summary of [this](https://www.youtube.com/watch?v=HAnw168huqA) video.
+A mechanism for improving the impact of your spontaneous speaking. It's a summary of [a 1 hour video](https://www.youtube.com/watch?v=HAnw168huqA) by Matt Abrahams, a lecturer at the Stanford Graduate School of Business, teaching strategic communication.
 
 ## 2. Details of the mechanism
 
-#### 2.1 Manage your anxiety
+#### 2.1 Manage your anxiety:
 
-Greet it, reframe as a conversation, be present
+* Accept your feeling of anxiety. It's a common feeling
+* Reframe the session as a conversation: ask the audeince questions and use conversational language
+* Be present
 
-### 2.2 Practice the following:
-1. Get out of your own way
-1. Give gifts - see your interactions as opportunities
-1. Take the time to listen
-1. Use structures: 'Problem/opportunity, solution, benefit' or 'What? So what? Now what?'
+### 2.2 Practice:
+* Don't try to be perfect. Be honest and voulnerable.
+* See speaking interactions a fun opportunity and not a threat
+* Listen carefuly to the audience
+* Use a structure: 'Problem/opportunity, solution, benefit' or 'What? So what? Now what?'
