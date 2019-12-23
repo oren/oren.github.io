@@ -1,7 +1,7 @@
 # Spontaneous Speaking
 
 ## 1. What is this page?
-A mechanism for improving the impact of your spontaneous speaking. It's a summary of [a 1 hour video](https://www.youtube.com/watch?v=HAnw168huqA) by Matt Abrahams, a lecturer at the Stanford Graduate School of Business, teaching strategic communication.
+Spontaneous Speaking is a mechanism to improve the impact of your spontaneous speaking. It's a summary of [a 1 hour video](https://www.youtube.com/watch?v=HAnw168huqA) by Matt Abrahams, a lecturer at the Stanford Graduate School of Business, teaching strategic communication.
 
 ## 2. Details of the mechanism
 
