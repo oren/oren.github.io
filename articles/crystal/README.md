@@ -1,6 +1,6 @@
 # Crystal Programming Language
 
-[Crystal](https://crystal-lang.org/) is a programming language with the performance of Rust, syntax of Ruby, and concurrency model of Go.
+[Crystal](https://crystal-lang.org/) is a programming language with the performance close of Rust, syntax of Ruby, and concurrency model of Go.
 
 ## 1. Install
 For Ubuntu:
