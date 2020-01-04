@@ -1,0 +1,1 @@
+const n=n=>{return{protein:n.reduce(function(n,r){return n+r.protein*r.count},0),carbs:n.reduce(function(n,r){return n+r.carbs*r.count},0),fat:n.reduce(function(n,r){return n+r.fat*r.count},0)}};export{n as c};
