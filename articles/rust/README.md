@@ -34,7 +34,12 @@ You should see something like the below output:
 
 Congrats! You have a command line utility written in Rust that can download stuff from the internet
 
-# 3. Links
+## 3. Next Steps
+
+Try make small changes to the code just for fun. The codebase is 6 files in src folder. Open them, modify whatever and run `cargo build` it again.
+
+# 4. Links
+* [Blog post explaining the code](https://mattgathu.github.io/writing-cli-app-rust/)
 * [Install Rust](https://www.rust-lang.org/tools/install)
 * [Rust Book](https://doc.rust-lang.org/book/)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
