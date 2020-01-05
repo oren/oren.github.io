@@ -1,5 +1,5 @@
 # Build CLI using Rust
-Fast as C, reliable as Go. Great for CLI apps, Networking, and Embedded devices
+Rust is fast as C but also safer. It is great for CLI apps, networking, and embedded devices
 
 ## 1. Install
 ```
