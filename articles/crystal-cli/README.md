@@ -1,6 +1,11 @@
 # Build CLI in Crystal
 
-This CLI is a todo list in the terminal.
+## 1. Install Crystal
+https://crystal-lang.org/install/
+
+## 2. Build a CLI
+
+This CLI is a todo list in the terminal. You don't have to build the app from scratch. Instead you will download an existing one and play with it.
 
 Download the code and build the command line executable:
 ```
@@ -8,7 +13,9 @@ git clone https://git.sceptique.eu/Sceptique/todo
 make
 ```
 
-Congrats! Now you have an executable file called todo. Try it:
+Congrats! Now you have an executable file called todo.
+
+## 3.Use the CLI
 ```
 ./todo "buy milk"
 ./todo "buy eggs" --date 4/13/20
@@ -33,4 +40,5 @@ You can also have other lists. Let's say you are building an app and you want to
    1 |              | Allow uploading food
 ```
 
+## 4. Experiment
 The code is in src folder. Make small changes just for fun and run `make` again.
