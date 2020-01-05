@@ -2,6 +2,7 @@
 
 ## 1. Technology
 * [Build CLI using Rust](articles/rust/)
+* [Build CLI using Crystal](articles/crystal-cli/)
 * [Crystal Programing Language](articles/crystal/)
 * [re:Invent 2018 Videos](articles/reinvent2018/)
 * [AI vs Humans - 人工智能](articles/ai/)
