@@ -1,5 +1,7 @@
 # Feelings Inventory
 
+![feelings](feelings-wheel.jpg)
+
 ## 1. Feelings when your needs are not satisfied:
 * **Afraid**: apprehensive, dread, foreboding, frightened, mistrustful, panicked, petrified, scared, suspicious, terrified, wary, worried
 * **Annoyed**: aggravated, dismayed, disgruntled, displeased, exasperated, frustrated, impatient, irritated, irked
