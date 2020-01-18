@@ -26,6 +26,7 @@ A CookBook for Strength Athletes
 * [Oatmeal Bars](cook/oatmeal-bars/)
 * [Omlet with Pork](cook/omlet-with-pork/)
 * [Oyakodon](cook/oyakodon/)
+* [Peruvian Fish Ceviche](cook/ceviche)
 * [Ptgy](cook/ptgy/)
 * [Quest Bars](cook/quest-bars/)
 * [Quinoa](cook/quinoa/)
