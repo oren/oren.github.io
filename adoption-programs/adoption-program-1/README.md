@@ -9,14 +9,14 @@ Scale a mechanism quickly and improve it faster.
 ## Now What?
 Build your own bot. You only need to complete the first 2 tutorials to graduate the program.
 
-**Basics** - build a simple bot is used from the command line.
+**Basics** - build a simple bot that you access from the command line.
 
 | Name        | Time           |
 | ------------- |:-------------:|
 | [Tutorial 1 - build your first bot](/adoption-programs/adoption-program-1/tutorial-1/) | 10 minutes
 | [Tutorial 2 - Add the ability to ask for help](/adoption-programs/adoption-program-1/tutorial-2/) | 10 minutes
 
-**Advanced** - add more ways to access your bot - HTTP API and a Website.
+**Advanced** - access your bot from anywhere in the world.
 
 | Name        | Time           |
 | ------------- |:-------------:|
