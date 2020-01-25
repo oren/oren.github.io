@@ -1,5 +1,5 @@
 # Tutorial 3 - Build an HTTP API for your bot
-TODO - ETA Q1 of 2020
+TODO: This section will be written in Q1 of 2020.
 ```
 curl https://my-bot.com/coach?org=software-engineers
 ```

@@ -1,5 +1,5 @@
 # Tutorial 2 - Add the ability to ask for help
-TODO: ETA Q1 of 2020
+TODO: This section will be written in Q1 of 2020.
 ```
 crystal coach.cr --help
 ```
