@@ -1,8 +1,8 @@
-# Tutorial 3 - Add the ability to run multiple bots
-TODO
+# Tutorial 3 - Build an HTTP API for your bot
+TODO - ETA Q1 of 2020
 ```
-crystal coach.cr --scale=500
+curl https://my-bot.com/coach?org=software-engineers
 ```
 
 ## What is my next step in the program?
-[Tutorial 4 - Build a web API for the app](/adoption-programs/adoption-program-1/tutorial-4/)
+Continue to [Tutorial 4 - Build a Website for your bot](/adoption-programs/adoption-program-1/tutorial-4/)
