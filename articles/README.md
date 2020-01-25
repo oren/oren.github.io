@@ -30,6 +30,7 @@
 * [Zalgo](articles/zalgo/)
 * [Modern Javascript](articles/modern-js/)
 * [Culture Bot](/articles/culture-bot/)
+* [Javascript Workshop](/articles/js-workshop/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
