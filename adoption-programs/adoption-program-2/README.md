@@ -3,7 +3,7 @@
 TODO: This section is a work in progress. I don't have ETA for completion.
 
 ## What?
-Program that teach you Chinese and Crystal Programming Language at the same time. At  the end of this program you will build a command line application that prints hello world and you will be able to say and write it in Chinese.
+Program that teach you Chinese and Crystal Programming Language at the same time. At the end of this program you will build a command line application that prints hello world and you will be able to say and write it in Chinese.
 
 ## So What?
 Save time and learn two useful life skills.
