@@ -29,6 +29,9 @@
 * [Level DB](articles/leveldb/)
 * [Zalgo](articles/zalgo/)
 * [Modern Javascript](articles/modern-js/)
+* [Culture Bot](/articles/culture-bot/)
+* [Adoption Program 1 - Build a bot](/articles/adoption-program-1/)
+* [Adoption Program 2 - Learn Chinese](/articles/adoption-program-2/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
