@@ -26,4 +26,4 @@ crystal coach.cr
 ```
 
 ## What is my next step in the program?
-Continue to [Tutorial 2 - Add the ability to ask for help](/articles/adoption-program-1/tutorial-2/)
+Continue to [Tutorial 2 - Add the ability to ask for help](/adoption-programs/adoption-program-1/tutorial-2/)

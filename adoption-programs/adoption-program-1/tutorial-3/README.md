@@ -5,4 +5,4 @@ crystal coach.cr --scale=500
 ```
 
 ## What is my next step in the program?
-[Tutorial 4 - Build a web API for the app](/articles/adoption-program-1/tutorial-4/)
+[Tutorial 4 - Build a web API for the app](/adoption-programs/adoption-program-1/tutorial-4/)
