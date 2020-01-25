@@ -6,8 +6,8 @@ Learn chinese and code at the same time!
 ## What is this?
 In this program you will lean a programming language with chinese syntax. The program have 3 tutorial that will guide you step by step to write programs using a programming Language called wenyan (文言).
 
-## How?
-The program have 3 tutorial that will guide you step by step to build your first command line application.
+## The Program
+The program has 2 tutorial that will guide you step by step to build your first command line application.
 
 ## Tutorial 1
 This 10 minutes tutorial you will build a program that prints 問天地好在 3 times.
@@ -81,9 +81,3 @@ crystal hello.cr
 問天地好在。
 問天地好在。
 ```
-
-## Tutorial 2 - Run multiple apps at the same time
-TODO
-
-## Tutorial 3 - Build a web interface for the app
-TODO
