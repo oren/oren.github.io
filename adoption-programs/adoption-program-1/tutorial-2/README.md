@@ -5,4 +5,4 @@ crystal coach.cr --help
 ```
 
 ## What is my next step in the program?
-* [Tutorial 3 - Add the ability to run multiple bots](/articles/adoption-program-1/tutorial-3/)
+* [Tutorial 3 - Add the ability to run multiple bots](/adoption-programs/adoption-program-1/tutorial-3/)

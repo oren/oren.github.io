@@ -1,5 +1,6 @@
 # Oren's Website
 
+* [Adoption Programs](adoption-programs/)
 * [Articles](articles/)
 * [Talks](talks/)
 * [Nonviolent Communication](nvc/)
