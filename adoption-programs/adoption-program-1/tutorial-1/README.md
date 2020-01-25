@@ -1,5 +1,5 @@
 # Tutorial 1
-This 10 minutes tutorial you will build a program that prints 問天地好在 3 times. This time you'll use Crystal programming language. You will use a programming called Crystal to build it.
+This 10 minutes tutorial you will build a program that prints 問天地好在 3 times. You'll use the Crystal programming language to build it.
 
 ## Step 1. Install Crystal
 ```
@@ -8,7 +8,7 @@ sudo apt install crystal
 ```
 
 ## Step 2. Create a Crystal program
-Create new file: coach.wy with the following content:
+Create new file: coach.cr with the following content:
 ```
 甲=3
 甲.times do |_rand1|
