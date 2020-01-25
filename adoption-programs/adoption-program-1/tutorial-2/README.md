@@ -1,8 +1,22 @@
 # Tutorial 2 - Add the ability to ask for help
-TODO: This section will be written in Q1 of 2020.
+In this tutorial you will add a feature to your bot - you will be able to ask the bot for help. Here is what you will be able to do:
 ```
 crystal coach.cr --help
+
+I am your coach!
+
+How can I help you today?
+1. Increase my physical strength
+2. Learn to Surf
+3. Learn to dance Cuban Salsa
+
+Choose 1, 2, or 3 and hit enter
 ```
+
+
+Time: 10 minutes
+
+TODO: This section will be written in Q1 of 2020.
 
 Congrats! You completed the basic part of the program. You built a simple bot that you can ask for help. This is your graduation party!
 

@@ -1,5 +1,7 @@
-# Tutorial 1
-This 10 minutes tutorial you will build a program that prints 問天地好在 3 times. You'll use the Crystal programming language to build it.
+# Tutorial 1 - build your first bot
+In this tutorial you will create a program that prints 'Hello World' in chinese 3 times. You'll use the Crystal programming language to build it.
+
+Time: 10 minutes
 
 ## Step 1. Install Crystal
 ```
