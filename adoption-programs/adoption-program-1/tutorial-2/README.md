@@ -4,7 +4,7 @@ TODO: This section will be written in Q1 of 2020.
 crystal coach.cr --help
 ```
 
-Congrats! You completed the Basic part of the program. You built a simple bot that you can ask for help. This is your graduation party!
+Congrats! You completed the basic part of the program. You built a simple bot that you can ask for help. This is your graduation party!
 
 ## What is my next step in the program?
 The advanced part of the program will teach you the following:
