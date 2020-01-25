@@ -1,13 +1,13 @@
 # Adoption Program 2 - learn Chinese
 
-## Why do I care?
-Learn chinese and code at the same time!
+## What?
+Program that teach you Chinese and Crystal Programming Language at the same time.
 
-## What is this?
-In this program you will lean a programming language with chinese syntax. The program have 3 tutorial that will guide you step by step to write programs using a programming Language called wenyan (文言).
+## So What?
+Save time and learn two useful life skills.
 
-## The Program
-The program has 2 tutorial that will guide you step by step to build your first command line application.
+## Now What?
+Start the program. You graduate the basic part of the program by building a simple command line application. It contain 2 tutorials that takes a total of 20 minutes to complete.
 
 ## Tutorial 1
 This 10 minutes tutorial you will build a program that prints 問天地好在 3 times.
