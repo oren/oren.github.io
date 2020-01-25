@@ -1,5 +1,7 @@
 # Adoption Program 2 - learn Chinese
 
+TODO: This section is a work in progress. I don't have ETA for completion.
+
 ## What?
 Program that teach you Chinese and Crystal Programming Language at the same time.
 

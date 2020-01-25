@@ -7,7 +7,7 @@ Program that teach you how to build your own bot that will guide you with import
 Scale a mechanism quickly and improve it faster.
 
 ## Now What?
-Build your own bot. You only need to complete the first 2 tutorials to graduate the program.
+Start the program. You graduate the basic part of the program by building a simple bot. It contain 2 tutorials that takes a total of 20 minutes to complete.
 
 **Basics** - build a simple bot that you access from the command line.
 
