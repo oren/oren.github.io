@@ -21,15 +21,27 @@ Choose 1-4 and hit enter
 10 minutes
 
 ## Step 1. Write some code
-TODO:
+```
+mkdir coach
+cd coach
+crystal init app coach . --skip-existing
+```
+
+open src/coach.cr and add replace line 5 with:
+```
+puts "I am your coach!"
+```
 
 ## Step 2. Build the program
-TODO:
+```
+crystal build src/coach.cr
+```
 
 ## Step 3. Run the program
-TODO:
 ```
-crystal coach.cr --help
+./coach
+
+I am your coach!
 ```
 
 Congrats! You completed the basic part of the program. You built a simple bot that you can ask for help. This is your graduation party!
