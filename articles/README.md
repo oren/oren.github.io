@@ -40,7 +40,7 @@
 * [Hacking Relationships](articles/hacking-relationships/)
 * [Gratitude](articles/gratitude/)
 * [Spontaneous Speaking](articles/spontaneous-speaking/)
-* [Documentation](articles/docs/)
+* [Documentation](articles/documentation/)
 
 ## 3. Tools
 * [Text-based Gmail](articles/text-based-gmail/)
