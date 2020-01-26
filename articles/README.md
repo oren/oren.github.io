@@ -41,6 +41,7 @@
 * [Gratitude](articles/gratitude/)
 * [Spontaneous Speaking](articles/spontaneous-speaking/)
 * [Documentation](articles/documentation/)
+* [Measure your life](articles/measure-your-life/)
 
 ## 3. Tools
 * [Text-based Gmail](articles/text-based-gmail/)
