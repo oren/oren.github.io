@@ -1,7 +1,7 @@
 # Articles
 
 ## 1. Technology
-* [Visualizing Software Architecture](articles/visualize/)
+* [Visualizing Software Architecture](visualize/)
 * [Build CLI using Rust](articles/rust/)
 * [Build CLI using Crystal](articles/crystal-cli/)
 * [Crystal Programing Language](articles/crystal/)
