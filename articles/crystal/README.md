@@ -59,6 +59,6 @@ You should see: `Hello world! The time is 2019-12-26 14:35:35 -08:00`
 * [Forum](https://forum.crystal-lang.org)
 * [Chatroom](https://gitter.im/crystal-lang/crystal)
 * [Twitter](https://twitter.com/CrystalLanguage)
-* [Reddit](https://crystal-lang.org/blog)
+* [Reddit](https://www.reddit.com/r/crystal_programming)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/crystal-lang?sort=newest)
 * [Weekly email about Crystal (not official)](http://crystalweekly.com)
