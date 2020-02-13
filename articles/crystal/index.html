@@ -1,0 +1,90 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body">
+<h1>Crystal Programming Language</h1>
+<p><a href="https://crystal-lang.org/">Crystal</a> is a programming language with the performance close of Rust, syntax of Ruby, and concurrency model of Go.</p>
+<h2>1. Install</h2>
+<p>For Ubuntu:</p>
+<pre><code>curl -sSL https://dist.crystal-lang.org/apt/setup.sh | sudo bash
+sudo apt install crystal
+</code></pre>
+<p>You will have an executable named crystal:</p>
+<pre><code>crystal
+
+Usage: crystal [command] [switches] [program file] [--] [arguments]
+
+Command:
+    init                     generate a new project
+    build                    build an executable
+    docs                     generate documentation
+    env                      print Crystal environment information
+    eval                     eval code from args or standard input
+    play                     starts Crystal playground server
+    run (default)            build and run program
+    spec                     build and run specs (in spec directory)
+    tool                     run a tool
+    help, --help, -h         show this help
+    version, --version, -v   show version
+
+Run a command followed by --help to see command specific information, ex:
+    crystal &lt;command&gt; --help
+</code></pre>
+<p><a href="https://crystal-lang.org/install">Install on other platforms</a>.</p>
+<h2>2. Hello World</h2>
+<p>Create a new file: hello.cr</p>
+<pre><code class="language-crystal">require &quot;http/server&quot;
+
+server = HTTP::Server.new do |context|
+  context.response.content_type = &quot;text/plain&quot;
+  context.response.print &quot;Hello world! The time is #{Time.local}&quot;
+end
+
+address = server.bind_tcp 8080
+puts &quot;Listening on http://#{address}&quot;
+server.listen
+</code></pre>
+<p>Run: <code>crystal run hello.cr</code> and open the browser at http://127.0.0.1:8080</p>
+<p>You should see: <code>Hello world! The time is 2019-12-26 14:35:35 -08:00</code></p>
+<h1>3. Links</h1>
+<ul>
+<li><a href="https://crystal-lang.org/reference">Reference</a></li>
+<li><a href="https://crystal-lang.org/api">Standard Library Documentaion</a></li>
+<li><a href="https://crystal-lang.org/blog/">Blog</a></li>
+<li><a href="https://forum.crystal-lang.org">Forum</a></li>
+<li><a href="https://gitter.im/crystal-lang/crystal">Chatroom</a></li>
+<li><a href="https://twitter.com/CrystalLanguage">Twitter</a></li>
+<li><a href="https://www.reddit.com/r/crystal_programming">Reddit</a></li>
+<li><a href="https://stackoverflow.com/questions/tagged/crystal-lang?sort=newest">StackOverflow</a></li>
+<li><a href="http://crystalweekly.com">Weekly email about Crystal (not official)</a></li>
+</ul>
+
+</article>
