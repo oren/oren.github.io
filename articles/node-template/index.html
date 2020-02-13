@@ -1,0 +1,150 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body">
+<h1>Website/Web Service template in Node.js</h1>
+<p><img src="https://i.imgur.com/8orBBZu.png" alt="puzzle" /></p>
+<p><img src="https://www.codeship.io/projects/87c9c610-a174-0131-48e7-2eb91d28af94/status" alt="codeship" /></p>
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#why-not-express">Why not express?</a></li>
+<li><a href="#design-philosophy">Design Philosophy</a></li>
+<li><a href="#folders-structure">Folders structure</a></li>
+<li><a href="#modules-being-used">Modules being used</a></li>
+<li><a href="#run">Run</a></li>
+<li><a href="#test">Test</a></li>
+<li><a href="#deploy">Deploy</a></li>
+<li><a href="#misc">Misc</a></li>
+</ul>
+<p>I wrote this template to help me create websites and Web Services with Node. It uses vanilla http server with a few small packages that most websites need. Stuff like templates, router and serving static files. I borrowed a lot from isaacs' <a href="https://github.com/isaacs/npm-www">npm website</a>.</p>
+<p>Sites that follow this approach: (pull requests for more examples are welcome)</p>
+<ul>
+<li>https://github.com/isaacs/npm-www</li>
+<li>https://github.com/Raynos/process-dashboard</li>
+<li>https://github.com/substack/substack.net</li>
+</ul>
+<h2>Why not express</h2>
+<p>When newcomers ask about writing a website or a Web Service they are usualy being told to use express. The problem with express is it uses  middleware/Connect. middleware was a hack invented while solving a problem Node doesn't have. The problem that WSGI solves, which is creating a common interface for writing websites or frameworks that are used by web servers (such as Gunicorn in python or Thin in Ruby). Node doesn't even have those web servers since it comes with a built-in server as part of it's http library.</p>
+<p>middleware forces a pre-declared stack of (req,res,next) functions on top of your routes. It's mostly just not a very useful approach for handling the kinds of things you need a webserver to do - serving static files, parsing POST data, parsing cookies, routing, auth. All can be handled quite nicely just by explicitly passing req and res around as necessary or by returning a stream and piping that to res as the case may warrant.</p>
+<p>Also, writing a middleware means you create a module that doesn't work with the Node eco-system. It only works with express/Connect.</p>
+<h2>Design Philosophy</h2>
+<p>(inspired by <a href="https://github.com/isaacs/npm-www">isaacs</a>)</p>
+<ul>
+<li><strong>No frameworks</strong> - Everything is done using small, simple, standalone modules that work with vanilla Node.js http servers. Also no test frameworks or control flow library.</li>
+<li><strong>Unceremonious MVC</strong> - No big MVC class heirarchy. Just have the route handler get some data, then hand it off to a template.  Simpler is better.</li>
+<li><strong>Ridiculous speed</strong> - This site should be surprisingly fast.  Towards that end, things are cached and served from memory whenever possible, and ETagged for browser-cacheablility.</li>
+<li><strong>Small Modules</strong> - No single JavaScript file should be more than about 200 lines.  If it is, then that's a sign that it should be split up.</li>
+<li><strong>DRY Dependencies</strong> - If multiple different routes all have to keep doing the same thing, then they should either be the same route, or the repeated bits belong in a dependency.</li>
+<li><strong>No lib folder</strong> - If you would put it in <code>lib/</code>, then it belongs in a separate module.</li>
+</ul>
+<h2>Folders structure</h2>
+<pre><code>server.js               # the starting point of our server
+
+routes/                 # each request will ended up in one of those
+  index.js              # request for '/'
+  static.js             # request for static files
+
+templates/              # server-side templates
+  index.ejs             # homepage - showing list of users
+  contact-partial.ejs   # each contact
+
+config/                 # single entry point for dependencies:
+  development.js        # hostnames, dbs, external api etc
+  prod.js
+  test.js
+
+db/                     # db related stuff
+  db.js                 # access to a real db (just a json file for this example)
+  mock-db.js            # access to mocked db. used for unit tests
+  contacts.json         # our DB
+
+test                    # unit tests with tape
+  client                # client-side tests with the help of browserify
+    saveUser.js
+  server
+    index.js
+
+bin/
+  deploy               # deploy script
+  restart              # post-deploy script
+  restart-dev          # stylus and browserify and restart server on file change
+
+.jshintrc              # jshist options
+deploy.conf            # deployment config file
+</code></pre>
+<h2>Modules being used</h2>
+<ul>
+<li><a href="https://github.com/aaronblohowiak/routes.js">routes</a> - routing</li>
+<li><a href="https://github.com/isaacs/templar">templar</a> - agnostic templating</li>
+<li><a href="https://github.com/visionmedia/ejs">ejs</a> - js templates</li>
+<li><a href="https://github.com/isaacs/st">st</a> - serving static files</li>
+<li><a href="https://github.com/isaacs/error-page">error-page</a> - send error pages</li>
+<li><a href="https://github.com/substack/node-browserify">browserify</a> - to use a node-style require() to organize your browser code</li>
+<li><a href="https://github.com/fgnass/node-dev">node-dev</a> - restart the server on server files change</li>
+<li><a href="https://github.com/substack/tape">tape</a> - browser and server unit tests</li>
+</ul>
+<h3>Alternative Modules</h3>
+<p>(Please let me know of any helpful modules that works with vanilla http server)</p>
+<ul>
+<li><a href="https://github.com/visionmedia/jade">jade</a> instead of ejs</li>
+<li><a href="https://github.com/jesusabdullah/node-ecstatic">ecstatic</a> instead of st</li>
+</ul>
+<h2>Run</h2>
+<pre><code>npm install
+npm run watchify &amp;               # build browserify when a js client-side file changes
+npm start                        # run server.js with node-dev. it will restart the app when a server side file changes
+</code></pre>
+<p>http://localhost:3000</p>
+<h2>Compile stylus to css</h2>
+<p><code>npm run style</code></p>
+<h2>Test</h2>
+<p>I use <a href="https://github.com/substack/tape">tape</a>, substack's minimalist test library. Server and client side code.  I wrote about it <a href="https://github.com/oren/oren.github.com/blob/master/posts/tape/tape.md">here</a> if you havn't heard about it.</p>
+<pre><code>(if your tests are hitting the server you need to run it first)
+npm test                      # use tape binary to run all tests
+</code></pre>
+<p>or</p>
+<pre><code>node test/server/index.js      # run a single test
+</code></pre>
+<h2>Deploy</h2>
+<p>I use <a href="https://github.com/visionmedia/deploy">deploy</a>, a 400 lines bash script written by TJ Holowaychuk. <a href="https://github.com/oren/oren.github.com/blob/master/posts/deploy.md">Here</a> is my quick blog post about it.</p>
+<pre><code>bin/deploy qa         # deploy to qa host
+bin/deploy prod       # deploy to prod host
+</code></pre>
+<h2>Misc</h2>
+<h3>Code Guidelines</h3>
+<ul>
+<li>Node Style Guide - http://nodeguide.com/style.html</li>
+<li>Use Jshint</li>
+<li>Single entry point for dependencies (easy to mock when testing)</li>
+</ul>
+<p>Contributions welcome!</p>
+
+</article>
