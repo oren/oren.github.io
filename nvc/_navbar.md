@@ -1,1 +1,1 @@
-* [Home](https://oren.github.io) > [CookBook](https://oren.github.io/cook)
+* [Home](https://oren.github.io) > [NVC](https://oren.github.io/nvc)
