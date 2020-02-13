@@ -21,8 +21,4 @@ Social:
 * [LinkedIn](https://www.linkedin.com/in/orengolan)
 * [GitHub](https://www.github.com/oren)
 
-Contact:
-
-orengolan@gmail.com
-
-
+Email me: <orengolan@gmail.com>
