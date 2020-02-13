@@ -4,7 +4,7 @@
 * [Visualizing Software Architecture](articles/visualize/)
 * [Build CLI using Rust](articles/rust/)
 * [Build CLI using Crystal](articles/crystal-cli/)
-* [Crystal Programing Language](articles/crystal/)
+* [Crystal Programing Language](crystal)
 * [re:Invent 2018 Videos](articles/reinvent2018/)
 * [AI vs Humans - 人工智能](articles/ai/)
 * [Microservices with Go Micro and NATS](articles/micro/)
