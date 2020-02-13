@@ -1,8 +1,8 @@
 # How to Become a Stronger Surfer
 
-* [Strength Training Program](surf/strength/strength/)
-* [Swim Faster](surf/strength/swim/)
-* [Tips](surf/strength/tips/)
-* [Survival Training](surf/strength/survival-training/)
-* [Wim Hof Breathing](surf/strength/wim/)
+* [Strength Training Program](strength/)
+* [Swim Faster](swim/)
+* [Tips](tips/)
+* [Survival Training](survival-training/)
+* [Wim Hof Breathing](wim/)
 

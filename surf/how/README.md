@@ -1,7 +1,7 @@
 # How to Surf
 
-* [The Basics](surf/how/basics/)
-* [YouTube Channels](surf/how/youtube/)
-* [How to Popup](surf/how/popup/)
-* [Paddling Out](surf/how/paddling-out/)
+* [The Basics](basics/)
+* [YouTube Channels](youtube/)
+* [How to Popup](popup/)
+* [Paddling Out](paddling-out/)
 
