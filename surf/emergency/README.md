@@ -1,5 +1,5 @@
 # Emergency Situations
 
-* [How to Rescue](surf/emergency/rescue/)
-* [How to Perform CPR](surf/emergency/cpr/)
+* [How to Rescue](rescue/)
+* [How to Perform CPR](cpr/)
 

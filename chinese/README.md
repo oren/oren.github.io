@@ -1,5 +1,5 @@
 # Learn Chinese
 
 ## Table of Contents
-* [Songs](chinese/songs/)
-* [Words](chinese/words/)
+* [Songs](songs/)
+* [Words](words/)

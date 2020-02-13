@@ -1,5 +1,5 @@
 # Equipment
 
-* [What Surfboard to choose](surf/equipment/surfboard/)
-* [What to Wear](surf/equipment/wear/)
-* [What to Take When Going Surfing](surf/equipment/take/)
+* [What Surfboard to choose](surfboard/)
+* [What to Wear](wear/)
+* [What to Take When Going Surfing](take/)
