@@ -1,0 +1,75 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="/">Home</a> &gt; <a href="/adoption-programs/">Adpotion Programs</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body">
+<h1>Tutorial 2 - Add the ability to ask for help</h1>
+<p>TODO: This section will be written in Q1 of 2020.</p>
+<h2>What will you learn in this tutorial?</h2>
+<p>In this tutorial you will add a feature to your bot - you will be able to ask the bot for help. Here is what you will be able to do:</p>
+<pre><code>crystal coach.cr --help
+
+I am your coach!
+
+How can I help you today?
+1. Increase my physical strength
+2. Learn to dance Cuban Salsa
+3. Learn to Surf
+4. Learn Chinese
+
+Choose 1-4 and hit enter
+</code></pre>
+<h2>How much time it will take?</h2>
+<p>10 minutes</p>
+<h2>Step 1. Write some code</h2>
+<pre><code>mkdir coach
+cd coach
+crystal init app coach . --skip-existing
+</code></pre>
+<p>open src/coach.cr and add replace line 5 with:</p>
+<pre><code>puts &quot;I am your coach!&quot;
+</code></pre>
+<h2>Step 2. Build the program</h2>
+<pre><code>crystal build src/coach.cr
+</code></pre>
+<h2>Step 3. Run the program</h2>
+<pre><code>./coach
+
+I am your coach!
+</code></pre>
+<p>Congrats! You completed the basic part of the program. You built a simple bot that you can ask for help. This is your graduation party!</p>
+<h2>What is my next step in the program?</h2>
+<p>The advanced part of the program will teach you the following:</p>
+<p>| Name        | Time           |
+| ------------- |:-------------:|
+| <a href="/adoption-programs/adoption-program-1/tutorial-3/">Tutorial 3 - Build an HTTP API for your bot</a> | 20 minutes
+| <a href="/adoption-programs/adoption-program-1/tutorial-4/">Tutorial 4 - Build a Website for your bot</a> | 20 minutes</p>
+
+</article>

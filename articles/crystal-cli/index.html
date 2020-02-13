@@ -1,0 +1,67 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body">
+<h1>Build CLI in Crystal</h1>
+<h2>1. Install Crystal</h2>
+<p>https://crystal-lang.org/install/</p>
+<h2>2. Build a CLI</h2>
+<p>This CLI is a todo list in the terminal. You don't have to build the app from scratch. Instead you will download an existing one and play with it.</p>
+<p>Download the code and build the command line executable:</p>
+<pre><code>git clone https://git.sceptique.eu/Sceptique/todo
+make
+</code></pre>
+<p>Congrats! Now you have an executable file called todo.</p>
+<h2>3.Use the CLI</h2>
+<pre><code>./todo &quot;buy milk&quot;
+./todo &quot;buy eggs&quot; --date 4/13/20
+
+./todo
+=&gt;
+  id |         date | message
+---- | ------------ | --------
+   0 |              | buy milk
+   1 |      4/13/20 | buy eggs
+</code></pre>
+<p>You can also have other lists. Let's say you are building an app and you want to have all the tasks related to that app together:</p>
+<pre><code>./todo &quot;Allow adding a meal&quot; --list nutrition-app
+./todo &quot;Allow uploading food&quot; --list nutrition-app
+./todo --list nutrition-app
+=&gt;
+  id |         date | message
+---- | ------------ | --------------------
+   0 |              | Allow adding a meal
+   1 |              | Allow uploading food
+</code></pre>
+<h2>4. Experiment</h2>
+<p>The code is in src folder. Make small changes just for fun and run <code>make</code> again.</p>
+
+</article>

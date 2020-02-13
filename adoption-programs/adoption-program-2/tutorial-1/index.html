@@ -1,0 +1,66 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="/">Home</a> &gt; <a href="/adoption-programs/">Adpotion Programs</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body">
+<h1>Tutorial 1 - Hello World</h1>
+<p>This 10 minutes tutorial you will build a program that prints 問天地好在 3 times.</p>
+<h3>Step 1. Install the wenyan programming language (文言)</h3>
+<pre><code>npm install -g @wenyanlang/cli
+</code></pre>
+<p>Note: You need to have npm install on your laptop</p>
+<h3>Step 2. Create the wenyan program</h3>
+<p>Create new file: hello.wy with the following content:</p>
+<pre><code>吾有一數。曰三。名之曰「甲」。
+	吾有一言。曰「「問天地好在。」」。書之。
+云云。
+</code></pre>
+<p>Run this command to run it:</p>
+<pre><code>wenyan hello.wy
+
+問天地好在。
+問天地好在。
+問天地好在。
+</code></pre>
+<h3>Step 3. Create the Ruby program</h3>
+<pre><code>wenyan -c hello.wy --lang=rb -o hello.rb
+ruby hello.rb
+
+問天地好在。
+問天地好在。
+問天地好在。
+</code></pre>
+<p>Congrats! You build a command line application in Ruby. Move to Tutorial 2</p>
+<h2>Tutorial 2 - Syntax</h2>
+<p>TODO: This section is a work in progress. I don't have ETA for completion.</p>
+<h2>What is my next step in the program?</h2>
+<p>Continue to <a href="/adoption-programs/adoption-program-2/tutorial-2/">Tutorial 2 - syntex</a></p>
+
+</article>
