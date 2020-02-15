@@ -29,8 +29,8 @@
 * [Level DB](leveldb/)
 * [Zalgo](zalgo/)
 * [Modern Javascript](modern-js/)
-* [Culture Bot](/culture-bot/)
-* [Javascript Workshop](/js-workshop/)
+* [Culture Bot](culture-bot/)
+* [Javascript Workshop](js-workshop/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
