@@ -53,12 +53,13 @@ Run: `crystal run hello.cr` and open the browser at http://127.0.0.1:8080
 You should see: `Hello world! The time is 2019-12-26 14:35:35 -08:00`
 
 # 3. Links
-* [Reference](https://crystal-lang.org/reference)
+* [Language Reference](https://crystal-lang.org/reference)
 * [Standard Library Documentaion](https://crystal-lang.org/api)
-* [Blog](https://crystal-lang.org/blog/)
-* [Forum](https://forum.crystal-lang.org)
+* [Reddit Forum](https://www.reddit.com/r/crystal_programming)
+* [Official Forum](https://forum.crystal-lang.org)
 * [Chatroom](https://gitter.im/crystal-lang/crystal)
-* [Twitter](https://twitter.com/CrystalLanguage)
-* [Reddit](https://www.reddit.com/r/crystal_programming)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/crystal-lang?sort=newest)
+* [Shards Repository](https://crystalshards.xyz)
+* [Blog](https://crystal-lang.org/blog/)
+* [Twitter](https://twitter.com/CrystalLanguage)
 * [Weekly email about Crystal (not official)](http://crystalweekly.com)
