@@ -42,6 +42,6 @@ Sample strings:
 * [Panarchy](http://www.liberatingstructures.com/32-panarchy/)
 
 ## 5. LS Meetup
-* [Notes](notes)
+* [Notes](notes/)
 
 TODO: complete this page
