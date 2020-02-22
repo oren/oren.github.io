@@ -41,4 +41,7 @@ Sample strings:
 * [Ecocycle](http://www.liberatingstructures.com/31-ecocycle-planning/)
 * [Panarchy](http://www.liberatingstructures.com/32-panarchy/)
 
+## 5. LS Meetup
+* [Notes](notes)
+
 TODO: complete this page
