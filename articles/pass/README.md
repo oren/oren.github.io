@@ -1,0 +1,61 @@
+# pass - Password Manager
+
+## 1. What is it
+A tool to manage your passwords. Available on your laptop and phone. [Website](https://www.passwordstore.org/).
+
+## 2. Why should you care
+Using insecure passwords or the same password is the most common privacy risk and one of the easiest to solve.
+
+## 3. Getting Started
+First you'll learn how to use a tool called GPG that is needed by pass.
+First you'll have to setup something called GPG, than install the pass tool and learn how to use it.
+
+### 3.1 Setting up GPG
+Generate a gpg key
+```
+gpg2 --full-gen-key
+```
+
+Enter your name, email, and no comment. Enter 4096 for the keysize. Wait a few minutes to the key to get created.
+Test the creation of the key with `gpg -k`.
+
+### 3.2 Setting up pass
+Install pass - look at the download section of [pass's website](https://www.passwordstore.org/).
+
+Setup pass. Replace your-email@gmail.com with the email you used with your gpg key.
+```
+pass init your-email@gmail.com
+```
+
+### 3.3 Using pass
+Create a password for your gmail: (the 10 is the number of characters you want your password to have)
+```
+pass generate gmail 10
+```
+
+View all passwords:
+```
+pass
+```
+
+You should see something like this:
+```
+Password Store
+└── gmail
+```
+
+### 3.4 Other useful commands
+List secret keys
+```
+gpg -k
+```
+
+Delete a private key
+```
+gpg --delete-secret-key "User Name"
+```
+
+Delete a public key
+```
+gpg --delete-key "User Name"
+```
