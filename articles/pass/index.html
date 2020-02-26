@@ -1,0 +1,98 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+		font-size: 16px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body">
+<h1>pass - Password Manager</h1>
+<h2>1. What is it</h2>
+<p>A tool to manage your passwords. Available on your laptop and phone. <a href="https://www.passwordstore.org/">Website</a>.</p>
+<h2>2. Why should you care</h2>
+<p>Using insecure passwords or the same password is the most common privacy risk and one of the easiest to solve.</p>
+<h2>3. Getting Started</h2>
+<p>First you'll learn how to use a tool called GPG that is needed by pass.
+First you'll have to setup something called GPG, than install the pass tool and learn how to use it.</p>
+<h3>3.1 Setting up GPG</h3>
+<p>Generate a gpg key</p>
+<pre><code>gpg2 --full-gen-key
+</code></pre>
+<p>Enter your name, email, and no comment. Enter 4096 for the keysize. Wait a few minutes to the key to get created.
+Test the creation of the key with <code>gpg -k</code>.</p>
+<h3>3.2 Setting up pass</h3>
+<p>Install pass - look at the download section of <a href="https://www.passwordstore.org/">pass's website</a>.</p>
+<p>Setup pass. Replace your-email@gmail.com with the email you used with your gpg key.</p>
+<pre><code>pass init your-email@gmail.com
+</code></pre>
+<h3>3.3 Using pass</h3>
+<p>Create a password for your gmail: (the 10 is the number of characters you want your password to have)</p>
+<pre><code>pass generate gmail 10
+</code></pre>
+<p>View all passwords:</p>
+<pre><code>pass
+</code></pre>
+<p>You should see something like this:</p>
+<pre><code>Password Store
+└── gmail
+</code></pre>
+<h3>3.4 Other useful commands</h3>
+<p>List secret keys</p>
+<pre><code>gpg -k
+</code></pre>
+<p>Delete a private key</p>
+<pre><code>gpg --delete-secret-key &quot;User Name&quot;
+</code></pre>
+<p>Delete a public key</p>
+<pre><code>gpg --delete-key &quot;User Name&quot;
+</code></pre>
+
+</article>

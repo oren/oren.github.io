@@ -45,6 +45,7 @@
 
 ## 3. Tools
 * [Text-based Gmail](text-based-gmail/)
+* [pass - Password Manager](pass/)
 
 ## 4. Front-end Technology
 * [Svelte](svelte/)
