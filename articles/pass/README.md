@@ -33,7 +33,22 @@ Create a password for your gmail: (the 10 is the number of characters you want y
 pass generate gmail 10
 ```
 
-View all passwords:
+Create a password inside a folder called banks
+```
+pass generate banks/wells-fargo 12
+```
+
+View the gmail password
+```
+pass gmail
+```
+
+Delete the gmail password
+```
+pass rm gmail
+```
+
+View all entries:
 ```
 pass
 ```
@@ -42,6 +57,11 @@ You should see something like this:
 ```
 Password Store
 └── gmail
+```
+
+Backup the pass data folder
+```
+cp -r ~/.password-store password-store
 ```
 
 ### 3.4 Other useful commands
@@ -58,4 +78,17 @@ gpg --delete-secret-key "User Name"
 Delete a public key
 ```
 gpg --delete-key "User Name"
+```
+
+Backup the gpg keys
+```
+gpg2 --export-secret-keys > secret.gpg
+```
+
+Restore the gpg keys
+```
+gpg2 --import secret.gpg
+gpg --edit-key <KEY_ID>
+gpg>trust
+enter '5'
 ```
