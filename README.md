@@ -1,9 +1,15 @@
 # Oren's Website
 
+## 1. Writing and Speaking
 * [Articles](articles/)
 * [Talks](talks/)
+* [AWS Cookbook](aws-cookbook/)
+
+## 2. Leadership
 * [Nonviolent Communication](nvc/)
 * [Liberating Structures](/liberating-structures/)
+
+## 3. Fun
 * [Surf](surf/)
 * [Train](train/)
 * [Cook](cook/)
@@ -11,12 +17,14 @@
 * [Swim](swim/)
 * [Chinese](chinese/)
 * [Operating Manual](operating-manual/)
-* [Food](https://oren.github.io/food/)
 
-Social:
+## 4. Apps
+* [Food](https://oren.github.io/food/) (in progress)
 
-* [Twitter](https://www.twitter.com/oreng)
-* [LinkedIn](https://www.linkedin.com/in/orengolan)
+## 5. Social
+
 * [GitHub](https://www.github.com/oren)
+* [LinkedIn](https://www.linkedin.com/in/orengolan)
+* [Twitter](https://www.twitter.com/oreng)
 
 Email me: <orengolan@gmail.com>
