@@ -77,12 +77,24 @@ Test the creation of the key with <code>gpg -k</code>.</p>
 <p>Create a password for your gmail: (the 10 is the number of characters you want your password to have)</p>
 <pre><code>pass generate gmail 10
 </code></pre>
-<p>View all passwords:</p>
+<p>Create a password inside a folder called banks</p>
+<pre><code>pass generate banks/wells-fargo 12
+</code></pre>
+<p>View the gmail password</p>
+<pre><code>pass gmail
+</code></pre>
+<p>Delete the gmail password</p>
+<pre><code>pass rm gmail
+</code></pre>
+<p>View all entries:</p>
 <pre><code>pass
 </code></pre>
 <p>You should see something like this:</p>
 <pre><code>Password Store
 └── gmail
+</code></pre>
+<p>Backup the pass data folder</p>
+<pre><code>cp -r ~/.password-store password-store
 </code></pre>
 <h3>3.4 Other useful commands</h3>
 <p>List secret keys</p>
@@ -93,6 +105,15 @@ Test the creation of the key with <code>gpg -k</code>.</p>
 </code></pre>
 <p>Delete a public key</p>
 <pre><code>gpg --delete-key &quot;User Name&quot;
+</code></pre>
+<p>Backup the gpg keys</p>
+<pre><code>gpg2 --export-secret-keys &gt; secret.gpg
+</code></pre>
+<p>Restore the gpg keys</p>
+<pre><code>gpg2 --import secret.gpg
+gpg --edit-key &lt;KEY_ID&gt;
+gpg&gt;trust
+enter '5'
 </code></pre>
 
 </article>

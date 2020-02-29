@@ -5,6 +5,7 @@
 * [Build CLI using Rust](rust/)
 * [Build CLI using Crystal](crystal-cli/)
 * [Crystal Programing Language](crystal)
+* [Build HTTP Web Service on AWS](web-service/)
 * [re:Invent 2018 Videos](reinvent2018/)
 * [AI vs Humans - 人工智能](ai/)
 * [Microservices with Go Micro and NATS](micro/)
