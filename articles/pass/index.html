@@ -115,5 +115,13 @@ gpg --edit-key &lt;KEY_ID&gt;
 gpg&gt;trust
 enter '5'
 </code></pre>
+<p>Git</p>
+<pre><code>sudo apt-get install openssh-client openssh-server
+git init --bare pass-repo
+pass git init
+pass git remote add origin ssh://oren@localhost:/home/oren/pass-repo
+pass git push origin master
+pass git pull origin master
+</code></pre>
 
 </article>
