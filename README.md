@@ -13,7 +13,6 @@
 * [Operating Manual](operating-manual/)
 * [Food](https://oren.github.io/food/)
 
-
 Social:
 
 * [Twitter](https://www.twitter.com/oreng)
