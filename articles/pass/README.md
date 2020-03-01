@@ -27,7 +27,16 @@ Setup pass. Replace your-email@gmail.com with the email you used with your gpg k
 pass init your-email@gmail.com
 ```
 
-### 3.3 Using pass
+### 3.3 Setting up Git
+```
+sudo apt-get install openssh-client openssh-server
+git init --bare ~/pass-repo
+pass git init
+pass git remote add origin ssh://oren@localhost:/home/oren/pass-repo
+pass git push origin master
+```
+
+### 3.4 Using pass
 Create a password for your gmail: (the 10 is the number of characters you want your password to have)
 ```
 pass generate gmail 10
@@ -64,7 +73,7 @@ Backup the pass data folder
 cp -r ~/.password-store password-store
 ```
 
-### 3.4 Other useful commands
+### 3.5 Other useful commands
 List secret keys
 ```
 gpg -k
