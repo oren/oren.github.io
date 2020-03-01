@@ -55,6 +55,7 @@ You should see: `Hello world! The time is 2019-12-26 14:35:35 -08:00`
 # 3. Links
 * [Language Reference](https://crystal-lang.org/reference)
 * [Standard Library Documentaion](https://crystal-lang.org/api)
+* [All the syntax in a single webpage](https://learnxinyminutes.com/docs/crystal/)
 * [Reddit Forum](https://www.reddit.com/r/crystal_programming)
 * [Official Forum](https://forum.crystal-lang.org)
 * [Chatroom](https://gitter.im/crystal-lang/crystal)
