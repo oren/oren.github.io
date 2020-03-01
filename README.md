@@ -19,7 +19,7 @@
 * [Operating Manual](operating-manual/)
 
 ## 4. Apps
-* [Food](https://oren.github.io/food/) (in progress)
+* [Food](https://oren.github.io/food/) (work in progress)
 
 ## 5. Social
 
