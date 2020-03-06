@@ -7,7 +7,8 @@
 
 ## 2. Leadership
 * [Nonviolent Communication](nvc/)
-* [Liberating Structures](/liberating-structures/)
+* [Liberating Structures](liberating-structures/)
+* [Better Decision Making](decision-making/)
 
 ## 3. Fun
 * [Surf](surf/)
