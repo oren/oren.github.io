@@ -3,14 +3,8 @@
 ## 1. Writing and Speaking
 * [Articles](articles/)
 * [Talks](talks/)
-* [AWS Cookbook](aws-cookbook/)
 
-## 2. Leadership
-* [Nonviolent Communication](nvc/)
-* [Liberating Structures](liberating-structures/)
-* [Better Decision Making](decision-making/)
-
-## 3. Fun
+## 2. Fun
 * [Surf](surf/)
 * [Train](train/)
 * [Cook](cook/)
@@ -19,10 +13,10 @@
 * [Chinese](chinese/)
 * [Operating Manual](operating-manual/)
 
-## 4. Apps
+## 3. Apps
 * [Food](https://oren.github.io/food/) (work in progress)
 
-## 5. Social
+## 4. Social
 
 * [GitHub](https://www.github.com/oren)
 * [LinkedIn](https://www.linkedin.com/in/orengolan)
