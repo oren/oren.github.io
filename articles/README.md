@@ -4,9 +4,12 @@
 * [Execution Strategy](execution/)
 * [Nonviolent Communication](nvc/)
 * [Spontaneous Speaking](spontaneous-speaking/)
-* [Liberating Structures](liberating-structures/)
+
+Work in Progress:
+
 * [Better Decision Making](decision-making/)
-* [Measure your life](measure-your-life/) (work in progress)
+* [Liberating Structures](liberating-structures/)
+* [Measure your life](measure-your-life/)
 
 ## Relationships and Communication
 * [Empathy](empathy/)
