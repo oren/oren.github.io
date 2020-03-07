@@ -1,5 +1,7 @@
 # Measure your life
 
+This article is in work in progress state. I need to think about a clear way to explain it.
+
 ## 1. The Problem
 How to ensure happiness, strong relationships, and stay out of jail?
 
