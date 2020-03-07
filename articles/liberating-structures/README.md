@@ -1,4 +1,5 @@
 # Liberating Structures
+This article is in work in progress state. I need to think about a clear way to explain it.
 
 ## 1. What is it?
 Mechanism to increase productivity and innovation: find your goal, than create the meeting format that ensure that the team executes towards this goal.
