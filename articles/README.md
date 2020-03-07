@@ -51,6 +51,9 @@ Work in Progress:
 ## Go
 * [Go on App Engine](appengine/)
 
+## Front-end Technology
+* [Svelte](svelte/)
+
 ## Javascript/Node.js
 * [Javascript Best Practices](js-best-practices/)
 * [Javascript Cheatsheet](js-cheatsheet/)
@@ -59,9 +62,10 @@ Work in Progress:
 * [Getting started with Titan Database and Node.js](titan/)
 * [Javascript Workshop](js-workshop/)
 
+## Algorithms
+* [Interviews](interviews/)
+
 ## Tools
 * [Text-based Gmail](text-based-gmail/)
 * [pass - Password Manager](pass/)
 
-## Front-end Technology
-* [Svelte](svelte/)
