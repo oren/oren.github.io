@@ -1,1 +1,1 @@
-* [Home](https://oren.github.io) > [AWS Cookbok](https://oren.github.io/aws-cookbook)
+* [Home](https://oren.github.io) > [Articles](https://oren.github.io/articles) > [AWS Cookbok](https://oren.github.io/articles/aws-cookbook)
