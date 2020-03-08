@@ -1,1 +1,1 @@
-* [Home](https://oren.github.io) > [NVC](https://oren.github.io/nvc)
+* [Home](https://oren.github.io) > [Articles](https://oren.github.io/articles) > [NVC](https://oren.github.io/articles/nvc)
