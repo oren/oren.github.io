@@ -1,7 +1,7 @@
 [//]: # (toc, numbers)
 # Articles
 
-## Leadership
+## 1. Leadership
 * [Execution Strategy](execution/)
 * [Nonviolent Communication](nvc/)
 * [Spontaneous Speaking](spontaneous-speaking/)
@@ -12,7 +12,7 @@ Work in Progress:
 * [Liberating Structures](liberating-structures/)
 * [Measure your life](measure-your-life/)
 
-## Relationships and Communication
+## 2. Relationships and Communication
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
@@ -20,7 +20,7 @@ Work in Progress:
 * [Gratitude](gratitude/)
 * [Documentation](documentation/)
 
-## Technology
+## 3. Technology
 * [AWS Cookbook](aws-cookbook/)
 * [Visualizing Software Architecture](visualize/)
 * [re:Invent 2018 Videos](reinvent2018/)
@@ -42,20 +42,20 @@ Work in Progress:
 * [Culture Bot](culture-bot/)
 * [Modular Website](modular/)
 
-## Crystal Programming Language
+## 4. Crystal Programming Language
 * [Build CLI using Crystal](crystal-cli/)
 * [Crystal Programing Language](crystal)
 
-## Rust
+## 5. Rust
 * [Build CLI using Rust](rust/)
 
-## Go
+## 6. Go
 * [Go on App Engine](appengine/)
 
-## Front-end Technology
+## 7. Front-end Technology
 * [Svelte](svelte/)
 
-## Javascript/Node.js
+## 8. Javascript/Node.js
 * [Javascript Best Practices](js-best-practices/)
 * [Javascript Cheatsheet](js-cheatsheet/)
 * [Promises Basics](promises/)
@@ -63,10 +63,10 @@ Work in Progress:
 * [Getting started with Titan Database and Node.js](titan/)
 * [Javascript Workshop](js-workshop/)
 
-## Algorithms
+## 9. Algorithms
 * [Interviews](interviews/)
 
-## Tools
+## 10. Tools
 * [Text-based Gmail](text-based-gmail/)
 * [pass - Password Manager](pass/)
 
