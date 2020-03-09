@@ -70,3 +70,5 @@ Work in Progress:
 * [Text-based Gmail](text-based-gmail/)
 * [pass - Password Manager](pass/)
 
+## 11. Misc
+* [Regex](regex/)
