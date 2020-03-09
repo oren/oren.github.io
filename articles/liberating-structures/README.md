@@ -1,3 +1,5 @@
+<!-- numbers -->
+
 # Liberating Structures
 This article is in work in progress state. I need to think about a clear way to explain it.
 
@@ -44,5 +46,6 @@ Sample strings:
 
 ## 5. LS Meetup
 * [Notes](notes/)
+* [Notes2](notes2/)
 
 TODO: complete this page
