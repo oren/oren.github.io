@@ -1,4 +1,5 @@
-[//]: # (toc, numbers)
+<!-- numbers -->
+
 # Articles
 
 ## 1. Leadership
