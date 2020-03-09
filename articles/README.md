@@ -2,8 +2,8 @@
 # Articles
 
 ## 1. Leadership
-* [Execution Strategy](execution/)
 * [Nonviolent Communication](nvc/)
+* [Execution Strategy](execution/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 
 Work in Progress:
