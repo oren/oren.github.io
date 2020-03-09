@@ -3,7 +3,7 @@
 # Liberating Structures
 This article is in work in progress state. I need to think about a clear way to explain it.
 
-## 1. LS Meetup
+## 1. Notes
 * [Notes](notes/)
 * [Notes2](notes2/)
 * [Notes3](notes3/)
