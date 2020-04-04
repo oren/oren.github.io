@@ -47,24 +47,21 @@
 
 <div class="header">
 	<ul>
-<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a>&gt; <a href="https://oren.github.io/articles/pass">pass</a></li>
 </ul>
 
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
 	<!-- numbers -->
-<h1>pass - Password Manager</h1>
-<h2>1. What is it?</h2>
-<p>A tool to manage your passwords. It's available on your laptop and your phone. Here is the <a href="https://www.passwordstore.org/">official website</a>.</p>
-<h2>2. Why you should care?</h2>
-<p>Using insecure passwords or the same password is the most common privacy risk. A Password manager is one of the best ways to mitigate that risk.</p>
-<h2>3. How to set it up</h2>
-<p>The tutorial is for Ubuntu (or Windows with WSL) and Android. pass works on Mac and iOS so you'll be able to find the instructions online.</p>
-<ol>
-<li><a href="install/">Install pass for your laptop and Android</a></li>
-<li><a href="laptop/">Setup pass on your laptop</a></li>
-<li><a href="android/">Setup pass on your Android</a></li>
-</ol>
+<h1>Setup your pass on your laptop</h1>
+<h2>1. Generate a gpg key</h2>
+<pre><code>gpg2 --full-gen-key
+</code></pre>
+<p>Explanation: the pass application uses gpg keys to encrypt your passwords</p>
+<h2>2.  Initialize pass</h2>
+<pre><code>pass init my-email@gmail.com
+</code></pre>
+<p>Explanation: the <code>init</code> command creates the folder where your passwords will be encrypted and stored - <code>~/.password-store</code></p>
 
 </article>
