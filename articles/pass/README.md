@@ -1,13 +1,12 @@
 # pass - Password Manager
 
-## 1. What is it
+## What is it
 A tool to manage your passwords. Available on your laptop and phone. [Website](https://www.passwordstore.org/).
 
-## 2. Why should you care
+## Why should you care
 Using insecure passwords or the same password is the most common privacy risk and one of the easiest to solve.
 
-## 3. Getting Started
-First you'll learn how to use a tool called GPG that is needed by pass.
+## Getting Started
 First you'll have to setup something called GPG, than install the pass tool and learn how to use it.
 
 ### 3.1 Setting up GPG
