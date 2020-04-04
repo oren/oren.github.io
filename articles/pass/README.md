@@ -14,3 +14,11 @@ The tutorial is for Ubuntu (or Windows with WSL) and Android. pass works on Mac 
 1. [Install pass for your laptop and Android](install/)
 2. [Setup pass on your laptop](laptop/)
 3. [Setup pass on your Android](android/)
+
+## 4. How to use it
+1. [How to use it on your laptop](use-on-laptop/)
+2. [How to use it on your phone](use-on-phone/)
+2. [How to backup everything](backup/)
+
+## 5. Useful Commands
+* [Useful Commands](commands/)
