@@ -30,13 +30,13 @@ Explanation: adding the public ssh key to the authorized_keys file will allow yo
 * Connect a USB cable from your phone to your laptop
 * Pick 'Transfer files' on the phone
 
-## 5. Copy the SSH key to your phone
+## 5. Copy the private SSH key to your phone
 ```
 sudo apt-get install android-tools-adb
 adb push pass_store /sdcard/
 adb shell chmod 644 /sdcard/pass_store
 ```
-Explanation: you copied the private SSH key to your phone. /sdcard/ on Android is a symlink to internal storage so you can push to it without needing to poke into /mnt
+Explanation: `adb push` copy the private SSH key to your phone. /sdcard/ on Android is a symlink to internal storage so you can push to it without needing to poke into /mnt
 
 ## 6. Use the SSH key in the Password Store app
 * Open the Password Store app on your phone
