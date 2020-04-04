@@ -1,0 +1,85 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a>&gt; <a href="https://oren.github.io/articles/pass">pass</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<h1>How to use pass on your laptop</h1>
+<h2>Genegate a password</h2>
+<p>Create a password for your gmail: (the 10 is the number of characters you want your password to have)</p>
+<pre><code>pass generate gmail 10
+</code></pre>
+<h2>Genegate a password inside a folder</h2>
+<p>Create a password inside a folder called banks</p>
+<pre><code>pass generate banks/wells-fargo 12
+</code></pre>
+<h2>View a password</h2>
+<p>View the gmail password</p>
+<pre><code>pass gmail
+</code></pre>
+<p>You will be asked for your password. type it and you should see your gmail's password in the terminal:</p>
+<pre><code>t61\A3'L2;
+</code></pre>
+<h2>View names of all passwords</h2>
+<p>View all entries:</p>
+<pre><code>pass
+</code></pre>
+<p>You should see something like this:</p>
+<pre><code>Password Store
+└── gmail
+</code></pre>
+<h2>Delete a password</h2>
+<p>Delete the gmail password</p>
+<pre><code>pass rm gmail
+</code></pre>
+
+</article>

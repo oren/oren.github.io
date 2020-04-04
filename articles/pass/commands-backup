@@ -1,7 +1,3 @@
-## Install pass
-* [Download and install on your laptop](https://www.passwordstore.org)
-* [Download for your Android](https://play.google.com/store/apps/details?id=dev.msfjarvis.aps)
-
 ## Generate a gpg key
 ```
 gpg2 --full-gen-key
@@ -83,7 +79,7 @@ An error occured during a Git operation.
 Error occured during the pull operation, Message from jgit: Could not read an object while parsing commit xxx.
 Caused by: org.eclipse.jgit.errors.MissingObjectException: Missing unknown xxx
 Please check the FAQ for possible reasons why this error might occur.
-```
+`g ``
 
 Note: xxx is the last commit in ~/pass-repo
 
