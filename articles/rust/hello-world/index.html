@@ -46,17 +46,38 @@
 </style>
 
 <div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-
+	
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Rust</h1>
-<ul>
-<li><a href="hello-world/">Hello World Rust</a></li>
-<li><a href="cli/">Build CLI using Rust</a></li>
-</ul>
+	<h1>Hello World Rust</h1>
+<p>Create new Rust project using Cargo</p>
+<pre><code>cargo new hello_world --bin
+cd hello_world
+cargo run
+
+=&gt; Hello, world!
+</code></pre>
+<p>Notice the 3 files that <code>cargo new</code> command created:</p>
+<pre><code>tree
+
+=&gt;
+.
+├── Cargo.lock
+├── Cargo.toml
+└── src
+    └── main.rs
+
+1 directory, 3 files
+</code></pre>
+<p>You can also compile your code into an executable:</p>
+<pre><code>cargo build
+./target/debug/hello_world
+
+=&gt; Hello, world!
+</code></pre>
+<h2>Explanation</h2>
+<p>Cargo is a tool that Rustaceans use to help manage their Rust projects.
+Cargo manages three things: building your code, downloading the dependencies your code needs, and building those dependencies. This program doesn’t have any dependencies, so we’ll only be using the first part of its functionality - compiling your code.</p>
 
 </article>
