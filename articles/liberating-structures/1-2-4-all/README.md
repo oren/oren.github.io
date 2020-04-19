@@ -21,9 +21,11 @@ You can immediately include everyone regardless of how large the group is. You c
 
 ## 4. How?
 **Before the session:**
+
 Come up with a question that the group should answer. It depends on the context. Examples: "What do you want to ask the speaker?", "What opportunities do YOU see for making progress on this challenge?", "What ideas or actions do you recommend?"
 
 **At the session:**
+
 * Individially - write the question on a card or paper. For example: "What do you want to ask the speaker?"
 * In pairs - Generate ideas in pairs, building on ideas from the previous step. 2 min.
 * In foursomes - Share and develop ideas from your pair in foursomes (notice similarities and differences). 4 min.
