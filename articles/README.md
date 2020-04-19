@@ -4,13 +4,13 @@
 
 ## 1. Leadership
 * [Nonviolent Communication](nvc/)
+* [Liberating Structures](liberating-structures/)
 * [Execution Strategy](execution/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 
 Work in Progress:
 
 * [Better Decision Making](decision-making/)
-* [Liberating Structures](liberating-structures/)
 * [Measure your life](measure-your-life/)
 
 ## 2. Relationships and Communication
