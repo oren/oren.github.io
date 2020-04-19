@@ -21,11 +21,13 @@ You can enable a large group of people to connect with a leader or an expert (th
 
 ## 4. How?
 **Before the session:**
+
 * Find an individual (the expert) that has something useful to share with the team.
 * Prepare a few questions to ask them. You can also ask some team members "What is the most important thing you want to know about this person or the work ahead?"
 * Do a dry run with the expert. You can use any interview style you want - fireside chat, Oprah, Stephen Colbert, etc.
 
 **At the session:**
+
 * Introduce the expert and topic to be discussed. 1 min
 * Ask questions. 10 min
 * Audience generates more questions on cards in a [1-2-4 conversation](../1-2-4-all/). 5-10 min
