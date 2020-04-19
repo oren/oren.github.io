@@ -28,8 +28,9 @@ You can enable a large group of people to connect with a leader or an expert (th
 **At the session:**
 * Introduce the expert and topic to be discussed. 1 min
 * Ask questions. 10 min
-* Audience generates more questions on cards in a 1-2-4 conversation. 5-10 min
+* Audience generates more questions on cards in a [1-2-4 conversation](../1-2-3-all/). 5-10 min
 * Collect cards, look for patterns, and ask the expert more questions. 5-10 min
 * Make closing coments, thank the expert
 
+## 5. Learn more
 [http://www.liberatingstructures.com/22-celebrity-interview/](http://www.liberatingstructures.com/22-celebrity-interview/)
