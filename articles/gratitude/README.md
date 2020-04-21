@@ -1,7 +1,7 @@
 # Gratitude
 
 ## 1. What is this page?
-Gratitede is a Mechanism to increase your satisfaction and happiness. It's a summary of a [10 min video](https://www.youtube.com/watch?v=WPPPFqsECz0).
+Gratitede is a Mechanism to increase your satisfaction and happiness. This page is a summary of a [10 min video](https://www.youtube.com/watch?v=WPPPFqsECz0).
 
 ## 2. Details of the mechanism
 1. **What is gratitude?** character trait, feeling, virtue, and a behavior.
