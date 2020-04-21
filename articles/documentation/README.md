@@ -1,15 +1,17 @@
+<!-- numbers -->
+
 # Documentation
 
 There are 4 types of documentation:
 
-## Tutorials
+## 1. Tutorials
 * is learning-oriented
 * allows the newcomer to get started
 * is a lesson
 
 Analogy: teaching a small child how to cook
 
-## How-to Guides
+## 2. How-to Guides
 
 * is goal-oriented
 * shows how to solve a specific problem
@@ -17,7 +19,7 @@ Analogy: teaching a small child how to cook
 
 Analogy: a recipe in a cookery book
 
-## Explanation
+## 3. Explanation
 
 * is understanding-oriented
 * explains
@@ -25,7 +27,7 @@ Analogy: a recipe in a cookery book
 
 Analogy: an article on culinary social history
 
-## Reference
+## 4. Reference
 
 * is information-oriented
 * describes the machinery
