@@ -1,4 +1,4 @@
 # Rust Programming Language
 
-* [Hello World Rust](hello-world/)
-* [Build CLI using Rust](cli/)
+* [Hello World](hello-world/)
+* [Build a CLI](cli/)
