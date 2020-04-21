@@ -42,10 +42,10 @@ Work in Progress:
 * [Modular Website](modular/)
 
 ## 4. Programing Languages
-* [Crysta](crystal/)
+* [Crystal](crystal/)
 * [Rust](rust/)
-* [Go on App Engine](appengine/)
 * [Javascript/Node.js](javascript-node/)
+* [Go on App Engine](appengine/)
 
 ## 5. Front-end Technology
 * [Svelte](svelte/)
