@@ -38,7 +38,6 @@ Work in Progress:
 * [NodeConf](nodeconf/)
 * [Configure your servers with Ansible](ansible/)
 * [Level DB](leveldb/)
-* [Culture Bot](culture-bot/)
 * [Modular Website](modular/)
 
 ## 4. Programing Languages
