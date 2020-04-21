@@ -43,20 +43,31 @@ Work in Progress:
 * [Culture Bot](culture-bot/)
 * [Modular Website](modular/)
 
-## 4. Crystal Programming Language
+## 4. Programing Languages
+
+* [Crysta](crystal/)
+* [Rust](rust/)
+* [Go on App Engine](appengine/)
+* [Javascript/Node.js](javascript-node/)
+
+## 5. Front-end Technology
+* [Svelte](svelte/)
+
+## 6. Algorithms
+* [Interviews](interviews/)
+
+## 7. Tools
+* [Text-based Gmail](text-based-gmail/)
+* [pass - Password Manager](pass/)
+
+## 8. Misc
+* [Regex](regex/)
+
+## 9. Crystal Programming Language
 * [Build CLI using Crystal](crystal-cli/)
 * [Crystal Programing Language](crystal)
 
-## 5. Rust
-* [Build CLI using Rust](rust/)
-
-## 6. Go
-* [Go on App Engine](appengine/)
-
-## 7. Front-end Technology
-* [Svelte](svelte/)
-
-## 8. Javascript/Node.js
+## 10. Javascript/Node.js
 * [Javascript Best Practices](js-best-practices/)
 * [Javascript Cheatsheet](js-cheatsheet/)
 * [Promises Basics](promises/)
@@ -64,12 +75,3 @@ Work in Progress:
 * [Getting started with Titan Database and Node.js](titan/)
 * [Javascript Workshop](js-workshop/)
 
-## 9. Algorithms
-* [Interviews](interviews/)
-
-## 10. Tools
-* [Text-based Gmail](text-based-gmail/)
-* [pass - Password Manager](pass/)
-
-## 11. Misc
-* [Regex](regex/)
