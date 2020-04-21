@@ -38,13 +38,10 @@ Work in Progress:
 * [NodeConf](nodeconf/)
 * [Configure your servers with Ansible](ansible/)
 * [Level DB](leveldb/)
-* [Zalgo](zalgo/)
-* [Modern Javascript](modern-js/)
 * [Culture Bot](culture-bot/)
 * [Modular Website](modular/)
 
 ## 4. Programing Languages
-
 * [Crysta](crystal/)
 * [Rust](rust/)
 * [Go on App Engine](appengine/)
