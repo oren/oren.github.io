@@ -62,16 +62,3 @@ Work in Progress:
 
 ## 8. Misc
 * [Regex](regex/)
-
-## 9. Crystal Programming Language
-* [Build CLI using Crystal](crystal-cli/)
-* [Crystal Programing Language](crystal)
-
-## 10. Javascript/Node.js
-* [Javascript Best Practices](js-best-practices/)
-* [Javascript Cheatsheet](js-cheatsheet/)
-* [Promises Basics](promises/)
-* [A Template for Node.js Website/Webservice](node-template/)
-* [Getting started with Titan Database and Node.js](titan/)
-* [Javascript Workshop](js-workshop/)
-
