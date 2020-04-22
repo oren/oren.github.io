@@ -1,0 +1,78 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/javascript-node">Javascript/Node.js</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<h1>Modern Javascript</h1>
+<p>I am using the Neovim to write code. This page is documents best practices of using it with Javascript.</p>
+<h2>1. Prettier</h2>
+<p>This is tool formats the JavaScript code based on whatever rules you want. To use it you also want to use a Neovim plugin called ALE.</p>
+<h3>Install</h3>
+<pre><code>npm install -g prettier
+</code></pre>
+<p>Add to your <code>~/.config/nvim/init.vim</code>:</p>
+<pre><code>Plug 'w0rp/ale'
+</code></pre>
+<p>Also add the following:</p>
+<pre><code>&quot; ALE Plugin
+let g:ale_linters_explicit = 1
+let g:ale_javascript_prettier_options = '--single-quote --no-semi'
+let g:ale_fixers = { 'javascript': ['prettier'], 'css': ['prettier'], }
+let g:ale_linters = { 'javascript': ['eslint'], }
+&quot; let g:ale_fix_on_save = 1 &quot;run it on save
+</code></pre>
+<p>Save the init.vim</p>
+<h3>How to use it</h3>
+<p>Open a JavaScript file and type <code>:ALEFix</code>. Your file should be fixed based on your settings</p>
+
+</article>

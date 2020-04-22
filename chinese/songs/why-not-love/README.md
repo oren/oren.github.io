@@ -1,0 +1,90 @@
+# 怎麼還不愛
+
+怎麼還不愛 / Zěnme hái bù ài / Why Not Love
+
+<div class="video-container">
+  <iframe
+  src="https://www.youtube.com/embed/3q6D0wMX_H0"
+  allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
+```
+是你的到來 讓我的心快跳出來
+Shi ni de dao lai rang wo de xin kuai tiao chu lai
+好快 好亂 好甜 好煩
+Hao kuai hao luan hao tian hao fan
+嘿 是不能不看 怕被 看穿 我 走開
+Hei shi bu neng bu kan pa bei kan chuan wo zou kai
+
+說不出 你太吸引我 才走過來
+Shuo bu chu ni tai xi yin wo cai zou guo lai
+左轉 右拐 拐了 好幾個彎
+Zuo zhuan you guai guai le hao ji ge wan
+嗯 踏實的等待 不怕路上 多麼堵塞
+Ng ta shi de deng dai bu pa lu shang duo mo du sai
+
+*
+我還沒有答案
+Wo hai mei you da an
+也許貼心 只是你的習慣
+Ye xu tie xin zhi shi ni de xi guan
+並沒有意義 不是喜歡 不是暗示你的愛
+Bing mei you yi yi bu shi xi huan bu shi an shi ni de ai
+
+**
+我也還沒有勝算
+Wo ya hai mei you sheng suan
+一百次彩排 在心中對妳完全坦白
+Yi bai ci cai pai zai xin zhong dui ni wan quan tan bai
+什麼開場白 才可以 取代 Say Hi
+Shen me kai chang bai cai ke yi qu dai Say Hi
+
+***
+Oh 我們怎麼還不愛
+Oh wo men zen me hai bu ai
+是怕受傷害 還是怕 太愛
+Shi pa shou shang hai hai shi pa tai ai
+Oh 我們怎麼還不愛
+Oh wo men zen me hai bu ai
+曖昧有點煩 讓人進退兩難
+Ai mei you dian fan rang ren jin tui liang nan
+
+仔細的看 你 PO 的每條動態
+Zi xi de kan ni PO de mei tiao dong tai
+想要確認你身邊 沒有曖昧的 其他對象啊
+Xiang yao que ren ni shen bian mei you ai mei de qi ta dui xiang a
+我的留言 你回最快
+Wo de liu yan ni hui zui kuai
+
+喜歡瀏覽有你在的 每張照片
+Xi huan liu lan you ni zai de mei zhang zhao pian
+什麼裝扮都認得出來 讓我出神的 神態
+Shen me zhuang ban dou ren de chu lai rang wo chu shen de shen tai
+被你取笑的發呆 都是因為你 太好看
+Bei ni qu xiao de fa dai dou shi yin wei ni tai hao kan
+
+Repeat *
+
+Repeat **
+
+Repeat ***
+
+你怎麼還不愛 我怎麼還在徘徊
+Ni zen me hai bu ai wo zen me hai zai pai huai
+Oh 是否妳 (你) 也覺得該去愛
+Oh shi fou ni (ni) ye jue de gai qu ai
+就去愛 (就去愛)
+Jiu qu ai (jiu qu ai)
+什麼開場白 才可以 取代 Say Hi
+Shen me kai chang bai cai ke yi qu dai Say Hi
+
+Repeat ***
+
+你怎麼還不愛 我怎麼還在徘徊
+Ni zen me hai bu ai wo zen me hai zai pai huai
+Oh 是否妳 (你) 也覺得 就去愛
+Oh shi fou ni (ni) ye jue de jiu qu ai
+```
+
+

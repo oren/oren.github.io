@@ -1,0 +1,121 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<meta property="og:title" content="Acceptance tests automation with Selenium and Node.js" />
+<meta property="og:image" content="images/selenium.jpg" />
+<h1>Acceptance tests automation with Selenium and Node.js</h1>
+<p>Here is a nice flow for automating your user acceptance tests:</p>
+<ol>
+<li>Fire up <a href="https://addons.mozilla.org/en-US/firefox/addon/selenium-ide">Selinium IDE</a>(Firefox extension).</li>
+<li>Record your test</li>
+<li>Save as java file</li>
+<li>Copy into node.js file</li>
+<li>Run your node file</li>
+</ol>
+<p>There are a lot of tools that were written on top of selenium to help you write your tests in Node.js/Javascript but I found the offical JavaScript driver - <a href="https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs">WebDriverJs</a> to be enough to get the job done. Here is a 3 minutes video demonstrating it:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kRIz7Gumnik" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+<p>Code sample - Attempt to signup and take a screenshot of the failure page.</p>
+<pre><code class="language-js">// npm install selenium-webdriver
+
+var fs = require('fs');
+var webdriver = require('selenium-webdriver');
+var By = webdriver.By;
+var until = webdriver.until;
+
+var driver = new webdriver.Builder()
+  .forBrowser('firefox')
+  .build();
+
+driver.get(&quot;https://my-awesome-website.com&quot;);
+driver.findElement(By.className('signup-link')).click();
+driver.findElement(By.css(&quot;label&quot;)).click();
+driver.findElement(By.id(&quot;continue-button&quot;)).click();
+driver.findElement(By.id(&quot;first-name&quot;)).sendKeys(&quot;josh&quot;);
+driver.findElement(By.id(&quot;last-name&quot;)).sendKeys(&quot;felkor&quot;);
+driver.findElement(By.id(&quot;signup-submit&quot;)).click();
+
+driver.takeScreenshot().then(function(data) {
+  writeScreenshot(data, 'missing-fields.png');
+});
+
+var textPromise = driver.findElement(By.id(&quot;signup-submit&quot;)).getText();
+
+textPromise.then(function(text) {
+  if (text === &quot;TRY AGAIN&quot;) {
+    console.log(&quot;success&quot;);
+    process.exit(0);
+    return;
+  } else {
+    console.log(&quot;fail&quot;);
+    process.exit(1);
+  }
+});
+
+function writeScreenshot(data, name) {
+  name = name || 'ss.png';
+  var screenshotPath = '/tmp/';
+  fs.writeFileSync(screenshotPath + name, data, 'base64');
+};
+</code></pre>
+<p>Resources</p>
+<ul>
+<li>My github repository with this code sample - https://github.com/oren/selenium</li>
+<li>Official JavaScript Driver - https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs</li>
+<li>WebDriver Spec - https://w3c.github.io/webdriver/webdriver-spec.html</li>
+</ul>
+
+</article>
