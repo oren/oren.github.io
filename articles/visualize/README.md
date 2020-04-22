@@ -16,3 +16,4 @@ I found an interesting tool that allow you to create diagrams at multiple levels
 * [Demo of Terrastruct](https://www.youtube.com/watch?v=pO2ryAa1yO8)
 * [The C4 model on Hacker News](https://news.ycombinator.com/item?id=21032805)
 * [The C4 model - homepage](https://c4model.com)
+* [Tool to describe C4 using code](https://github.com/RicardoNiepel/C4-PlantUML)
