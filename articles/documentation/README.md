@@ -36,3 +36,7 @@ Analogy: an article on culinary social history
 Analogy: a reference encyclopaedia article
 
 This is a summary of [this article](https://www.divio.com/blog/documentation).
+
+## 5. Useful Articles
+
+* [How to write effective documentation](https://opensource.com/article/20/3/documentation)
