@@ -1,6 +1,0 @@
-* [How to Surf](surf/how/)
-* [What Equipment to Use](surf/equipment/)
-* [Surf Conditions](surf/conditions/)
-* [Surfing Spots](surf/spots/)
-* [Strength](surf/strength/)
-* [Emergency Situations](surf/emergency/)
