@@ -55,6 +55,7 @@ Work in Progress:
 ## 7. Tools
 * [Text-based Gmail](text-based-gmail/)
 * [pass - Password Manager](pass/)
+* [Secure video conferencing with Jitsi](https://meet.jit.si)
 
 ## 8. Misc
 * [Regex](regex/)
