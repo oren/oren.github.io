@@ -4,7 +4,7 @@
 Hacking Relationships is a mechanism for scaling relationships.
 
 ## 2. Details of the mechanism
-Hacking Relationships has 4 parts:
+Hacking Relationships has 3 parts:
 1. **Build** - solve relationship challenge in a scalable way
 1. **Monetize** - make money
 1. **Chill** - enjoy life and get stronger
