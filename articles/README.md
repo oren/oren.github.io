@@ -53,6 +53,7 @@ Work in Progress:
 * [Interviews](interviews/)
 
 ## 7. Tools
+* [Git](git/)
 * [Text-based Gmail](text-based-gmail/)
 * [pass - Password Manager](pass/)
 * [Secure video conferencing with Jitsi](https://meet.jit.si)
