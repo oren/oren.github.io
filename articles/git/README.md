@@ -1,3 +1,5 @@
+# How to quickly contribute to a codebase on github
+
 ```
 #!/bin/bash
 
@@ -7,6 +9,7 @@
 # 4. Example: git-fork oren/oren.github.io
 
 # 5. How?
+# Prerequisites: install hub - https://hub.github.com/
 # Create new file called git-fork
 # Create an executable: chmod u+x git-fork
 # Change the 'me' variable to your github user
