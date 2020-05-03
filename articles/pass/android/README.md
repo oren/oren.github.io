@@ -9,8 +9,9 @@ git init --bare ~/pass-repo
 pass git init
 pass git remote add origin ssh://oren@localhost:/home/oren/pass-repo
 pass git push origin master
+pass git push origin master --set-upstream
 ```
-Explanation: these commands create a git repository that stores the encrypted passwords. The repository is located at `~/pass-repo` and is needed in order to allow your phone to pull and push passwords.
+Explanation: these commands create a git repository that stores the encrypted passwords. The repository is located at `~/pass-repo` and is needed in order to allow your phone to pull and push passwords. Passing --set-upstream tells git that the local branch master tracks the remote branch origin/master, and so when you do git pull when master is checked out, it will automatically pull origin/master, and the same for when you do git push.
 
 ## 2. Generate a set of OpenSSH keys
 ```
