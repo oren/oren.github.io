@@ -57,6 +57,7 @@ Work in Progress:
 * [Text-based Gmail](text-based-gmail/)
 * [pass - Password Manager](pass/)
 * [Secure video conferencing with Jitsi](https://meet.jit.si)
+* [Run command when a file is changed with rerun2](https://github.com/tartley/rerun2)
 
 ## 8. Misc
 * [Regex](regex/)

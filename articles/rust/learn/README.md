@@ -5,4 +5,3 @@
 * [Rust syntax](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust)
 * [Tour of Rust](https://richardanaya.github.io/tour_of_rust/)
 * [Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors)
-
