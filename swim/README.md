@@ -12,6 +12,14 @@
 
 ### Lake Washington Locations
 
+#### Juanita Beach
+* [9703 NE Juanita Dr, Kirkland, WA 98034](https://www.google.com/maps/place/Juanita+Beach+Park/@47.7048015,-122.215372,15z/data=!4m2!3m1!1s0x0:0xdb0cac503530060c?sa=X&ved=2ahUKEwjc3Kn-0KXpAhXZHDQIHZK_A8MQ_BIwD3oECBMQCw)
+* [Site](https://www.theswimguide.org/beach/6506)
+
+#### waverly Beach
+* [633 Waverly Park Way, Kirkland, WA 98033](https://www.google.com/maps/place/Waverly+Beach+Park/@47.6869314,-122.2166368,15z/data=!4m2!3m1!1s0x0:0x9c268a055fc8afec?sa=X&ved=2ahUKEwjgx82s0aXpAhVSKH0KHShLB5kQ_BIwEHoECBEQCw)
+* [Site](https://www.theswimguide.org/beach/6522)
+
 #### Matthews Beach
 * [Location](https://www.google.com/maps/place/Matthews+Beach,+Seattle,+WA/@47.7037068,-122.2964961,14z/data=!3m1!4b1!4m5!3m4!1s0x549013c4f0769c2d:0x8c1371438367252f!8m2!3d47.6958965!4d-122.2762179)
 * Restrooms
