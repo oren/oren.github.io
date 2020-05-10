@@ -61,12 +61,14 @@ adb shell rm /sdcard/pass_store
 
 Fill-in the server info:
 ```
-Username: my laptop's user
-Server URL: my laptop's url
-repo path: pass-repo
+Username: oren (my laptop's user)
+Server URL: 192.168.0.104 (my laptop's url)
+Port: 22
+Repo path: /home/oren/pass-repo (path to the bare repo)
 ```
+
+Keep the Protocol (ssh) and Authentication Mode (ssh key) the same.
 
 * Click  'SAVE'
 * Click the left arrow at the top left
 * Click on the three dots at the top right -> 'pull from remote'
-
