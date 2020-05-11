@@ -2,7 +2,7 @@
 
 Create new Rust project using Cargo
 ```
-cargo new hello_world --bin
+cargo new hello_world
 cd hello_world
 cargo run
 
