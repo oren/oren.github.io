@@ -8,10 +8,11 @@ Deno is a new runtime for executing JavaScript and TypeScript outside of the web
 ## 2. Why do I care?
 Think Typescript but without Node's design flaws.
 
-* No need for `npm` or  package.json
-* All async actions return a promise
-* It requires explicit permissions for file, network, and environment access
-* Always dies on uncaught errors
+* Des not use npm. It uses modules referenced as URLs or file paths.
+* Does not use package.json in its module resolution algorithm.
+* All async actions return a promise.
+* Requires explicit permissions for file, network, and environment access.
+* Always dies on uncaught errors.
 * Uses "ES Modules" and does not support require(). Third party modules are imported via URLs: `import * as log from "https://deno.land/std/log/mod.ts";`
 
 ## 3. Examples of using it
