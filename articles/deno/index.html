@@ -1,0 +1,103 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<!-- numbers -->
+<h1>Deno</h1>
+<h2>1. What is Deno?</h2>
+<p>Deno is a new runtime for executing JavaScript and TypeScript outside of the web browser. It uses V8 and is built in Rust.</p>
+<h2>2. Why do I care?</h2>
+<p>Think Typescript but without Node's design flaws.</p>
+<ul>
+<li>No need for <code>npm</code> or  package.json</li>
+<li>All async actions return a promise</li>
+<li>It requires explicit permissions for file, network, and environment access</li>
+<li>Always dies on uncaught errors</li>
+<li>Uses &quot;ES Modules&quot; and does not support require(). Third party modules are imported via URLs: <code>import * as log from &quot;https://deno.land/std/log/mod.ts&quot;;</code></li>
+</ul>
+<h2>3. Examples of using it</h2>
+<h3>Your first CLI</h3>
+<p>Open your laptop's terminal and type:</p>
+<pre><code>deno run https://deno.land/std/examples/welcome.ts
+=&gt; Welcome to Deno 🦕
+</code></pre>
+<h3>Your first Web Service</h3>
+<p>a. Write your web service code</p>
+<p>Create new file called <code>example.js</code></p>
+<pre><code>import { serve } from &quot;https://deno.land/std@0.50.0/http/server.ts&quot;;
+	for await (const req of serve({ port: 8000 })) {
+	req.respond({ body: &quot;Hello World\n&quot; });
+}
+
+</code></pre>
+<p>Notice that the import statement has a URL with a version number!</p>
+<p>b. Run your web service</p>
+<pre><code>deno run --allow-net example.js
+</code></pre>
+<p>c. Open your browser at localhost:8000</p>
+<pre><code>=&gt; Hello World
+</code></pre>
+<h2>4. Install</h2>
+<pre><code>curl -fsSL https://deno.land/x/install/install.sh | sh
+</code></pre>
+<p>add to .bashrc:</p>
+<pre><code>export DENO_INSTALL=&quot;~/.deno&quot;
+export PATH=&quot;$DENO_INSTALL/bin:$PATH&quot;
+</code></pre>
+<h2>5. Links</h2>
+<ul>
+<li><a href="https://deno.land/v1">Deno 1.0 announcement</a></li>
+</ul>
+
+</article>
