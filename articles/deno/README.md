@@ -15,7 +15,7 @@ Think Typescript but without Node's design flaws.
 * Always dies on uncaught errors.
 * Uses "ES Modules" and does not support require(). Third party modules are imported via URLs: `import * as log from "https://deno.land/std/log/mod.ts";`
 
-## 3. Examples of using it
+## 3. Examples using Deno
 
 ### Your first CLI
 
@@ -50,7 +50,7 @@ c. Open your browser at localhost:8000
 => Hello World
 ```
 
-## 4. Install
+## 4. Install Deno
 
 ```
 curl -fsSL https://deno.land/x/install/install.sh | sh
