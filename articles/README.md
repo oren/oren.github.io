@@ -41,8 +41,9 @@ Work in Progress:
 * [Modular Website](modular/)
 
 ## 4. Programing Languages
-* [Crystal](crystal/)
 * [Rust](rust/)
+* [Deno](deno/)
+* [Crystal](crystal/)
 * [Javascript/Node.js](javascript-node/)
 * [Go on App Engine](appengine/)
 
