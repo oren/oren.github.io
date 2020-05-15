@@ -12,7 +12,7 @@
 * [Cook](cook/)
 * [Dance](dance/)
 * [Swim](swim/)
-* [Top rop climbing](top-rop/)
+* [Top rop climbing](top-rope/)
 * [Chinese](chinese/)
 * [Operating Manual](operating-manual/)
 
