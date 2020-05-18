@@ -6,3 +6,4 @@
 * [All of Rust syntax in one file](https://github.com/Clivern/Buzzard/blob/master/src/main.rs)
 * [Tour of Rust](https://richardanaya.github.io/tour_of_rust/)
 * [Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors)
+* [Getting started with Rust by building a tiny markdown compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/#how-to-write-a-basic-match-block-in-rust)
