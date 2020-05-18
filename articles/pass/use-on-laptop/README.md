@@ -35,10 +35,29 @@ Password Store
 └── gmail
 ```
 
-
 ## Delete a password
 Delete the gmail password
 ```
 pass rm gmail
 ```
 
+
+## Store password and other info in the same file
+
+Sometime you want to store the password and other useful information in the same file. I like to have the password as the first line.
+```
+pass insert -m test
+pass generate test -i 10
+```
+
+Explanation: The first line will create a file with multiple lines. The second line will generate and store a password at the first line.
+
+## Find files by name
+```
+pass find foobar
+```
+
+## Find files by content
+```
+pass grep foobar
+```
