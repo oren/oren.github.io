@@ -81,5 +81,17 @@
 <p>Delete the gmail password</p>
 <pre><code>pass rm gmail
 </code></pre>
+<h2>Store password and other info in the same file</h2>
+<p>Sometime you want to store the password and other useful information in the same file. I like to have the password as the first line.</p>
+<pre><code>pass insert -m test
+pass generate test -i 10
+</code></pre>
+<p>Explanation: The first line will create a file with multiple lines. The second line will generate and store a password at the first line.</p>
+<h2>Find files by name</h2>
+<pre><code>pass find foobar
+</code></pre>
+<h2>Find files by content</h2>
+<pre><code>pass grep foobar
+</code></pre>
 
 </article>
