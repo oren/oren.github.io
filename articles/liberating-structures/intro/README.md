@@ -1,17 +1,19 @@
+<!-- numbers -->
+
 # Introduction to Liberating Structures
 
-## What is LS?
+## 1. What is LS?
 Mechanism for unleashing innovation by leveraging everyone's strengths
 
-## Why would you use it?
+## 2. Why would you use it?
 We deal with non-trivial challenges and with complex adaptive system where the whole is more complex than its parts.
 
-## Agenda
+## 3. Agenda
 1. Impromptu Networking. For ice break (self introduction and expectation for LS) - 15 min.
 2. Quick Introduction of "What is LS?" and LS Selection Matchmaker  - 15 min.
 3. Appreciative Interviews. About their success case of problem solving - 30 min.
 
-## Details
+## 4. Details
 ### 1. Impromptu Networking
 * **What**: 3 rounds of pairs, then the whole group: "What challenge/problem are you trying to solve?".
 * **Output**: list of challenges.
