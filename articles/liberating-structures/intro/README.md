@@ -2,6 +2,8 @@
 
 # Introduction to Liberating Structures
 
+![frameworks](https://i.imgur.com/ER5iCTY.jpg)
+
 ## 1. What is LS?
 Mechanism for unleashing innovation by leveraging everyone's strengths
 
