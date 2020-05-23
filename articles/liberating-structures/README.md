@@ -10,6 +10,7 @@ LS is a mechanism for unleashing innovation by quickly finding solutions, levera
 * [1-2-4-All](1-2-4-all/)
 
 ## 3. Notes
+* [Intro](intro/)
 * [Examples of using Liberating Structures](examples/)
 * [Video Liberating Structures co-creator, Henri Lipmanowicz](video-henri/)
 * [Slides](slides/)
