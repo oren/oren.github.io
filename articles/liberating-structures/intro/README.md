@@ -18,11 +18,8 @@ LS offer easy methods for achieving better results in every situation; performan
 ## 4. About the session
 **Objective**: demonstrate to technical leaders the value of a bottom-up mecahnism that requires them to let go of control in order to increase innovation in their organization.
 
-**Solution**: practice the following LS structures: Rapidly Share Challenges and Expectations (Impromtu Networking), Build New Connections, Stop Counterproductive Activities and Behaviors to Make Space for Innovation (TRIZ), Together, Look Back on Progress to Date and Decide What Adjustments Are Neede (What, So What, Now What?)
+**Solution**: practice the following LS structures: Rapidly Share Challenges and Expectations ([Impromtu Networking](http://www.liberatingstructures.com/2-impromptu-networking)), Build New Connections, Stop Counterproductive Activities and Behaviors to Make Space for Innovation ([TRIZ](http://www.liberatingstructures.com/6-making-space-with-triz)), Together, Look Back on Progress to Date and Decide What Adjustments Are Neede ([What, So What, Now What?](http://www.liberatingstructures.com/9-what-so-what-now-what-w))
 
 ## 5. Links:
-* LS Website: http://www.liberatingstructures.com
-* Examples for using LS at various industries: http://www.liberatingstructures.com/field-stories/
-* Impromptu Networking: http://www.liberatingstructures.com/2-impromptu-networking/
-* TRIZ: http://www.liberatingstructures.com/6-making-space-with-triz/
-* What, So What, Now What? http://www.liberatingstructures.com/9-what-so-what-now-what-w/
+* [LS Website](http://www.liberatingstructures.com)
+* [Examples for using LS at various industries](http://www.liberatingstructures.com/field-stories)
