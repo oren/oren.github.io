@@ -1,2 +1,2 @@
-[Home](https://oren.github.io) > [Articles](https://oren.github.io/articles) > [Liberating Structures](https://oren.github.io/articles/liberating-structures) > [Liberating Structures/intro](https://oren.github.io/articles/liberating-structures/intro)
+[Home](https://oren.github.io) > [Articles](https://oren.github.io/articles) > [Liberating Structures](https://oren.github.io/articles/liberating-structures) > [intro](https://oren.github.io/articles/liberating-structures/intro)
 
