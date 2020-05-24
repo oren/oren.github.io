@@ -17,7 +17,7 @@
 **[need]** Make sense! I want you to feel comfortable with my friends.  You know, Ben share your passion for surfing.  **[request]** Can I ask him to share his recent surfing adventure? He won't be able to shut up (:
 
 ## 4. Inventory of feelings and needs
-* [Feeling](https://oren.github.io/nvc/feelings/)
-* [Needs](https://oren.github.io/nvc/needs/)
+* [Feeling](https://oren.github.io/articles/nvc/feelings/)
+* [Needs](https://oren.github.io/articles/nvc/needs/)
 
 
