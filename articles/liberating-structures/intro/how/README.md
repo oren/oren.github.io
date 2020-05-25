@@ -23,7 +23,7 @@ Details:
 
 * Session 1: write down in the shared doc answers to: "think about how we could reliably design our online meeting so that nothing got done, everyone had a TERRIBLE time and our leadership and credibility is seriously damaged. Make a list of all the things you would have to do to make this happen. Go wild!" After 5 minutes bring everyone back to the main room and observe the shared docs each group created. Ask for themes. What's standing out? "which one of these do you see in your own meetings?"
 * Session 2: write down in the shared doc answers to: "Now run through each element. Which of these elements is currently present in your work practices". After 5 minutes bring everyone back to the main room and observe the shared docs each group created. Ask for themes. What's standing out?
-* Session 3: write down in the shared doc answers to: "pick one or more of those things to STOP doing before you design your online meetings. What is the first step you need to do to STOP it? Make a plan to do that. Be as concrete as you can and identify who has to be involved to make it happen. Be prepared to share your next steps"
+* Session 3: write down in the shared doc answers to: "pick one or more of those things to STOP doing before you design your meetings. What is the first step you need to do to STOP it? Make a plan to do that. Be as concrete as you can and identify who has to be involved to make it happen. Be prepared to share your next steps"
 * Debried: what was liberating about it? what was structured about it?
 * What's the value of TRIZ? help brainstorm in a way that is safe. Increase data points. diving deeper into data and generate more data.
 
