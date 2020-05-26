@@ -1,0 +1,98 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/rust/">Rust</a></li>
+</ul>
+
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<!-- numbers -->
+<h1>Use Rust with Neovim</h1>
+<h2>1. What is this?</h2>
+<p>A how-to guide for adding autocomplete and 'jump to function definition' for Rust in Neovim.</p>
+<h2>2. Why?</h2>
+<p>Save you time when you want to navigate a Rust project or learn about a Rust feature.</p>
+<h2>3. How?</h2>
+<p>Rust has a language server called rust-analyzer. A language server is a process that runs on your laptop and interacts with your text editor (Neovim in our case). Using a language server enables features like autocomplete and jump to definition which are enabled by default on most IDEs like VSCode.</p>
+<p>Before installing rust-analyzer we need to install a Neovim plugin called <a href="https://github.com/neoclide/coc.nvim">Conquer of Completion</a>. After installing it we will install something called <a href="https://github.com/fannheyward/coc-rust-analyzer">coc-rust-analyzer</a> which is an extention for coc.nvim.</p>
+<h3>Install</h3>
+<p><strong>a. Add coc.nvim to init.vim</strong></p>
+<pre><code>Plug 'neoclide/coc.nvim', {'branch': 'release'}
+</code></pre>
+<p><strong>b. Install coc.nvim</strong></p>
+<p>Open neovim and type: <code>Pluginstall</code></p>
+<p><strong>c. Install coc-rust-analyzer</strong></p>
+<p>Open neovim and type: <code>:CocInstall coc-rust-analyzer</code></p>
+<p><strong>d. Setup coc.nvim to enable code navigation and documentation preview window</strong></p>
+<pre><code>&quot; GoTo code navigation.
+nmap &lt;silent&gt; gd &lt;Plug&gt;(coc-definition)
+nmap &lt;silent&gt; gy &lt;Plug&gt;(coc-type-definition)
+nmap &lt;silent&gt; gi &lt;Plug&gt;(coc-implementation)
+nmap &lt;silent&gt; gr &lt;Plug&gt;(coc-references)
+
+&quot; Use K to show documentation in preview window.
+nnoremap &lt;silent&gt; K :call &lt;SID&gt;show_documentation()&lt;CR&gt;
+
+function! s:show_documentation()
+  if (index(['vim','help'], &amp;filetype) &gt;= 0)
+    execute 'h '.expand('&lt;cword&gt;')
+  else
+    call CocAction('doHover')
+  endif
+endfunction
+
+</code></pre>
+<h3>Use</h3>
+<ul>
+<li>Jump to function definition: stand on a function call and type <code>gd</code></li>
+<li>Show documentation: stand on any type and type <code>K</code></li>
+</ul>
+
+</article>
