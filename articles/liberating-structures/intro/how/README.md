@@ -24,7 +24,7 @@ Details:
 * Session 2: write down in the shared doc answers to: "Now run through each element. Which of these elements is currently present in your work practices". After 5 minutes bring everyone back to the main room and observe the shared docs each group created. Ask for themes. What's standing out?
 * Session 3: write down in the shared doc answers to: "pick one or more of those things to STOP doing before you design your meetings. What is the first step you need to do to STOP it? Make a plan to do that. Be as concrete as you can and identify who has to be involved to make it happen. Be prepared to share your next steps"
 
-### 3. What, so what? so what?
+### 3. What, so what? so what? (W3)
 * Time: 20 minutes
 * 3 sessions, each one 3 minutes with 4 people.
 
