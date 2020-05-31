@@ -7,6 +7,7 @@
 * [Liberating Structures](liberating-structures/)
 * [Execution Strategy](execution/)
 * [Spontaneous Speaking](spontaneous-speaking/)
+* [Influence Without Authority](influence/)
 
 Work in Progress:
 
