@@ -48,4 +48,5 @@ A CookBook for Strength Athletes
 * [Slow Cooker](https://twosleevers.com/recipe-index/?fwp_cooking_style=slow-cooker)
 * [Pho](https://www.reddit.com/r/instantpot/comments/ai4s62/pho_sho_90_mins_under_pressure_and_the_best_ive/)
 * [Seven Grain Salad](https://thecookiewriter.com/summer-fresh-seven-grain-salad-copycat/)
+* [Thai Chicken](thai-chicken/)
 
