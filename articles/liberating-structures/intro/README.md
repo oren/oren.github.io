@@ -20,6 +20,8 @@ LS offer easy methods for achieving better results in every situation; performan
 
 **Solution**: practice the following LS structures: rapidly share challenges and expectations, build new connections ([Impromtu Networking](http://www.liberatingstructures.com/2-impromptu-networking)), stop counterproductive activities and behaviors to make space for innovation ([TRIZ](http://www.liberatingstructures.com/6-making-space-with-triz)), together, look back on progress to date and decide What adjustments are needed ([What, So What, Now What?](http://www.liberatingstructures.com/9-what-so-what-now-what-w))
 
+[Instructions for the facilitator](how/)
+
 ## 5. Links:
 * [LS Website](http://www.liberatingstructures.com)
 * [Examples for using LS at various industries](http://www.liberatingstructures.com/field-stories)
