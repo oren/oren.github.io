@@ -23,5 +23,8 @@ LS offer easy methods for achieving better results in every situation; performan
 [Instructions for the facilitator](how/)
 
 ## 5. Links:
+* [Good overview of LS](https://medium.com/@keithmccandless/liberating-strategy-6fda41f6c1)
+* [Match challenge to LS structures](http://www.liberatingstructures.com/matching-matrix/)
 * [LS Website](http://www.liberatingstructures.com)
 * [Examples for using LS at various industries](http://www.liberatingstructures.com/field-stories)
+* [Theory behind LS](https://medium.com/@keithmccandless/more-magic-less-mystery-f9bc2d614e85)
