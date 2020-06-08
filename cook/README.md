@@ -44,6 +44,7 @@ A CookBook for Strength Athletes
 
 ## Awesome Recipes
 
+* [Beans in Instant Pot](beans/)
 * [Instant Pot](https://twosleevers.com/recipe-index/?fwp_cooking_style=instant-pot-pressure-cooker)
 * [Slow Cooker](https://twosleevers.com/recipe-index/?fwp_cooking_style=slow-cooker)
 * [Pho](https://www.reddit.com/r/instantpot/comments/ai4s62/pho_sho_90_mins_under_pressure_and_the_best_ive/)
