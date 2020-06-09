@@ -46,11 +46,15 @@ pass rm gmail
 
 Sometime you want to store the password and other useful information in the same file. I like to have the password as the first line.
 ```
-pass insert -m test
+// generate password with length of 10
+pass generate test 10
+
+// edit the file with vim. add more lines like username, email, etc
+pass edit test
+
+// replace the first line with a new password
 pass generate test -i 10
 ```
-
-Explanation: The first line will create a file with multiple lines. The second line will generate and store a password at the first line.
 
 ## Find files by name
 ```
