@@ -4,8 +4,9 @@
 
 ## 1. Leadership
 * [Nonviolent Communication](nvc/)
-* [Liberating Structures](liberating-structures/)
 * [Execution Strategy](execution/)
+* [Product Roadmaps](product-roadmaps/)
+* [Liberating Structures](liberating-structures/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
 
