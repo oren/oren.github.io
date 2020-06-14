@@ -6,6 +6,7 @@
 * [Nonviolent Communication](nvc/)
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
+* [How to build a product](build-product/)
 * [Liberating Structures](liberating-structures/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
