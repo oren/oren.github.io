@@ -1,6 +1,6 @@
-# Summary of The Lean Product Playbook
+# How to build a product that customers love
 
-Goal: build products that customers love.
+This is a summary of the book [Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874).
 
 ## The process of building a product
 * Create target customer using personas.
