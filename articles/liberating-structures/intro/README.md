@@ -28,3 +28,4 @@ LS offer easy methods for achieving better results in every situation; performan
 * [LS Website](http://www.liberatingstructures.com)
 * [Examples for using LS at various industries](http://www.liberatingstructures.com/field-stories)
 * [Theory behind LS](https://medium.com/@keithmccandless/more-magic-less-mystery-f9bc2d614e85)
+* [Remote LS](https://age-of-product.com/remote-agile-virtual-liberating-structures)
