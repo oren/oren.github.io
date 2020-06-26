@@ -51,3 +51,5 @@ A CookBook for Strength Athletes
 * [Seven Grain Salad](https://thecookiewriter.com/summer-fresh-seven-grain-salad-copycat/)
 * [Thai Chicken](thai-chicken/)
 
+## Misc
+* [Instant Pot Cooking Times](https://instapot.life/instant-pot-cooking-times/)
