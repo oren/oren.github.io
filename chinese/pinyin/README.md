@@ -2,7 +2,7 @@
 
 ## How to pronounce pinyin characters?
 
-### "c" and "z"
+### c and z
 
 `c` sounds like ts in cats/watson/robots. But in chinese it appears at the beginning of the word.
 
@@ -14,7 +14,7 @@ Example: smart / cōngming / 聪明
 
 Example: early / zǎo / 早
 
-### "ch", "sh", and "zh"
+### ch, sh, and zh
 
 `ch` sounds like ch in chirp but you stop at the 'r' sound. The tongue position is a bit further back.
 
@@ -32,7 +32,7 @@ Example: sleep / shuì / 睡
 
 Example: this / zhè / 这
 
-### "x", "q" and "j"
+### x, q and j
 
 Those don't exist in English so you'll have to learn new sounds.
 
@@ -55,6 +55,15 @@ Example: before / 前 / 前
 `j` - Say J but the tip of your tongue should be down behind your lower front teeth when making this sound, just as it is for the "x-" and "q-" sounds.
 
 Example: between / Jiān / 间
+
+### e
+
+Sounds like what you say when someone punch you in the stomach (:
+
+Examples:
+
+* hungry / è / 饿
+* dring / hē / 喝
 
 ## Links:
 * [Listen](https://resources.allsetlearning.com/chinese/pronunciation/Tough_sounds_(basic))
