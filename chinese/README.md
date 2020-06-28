@@ -3,3 +3,4 @@
 ## Table of Contents
 * [Songs](songs/)
 * [Words](words/)
+* [Pinyin](pinyin/)
