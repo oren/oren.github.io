@@ -72,3 +72,28 @@ Keep the Protocol (ssh) and Authentication Mode (ssh key) the same.
 * Click  'SAVE'
 * Click the left arrow at the top left
 * Click on the three dots at the top right -> 'pull from remote'
+
+## 8. Use the gpg key in the OpenKeychain app
+
+```
+gpg2 --export-secret-keys > secret.gpg
+adb push secret.gpg /sdcard/
+```
+
+Open the OpenKeychain app -> 'import key from file'. Choose the secret.gpg file.
+
+Explanation: this is the same key that you use to convert your plaintext password to the encrypted data. You need to use it in the mobile app.
+
+## 9. Change a setting of OpenKeychain
+Settings -> Apps -> Permissions -> Other Permissions -> OpenKeychain -> Enable `Display pop-up windows while running in the background`
+
+Explanation: without this settings the mobile app won't be able to show you the passwords.
+
+## 10. Setup the mobile app
+* Use https://webwormhole.io/ to copy ~/.password-store to your phone
+* Open the Password Store app
+* Settings -> External repository - check it
+* Select external repository - select the location of .password-store
+* Settings -> Select OpenPGP provider -> OpenKeychain
+
+Explanation: copy the .password-store folder is needed because I am having issues with the official `git clone` approach.
