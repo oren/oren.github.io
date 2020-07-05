@@ -48,7 +48,7 @@ Example: hi / xièxie / 谢谢
 
 x and q sounds very similar, just like sh and ch (both in english and chinese).
 
-Example: before / 前 / 前
+Example: before / Qián / 前
 
 ---
 
