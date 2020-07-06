@@ -122,7 +122,10 @@ Repo path: /home/oren/pass-repo (path to the bare repo)
 <pre><code>gpg2 --export-secret-keys &gt; secret.gpg
 adb push secret.gpg /sdcard/
 </code></pre>
-<p>Open the OpenKeychain app -&gt; 'import key from file'. Choose the secret.gpg file.</p>
+<ul>
+<li>Open the OpenKeychain app -&gt; 'import key from file'. Choose the secret.gpg file.</li>
+<li>You can delete this file from your phone after it's being used by OpenKeychain.</li>
+</ul>
 <p>Explanation: this is the same key that you use to convert your plaintext password to the encrypted data. You need to use it in the mobile app.</p>
 <h2>9. Change a setting of OpenKeychain</h2>
 <p>Settings -&gt; Apps -&gt; Permissions -&gt; Other Permissions -&gt; OpenKeychain -&gt; Enable <code>Display pop-up windows while running in the background</code></p>
