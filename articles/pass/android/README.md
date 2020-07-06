@@ -80,7 +80,8 @@ gpg2 --export-secret-keys > secret.gpg
 adb push secret.gpg /sdcard/
 ```
 
-Open the OpenKeychain app -> 'import key from file'. Choose the secret.gpg file.
+* Open the OpenKeychain app -> 'import key from file'. Choose the secret.gpg file.
+* You can delete this file from your phone after it's being used by OpenKeychain.
 
 Explanation: this is the same key that you use to convert your plaintext password to the encrypted data. You need to use it in the mobile app.
 
