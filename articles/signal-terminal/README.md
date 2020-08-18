@@ -40,7 +40,7 @@ phone_number = "+1xxxxxxxxxx"
 gurk
 ```
 
-## Singal-cli commands
+## Signal-cli commands
 Gurk is a wrapper on top of signal-cli. If you want, you can use signal-cli without gurk. Here are a few commands:
 
 ```
