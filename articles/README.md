@@ -60,6 +60,7 @@ Work in Progress:
 ## 7. Tools
 * [Git](git/)
 * [Text-based Gmail](text-based-gmail/)
+* [Using Signal from the terminal](signal-terminal/)
 * [pass - Password Manager](pass/)
 * [Secure video conferencing with Jitsi](https://meet.jit.si)
 * [Run command when a file is changed with rerun2](https://github.com/tartley/rerun2)
