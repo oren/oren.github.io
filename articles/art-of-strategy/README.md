@@ -25,10 +25,11 @@ How? develop the strategy using The Art of War, make choices using OODA Loops, a
 ![Wardley Maps](https://3.bp.blogspot.com/-rza6crKIv6I/VUOMsu8vbpI/AAAAAAAAHaM/-4c9raumM9E/s1600/Screen%2BShot%2B2015-05-01%2Bat%2B09.01.41.png)
 
 ## 2. How effictive is the mechainsm
-TODO - collect data points for adoption rate and outcome.
+TODO: collect data points for adoption rate and outcome.
 
 ## 3. Suggestions
-TODO - can we add/replace/omit a component?
+* TODO: can we add/replace/omit a component?
+* TODO: read about Richard Rumelt, Rita Gunther McGrath, and Gary Hamel
 
 ## 4. Other resources
 17 min interview with the author, Erik Schön:
