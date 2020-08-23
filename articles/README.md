@@ -4,6 +4,7 @@
 
 ## 1. Leadership
 * [Nonviolent Communication](nvc/)
+* [The Art of Strategy](art-of-strategy/)
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
 * [How to build a product](build-product/)
@@ -13,7 +14,6 @@
 
 Work in Progress:
 
-* [The Art of Strategy](art-of-strategy/)
 * [Better Decision Making](decision-making/)
 * [Measure your life](measure-your-life/)
 * [Cognitive Biases](cognitive-biases/)
