@@ -4,7 +4,6 @@
 
 This the practical insights from book [The Art of Strategy](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1) by Erik Schön.
 
-
 Erik took 3 ideas (Art of War, OODA Loop, and Wardley Maps) and wrapped them together to create a new mechanism for building and managing a strategy. This page will describe the mental model of this mechanism and will also evaluate it's effectiveness. Lastly, this page will suggest a few ideas to increase it's effectiveness and adoption rate.
 
 ## 1. Mental Model of the mechanism
@@ -28,8 +27,12 @@ How? develop the strategy using The Art of War, make choices using OODA Loops, a
 TODO: collect data points for adoption rate and outcome.
 
 ## 3. Suggestions
-* TODO: can we add/replace/omit a component?
-* TODO: read about [Richard Rumelt](https://www.youtube.com/watch?v=83vczUPiMv0), [Rita Gunther McGrath](https://www.youtube.com/watch?v=Y1JIuRvJxKw), and [Gary Hamel](https://www.youtube.com/watch?v=_mCmecrnLUM)
+Is there a way to measure the effictiveness of this mechanism? Can we replace or add an idea/component to make it more effective?
+
+Here are a few ideas:
+* Identify your biggest challenge that can be solved. That's strategy - [Richard Rumelt](https://www.youtube.com/watch?v=83vczUPiMv0)
+* Allocate resources toward emerging strategies - [Rita Gunther McGrath](https://www.youtube.com/watch?v=Y1JIuRvJxKw). I am thinking of calling this 'strategy spikes'.
+* Increase the number of leaders in your organization via small groups, visible P&L, leadership without formal authority - [Gary Hamel](https://www.youtube.com/watch?v=_mCmecrnLUM). I am thinking of calling this 'democratizing leadership'.
 
 ## 4. Other resources
 17 min interview with the author, Erik Schön:
