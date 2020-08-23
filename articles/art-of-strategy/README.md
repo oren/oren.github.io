@@ -29,7 +29,7 @@ TODO: collect data points for adoption rate and outcome.
 
 ## 3. Suggestions
 * TODO: can we add/replace/omit a component?
-* TODO: read about Richard Rumelt, Rita Gunther McGrath, and Gary Hamel
+* TODO: read about [Richard Rumelt](https://www.youtube.com/watch?v=83vczUPiMv0), [Rita Gunther McGrath](https://www.youtube.com/watch?v=Y1JIuRvJxKw), and [Gary Hamel](https://www.youtube.com/watch?v=_mCmecrnLUM)
 
 ## 4. Other resources
 17 min interview with the author, Erik Schön:
