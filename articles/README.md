@@ -13,6 +13,7 @@
 
 Work in Progress:
 
+* [The Art of Strategy](art-of-strategy/)
 * [Better Decision Making](decision-making/)
 * [Measure your life](measure-your-life/)
 * [Cognitive Biases](cognitive-biases/)
