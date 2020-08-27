@@ -35,3 +35,7 @@ For the sauce:
 5. warp the filling.
 6. boil the dumplings for 2 - 3 minutes.
 
+
+# Chicken and rice in instant pot
+* pot in pot (saute garlic with oil first): https://www.youtube.com/watch?v=xfvM0DZaHac
+* together (saute chicken first): https://natashaskitchen.com/instant-pot-chicken-and-rice/
