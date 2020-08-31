@@ -24,7 +24,7 @@ In order to develop a successful strategy follow this:
 
 ### Chapter 1 - Introduction
 
-Before you start with steps above you want to create an organizational structure that increases the collection and analysis of data points. You collect data points by getting opinions from anyone that is revelant.
+Before you start with steps above you want to create an organizational structure that increases the collection and analysis of data points. You collect data points by getting opinions from anyone that is relevant.
 
 * What is a strategy?
 * What is an organizational bias?
