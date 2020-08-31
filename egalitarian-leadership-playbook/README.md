@@ -3,17 +3,16 @@
 # The Egalitarian Leadership Playbook
 
 ## 1. What is this?
-The Egalitarian Leadership Playbook is the missing manual on how to build a successful strategy.
+The Egalitarian Leadership Playbook is the missing manual on how to build and execute a successful strategy.
 
-## 2. Why should you care?
+## 2. Why should you care? (learning objectives)
 After reading this playbook you will be able to:
 1. Build a successful strategy for your organization.
-1. Build a go-to-market strategy.
-1. Build a product development process.
-1. Build a software development process.
-1. Mentor others in all of the above.
+1. Describe the foundations of a go-to-market strategy
+1. Describe the foundations of a product development process.
+1. Describe the foundations of a software development process.
 
-You will be able to increase the innovation at your organization. It's main focus is building a strategy but it It also  go-to-market strategy, product development process and software engineering.
+You will be able to increase the innovation at your organization. It's main focus is building a strategy but it It also explains how your strategy fit into the go-to-market strategy, product development process and software development process.
 
 ## 3. Who is this for?
 A leader of a complex organization will benefit the most from this playbook. But even if you are not an official leader, implement it anyway (:
