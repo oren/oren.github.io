@@ -32,7 +32,7 @@ Before you start with steps above you want to create an organizational structure
 * What does egalitarian leadership mean?
 * Introduction to Liberating Structures
 
-### Chapter 2 - Evaluate emerging strategy
+### Chapter 2 - Evaluate emerging strategies
 * How to evaluate?
 
 ### Chapter 3 - Implement the best strategy
