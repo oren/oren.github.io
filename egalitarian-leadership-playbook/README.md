@@ -7,7 +7,7 @@ The Egalitarian Leadership Playbook is the missing manual on how to build and ex
 
 ## 2. Why should you care? (learning objectives)
 After reading this playbook you will be able to:
-1. Build a successful strategy for your organization.
+1. Build and implement a successful strategy for your organization.
 1. Describe the foundations of a go-to-market strategy
 1. Describe the foundations of a product development process.
 1. Describe the foundations of a software development process.
@@ -54,6 +54,7 @@ Before you start with steps above you want to create an organizational structure
 * TODO
 
 ### Chapter 7 - Next steps
-* What should you do now? implement first, learn more theory later.
-* Books/guides/people to learn from?
-
+* What should you do now?
+* Go-to-market strategy PlayBook
+* Describe the foundations of a product development process.
+* Describe the foundations of a software development process.
