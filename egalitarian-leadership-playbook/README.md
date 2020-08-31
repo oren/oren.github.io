@@ -27,6 +27,7 @@ In order to develop a successful strategy follow this:
 Before you start with steps above you want to create an organizational structure that increases the collection and analysis of data points. You collect data points by getting opinions from anyone that is revelant.
 
 * What is a strategy?
+* What is an organizational bias?
 * What does egalitarian mean?
 * What does egalitarian leadership mean?
 * Introduction to Liberating Structures
