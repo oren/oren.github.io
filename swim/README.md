@@ -70,4 +70,5 @@
 * [Website](https://www.seattle.gov/parks/find/parks/alki-beach-park)
 * Lifeguard Hours:
 
-
+## Links
+* https://www.outdoorproject.com/travel/washingtons-50-best-swimming-holes
