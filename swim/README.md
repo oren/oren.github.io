@@ -49,7 +49,7 @@
 * [Website](https://www.seattle.gov/parks/find/parks/mount-baker-park)
 * Lifeguard Hours: Jun 22 - Sep 2, 12pm - 7pm weekdays, 11am - 7pm weekends
 
-#### Seaward Park
+#### Seward Park
 * [Location](https://www.google.com/maps/place/Seward+Park,+Seattle,+WA+98118/@47.5517196,-122.2803942,14z/data=!3m1!4b1!4m5!3m4!1s0x54906a1c63b3aa63:0x44e4a05de3025c2b!8m2!3d47.5502603!4d-122.26485)
 * Restrooms
 * Lifeguard Hours: June 22 - September 2, 12pm - 7pm weekdays, 11am - 7pm weekends
