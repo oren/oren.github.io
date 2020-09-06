@@ -74,4 +74,5 @@
 * https://www.yelp.com/search?find_desc=swimming+lakes&find_loc=Sammamish%2C+WA
 
 ## Other links
+* [Water temperature](https://green2.kingcounty.gov/swimbeach/)
 * https://www.outdoorproject.com/travel/washingtons-50-best-swimming-holes
