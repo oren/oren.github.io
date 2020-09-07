@@ -8,14 +8,14 @@
 * [Talks](talks/)
 
 ## 2. Fun
-* [Surf](surf/)
-* [Train](train/)
-* [Cook](cook/)
-* [Dance](dance/)
-* [Swim](swim/)
+* [Strength Training](train/)
+* [Surfing](surf/)
+* [Swimming](swim/)
+* [Cooking](cook/)
+* [Dancing](dance/)
 * [Top rop climbing](top-rope/)
-* [Chinese](chinese/)
-* [Operating Manual](operating-manual/)
+* [Learning Chinese](chinese/)
+* [My Operating Manual](operating-manual/)
 
 ## 3. Apps
 * [Food](https://oren.github.io/food/) (work in progress)
