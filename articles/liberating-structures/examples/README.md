@@ -3,11 +3,11 @@
 # Examples of using Liberating Structures
 
 ## 1. Strategy retreat with a business or business unit
-* Get very clear purpose of the deepest need for your work (9 Whys)
-* Generate rubust and hedging strategies to operate in surprise-filled future markets (Critical Uncertainties)
-* Generate bold ideas for matching internal operations to market dynamics (25/10 Crowd Sourcing)
-* Look over the entire product portfolio for big opportunities and bottlenecks and dip into workflow tactics (Ecocycle)
-* Make commitments across functions to work out the knots - no holds barred (WINFY)
+* Get very clear purpose of the deepest need for your work ([9 Whys](http://www.liberatingstructures.com/3-nine-whys/))
+* Generate rubust and hedging strategies to operate in surprise-filled future markets ([Critical Uncertainties](http://www.liberatingstructures.com/30-critical-uncertainties/))
+* Generate bold ideas for matching internal operations to market dynamics ([25/10 Crowd Sourcing](http://www.liberatingstructures.com/12-2510-crowd-sourcing/))
+* Look over the entire product portfolio for big opportunities and bottlenecks and dip into workflow tactics ([Ecocycle](http://www.liberatingstructures.com/31-ecocycle-planning/))
+* Make commitments across functions to work out the knots - no holds barred ([WINFY](http://www.liberatingstructures.com/24-what-i-need-from-you-winfy/))
 
 ## 2. Introduce new team members
 1. Greetings with Mad Tea Party about home town, university, carrier and so on (10 min)
