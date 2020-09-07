@@ -1,4 +1,4 @@
-# Swim
+# Swimming
 
 ## Open Water Swimming Locations in Seattle
 
