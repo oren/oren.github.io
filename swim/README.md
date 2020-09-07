@@ -70,9 +70,7 @@
 * [Website](https://www.seattle.gov/parks/find/parks/alki-beach-park)
 * Lifeguard Hours:
 
-## Sammamish
-* https://www.yelp.com/search?find_desc=swimming+lakes&find_loc=Sammamish%2C+WA
-
 ## Other links
-* [Water temperature](https://green2.kingcounty.gov/swimbeach/)
-* https://www.outdoorproject.com/travel/washingtons-50-best-swimming-holes
+* [Sammamish](https://www.yelp.com/search?find_desc=swimming+lakes&find_loc=Sammamish%2C+WA)
+* [50 swimming locations](https://www.outdoorproject.com/travel/washingtons-50-best-swimming-holes)
+* [Water temperature](https://green2.kingcounty.gov/swimbeach)
