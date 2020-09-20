@@ -1,6 +1,6 @@
-# 怎麼還不愛
+# 怎么还不爱
 
-怎麼還不愛 / Zěnme hái bù ài / Why Not Love
+怎么还不爱 / Zěnme hái bù ài / Why Not Love
 
 <div class="video-container">
   <iframe
