@@ -9,3 +9,4 @@
 * [一個人 / Bizarre Love Triangle](bizarre-love-triangle/)
 * [娘娘驾到 / Niang Niang Jia Dao](niang-niang-jia-dao/)
 * [我的秘密 / Wǒ de mìmì](wo-de-mi-mi/)
+* [朋友 / Péngyǒu / Friend ](peng-you/)
