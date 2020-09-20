@@ -8,8 +8,7 @@
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
 * [How to build a product](build-product/)
-* [How to build innovation engine](innovation-engine/)
-:xa
+* [How to create an innovation engine](innovation-engine/)
 * [Liberating Structures](liberating-structures/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
