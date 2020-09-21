@@ -10,6 +10,7 @@
 </div>
 
 ```
+
 是你的到來 讓我的心快跳出來
 Shì nǐ de dàolái ràng wǒ de xīn kuài tiào chūlái
 Your arrival made my heart jump out.
@@ -44,6 +45,8 @@ Hm! Waiting is free from anxiety.
 Bùpà lùshang duōme dǔsè
 I’m not afraid that there are a lot of roadblocks.
 
+---
+
 我還沒有答案
 Wǒ hái méiyǒu dáàn
 I don’t have an answer yet.
@@ -56,9 +59,14 @@ Maybe intimacy is just something you’re used to.
 Bìng méiyǒu yìyì bùshì xǐhuan bùshì ànshì nǐ de ài
 There’s no special meaning, it’s not love, it’s not a hint of your love.
 
+---
+
 我也還沒有勝算
 Wǒ yě hái méiyǒu shèngsuàn
 I’m also not sure of my success.
+
+---
+(Together)
 
 一百次彩排 在心中對你完全坦白
 Yībǎi cì cǎipái zài xīnzhōng duì nǐ wánquán tǎnbái
@@ -84,6 +92,8 @@ Why aren’t we in love yet?
 Àimèi yǒudiǎn fán ràng rén jìntuìliǎngnán
 Ambiguity is a bit annoying; it makes people feel trapped.
 
+---
+
 仔細的看 你PO的每條動態
 Zǐxì de kàn nǐ PO de měi tiáo dòngtài
 I carefully read every status update you post.
@@ -95,6 +105,8 @@ I want to confirm that there’s no other ambiguous partner by your side.
 我的留言 你回最快
 Wǒ de liúyán nǐ huí zuì kuài
 You reply fastest to my comments.
+
+---
 
 喜歡瀏覽有你在的 每張照片
 Xǐhuan liúlǎn yǒu nǐ zài de měi zhāng zhàopiàn
@@ -112,6 +124,8 @@ I can still recognize the look that entrances me.
 Bèi nǐ qǔxiào de fā dāi dōu shì yīnwèi nǐ tài hǎokàn
 The blank stares that you tease me about are because you’re too beautiful.
 
+---
+
 我還沒有答案
 Wǒ hái méiyǒu dáàn
 I don’t have an answer yet.
@@ -123,6 +137,9 @@ Maybe intimacy is just something you’re used to.
 並沒有意義 不是喜歡 不是暗示你的愛
 Bìng méiyǒu yìyì bùshì xǐhuan bùshì ànshì nǐ de ài
 There’s no special meaning, it’s not love, it’s not a hint of your love.
+
+---
+(together)
 
 我也還沒有勝算
 Wǒ yě hái méiyǒu shèngsuàn
@@ -163,6 +180,7 @@ Why am I hesitating?
 Oh!是否你也覺得該去愛
 Oh shìfǒu nǐ yě juéde gāi qù ài
 Oh! Do you also think we should fall in love?
+
 
 就去愛 就去愛
 Jiù qù ài jiù qù ài
