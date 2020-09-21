@@ -11,23 +11,25 @@
 
 ```
 是你的到來 讓我的心快跳出來
-Shì nǐ de dào lái ràng wǒ de xīn kuài tiào chū lái
+Shì nǐ de dàolái ràng wǒ de xīn kuài tiào chūlái
 Your arrival made my heart jump out.
 
 好快 好亂 好甜 好煩
-Hǎo kuài hǎo luàn hǎo tián hǎo fán
+Hǎokuài hǎoluàn hǎotián hǎofán
 It’s beating so quickly, so chaotically, so sweetly, so annoyingly.
 
 嘿！是不能不看 怕被看穿
-Hēi shì bù néng bù kàn pà bèi kàn chuān
+Hēi shì bùnéng bù kàn pà bèi kànchuān
 Hey! I can’t stop looking, but I’m afraid to be seen through
 
 我走開
 Wǒ zǒu kāi
 So I leave
 
+---
+
 說不出 你太吸引我 才走過來
-Shuō bu chū nǐ tài xī yǐn wǒ cái zǒu guò lái
+Shuō bu chū nǐ tài xīyǐn wǒ cái zǒu guòlái
 I can’t tell you that I walked over because you’re too attractive.
 
 左轉 右拐 拐了好幾個彎
@@ -35,131 +37,132 @@ Zuǒ zhuǎn yòu guǎi guǎi le hǎo jǐ ge wān
 I turned left and turned right; I made many turns.
 
 嗯！踏實的等待
-Èn tā shi de děng dài
+Èn tāshi de děngdài
 Hm! Waiting is free from anxiety.
 
 不怕路上多麼堵塞
-Bù pà lù shang duō me dǔ sè
+Bùpà lùshang duōme dǔsè
 I’m not afraid that there are a lot of roadblocks.
+```
 
 我還沒有答案
-Wǒ hái méi yǒu dá àn
+Wǒ hái méiyǒu dáàn
 I don’t have an answer yet.
 
 也許貼心只是你的習慣
-Yě xǔ tiē xīn zhǐ shì nǐ de xí guàn
+Yěxǔ tiēxīn zhǐshì nǐ de xíguàn
 Maybe intimacy is just something you’re used to.
 
 並沒有意義 不是喜歡 不是暗示你的愛
-Bìng méi yǒu yì yì bù shì xǐ huan bù shì àn shì nǐ de ài
+Bìng méiyǒu yìyì bùshì xǐhuan bùshì ànshì nǐ de ài
 There’s no special meaning, it’s not love, it’s not a hint of your love.
 
 我也還沒有勝算
-Wǒ yě hái méi yǒu shèng suàn
+Wǒ yě hái méiyǒu shèngsuàn
 I’m also not sure of my success.
 
 一百次彩排 在心中對你完全坦白
-Yī bǎi cì cǎi pái zài xīn zhōng duì nǐ wán quán tǎn bái
+Yībǎi cì cǎipái zài xīnzhōng duì nǐ wánquán tǎnbái
 In my heart, I’ve rehearsed a hundred times how to confess to you.
 
 什麼開場白 才可以取代 say hi
-Shén me kāi chǎng bái cái kě yǐ qǔ dài say hi
+Shénme kāi chǎngbái cái kěyǐ qǔdài say hi
 What kind of opening can replace just saying hi?
 
 我們怎麼還不愛
-Wǒ men zěn me hái bù ài
+Wǒmen zěnme hái bù ài
 Why aren’t we in love yet?
 
 是怕受傷害 還是怕太愛
-Shì pà shòu shāng hài hái shi pà tài ài
+Shì pà shòu shānghài háishi pà tài ài
 Are we afraid of getting hurt or falling too deeply in love?
 
 我們怎麼還不愛
-Wǒ men zěn me hái bù ài
+Wǒmen zěnme hái bù ài
 Why aren’t we in love yet?
 
 曖昧有點煩 讓人進退兩難
-Ài mèi yǒu diǎn fán ràng rén jìn tuì liǎng nán
+Àimèi yǒudiǎn fán ràng rén jìntuìliǎngnán
 Ambiguity is a bit annoying; it makes people feel trapped.
 
 仔細的看 你PO的每條動態
-Zǐ xì de kàn nǐ PO de měi tiáo dòng tài
+Zǐxì de kàn nǐ PO de měi tiáo dòngtài
 I carefully read every status update you post.
 
 想要確認你身邊 沒有曖昧的其他對象啊
-Xiǎng yào què rèn nǐ shēn biān méi yǒu ài mèi de qí tā duì xiàng ā
+Xiǎng yào quèrèn nǐ shēnbiān méiyǒu àimèi de qítā duìxiàng ā
 I want to confirm that there’s no other ambiguous partner by your side.
 
 我的留言 你回最快
-Wǒ de liú yán nǐ huí zuì kuài
+Wǒ de liúyán nǐ huí zuì kuài
 You reply fastest to my comments.
 
 喜歡瀏覽有你在的 每張照片
-Xǐ huan liú lǎn yǒu nǐ zài de měi zhāng zhào piàn
+Xǐhuan liúlǎn yǒu nǐ zài de měi zhāng zhàopiàn
 I like browsing through each of your pictures.
 
 什麼裝扮都認得出來
-Shén me zhuāng bàn dōu rèn de chū lái
+Shén me zhuāngbàn dōu rènde chūlái
 No matter how you dress up,
 
 讓我出神的神態
-Ràng wǒ chū shén de shén tài
+Ràng wǒ chūshén de shéntài
 I can still recognize the look that entrances me.
 
 被你取笑的發呆 都是因為你太好看
-Bèi nǐ qǔ xiào de fā dāi dōu shì yīn wèi nǐ tài hǎo kàn
+Bèi nǐ qǔxiào de fā dāi dōu shì yīnwèi nǐ tài hǎokàn
 The blank stares that you tease me about are because you’re too beautiful.
 
 我還沒有答案
-Wǒ hái méi yǒu dá àn
+Wǒ hái méiyǒu dáàn
 I don’t have an answer yet.
 
 也許貼心只是你的習慣
-Yě xǔ tiē xīn zhǐ shì nǐ de xí guàn
+Yěxǔ tiēxīn zhǐshì nǐ de xíguàn
 Maybe intimacy is just something you’re used to.
 
 並沒有意義 不是喜歡 不是暗示你的愛
-Bìng méi yǒu yì yì bù shì xǐ huan bù shì àn shì nǐ de ài
+Bìng méiyǒu yìyì bùshì xǐhuan bùshì ànshì nǐ de ài
 There’s no special meaning, it’s not love, it’s not a hint of your love.
 
 我也還沒有勝算
-Wǒ yě hái méi yǒu shèng suàn
+Wǒ yě hái méiyǒu shèngsuàn
 I’m also not sure of my success.
 
 一百次彩排 在心中對你完全坦白
-Yī bǎi cì cǎi pái zài xīn zhōng duì nǐ wán quán tǎn bái
+Yībǎi cì cǎipái zài xīnzhōng duì nǐ wánquán tǎnbái
 In my heart, I’ve rehearsed a hundred times how to confess to you.
 
 什麼開場白 才可以取代 say hi
-Shén me kāi chǎng bái cái kě yǐ qǔ dài say hi
+Shénme kāichǎngbái cái kěyǐ qǔdài say hi
 What kind of opening can replace just saying hi?
 
 我們怎麼還不愛
-Wǒ men zěn me hái bù ài
+Wǒmen zěnme hái bù ài
 Why aren’t we in love yet?
 
 是怕受傷害 還是怕太愛
-Shì pà shòu shāng hài hái shi pà tài ài
+Shì pà shòu shānghài háishi pà tài ài
 Are we afraid of getting hurt or falling too deeply in love?
 
 我們怎麼還不愛
-Wǒ men zěn me hái bù ài
+Wǒmen zěnme hái bù ài
 Why aren’t we in love yet?
 
 曖昧有點煩 讓人進退兩難
-Ài mèi yǒu diǎn fán ràng rén jìn tuì liǎng nán
+Àimèi yǒudiǎn fán ràng rén jìntuìliǎngnán
 Ambiguity is a bit annoying; it makes people feel trapped.
 
 你怎麼還不愛
-Nǐ zěn me hái bù ài
+Nǐ zěnme hái bù ài
 Why aren’t you in love?
 
 我怎麼還在徘徊
-Wǒ zěn me hái zài pái huái
+Wǒ zěnme hái zài páihuái
 Why am I hesitating?
 
 Oh!是否你也覺得該去愛
-Oh shì fǒu nǐ yě jué de gāi qù ài
+Oh shìfǒu nǐ yě juéde gāi qù ài
 Oh! Do you also think we should fall in love?
 
 就去愛 就去愛
@@ -167,35 +170,35 @@ Jiù qù ài jiù qù ài
 Just fall in love, just fall in love…
 
 什麼開場白 才可以取代 say hi
-Shén me kāi chǎng bái cái kě yǐ qǔ dài say hi
+Shénme kāichǎngbái cái kěyǐ qǔdài say hi
 What kind of opening can replace just saying hi?
 
 我們怎麼還不愛
-Wǒ men zěn me hái bù ài
+Wǒmen zěnme hái bù ài
 Why aren’t we in love yet?
 
 是怕受傷害 還是怕太愛
-Shì pà shòu shāng hài hái shi pà tài ài
+Shì pà shòu shānghài háishi pà tài ài
 Are we afraid of getting hurt or falling too deeply in love?
 
 我們怎麼還不愛
-Wǒ men zěn me hái bù ài
+Wǒmen zěnme hái bù ài
 Why aren’t we in love yet?
 
 曖昧有點煩 讓人進退兩難
-Ài mèi yǒu diǎn fán ràng rén jìn tuì liǎng nán
+Àimèi yǒudiǎn fán ràng rén jìntuìliǎngnán
 Ambiguity is a bit annoying; it makes people feel trapped.
 
 你怎麼還不愛
-Nǐ zěn me hái bù ài
+Nǐzěn me hái bù ài
 Why aren’t you in love?
 
 我怎麼還在徘徊
-Wǒ zěn me hái zài pái huái
+Wǒzěn me hái zài páihuái
 Why am I hesitating?
 
 Oh!是否你也覺得該去愛
-Oh shì fǒu nǐ yě jué de gāi qù ài
+Oh shìfǒu nǐ yě juéde gāi qù ài
 Oh! Do you also think we should fall in love?
 ```
 
