@@ -43,7 +43,6 @@ Hm! Waiting is free from anxiety.
 不怕路上多麼堵塞
 Bùpà lùshang duōme dǔsè
 I’m not afraid that there are a lot of roadblocks.
-```
 
 我還沒有答案
 Wǒ hái méiyǒu dáàn
