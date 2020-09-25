@@ -3,13 +3,13 @@
 剛好遇見你 / Gānghǎo yùjiàn nǐ / Just met you
 
 More choreographies:
-* [Funk](https://www.youtube.com/watch?v=iw6aw3RMV4M)
+* [Jazz](https://www.youtube.com/watch?v=6pRnCah-Bh0)
 * [Hip hop](https://www.youtube.com/watch?v=MsENOSYgDK4)
 * [Disco](https://www.youtube.com/watch?v=i7rW20ngrSQ)
 
 <div class="video-container">
   <iframe
-  src="https://www.youtube.com/embed/6pRnCah-Bh0"
+  src="https://www.youtube.com/embed/iw6aw3RMV4M"
   allowfullscreen="allowfullscreen">
   </iframe>
 </div>
