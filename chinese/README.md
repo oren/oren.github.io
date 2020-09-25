@@ -1,7 +1,7 @@
 # Learn Chinese
 
 ## Table of Contents
-* [Videos](videos/)
+* [Videos](class/)
 * [Songs](songs/)
 * [Words](words/)
 * [Pinyin](pinyin/)
