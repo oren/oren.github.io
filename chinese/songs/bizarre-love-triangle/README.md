@@ -4,6 +4,7 @@
 
 Choreographies:
 * [Jazz](https://www.youtube.com/watch?v=PQdO5qYSMFM)
+* [Jazz](https://www.youtube.com/watch?v=AR_8hNzWpMo)
 
 <div class="video-container">
   <iframe
