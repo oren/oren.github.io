@@ -2,6 +2,9 @@
 
 一個人 / Bizarre Love Triangle
 
+Choreographies:
+* [Jazz](https://www.youtube.com/watch?v=PQdO5qYSMFM)
+
 <div class="video-container">
   <iframe
   src="https://www.youtube.com/embed/WkeXutGKlNU"
