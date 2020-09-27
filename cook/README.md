@@ -13,6 +13,7 @@ A CookBook for Strength Athletes
 * [Chicken Corn Chowder](chicken-corn-chowder/)
 * [Chicken Salmon Beef](chicken-salmon-beef/)
 * [Chicken Salmon](chicken-salmon/)
+* [Chicken Soup](chicken-soup/)
 * [Chili](chili/)
 * [Indian Dal](dal/)
 * [Cottage Cheese Pancakes](cottage-cheese-pancakes/)
