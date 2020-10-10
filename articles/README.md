@@ -12,6 +12,7 @@
 * [Liberating Structures](liberating-structures/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
+* [How to lead leaders?](lead-leaders/)
 
 Work in Progress:
 
