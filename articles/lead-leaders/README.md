@@ -66,3 +66,11 @@ Striving for improvement
 * Team has a roadmap for how to evolve their systems/solutions
 * Team makes the organization & company better, not just themselves
 
+## 4. Notes
+
+It's important to note that high performing organization is the goal and not high performing teams. One practical mechanism to help with that is Relational Coordination (RC). The idea is to visualize the relationships between the teams in an org. Each relationship is scored on the following: shared purpose, shared knowledge, and mutual respect. It was created by Jody Hoffer Gittell, a professor at Brandies University.
+
+Resources:
+* [TED talk (17 min)](https://www.youtube.com/watch?v=X7nL5RC5kdE)
+* [Workshop (42 min)](https://www.youtube.com/watch?v=2beH31yvif4)
+* [Liberating Structure that helps facilitating RC](http://www.liberatingstructures.com/relational-coordination)
