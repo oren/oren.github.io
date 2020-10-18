@@ -54,24 +54,30 @@
 
 <article class="markdown-body" style="font-size: 20px;">
 	<h1>Production Web Service in 1 minute</h1>
-<pre><code>rustup install nightly
+<p>Install Rust</p>
+<pre><code>curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rustup install nightly
 rustup default nightly
-git clone https://github.com/LukeMathWalker/zero-to-production
+</code></pre>
+<p>Download the Web Service code</p>
+<pre><code>git clone https://github.com/LukeMathWalker/zero-to-production
 cd chapter04
 cargo build
 cd ..
-./target/debug/chapter04
+</code></pre>
+<p>Run the Web Service</p>
+<pre><code>./target/debug/chapter04
 </code></pre>
 <p>Test that the service is running:</p>
 <pre><code>curl localhost:8000/health_check
 </code></pre>
 <p>Add email subscription</p>
-<pre><code>curl -d 'email=johndoe@gmail.com&amp;name=John Doe' localhost:8000/subscriptions
+<pre><code>curl -d 'email=johndoe@gmail.com&amp;name=John%20Doe' localhost:8000/subscriptions
 </code></pre>
-<h2>Endpoint</h2>
+<h2>Web Service API</h2>
 <ul>
-<li>GET /health_check</li>
-<li>POST /subscriptions</li>
+<li>Ensure that the Web Service is running: GET /health_check</li>
+<li>Add an email subscription: POST /subscriptions</li>
 </ul>
 
 </article>
