@@ -1,6 +1,7 @@
 # Rust Programming Language
 
 * [Hello World](hello-world/)
+* [Production Web Service in 1 min](web-service/)
 * [Build a CLI](cli/)
 * [Good Learning Resources](learn/)
 * [Use with Neovim](neovim/)
