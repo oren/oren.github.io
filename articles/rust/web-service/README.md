@@ -58,7 +58,7 @@ You should see the following:
 
 7. Add email subscription
 ```
-curl -d 'email=johndoe@gmail.com&name=John%20Doe' localhost:8000/subscriptions -v
+curl -d 'email=johndoe%40gmail.com&name=John%20Doe' localhost:8000/subscriptions -v
 ```
 
 You should see the following:

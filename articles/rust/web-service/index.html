@@ -111,7 +111,7 @@ SKIP_DOCKER=true ./scripts/init_db.sh
 <ol start="7">
 <li>Add email subscription</li>
 </ol>
-<pre><code>curl -d 'email=johndoe@gmail.com&amp;name=John%20Doe' localhost:8000/subscriptions -v
+<pre><code>curl -d 'email=johndoe%40gmail.com&amp;name=John%20Doe' localhost:8000/subscriptions -v
 </code></pre>
 <p>You should see the following:</p>
 <pre><code>*   Trying 127.0.0.1...
