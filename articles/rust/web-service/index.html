@@ -47,20 +47,31 @@
 
 <div class="header">
 	<ul>
-<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/rust/">Rust</a></li>
 </ul>
 
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Rust Programming Language</h1>
+	<h1>Production Web Service in 1 minute</h1>
+<pre><code>rustup install nightly
+rustup default nightly
+git clone https://github.com/LukeMathWalker/zero-to-production
+cd chapter04
+cargo build
+cd ..
+./target/debug/chapter04
+</code></pre>
+<p>Test that the service is running:</p>
+<pre><code>curl localhost:8000/health_check
+</code></pre>
+<p>Add email subscription</p>
+<pre><code>curl -d 'email=johndoe@gmail.com&amp;name=John Doe' localhost:8000/subscriptions
+</code></pre>
+<h2>Endpoint</h2>
 <ul>
-<li><a href="hello-world/">Hello World</a></li>
-<li><a href="web-service/">Production Web Service in 1 min</a></li>
-<li><a href="cli/">Build a CLI</a></li>
-<li><a href="learn/">Good Learning Resources</a></li>
-<li><a href="neovim/">Use with Neovim</a></li>
-<li><a href="https://www.youtube.com/playlist?list=PLezlz_6l_jm29rqinMjxf339cVPkXHD4h">CS Course</a></li>
+<li>GET /health_check</li>
+<li>POST /subscriptions</li>
 </ul>
 
 </article>
