@@ -6,6 +6,7 @@ A CookBook for Strength Athletes
 * [Beets Salad](beets-salad/)
 * [Bibimbap](bibimbap/)
 * [Bodybuilders Sushi](bodybuilders-sushi/)
+* [Butternut Squash Soup](butternut-squash-soup/)
 * [Cabbage Salad](cabbage-salad/)
 * [Cauliflower Pancakes](cauliflower-pancakes/)
 * [Cauliflower Soup](cauliflower-soup/)
