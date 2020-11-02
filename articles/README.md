@@ -13,6 +13,7 @@
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
 * [How to lead leaders?](lead-leaders/)
+* [How to write Business Plan](business-plan/)
 
 Work in Progress:
 
