@@ -1,4 +1,4 @@
-# Business Plan
+# Business Plan Template
 
 Score each section based on 1 (lowest) to 5 (highest)
 
