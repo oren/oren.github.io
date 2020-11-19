@@ -12,3 +12,4 @@
 * [我的秘密 / Wǒ de mìmì](wo-de-mi-mi/)
 * [學貓叫/ Xué māo jiào / Learn to Meow](learn-to-meow/)
 * [漂洋过海来看你 / Piāo yángguò hǎi lái kàn nǐ / Across the Ocean to See You](across-the-ocean/)
+* [平凡之路 / Píngfán zhī lù / Ordinary road](ordinary-road/)
