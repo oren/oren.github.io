@@ -4,7 +4,6 @@
 
 ## 1. Writing and Speaking
 * [Articles](articles/)
-* [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
 * [Talks](talks/)
 
 ## 2. Fun
