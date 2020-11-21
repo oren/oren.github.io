@@ -20,6 +20,8 @@ Work in Progress:
 * [Better Decision Making](decision-making/)
 * [Measure your life](measure-your-life/)
 * [Cognitive Biases](cognitive-biases/)
+* [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
+
 
 ## 2. Relationships and Communication
 * [Empathy](empathy/)
