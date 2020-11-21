@@ -35,6 +35,7 @@ A CookBook for Strength Athletes
 * [Sesame Balls](sesame-balls/)
 * [Spaghetti Squash](spaghetti-squash/)
 * [Spring Rolls](spring-rolls/)
+* [Acron Squash and Quinoa](squash-quinoa/)
 * [Steamed Eggs](steamed-eggs/)
 * [Stuffed Bittermelon](stuffed-bittermelon/)
 * [Stuffed Chicken](stuffed-chicken/)
