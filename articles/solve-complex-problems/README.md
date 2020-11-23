@@ -24,3 +24,4 @@ Tackle the root causes of a challenge and have systemic impact, rather than figh
 * [Workshop design and facilitation](https://www.collaboratiohelvetica.ch/services-2/2019/2/17/workshop-design-and-facilitation)
 * [Example for a workshop](https://static1.squarespace.com/static/58ba9bbdd1758e6cdb80fb67/t/5df100a6d5d15f7ed7b4c3dd/1576075431051/A+spark+for+change+-+Gender+Dialogue+2019.pdf)
 * [Principles](https://www.collaboratiohelvetica.ch/en/our-principles)
+* [Catalyst Spiderweb](https://www.collaboratiohelvetica.ch/en/blog/2019/10/22/catalyst-spiderweb)
