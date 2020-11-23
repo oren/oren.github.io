@@ -1,6 +1,4 @@
 # How to solve complex problems?
-Note: this article is work in progress. It's in early stages of writing.
-
 This is a crash course on [Social Lab](https://www.collaboratiohelvetica.ch/en/blog/2020/4/15/social-innovation-lab-canvas)
 
 ## What?
