@@ -21,6 +21,7 @@ Work in Progress:
 * [Measure your life](measure-your-life/)
 * [Cognitive Biases](cognitive-biases/)
 * [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
+* [Solve Complex Problems](solve-complex-problems/)
 
 
 ## 2. Relationships and Communication
