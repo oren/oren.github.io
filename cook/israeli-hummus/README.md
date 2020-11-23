@@ -1,7 +1,7 @@
 ## Israeli Hummus
 
-![hummus](hummus.png)
-![hummus 2](hummus2.jpg)
+![hummus](hummus.jpg)
+![hummus 2](hummus2.jpeg)
 
 **Ingredients:**
 
