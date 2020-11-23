@@ -12,8 +12,10 @@ Tackle the root causes of a challenge and have systemic impact, rather than figh
 * Your [calling question](https://www.collaboratiohelvetica.ch/en/blog/2019/11/26/the-art-of-powerful-calling-and-guiding-questions) should be formulated in a way that it gives a certain strategic direction and scope, contributing to clarifying who should be part of the Lab. It therefore needs to be formulated in such a way that it does not de-facto excludes some of the stakeholders you absolutely must include.
 * In order to design the process, the defining elements include who should be there, where it ought to take place, and how much can you invest in accommodations. For this step, as it is a whole field and profession in and of itself, we recommend you refer to a person whose expertise is designing and facilitating such processes, whom we call Practitioners.
 
-## Definitions
+## Vocabulary
 * Types of challenge: simple, complicated, complex, and chaotic
+* [System Thinking](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
+* Design Thinking
 
 ## Read more:
 * [Social Innovation Lab Canvas](https://www.collaboratiohelvetica.ch/en/blog/2020/4/15/social-innovation-lab-canvas)
