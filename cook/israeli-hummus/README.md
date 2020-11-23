@@ -16,3 +16,8 @@
 * Serve with all the spices and silantro
 
 Note: you can sauté the onion and garlic if you want
+
+### Variations
+If you want Sexy Hummus (pink), add steamed beets. I will score you between 1-5 (1 less accurate, 5 most accurate) by how close you are to Hello Kitty pink (hair bow).
+
+![hello kitty](hello-kitty.jpg)
