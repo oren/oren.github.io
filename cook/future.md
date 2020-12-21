@@ -12,3 +12,6 @@
 ## I made the following:
 
 * [Instant Pot Butternut Squash Soup](https://www.gimmesomeoven.com/instant-pot-butternut-squash-soup/)
+* Baked Delicta Squash with olive oil. try with miso, ginger, honey.
+* https://www.reddit.com/r/slowcooking/comments/kgx36y/moroccan_chickpea_stew/
+* Kaboch Korean soup. something like https://futuredish.com/korean-pumpkin-soup
