@@ -66,6 +66,7 @@ Work in Progress:
 
 ## 7. Tools
 * [Git](git/)
+* [Element](element/)
 * [Text-based Gmail](text-based-gmail/)
 * [Using Signal in the terminal](signal-terminal/)
 * [pass - Password Manager](pass/)
