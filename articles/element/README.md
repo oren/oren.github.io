@@ -2,6 +2,8 @@
 
 # Element
 
+![element](element.png)
+
 ## 1. What is Element?
 [Element](https://element.io/) is a messenger app similar to WhatsApp, SMS, Signal, and Facebook Messenger. The difference is it is more private, and you can use other applications if you want to. In addition it's hard for governments to shut it down since no single company owns it like Facebook or Apple.
 
