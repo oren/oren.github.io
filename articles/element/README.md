@@ -5,7 +5,7 @@
 ![element](element.png)
 
 ## 1. What is Element?
-[Element](https://element.io/) is a messenger app similar to WhatsApp, SMS, Signal, and Facebook Messenger. The difference is it is more private, and you can use other applications if you want to. In addition it's hard for governments to shut it down since no single company owns it like Facebook or Apple.
+[Element](https://element.io/) is a messenger app similar to WhatsApp, SMS, Signal, and Facebook Messenger. The difference is it is [more private](https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom), and you can use other applications if you want to. In addition it's hard for governments to shut it down since no single company owns it like Facebook or Apple.
 
 ## 2. Why you should care?
 Because you value freedom. Think about it. You can be a Gmail user and send an email to a Hotmail user. But you can't send WhatsApp message to a friend that is using Facebook Messenger. Why can't messenger apps be like email apps?
