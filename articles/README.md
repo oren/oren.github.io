@@ -4,16 +4,17 @@
 
 ## 1. Leadership
 * [Nonviolent Communication](nvc/)
-* [The Art of Strategy](art-of-strategy/)
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
 * [How to build a product](build-product/)
 * [How to create an innovation engine](innovation-engine/)
 * [Liberating Structures](liberating-structures/)
+* [The Art of Strategy](art-of-strategy/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
 * [How to lead leaders?](lead-leaders/)
 * [How to write Business Plan](business-plan/)
+* [Reveal what matters](reveal-what-matters/)
 
 Work in Progress:
 
