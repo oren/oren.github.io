@@ -1,0 +1,114 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	.sidenav {
+		font-size: 14px;
+		float: left;
+		height: 100%;
+		width: 160px;
+		list-style: none;
+	}
+
+	.sidenav ul {
+		list-style: none;
+	}
+
+	article {
+		float: right;
+		max-width:600px
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+
+		.sidenav {
+			display: none;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<div class="sidenav">
+	
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<h1>Manage Tmux</h1>
+<h2>What in Tmuxinator?</h2>
+<p><a href="https://github.com/tmuxinator/tmuxinator">Tmuxinator</a> is a tool that automate the creation of multiple tmux sessions.</p>
+<h2>Install ith</h2>
+<pre><code>sudo aptitude install tmuxinator
+</code></pre>
+<h2>Create a new project file and open it in your editor</h2>
+<pre><code>tmuxinator new dev
+</code></pre>
+<p>Your text editor will open with a default config. Clean, add the text bellow, and save the file.</p>
+<pre><code>name: dev
+root: ~/p/site-generator
+
+windows:
+  - code:
+      layout: even-horizontal
+      panes:
+        - vim src/main.rs
+        -
+  - other:
+</code></pre>
+<p>We created a new project and named it dev. You can as many projects as you want with different names.</p>
+<h2>Start Tmux session</h2>
+<pre><code>tmuxinator start dev
+</code></pre>
+<p>This command will start a new session with two windows and the first one will have a two panes. The config file is in ~/.config/tmuxinator/dev.yml. The project name is dev. You can also run this without the start argument: <code>tmuxinator dev</code>.</p>
+<h2>List all projects</h2>
+<pre><code>tmuxinator ls
+
+tmuxinator projects:
+dev      notes    interviews     website
+</code></pre>
+
+</article>
