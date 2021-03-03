@@ -66,8 +66,9 @@ Work in Progress:
 * [Interviews](interviews/)
 
 ## 7. Tools
-* [Git](git/)
 * [Element](element/)
+* [Manage Tmux](manage-tmux/)
+* [Git](git/)
 * [Text-based Gmail](text-based-gmail/)
 * [Using Signal in the terminal](signal-terminal/)
 * [pass - Password Manager](pass/)
