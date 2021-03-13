@@ -7,7 +7,6 @@
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
 * [How to build a product](build-product/)
-* [How to create an innovation engine](innovation-engine/)
 * [Liberating Structures](liberating-structures/)
 * [The Art of Strategy](art-of-strategy/)
 * [Spontaneous Speaking](spontaneous-speaking/)
@@ -23,6 +22,8 @@ Work in Progress:
 * [Cognitive Biases](cognitive-biases/)
 * [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
 * [Solve Complex Problems](solve-complex-problems/)
+* [How to create an innovation engine](innovation-engine/)
+* [What is a good strategy?](good-strategy/)
 
 ## 2. Relationships and Communication
 * [Empathy](empathy/)
