@@ -1,4 +1,6 @@
-# What is a good strategy?
+# How to create a good strategy?
+
+![strategy](good-strategy.png)
 
 Document state: in progress.
 
@@ -15,7 +17,7 @@ Action - implementation details of the policy.
 
 ## What is a good strategy?
 Two aspects of a good strategy:
-1. A good strategy creates strength coordinates policy and actions.
+1. A good strategy creates strength and coordinates policy and actions.
 2. The creation of new strength through subtle shifts in viewpoints.
 
 Advantages such as being a first mover, scale, scope, network effects, reputation, patents, brands, and many others are useful but they doesn't make a strategy good.
