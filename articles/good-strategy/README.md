@@ -46,6 +46,13 @@ This is not a strategy since it's doesn't include a diagnosis of the probelm and
 
 This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
 
+### Strategy C:
+
+* Challenge: the unemployment rate in the US during Covid reached 14.4%. How to lower it back to 3.8%?
+* Statement: we need to drop the unemployment rate to a single digit and we'll do that by working together as a strong nation.
+
+This is not a strategy. It's an objective. There is no diagnosis of the problem, no guiding policy, and no coherent actions.
+
 ## 5. Examples of a Good Strategy
 *Note: This section is under development*
 
