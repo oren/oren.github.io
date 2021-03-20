@@ -15,7 +15,7 @@ Two aspects of a good strategy:
 1. It coordinates policy and actions using objectives.
 2. It enables new strength through subtle shifts in viewpoints.
 
-Advantages such as being a first mover, scale, scope, network effects, reputation, patents, brands, and many others are useful but they doesn't make a strategy good.
+Advantages such as being a first mover, scale, scope, network effects, reputation, patents, brands, and many others are useful but they don't make a strategy good.
 
 ## 3. Sources of power
 *Note: This section is under development*
