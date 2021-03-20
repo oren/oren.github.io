@@ -68,21 +68,21 @@ Part 1: Good and bad strategy
 * Chapter 5: The kernel of good strategy
 
 Part 2: Sources of power
-* Chapter 1: Using leverage
-* Chapter 2: Proximate objectives
-* Chapter 3: Chain-link systems
-* Chapter 4: Using design
-* Chapter 5: Focus
-* Chapter 6: Growth
-* Chapter 7: Using advantage
-* Chapter 8: Using dynamics
-* Chapter 9: Inertia and entropy
-* Chapter 10: Putting it together
+* Chapter 6: Using leverage
+* Chapter 7: Proximate objectives
+* Chapter 8: Chain-link systems
+* Chapter 9: Using design
+* Chapter 10: Focus
+* Chapter 11: Growth
+* Chapter 12: Using advantage
+* Chapter 13: Using dynamics
+* Chapter 14: Inertia and entropy
+* Chapter 15: Putting it together
 
 Part 3: Thinking like a strategist
-* Chapter 1: The science of strategy
-* Chapter 2: Using your head
-* Chapter 3: Keeping your head.
+* Chapter 16: The science of strategy
+* Chapter 17: Using your head
+* Chapter 18: Keeping your head.
 
 ### Resources
 * ['Good Strategy Bad Strategy' Book](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
