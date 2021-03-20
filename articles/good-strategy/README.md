@@ -30,7 +30,7 @@ Advantages such as being a first mover, scale, scope, network effects, reputatio
 * Using dynamics
 * Inertia and entropy
 
-## 4. Examples of Bad Strategy
+## 4. Examples of a Bad Strategy
 
 ### Strategy A:
 
@@ -46,7 +46,7 @@ This is not a strategy since it's doesn't include a diagnosis of the probelm and
 
 This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
 
-## 5. Examples of Bad Strategy
+## 5. Examples of a Good Strategy
 *Note: This section is under development*
 
 ## 6. Good Strategy Bad Strategy Book
