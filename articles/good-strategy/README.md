@@ -8,7 +8,7 @@
 A strategy have 3 components:
 * Diagnosis - what's the nature of the problem?
 * Guiding Policies - our basic approach to solve the problem.
-* Actions - implementation details of the policy.
+* Actions - implementation details of the policies.
 
 ## 2. What is a good strategy?
 Two aspects of a good strategy:
