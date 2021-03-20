@@ -1,41 +1,57 @@
+<!-- numbers -->
+
 # How to create a good strategy?
 
-![strategy](good-strategy.png)
+![strategy](strategy-kernel.png)
 
-Document state: in progress.
+## 1. What is a strategy?
+A strategy have 3 components:
+* Diagnosis - what's the nature of the problem?
+* Guiding Policies - our basic approach to solve the problem.
+* Actions - implementation details of the policy.
 
-Purpose: Summary of the book Good Strategy Bad Strategy.
-
-## What is a strategy?
-A strategy have 3 components: diagnosis, guiding policy, and coherent action.
-
-Diagnosis - what's the nature of the problem?
-
-Policy - our basic approach to solve the problem.
-
-Action - implementation details of the policy.
-
-## What is a good strategy?
+## 2. What is a good strategy?
 Two aspects of a good strategy:
-1. A good strategy creates strength and coordinates policy and actions.
-2. The creation of new strength through subtle shifts in viewpoints.
+1. It coordinates policy and actions using objectives.
+2. It enables new strength through subtle shifts in viewpoints.
 
 Advantages such as being a first mover, scale, scope, network effects, reputation, patents, brands, and many others are useful but they doesn't make a strategy good.
 
-## Examples
+## 3. Sources of power
+*Note: This section is under development*
 
-Why are 40% of students in LA are dropping out?
-let's hire better teachers. lets buy better books.
-is this the problem?
+* Using leverage
+* Proximate objectives
+* Chain-link systems
+* Using design
+* Focus
+* Growth
+* Using advantage
+* Using dynamics
+* Inertia and entropy
 
-Why did Greece borrowed more money than they can pay back?
-Mistake? Didn't do the math? Did they anticipate growth than never happened?
+## 4. Examples of Bad Strategy
 
-Why would anyone lend them money?
-The problem won't be solved by bailing out the banks or Greece. It's a systemic problem.
+### Strategy A:
 
+* Challenge: 40% of students in LA are dropping out. How to improve it?
+* Actions: let's hire better teachers or let's buy better books.
 
-## Table of Contents:
+This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
+
+### Strategy B:
+
+* Challenge: Greece borrowed more money than they can pay back. How to prevent that in the future?
+* Actions: bail out the banks, do a better math before borrowing money or don't anticipate growth if there was no growth in the last 10 years.
+
+This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
+
+## 5. Examples of Bad Strategy
+*Note: This section is under development*
+
+## 6. Good Strategy Bad Strategy Book
+
+### Table of contents
 
 Part 1: Good and bad strategy
 * Chapter 1: Good strategy is unexpected
@@ -61,5 +77,6 @@ Part 3: Thinking like a strategist
 * Chapter 2: Using your head
 * Chapter 3: Keeping your head.
 
-## Resources
-* [1 Video by the Author of 'Good Strategy Bad Strategy'](https://www.youtube.com/watch?v=UZrTl16hZdk)
+### Resources
+* ['Good Strategy Bad Strategy' Book](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
+* [1 minute video by the Author of 'Good Strategy Bad Strategy'](https://www.youtube.com/watch?v=UZrTl16hZdk)

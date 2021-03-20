@@ -4,6 +4,7 @@
 
 ## 1. Leadership
 * [Nonviolent Communication](nvc/)
+* [What is a good strategy?](good-strategy/)
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
 * [How to build a product](build-product/)
@@ -23,7 +24,6 @@ Work in Progress:
 * [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
 * [Solve Complex Problems](solve-complex-problems/)
 * [How to create an innovation engine](innovation-engine/)
-* [What is a good strategy?](good-strategy/)
 
 ## 2. Relationships and Communication
 * [Empathy](empathy/)
