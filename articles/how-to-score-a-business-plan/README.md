@@ -2,7 +2,7 @@
 
 # How to Score a Business Plan
 
-A Business Plan is a short page of text. I willl send via text tomorrow and you will return a number between 0 and 24.
+A Business Plan is a short page of text. I will send via text tomorrow and you will return a number between 0 and 24.
 
 ![score](how-to-score-a-business-plan.png)
 
@@ -48,3 +48,24 @@ A Business Plan is a short page of text. I willl send via text tomorrow and you 
 * Does the entry have the potential to make a significant positive impact on society? Will it improve the quality of life for people and our planet and help contribute to a better, safer and more prosperous world?
 * Does the team discuss measurable efforts to minimize consumption, use, and byproduct waste, while bolstering profitability/cost containment?
 
+## 9. Exam For 'Business Plan Judge Certificate'
+
+**Question 1:** Business Plan A is 52233342 and Business Plan B is 02233340. Can you score each one?
+
+**Answer:** Business Plan A score is 24 (5+2+2+3+3+3+4+2) and Plan B score is 17 (5+2+2+3+3+3+4+2).
+
+---
+
+**Question 2:** What is the highest score Business Plan cat get?
+
+**Answer:** 24
+
+---
+
+**Question 3:** Business Plan A is missing Social Responsibility. What is the highest score Business Plan A can get?
+
+**Answer:** 22. If Social Responsibility missing, the Business Plan lost 2 scores.
+
+---
+
+If you answered correctly and you understand it, congratulations! You are a Business Plan Judge. Your first competition is [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/).
