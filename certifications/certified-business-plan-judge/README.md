@@ -4,7 +4,7 @@ Validate your business plan scoring skills with an industry-recognized credentia
 
 ## Training (5 minutes)
 
-A Business Plan is a document. You score it between 0 and 24. Spend only 5-10 minutes reading and scoring it.
+A Business plan is a document. You score it between 0 and 24. Spend only 5-10 minutes reading and scoring it.
 
 ![score](how-to-score-a-business-plan.png)
 
@@ -50,21 +50,21 @@ A Business Plan is a document. You score it between 0 and 24. Spend only 5-10 mi
 
 ## Exam (1 minutes)
 
-**Question 1:** What is the highest score Business Plan cat get?
+**Question 1:** What is the highest score a business plan cat get?
 
 **Answer:** 24. There are 24 yes no questions. Each 'yes' count as 1 score.
 
 ---
 
-**Question 2:** Business Plan A is missing Social Responsibility. What is the highest score Business Plan A can get?
+**Question 2:** A business plan nis missing Social Responsibility. What is the highest score business plan A can get?
 
 **Answer:** 22. If Social Responsibility missing, the Business Plan loses 2 scores.
 
 ---
 
-**Question 3:** Business Plan A is 52233342 and Business Plan B is 02233340. Score them.
+**Question 3:** Business plan A is 52233342 and pusiness Plan B is 02233340. Score them.
 
-**Answer:** 24 and 17. Business Plan A score is 24 (5+2+2+3+3+3+4+2) and Plan B score is 17 (0+2+2+3+3+3+4+0).
+**Answer:** 24 and 17. Business plan A score is 24 (5+2+2+3+3+3+4+2) and business plan B score is 17 (0+2+2+3+3+3+4+0).
 
 ---
 
