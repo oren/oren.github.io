@@ -4,6 +4,10 @@
 
 A Business Plan is a short page of text. I willl send via text tomorrow and you will return a number between 0 and 24.
 
+![score](how-to-score-a-business-plan.png)
+
+[Code for the diagram](https://oren.github.io/articles/business-plan/code/)
+
 ## 1. Overall Impression of the Executive Summary
 * Does the summary adequately describe the idea — does the idea make sense?
 * Has the team adequately described the pain in the marketplace?
@@ -43,3 +47,4 @@ A Business Plan is a short page of text. I willl send via text tomorrow and you 
 ## 8. Social Responsibility
 * Does the entry have the potential to make a significant positive impact on society? Will it improve the quality of life for people and our planet and help contribute to a better, safer and more prosperous world?
 * Does the team discuss measurable efforts to minimize consumption, use, and byproduct waste, while bolstering profitability/cost containment?
+
