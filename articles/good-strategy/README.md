@@ -8,7 +8,7 @@
 A strategy have 3 components:
 * Diagnosis - what's the nature of the problem?
 * Guiding Policies - our basic approach to solve the problem.
-* Actions - implementation details of the policies.
+* Coherent Actions - implementation details of the policies.
 
 ## 2. What is a good strategy?
 Two aspects of a good strategy:
@@ -17,17 +17,17 @@ Two aspects of a good strategy:
 
 Advantages such as being a first mover, scale, scope, network effects, reputation, patents, brands, and many others are useful but they don't make a strategy good.
 
-## 3. Sources of power
+## 3. Sources of power (Super Powers!)
 *Note: This section is under development*
 
-* Using leverage
+* Using leverage - find levereges in complex adaptive systems.
 * Proximate objectives
 * Chain-link systems
 * Using design
 * Focus
 * Growth
 * Using advantage
-* Using dynamics
+* Using dynamics - Start higher. Observe changes in the that gives you signals for emarging strategies. Examples: Cisco's Router. The power came from 100 lines of C code. IBM and AT&T, Silicon Valey, and Tokyo used the same super power in their strategies.
 * Inertia and entropy
 
 ## 4. Examples of a Bad Strategy
@@ -37,14 +37,14 @@ Advantages such as being a first mover, scale, scope, network effects, reputatio
 * Challenge: 40% of students in LA are dropping out. How to improve it?
 * Actions: let's hire better teachers or let's buy better books.
 
-This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
+Score: 0 out of 3. This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policies and coherent actions. Score: 0 out of 3.
 
 ### Strategy B:
 
 * Challenge: Greece borrowed more money than they can pay back. How to prevent that in the future?
 * Actions: bail out the banks, do a better math before borrowing money or don't anticipate growth if there was no growth in the last 10 years.
 
-This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
+Score: 0 out of 3. This is not a strategy since it's doesn't include a diagnosis of the probelm and also missing a guiding policy.
 
 ### Strategy C:
 
