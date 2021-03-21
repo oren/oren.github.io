@@ -1,5 +1,5 @@
 <!-- numbers -->
 
 # Certifacations
-* [Oren Certified Business Plan Judge]()
+* [Certified Business Plan Judge](certified-business-plan-judge/)
 
