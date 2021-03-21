@@ -4,6 +4,7 @@
 
 A Business Plan is a short page of text. I will send via text tomorrow and you will return a number between 0 and 24.
 
+![score](how-to-score-a-business-plan-small.png)
 ![score](how-to-score-a-business-plan.png)
 
 [Code for the diagram](https://oren.github.io/articles/how-to-score-abusiness-plan/code/)
