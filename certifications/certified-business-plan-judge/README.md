@@ -50,15 +50,15 @@ A Business Plan is a document. You score it between 0 and 24. Spend only 5-10 mi
 
 ## Exam (1 minutes)
 
-**Question 1:** Business Plan A is 52233342 and Business Plan B is 02233340. Can you score each one?
+**Question 1:** Business Plan A is 52233342 and Business Plan B is 02233340. Score them.
 
-**Answer:** Business Plan A score is 24 (5+2+2+3+3+3+4+2) and Plan B score is 17 (0+2+2+3+3+3+4+0).
+**Answer:** 24 and 17. Business Plan A score is 24 (5+2+2+3+3+3+4+2) and Plan B score is 17 (0+2+2+3+3+3+4+0).
 
 ---
 
 **Question 2:** What is the highest score Business Plan cat get?
 
-**Answer:** 24
+**Answer:** 24. There are 24 yes no questions. Each yes count as 1 score.
 
 ---
 
