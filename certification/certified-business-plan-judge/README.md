@@ -54,7 +54,7 @@ Validate your business and technical skills and expertise with an industry-recog
 
 **Question 1:** Business Plan A is 52233342 and Business Plan B is 02233340. Can you score each one?
 
-**Answer:** Business Plan A score is 24 (5+2+2+3+3+3+4+2) and Plan B score is 17 (5+2+2+3+3+3+4+2).
+**Answer:** Business Plan A score is 24 (5+2+2+3+3+3+4+2) and Plan B score is 17 (0+2+2+3+3+3+4+0).
 
 ---
 
