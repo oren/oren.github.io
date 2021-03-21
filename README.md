@@ -2,11 +2,14 @@
 
 # Oren's Website
 
-## 1. Writing and Speaking
+## 1. Certificates
+* [Certifications](certifications/)
+
+## 2. Writing and Speaking
 * [Articles](articles/)
 * [Talks](talks/)
 
-## 2. Fun
+## 3. Fun
 * [Strength Training](train/)
 * [Surfing](surf/)
 * [Swimming](swim/)
@@ -16,10 +19,10 @@
 * [Learning Chinese](chinese/)
 * [My Operating Manual](operating-manual/)
 
-## 3. Apps
+## 4. Apps
 * [Food](https://oren.github.io/food/) (work in progress)
 
-## 4. Social
+## 5. Social
 
 * [GitHub](https://www.github.com/oren)
 * [LinkedIn](https://www.linkedin.com/in/orengolan)
