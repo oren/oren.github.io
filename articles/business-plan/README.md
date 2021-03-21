@@ -24,7 +24,7 @@ A Business Plan is a short page of text. I willl send via text tomorrow and you 
 * Does the summary clearly identify the company’s initial competitive advantage or differentiator?
 * Does the team have an adequate strategy for defending their market position?
 
-## 5. Go to Market Strategy
+## 5. Go-to-market Strategy
 * Is it clear how the company will reach its initial customer?
 * Does the summary clearly identify a sales strategy?
 * Is the distribution plan clearly defined and reasonable?
