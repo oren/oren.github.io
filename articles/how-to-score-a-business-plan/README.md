@@ -70,8 +70,10 @@ Validate your business and technical skills and expertise with an industry-recog
 
 ---
 
-If you answered correctly and you understand it, congratulations! You are a Oren Certified Business Plan Judge. Your solo flight is [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/). Don't forget to land!
+If you answered correctly and you understand it, congratulations! You are a Oren Certified Business Plan Judge. 
 
-![score](airplane-tiny.png)
+This is your certificate. Show it at the airport.
 
 ![score](airplane-small.png)
+
+Your solo flight is [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/). Don't forget to land!
