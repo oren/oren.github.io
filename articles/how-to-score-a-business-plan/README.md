@@ -2,7 +2,7 @@
 
 # How to Score a Business Plan
 
-A Business Plan is a short page of text. I will send via text tomorrow and you will return a number between 0 and 24.
+A Business Plan is a document. You score it between 0 and 24. Only spend 5-10 minute reading and scoring it.
 
 ![score](how-to-score-a-business-plan.png)
 
@@ -70,10 +70,10 @@ Validate your business and technical skills and expertise with an industry-recog
 
 ---
 
-If you answered correctly and you understand it, congratulations! You are a Oren Certified Business Plan Judge. 
+If you answered correctly and you understand it, congratulations! You are a Oren Certified Business Plan Judge.
 
 This is your certificate. Show it at the airport.
 
-![score](airplane-small.png)
+![score](business-plan-judge-certificate.png)
 
 Your solo flight is [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/). Don't forget to land!
