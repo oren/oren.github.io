@@ -4,6 +4,7 @@
 
 ## 1. Leadership
 * [Nonviolent Communication](nvc/)
+* [How to Score a Business Plan](how-to-score-a-business-plan/)
 * [What is a good strategy?](good-strategy/)
 * [Execution Strategy](execution/)
 * [How to set the direction of your organization](set-org-direction/)
