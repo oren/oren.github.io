@@ -4,10 +4,7 @@
 
 A Business Plan is a short page of text. I will send via text tomorrow and you will return a number between 0 and 24.
 
-![score](how-to-score-a-business-plan-small.png)
 ![score](how-to-score-a-business-plan.png)
-
-[Code for the diagram](https://oren.github.io/articles/how-to-score-abusiness-plan/code/)
 
 ## 1. Overall Impression of the Executive Summary
 * Does the summary adequately describe the idea — does the idea make sense?
@@ -49,7 +46,11 @@ A Business Plan is a short page of text. I will send via text tomorrow and you w
 * Does the entry have the potential to make a significant positive impact on society? Will it improve the quality of life for people and our planet and help contribute to a better, safer and more prosperous world?
 * Does the team discuss measurable efforts to minimize consumption, use, and byproduct waste, while bolstering profitability/cost containment?
 
-## 9. Exam For 'Business Plan Judge Certificate'
+# Oren Certified Business Plan Judge
+
+Validate your business and technical skills and expertise with an industry-recognized credential and grow your career.
+
+---
 
 **Question 1:** Business Plan A is 52233342 and Business Plan B is 02233340. Can you score each one?
 
@@ -69,4 +70,8 @@ A Business Plan is a short page of text. I will send via text tomorrow and you w
 
 ---
 
-If you answered correctly and you understand it, congratulations! You are a Business Plan Judge. Your first competition is [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/).
+If you answered correctly and you understand it, congratulations! You are a Oren Certified Business Plan Judge. Your solo flight is [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/). Don't forget to land!
+
+![score](airplane-tiny.png)
+
+![score](airplane-small.png)
