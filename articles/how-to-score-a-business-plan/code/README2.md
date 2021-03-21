@@ -1,6 +1,3 @@
-Copy this into a text file and load it to the drawing program Excalidraw by clicking on top left 'Load' button: https://excalidraw.com/
-
-```
 {
   "type": "excalidraw",
   "version": 2,
@@ -622,4 +619,3 @@ Copy this into a text file and load it to the drawing program Excalidraw by clic
     "viewBackgroundColor": "#ffffff"
   }
 }
-```
