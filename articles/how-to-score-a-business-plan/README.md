@@ -6,7 +6,7 @@ A Business Plan is a short page of text. I willl send via text tomorrow and you 
 
 ![score](how-to-score-a-business-plan.png)
 
-[Code for the diagram](https://oren.github.io/articles/business-plan/code/)
+[Code for the diagram](https://oren.github.io/articles/how-to-score-abusiness-plan/code/)
 
 ## 1. Overall Impression of the Executive Summary
 * Does the summary adequately describe the idea — does the idea make sense?
