@@ -1,6 +1,6 @@
 # Oren Certificied Business Plan Judge
 
-Validate your business plan scoring skills with an industry-recognized credential and grow your career.
+Validate your business plan scoring skills with an industry-recognized credential and grow your career.  Cost: 6 minutes.
 
 ## Training (5 minutes)
 
