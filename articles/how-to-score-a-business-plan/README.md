@@ -2,7 +2,7 @@
 
 # How to Score a Business Plan
 
-A Business Plan is a document. You score it between 0 and 24. Only spend 5-10 minute reading and scoring it.
+A Business Plan is a document. You score it between 0 and 24. Spend only 5-10 minutes reading and scoring it.
 
 ![score](how-to-score-a-business-plan.png)
 
