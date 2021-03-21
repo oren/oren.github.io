@@ -1,10 +1,8 @@
-<!-- numbers -->
-
 # Oren Certificied Business Plan Judge
 
 Validate your business plan scoring skills with an industry-recognized credential and grow your career.
 
-## 1. Training (5 minutes)
+## Training (5 minutes)
 
 A Business Plan is a document. You score it between 0 and 24. Spend only 5-10 minutes reading and scoring it.
 
@@ -50,7 +48,7 @@ A Business Plan is a document. You score it between 0 and 24. Spend only 5-10 mi
 * Does the entry have the potential to make a significant positive impact on society? Will it improve the quality of life for people and our planet and help contribute to a better, safer and more prosperous world?
 * Does the team discuss measurable efforts to minimize consumption, use, and byproduct waste, while bolstering profitability/cost containment?
 
-## 2. Exam (1 minutes)
+## Exam (1 minutes)
 
 **Question 1:** Business Plan A is 52233342 and Business Plan B is 02233340. Can you score each one?
 
