@@ -1,6 +1,6 @@
 <!-- numbers -->
 
-# How to Compare Business Plan
+# How to Score a Business Plan
 
 A Business Plan is a short page of text. I willl send via text tomorrow and you will return a number between 0 and 24.
 
@@ -19,12 +19,12 @@ A Business Plan is a short page of text. I willl send via text tomorrow and you 
 * Have they adequately described the market and economic opportunity?
 * Have they clearly stated their value proposition? Is it a viable model?
 
-## 4. Competitive strategy
+## 4. Competitive Strategy
 * Has the team completely analyzed its competitive space?
 * Does the summary clearly identify the company’s initial competitive advantage or differentiator?
 * Does the team have an adequate strategy for defending their market position?
 
-## 5. Go to market strategy
+## 5. Go to Market Strategy
 * Is it clear how the company will reach its initial customer?
 * Does the summary clearly identify a sales strategy?
 * Is the distribution plan clearly defined and reasonable?
