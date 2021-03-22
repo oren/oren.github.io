@@ -15,23 +15,24 @@ A Business plan is a document. You score it between 0 and 24. Spend only 5-10 mi
 * Is the summary well written and succinct?
 * Does the summary create excitement?
 
-### 2. Management team
-* Does this management team have the skills required to execute the plan?
-* Does this team have the experience to lead a new venture?
-
-### 3. Market opportunity
+### 2. Market opportunity
 * Have they adequately described the market and economic opportunity?
 * Have they clearly stated their value proposition? Is it a viable model?
 
-### 4. Competitive Strategy
+### 3. Competitive Strategy
 * Has the team completely analyzed its competitive space?
 * Does the summary clearly identify the company’s initial competitive advantage or differentiator?
 * Does the team have an adequate strategy for defending their market position?
 
-### 5. Go-to-market Strategy
+### 4. Go-to-market Strategy
 * Is it clear how the company will reach its initial customer?
 * Does the summary clearly identify a sales strategy?
 * Is the distribution plan clearly defined and reasonable?
+
+### 5. Management team
+* Does this management team have the skills required to execute the plan?
+* Does this team have the experience to lead a new venture?
+* If this management team is weak in skills or experience, do they list the advisors or mentors who can help them?
 
 ### 6. Traction
 * Has the team made progress toward any milestones (licenses, patents, etc…)
