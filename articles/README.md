@@ -6,7 +6,7 @@
 * [Nonviolent Communication](nvc/)
 * [What is a good strategy?](good-strategy/)
 * [Execution Strategy](execution/)
-* [How to set the direction of your organization](set-org-direction/)
+* [How to set the direction of an organization](set-org-direction/)
 * [How to build a product](build-product/)
 * [Liberating Structures](liberating-structures/)
 * [The Art of Strategy](art-of-strategy/)
