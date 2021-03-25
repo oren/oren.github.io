@@ -1,6 +1,6 @@
 <!-- numbers -->
 
-# How to set the direction of your organization
+# How to set the direction of an organization
 
 This is a summary of the book [Product Roadmap Relaunched](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X).
 
