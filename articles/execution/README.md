@@ -15,6 +15,7 @@ Peter Drucker was inspired by Mary's ideas and in 1954 wrote the book ["The Prac
 
 Here are a few good links that will help you to get started:
 
+* [OKR Health Check (slide deck)](https://docs.google.com/presentation/d/1jYXkRmrrH-LSpUF4Ufnh91Rmm68Sqsa3fD35k6_1gx0/edit#slide=id.p)
 * [Introduction](https://www.youtube.com/watch?v=t-yeDb7stlw) (2 min video)
 * [Background](https://www.youtube.com/watch?t=36&v=MF_shcs5tsQ) (45 minutes video)
 * [Google's implementation](http://www.businessinsider.com/googles-ranking-system-okr-2014-1) (blog post and 1 hour video)
