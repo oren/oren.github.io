@@ -5,10 +5,12 @@
 ![strategy](strategy-kernel.png)
 
 ## 1. What is a strategy?
-A strategy have 3 components:
-* Diagnosis - what's the nature of the problem?
-* Guiding Policies - our basic approach to solve the problem.
-* Coherent Actions - implementation details of the policies.
+A strategy is a response to a challenge. It has 3 components:
+1. Diagnosis - what is the nature of the problem?
+1. Guiding Policies - our basic approach to solve the problem.
+1. Coherent Actions - implementation details of the policies.
+
+In addition a strategy has a source of power (see below for details)
 
 ## 2. What is a good strategy?
 Two aspects of a good strategy:
@@ -55,6 +57,11 @@ This is not a strategy. It's an objective. There is no diagnosis of the problem,
 
 ## 5. Examples of a Good Strategy
 *Note: This section is under development*
+The Defense Advanced Research Projects Agency (DARPA)
+
+Military research organization
+
+Challenge: matching military problems with technological apportunities, including the new operaional concepts those technologies makes possible. Part of this challenge
 
 ## 6. Good Strategy Bad Strategy Book
 

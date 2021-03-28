@@ -68,7 +68,6 @@ Work in Progress:
 
 ## 7. Tools
 * [Element](element/)
-* [Organize your work with Tmux and Vim](tmux-vim/)
 * [Manage Tmux](manage-tmux/)
 * [Git](git/)
 * [Text-based Gmail](text-based-gmail/)
