@@ -25,11 +25,9 @@ Work in Progress:
 * [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
 * [Solve Complex Problems](solve-complex-problems/)
 * [How to create an innovation engine](innovation-engine/)
-
-## 2. ML
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
 
-## 3. Relationships and Communication
+## 2. Relationships and Communication
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
@@ -38,7 +36,7 @@ Work in Progress:
 * [Love](love/)
 * [Documentation](documentation/)
 
-## 4. Technology
+## 3. Technology
 * [AWS Cookbook](aws-cookbook/)
 * [Visualizing Software Architecture](visualize/)
 * [re:Invent 2018 Videos](reinvent2018/)
@@ -57,20 +55,20 @@ Work in Progress:
 * [Level DB](leveldb/)
 * [Modular Website](modular/)
 
-## 5. Programing Languages
+## 4. Programing Languages
 * [Rust](rust/)
 * [Deno](deno/)
 * [Crystal](crystal/)
 * [Javascript/Node.js](javascript-node/)
 * [Go on App Engine](appengine/)
 
-## 6. Front-end Technology
+## 5. Front-end Technology
 * [Svelte](svelte/)
 
-## 7. Algorithms
+## 6. Algorithms
 * [Interviews](interviews/)
 
-## 8. Tools
+## 7. Tools
 * [Element](element/)
 * [Manage Tmux](manage-tmux/)
 * [Git](git/)
@@ -81,5 +79,5 @@ Work in Progress:
 * [Run command when a file is changed with rerun2](https://github.com/tartley/rerun2)
 * [Transfer files between laptops or phones](https://webwormhole.io)
 
-## 9. Misc
+## 8. Misc
 * [Regex](regex/)
