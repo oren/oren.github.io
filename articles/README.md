@@ -26,7 +26,10 @@ Work in Progress:
 * [Solve Complex Problems](solve-complex-problems/)
 * [How to create an innovation engine](innovation-engine/)
 
-## 2. Relationships and Communication
+## 2. ML
+* [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
+
+## 3. Relationships and Communication
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
@@ -35,7 +38,7 @@ Work in Progress:
 * [Love](love/)
 * [Documentation](documentation/)
 
-## 3. Technology
+## 4. Technology
 * [AWS Cookbook](aws-cookbook/)
 * [Visualizing Software Architecture](visualize/)
 * [re:Invent 2018 Videos](reinvent2018/)
@@ -54,20 +57,20 @@ Work in Progress:
 * [Level DB](leveldb/)
 * [Modular Website](modular/)
 
-## 4. Programing Languages
+## 5. Programing Languages
 * [Rust](rust/)
 * [Deno](deno/)
 * [Crystal](crystal/)
 * [Javascript/Node.js](javascript-node/)
 * [Go on App Engine](appengine/)
 
-## 5. Front-end Technology
+## 6. Front-end Technology
 * [Svelte](svelte/)
 
-## 6. Algorithms
+## 7. Algorithms
 * [Interviews](interviews/)
 
-## 7. Tools
+## 8. Tools
 * [Element](element/)
 * [Manage Tmux](manage-tmux/)
 * [Git](git/)
@@ -78,5 +81,5 @@ Work in Progress:
 * [Run command when a file is changed with rerun2](https://github.com/tartley/rerun2)
 * [Transfer files between laptops or phones](https://webwormhole.io)
 
-## 8. Misc
+## 9. Misc
 * [Regex](regex/)
