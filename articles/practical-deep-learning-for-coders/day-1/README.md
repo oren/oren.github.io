@@ -20,16 +20,16 @@ Just for your FYI, here is are more areas:
 * Medicine:: Finding anomalies in radiology images, including CT, MRI, and X-ray images; counting features in pathology slides; measuring features in ultrasounds; diagnosing diabetic retinopathy
 * Biology:: Folding proteins; classifying proteins; many genomics tasks, such as tumor-normal sequencing and classifying clinically actionable genetic mutations; cell classification; analyzing protein/protein interactions
 * Image generation:: Colorizing images; increasing image resolution; removing noise from images; converting images to art in the style of famous artists
- * Recommendation systems:: Web search; product recommendations; home page layout
- * Playing games:: Chess, Go, most Atari video games, and many real-time strategy games
+* Recommendation systems:: Web search; product recommendations; home page layout
+* Playing games:: Chess, Go, most Atari video games, and many real-time strategy games
 * Robotics:: Handling objects that are challenging to locate (e.g., transparent, shiny, lacking texture) or hard to pick up
 * Other applications:: Financial and logistical forecasting, text to speech, and much more...
 
----
+## 3. What was the name of the first device that was based on the principle of the artificial neuron?
+[the Mark I Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 
 **More Questions: I will add answeres in a few days:**
 
-## 3. What was the name of the first device that was based on the principle of the artificial neuron?
 ## 4. Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)?
 ## 5. What were the two theoretical misunderstandings that held back the field of neural networks?
 ## 6. What is a GPU?
