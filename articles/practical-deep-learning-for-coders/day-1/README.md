@@ -1,4 +1,4 @@
-# Question for the end of day 1
+# Question for the end of lesson 1
 
 ### 1. Do you need these for deep learning?
 
