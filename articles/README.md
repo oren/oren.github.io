@@ -3,6 +3,7 @@
 # Articles
 
 ## 1. Leadership
+* [How to score a business plan](score-business-plan/)
 * [Nonviolent Communication](nvc/)
 * [What is a good strategy?](good-strategy/)
 * [Execution Strategy](execution/)
