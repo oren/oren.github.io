@@ -10,10 +10,9 @@
 Answers:
 
 * False
-* Just high school math is sufficient
-* We've seen record-breaking results with <50 items of data
-* You can get what you need for state of the art work for free
-
+* False. Just high school math is sufficient
+* False. We've seen record-breaking results with <50 items of data
+* False. You can get what you need for state of the art work for free
 
 ### 2. Name five areas where deep learning is now the best in the world.
 
