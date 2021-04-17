@@ -9,10 +9,10 @@
 
 Answers:
 
-* False
 * False. Just high school math is sufficient
 * False. We've seen record-breaking results with <50 items of data
 * False. You can get what you need for state of the art work for free
+* False. All that matters is a deep understanding of AI & ability to implement neural networks (NNs) in a way that is actually useful. Don’t care if you even graduated high school.
 
 ### 2. Name five areas where deep learning is now the best in the world.
 
