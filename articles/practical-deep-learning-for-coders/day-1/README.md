@@ -7,11 +7,11 @@
 * Lots of expensive computers T / F
 * A PhD T / F
 
-Answer: F, F, F, F
+Answer: F, F, F, F.
 
 ### 2. Name five areas where deep learning is now the best in the world.
 
-Answer: Natural language processing (NLP), Computer vision, Medicine, Biology.
+Answer: Natural language processing (NLP), Computer vision, Medicine, Biology, Image generation.
 
 Just for your FYI, here is are more areas:
 
