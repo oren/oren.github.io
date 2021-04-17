@@ -17,16 +17,6 @@
 * [How to write Business Plan](business-plan/)
 * [Reveal what matters](reveal-what-matters/)
 
-Work in Progress:
-
-* [Better Decision Making](decision-making/)
-* [Measure your life](measure-your-life/)
-* [Cognitive Biases](cognitive-biases/)
-* [The Egalitarian Leadership Playbook](egalitarian-leadership-playbook/)
-* [Solve Complex Problems](solve-complex-problems/)
-* [How to create an innovation engine](innovation-engine/)
-* [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
-
 ## 2. Relationships and Communication
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
@@ -81,3 +71,10 @@ Work in Progress:
 
 ## 8. Misc
 * [Regex](regex/)
+
+## 9. Work in Progress:
+* [Better Decision Making](decision-making/)
+* [Cognitive Biases](cognitive-biases/)
+* [Solve Complex Problems](solve-complex-problems/)
+* [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
+
