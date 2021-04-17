@@ -2,8 +2,10 @@
 
 # Practical Deep Learning for Coders (online course. cost: 5 days)
 
+## 1. What
 Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD - crash course (8 lessons in 8 days)
 
+## 2. Why
 What you will learn:
 * How to train models that achieve state-of-the-art results in Computer vision, Natural language processing (NLP), Tabular data (e.g., sales prediction), Collaborative filtering (e.g., movie recommendation)
 * How to turn your models into web applications, and deploy them
@@ -12,6 +14,7 @@ What you will learn:
 * How to implement stochastic gradient descent and a complete training loop from scratch
 * How to think about the ethical implications of your work, to help ensure that you're making the world a better place and that your work isn't misused for harm
 
+## 3. Lessons
 1. Questions at the end of lesson 1: [lesson 1](lesson-1/)
 2. Questions at the end of lesson 2: lesson 2 (in progress)
 3. Questions at the end of lesson 3: lesson 3 (in progress)
