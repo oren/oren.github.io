@@ -28,9 +28,22 @@ Just for your FYI, here is are more areas:
 ## 3. What was the name of the first device that was based on the principle of the artificial neuron?
 [The Mark I Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 
-**More Questions: I will add answeres in a few days:**
 
 ## 4. Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)?
+
+Answer:
+
+* A set of processing units
+* A state of activation
+* An output function for each unit
+* A pattern of connectivity among units
+* A propagation rule for propagating patterns of activities through the network of connectivities
+* An activation rule for combining the inputs impinging on a unit with the current state of that unit to produce an output for the unit
+* A learning rule whereby patterns of connectivity are modified by experience
+* An environment within which the system must operate
+
+**More Questions: I will add answeres in a few days:**
+
 ## 5. What were the two theoretical misunderstandings that held back the field of neural networks?
 ## 6. What is a GPU?
 ## 7. Open a notebook and execute a cell containing: 1+1. What happens?
