@@ -7,7 +7,13 @@
 * Lots of expensive computers T / F
 * A PhD T / F
 
-Answer: F, F, F, F.
+Answers:
+
+* False
+* Just high school math is sufficient
+* We've seen record-breaking results with <50 items of data
+* You can get what you need for state of the art work for free
+
 
 ### 2. Name five areas where deep learning is now the best in the world.
 
