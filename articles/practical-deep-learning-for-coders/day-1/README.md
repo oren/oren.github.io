@@ -1,4 +1,4 @@
-# Question for the end of day 1 of Practical Deep Learning for Coders (online course)
+# Question for the end of day 1
 
 ### 1. Do you need these for deep learning?
 
@@ -26,7 +26,7 @@ Just for your FYI, here is are more areas:
 * Other applications:: Financial and logistical forecasting, text to speech, and much more...
 
 ## 3. What was the name of the first device that was based on the principle of the artificial neuron?
-[the Mark I Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+[The Mark I Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 
 **More Questions: I will add answeres in a few days:**
 
