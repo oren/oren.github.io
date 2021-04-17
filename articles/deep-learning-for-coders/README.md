@@ -1,3 +1,5 @@
+# Practical Deep Learning for Coders (online course. cost: 5 minutes)
+
     Do you need these for deep learning?
         Lots of math T / F
         Lots of data T / F
