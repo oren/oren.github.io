@@ -3,7 +3,6 @@
 # Oren's Website
 
 ## 1. Certifications, Writing, and speaking
-* [Certifications](certifications/)
 * [Articles](articles/)
 * [Talks](talks/)
 
