@@ -14,8 +14,6 @@ PPL is a 6 days program that with the goal of increasing both strength and muscl
 Notes:
 * For 1 and 2: You can do 3x8-12 instead of 5x5 whenever you feel like
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FkiJBCpJaDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 ### Pull Day (back and biceps)
 1. Deadlifts 3x5
 1. Barbell rows 4x5
@@ -28,8 +26,6 @@ Notes:
 Notes:
 * 1-5 are back, 6,7 are biceps.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FSZW5Sugzz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 ### Legs Day
 1. Back Squats 3x5
 1. Front squat 3x5
@@ -41,8 +37,6 @@ Notes:
 
 Notes:
 * You can replace whatever you don't like and also add a few more if you are not tired.
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cirOw3BQ3eE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 General notes:
 * The idea of this program is to start with big/compound exercises for strength and finish with smaller muscles, for bodybuilding/aesthetics. You can replace each exercise with something else if you can't do or just want some variety.
