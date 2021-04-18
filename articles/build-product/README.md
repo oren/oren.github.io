@@ -2,7 +2,7 @@
 
 # How to build a Product That Customers Love
 
-This is a summary of the book [Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874).
+This is a summary of the book [Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by Dan Olsen.
 
 ## 1. The Process of Building a Product
 1. Create target customer using personas.
@@ -26,6 +26,7 @@ You make hypothesis at each of the layers. You need to test them.
 
 ![heatmap](heatmap.jpeg)
 
+This image is not in the book. The author of Lean Product Playbook, Dan Olsen, presented it during [Lean Product & Lean UX Silicon Valley meetup](https://www.youtube.com/watch?v=MSr0hatbSgY).
+
 ## 4. The Kano Model
 ![kano](kano.png)
-
