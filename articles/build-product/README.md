@@ -14,7 +14,7 @@ This is a summary of the book [Lean Product Playbook](https://www.amazon.com/Lea
 1. Use Analytics to improve your product.
 1. Use retention rate to measure your product-market fit.
 1. Use cohort analysis to measure product-market fit changes over time.
-1. After you have good retention, improve other micro metrics using AARRR Framework (Acquisition, Activation, Retention, Referal, Revenue).
+1. After you have good retention, improve other micro metrics using [AARRR Framework](https://medium.com/i-want-to-be-a-product-manager-when-i-grow-up/startup-metrics-for-pirates-aarrr-15fe3a38cf2e) (Acquisition, Activation, Retention, Referal, Revenue).
 
 ## 2. The Product-Market Fit Pyramid
 ![product market fit](product-market-fit.png)
