@@ -6,7 +6,7 @@ This is a summary of the book [Lean Product Playbook](https://www.amazon.com/Lea
 
 ## 1. The Process of Building a Product
 1. Create target customer using personas.
-1. Prioritise using the Importance vs Satisfaction Framework ([example](https://buildsuccessfulstartups.com/product-features/)).
+1. Prioritize using the Importance vs Satisfaction Framework ([example](https://buildsuccessfulstartups.com/product-features/)).
 1. Build mock and test with customers. Your customer gives you better feedback in the solution space.
 1. Pivot if needed.
 1. Build MVP.
