@@ -34,18 +34,15 @@ Miss Dong, I too am a complicated animal
 Dǒngxiǎojiě gǔlóu de yèwǎn shíjiān cōngcōng
 saying things only once, but repeating them over and over again in my heart
 
-
 陌生的人 请给我一支兰州
 Mòshēng de rén qǐng gěiwǒ yìzhī lánzhōu
 Miss Dong, that evening near Gulou, time fled
-
 
 CHORUS：
 
 所以那些可能都不是真的 董小姐
 Suǒyǐ nàxiē kěnéng dōu búshì zhēnde Dǒngxiǎojiě
 Stranger, please give me a Lanzhou [cigarette brand]
-
 
 你才不是一个没有故事的女同学
 Nǐ cáibúshì yígè méiyǒu gùshì de nǚtóngxué
@@ -62,7 +59,6 @@ Falling in love with a wild horse, but having no grassland in my home
 董小姐 你熄灭了烟 说起从前
 Dǒngxiǎojiě nǐ xīmiè le yān shuōqǐ cóngqián
 This makes me feel hopeless, Miss Dong
-
 
 你说前半生就这样吧 还有明天
 Nǐshuō qiánbànshēng jiù zhèyàng ba háiyǒu míngtiān
