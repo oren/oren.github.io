@@ -25,7 +25,7 @@ A CookBook for Strength Athletes
 * [Khichuri Salmon](khichuri-salmon/)
 * [Lean Sushi](lean-sushi/)
 * [Mung Bean Pancakes](mung-bean-pancakes/)
-* [Mahi Mahi Mojo](mahi-mahi-dojo/)
+* [Mahi Mahi Mojo](mahi-mahi-mojo/)
 * [Oatmeal Bars](oatmeal-bars/)
 * [Omlet with Pork](omlet-with-pork/)
 * [Oyakodon](oyakodon/)
