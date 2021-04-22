@@ -11,6 +11,7 @@
 * https://www.reddit.com/r/slowcooking/comments/kgx36y/moroccan_chickpea_stew/
 * Kaboch Korean soup. something like https://futuredish.com/korean-pumpkin-soup
 * https://www.reddit.com/r/instantpot/comments/kn3az3/moroccanstyle_sweet_potato_soup/
+* https://www.reddit.com/r/instantpot/comments/mtzank/vegan_pumpkin_chilli/
 
 ## I made the following:
 
