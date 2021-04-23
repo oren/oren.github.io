@@ -16,4 +16,5 @@
 * [夜空中最亮的星 / Yèkōng zhōng zuì liàng de xīngxīng / The brightest star in the night sky](brightest-star/)
 * [董小姐 / Dǒng xiǎo jiě / Miss Dong](miss-dong/)
 * [怎麼了 / What's Wrong / zěnmele](what-is-wrong/)
+* [给我一个吻 / Gei Wo Yi Ge Wen / give me a kiss](give-me-a-kiss/)
 * [杨丞琳曾黎苏运莹]()
