@@ -1,0 +1,145 @@
+# 同桌的你
+
+同桌的你 / Tong Zhuo De Ni / you who sat next to me
+
+<div class="video-container">
+  <iframe
+  src="https://www.youtube.com/embed/FVVqEw5UTUA"
+  allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
+```
+míng tiān nǐ shì fǒu huì xiǎng qǐ
+明   天   你 是  否  会  想    起
+Will you remember tomorrow
+
+zuó tiān nǐ xiě de rì jì
+昨  天   你 写  的 日 记
+You wrote a diary yesterday
+
+míng tiān nǐ shì fǒu hái diàn jì
+明   天   你 是  否  还  惦   记
+You who love to cry the most
+
+céng jīng zuì ài kū de nǐ
+曾   经   最  爱 哭 的 你
+The old teachers have no idea
+
+lǎo shī men dōu yǐ xiǎng bù qǐ
+老  师  们  都  已 想    不 起
+You who can't guess the question
+
+cāi bù chū wèn tí de nǐ
+猜  不 出  问  题 的 你
+I also occasionally turn phase film
+
+wǒ yě shì ǒu rán fān xiàng piàn
+我 也 是  偶 然  翻  相    片
+Just think of you at the same table
+
+cái xiǎng qǐ tóng zhuō de nǐ
+才  想    起 同   桌   的 你
+Who married more sorrow good feeling of you
+
+shuí qǔ le duō chóu shàn gǎn de nǐ
+谁   娶 了 多  愁   善   感  的 你
+Who comforts you when you cry
+
+shuí kàn le nǐ de rì jì
+谁   看  了 你 的 日 记
+Who read my letter to you
+
+shuí bǎ nǐ de cháng fā pán qǐ
+谁   把 你 的 长    发 盘  起
+Who put up your long hair
+
+shuí gěi nǐ zuò de jià yī
+谁   给  你 做  的 嫁  衣
+Who made your wedding dress
+
+nǐ cóng qián zǒng shì hěn xiǎo xīn
+你 从   前   总   是  很  小   心
+You are always very petty
+
+wèn wǒ jiè bàn kuài xiàng pí
+问  我 借  半  块   橡    皮
+Ask me to lend you half a piece of rubber
+
+nǐ yě céng wú yì zhōng shuō qǐ
+你 也 曾   无 意 中    说   起
+You said it without meaning
+
+xǐ huan hé wǒ zài yì qǐ
+喜 欢   和 我 在  一 起
+Xi huan and I together
+
+nà shí hou tiān zǒng shì hěn lán
+那 时  候  天   总   是  很  蓝
+It was always blue then
+
+rì zi zǒng guò dé tài màn
+日 子 总   过  得 太  慢
+The sun always goes too slowly
+
+nǐ zǒng shuō bì yè yáo yáo wú qī
+你 总   说   毕 业 遥  遥  无 期
+You always say there's no date for graduation
+
+zhuán yǎn jiù gè bēn dōng xi
+转    眼  就  各 奔  东   西
+And he turned his eyes to his east and west
+
+shuí yù dào duō chóu shàn gǎn de nǐ
+谁   遇 到  多  愁   善   感  的 你
+Who met more sorrow good feeling of you
+
+shuí ān wèi ài kū de nǐ
+谁   安 慰  爱 哭 的 你
+Who comforts you when you cry
+
+shuí kàn le wǒ gěi nǐ xiě de xìn
+谁   看  了 我 给  你 写  的 信
+Who read my letter to you
+
+shuí bǎ tā diū zài fēng lǐ
+谁   把 它 丢  在  风   里
+Who threw it into the wind
+
+cóng qián de rì zi dōu yuǎn qù
+从   前   的 日 子 都  远   去
+And all the former days are gone
+
+wǒ yě jiāng yǒu wǒ de qī
+我 也 将    有  我 的 妻
+I will have my wife, too
+
+wǒ yě huì gěi tā kàn xiàng piàn
+我 也 会  给  她 看  相    片
+I'll show her pictures, too
+
+gěi tā jiǎng tóng zhuō de nǐ
+给  她 讲    同   桌   的 你
+Tell her about you at the table
+
+shuí qǔ le duō chóu shàn gǎn de nǐ
+谁   娶 了 多  愁   善   感  的 你
+Who married more sorrow good feeling of you
+
+shuí ān wèi ài kū de nǐ
+谁   安 慰  爱 哭 的 你
+Who comforts you when you cry
+
+shuí bǎ nǐ de cháng fā pán qǐ
+谁   把 你 的 长    发 盘  起
+Who put up your long hair
+
+shuí gěi nǐ zuò de jià yī
+谁   给  你 做  的 嫁  衣
+Who made your wedding dress
+
+lā
+啦
+la
+```
+
