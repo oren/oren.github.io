@@ -9,6 +9,8 @@
   </iframe>
 </div>
 
+[Acoustic version](https://www.youtube.com/watch?v=vyMvOzqxEjI)
+
 ```
 徘徊著的 在路上的
 pái huái zhe de zài lù shàng de
