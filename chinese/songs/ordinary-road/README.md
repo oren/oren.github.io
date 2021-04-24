@@ -65,7 +65,7 @@ wǒ céng jīng shī luò shī wàng shī diào suǒ yǒu fāng xiàng
 I’ve been lost, disappointed, lost my sense of direction
 
 直到看見平凡才是唯一的答案
-zhídào kànjiàn píngfán cái shì wéiyī de dá’àn
+zhí dào kàn jiàn píng fán cái shì wéiyī de dá’àn
 Until (I) saw that “ordinary” is the only answer
 
 
