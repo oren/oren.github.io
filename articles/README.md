@@ -60,6 +60,7 @@
 
 ## 7. Tools
 * [Element](element/)
+* [Create presentation fast with Marp](marp/)
 * [Manage Tmux](manage-tmux/)
 * [Git](git/)
 * [Text-based Gmail](text-based-gmail/)
