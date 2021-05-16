@@ -35,7 +35,7 @@ Topics
 
 ---
 
-watch mode, convert to pdf, pptx, or generate images
+watch mode, convert to html, convert to pdf, pptx, or generate images
 
 ---
 
@@ -44,6 +44,15 @@ Watch mode
 ```
 ./marp readme.md -w
 ```
+
+---
+
+Convert to HTML (no arguments)
+
+```
+./marp readme.md
+```
+
 
 ---
 
