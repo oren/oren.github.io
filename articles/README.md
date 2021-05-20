@@ -4,7 +4,6 @@
 
 ## 1. Leadership
 * [How to score a business plan](score-business-plan/)
-* [Nonviolent Communication](nvc/)
 * [What is a good strategy?](good-strategy/)
 * [Execution Strategy](execution/)
 * [How to set the direction of an organization](set-org-direction/)
@@ -18,6 +17,7 @@
 * [Reveal what matters](reveal-what-matters/)
 
 ## 2. Relationships and Communication
+* [Nonviolent Communication](nvc/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
