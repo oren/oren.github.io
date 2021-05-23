@@ -15,6 +15,7 @@
 * [How to lead leaders?](lead-leaders/)
 * [How to write Business Plan](business-plan/)
 * [Reveal what matters](reveal-what-matters/)
+* [How to delegate](how-to-delegate/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
