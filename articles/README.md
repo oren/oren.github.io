@@ -75,6 +75,8 @@
 * [Regex](regex/)
 
 ## 9. Work in Progress:
+* [Cynefin Framework](cynefin/)
+* [Wardley Maps](wardley-maps/)
 * [Better Decision Making](decision-making/)
 * [Cognitive Biases](cognitive-biases/)
 * [Solve Complex Problems](solve-complex-problems/)
