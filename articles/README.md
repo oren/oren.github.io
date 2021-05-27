@@ -22,6 +22,7 @@
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
+* [How to Build Exceptional Relationships](exceptional-relationships/)
 * [Hacking Relationships](hacking-relationships/)
 * [Gratitude](gratitude/)
 * [Love](love/)
