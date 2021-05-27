@@ -3,19 +3,19 @@
 # Articles
 
 ## 1. Leadership
-* [How to score a business plan](score-business-plan/)
-* [What is a good strategy?](good-strategy/)
+* [How to Score a Business Plan](score-business-plan/)
+* [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
-* [How to set the direction of an organization](set-org-direction/)
-* [How to build a product](build-product/)
+* [How to Set the Direction of an Organization](set-org-direction/)
+* [How to Build a Product](build-product/)
 * [Liberating Structures](liberating-structures/)
 * [The Art of Strategy](art-of-strategy/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
-* [How to lead leaders?](lead-leaders/)
-* [How to write Business Plan](business-plan/)
-* [Reveal what matters](reveal-what-matters/)
-* [How to delegate](how-to-delegate/)
+* [How to Lead Leaders?](lead-leaders/)
+* [How to Write Business Plan](business-plan/)
+* [Reveal What Matters](reveal-what-matters/)
+* [How to Delegate](how-to-delegate/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)

@@ -1,4 +1,4 @@
-# Certificied Business Plan Judge
+# How to Score a Business Plan
 
 Validate your business plan scoring skills with an industry-recognized credential and grow your career.  Cost: 6 minutes.
 
