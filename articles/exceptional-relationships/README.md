@@ -2,7 +2,7 @@
 
 This is a summary of the book [Connect: Building Exceptional Relationships with Family, Friends, and Colleagues](https://www.amazon.com/Connect-Building-Exceptional-Relationships-Colleagues/dp/0593237099).
 
-An exceptional relationship is with someone who really knows what's inside you. You feel seen, known, and appreciated for who you really are and not an edited version of yourself.  The book breaks it down to two domains: self disclosure and feedback.
+An exceptional relationship is when someone really knows what's inside you. You feel seen, known, and appreciated for who you really are and not an edited version of yourself.  The book breaks it down to two domains: self disclosure and feedback.
 
 Self disclosure:
 * You can be fully yourself and so does the other person
