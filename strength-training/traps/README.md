@@ -11,7 +11,7 @@ Lower Fibers:
 3. Plate Raises
 4. Face Pulls Variation
 
-Middle Fibers
+Middle Fibers:
 1. Back Widows
 2. Wrap Around Rows
 
