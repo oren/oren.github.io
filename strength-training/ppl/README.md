@@ -42,3 +42,5 @@ General notes:
 * The idea of this program is to start with big/compound exercises for strength and finish with smaller muscles, for bodybuilding/aesthetics. You can replace each exercise with something else if you can't do or just want some variety.
 * Shoulders, back, and abs, can be worked on everyday. I personally have issue growing my shoulders so I added about 10 sets a week whenever I have the time.
 * You can do super sets if you feel like (two exercises intertwined without rest).
+
+

@@ -7,7 +7,7 @@
 * [Talks](talks/)
 
 ## 2. Fun
-* [Strength Training](train/)
+* [Strength Training](strength-training/)
 * [Surfing](surf/)
 * [Swimming](swim/)
 * [Cooking](cook/)
