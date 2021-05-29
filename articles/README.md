@@ -16,6 +16,7 @@
 * [How to Write Business Plan](business-plan/)
 * [Reveal What Matters](reveal-what-matters/)
 * [How to Delegate](how-to-delegate/)
+* [Visual Summary of the Book Team of Teams](team-of-teams/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
