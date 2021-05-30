@@ -2,7 +2,7 @@
 
 # Cynefin Framework
 
-Cynefin is a framework for decision making. It's a tool the helps navigate uncertainty.
+Cynefin is a framework for decision making. It's a tool that helps to navigate uncertainty.
 
 Making sense of situations depending on how predictable or unpredictable they are.
 
