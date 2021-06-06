@@ -17,6 +17,8 @@
 * [Reveal What Matters](reveal-what-matters/)
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
+* [How and Why to Align Autonomous Teams](align-autonomous-teams/)
+* [How to Develop a Business Strategy](develop-business-strategy/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
@@ -77,7 +79,6 @@
 * [Regex](regex/)
 
 ## 9. Work in Progress:
-* [How to Develop a Business Strategy](develop-business-strategy/)
 * [Cynefin Framework](cynefin/)
 * [Wardley Maps](wardley-maps/)
 * [Better Decision Making](decision-making/)
