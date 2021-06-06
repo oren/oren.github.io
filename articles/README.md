@@ -77,6 +77,7 @@
 * [Regex](regex/)
 
 ## 9. Work in Progress:
+* [How to Develop a Business Strategy](develop-business-strategy/)
 * [Cynefin Framework](cynefin/)
 * [Wardley Maps](wardley-maps/)
 * [Better Decision Making](decision-making/)
