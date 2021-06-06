@@ -1,4 +1,4 @@
-# How and Why to Align Autonomous Teams
+# Why and How to Align Autonomous Teams
 
 ## 1. Situation
 You are leading an organization of 100 autonomous stream-aligned teams (500 people at various tech/leadership roles - Engineers, Engineering Managers, Product Managers, Program Managers). Some teams solve the same problems that other teams solved already. Increasing alignment between those some teams will increase innovation of the organization.
