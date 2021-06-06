@@ -17,7 +17,7 @@
 * [Reveal What Matters](reveal-what-matters/)
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
-* [How and Why to Align Autonomous Teams](align-autonomous-teams/)
+* [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
 
 ## 2. Relationships and Communication
