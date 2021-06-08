@@ -10,7 +10,7 @@ Increase alignment and innovation without decreasing speed of delivery.
 Build an enablement organization that operates as an internal open source community of champions. The organization works on standards that stream-aligned teams adopt if there is a strategic fit.
 
 ## 4. Result
-Community codify standards in libraries and services. Teams that adopt the standards increase their innovation rate and strategic alignment (if applicable). Example for standards: DevOps, Security, Compliance, and Operational Excellence (OE).
+The community codify standards in libraries and services. Teams that adopt the standards increase their innovation rate and strategic alignment (if applicable). Example for standards: DevOps, Security, Compliance, and Operational Excellence (OE).
 
 ## Concepts
 * Stream-aligned team: aligned to a flow of work from (usually) a segment of the business domain.
