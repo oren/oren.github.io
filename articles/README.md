@@ -22,6 +22,7 @@
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
+* [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
