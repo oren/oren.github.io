@@ -1,1 +1,1 @@
-![Compassionate Communication](cc01.png)
+![Compassionate Communication](cc01-bigger.png)
