@@ -2,7 +2,7 @@
 
 # Oren's Website
 
-## 1. Certifications, Writing, and speaking
+## 1. Writing and speaking
 * [Articles](articles/)
 * [Talks](talks/)
 
