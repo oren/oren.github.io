@@ -3,6 +3,7 @@
 # Articles
 
 ## 1. Leadership
+* [Navigate complex systems, challenges, and organizations. A Visual Guide](navigate-complex-systems/)
 * [How to Score a Business Plan](score-business-plan/)
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
