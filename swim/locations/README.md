@@ -6,8 +6,6 @@
 * Lifeguard Hours at the east side: May 25 - June 21, 2pm - 7pm weekdays, 11am - 7pm weekends. June 22 - August 25, 12pm - 7pm weekdays, 11am - 7pm weekends
 * Lifeguard Hours at the west side: June 22 - September 2 12pm - 7pm weekdays, 11am - 7pm weekends
 
-![green lake](green-lake.jpeg)
-
 ### Lake Washington Locations
 
 #### Juanita Beach
