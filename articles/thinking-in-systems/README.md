@@ -1,4 +1,4 @@
-# Notes on System Thinking
+# Notes on the book Thinking in Systems
 
 I am listening to the audio book [Thinking in Systems: A Primer](1) and use this page to capture any insights.
 

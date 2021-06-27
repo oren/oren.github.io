@@ -86,6 +86,6 @@
 * [Better Decision Making](decision-making/)
 * [Cognitive Biases](cognitive-biases/)
 * [Solve Complex Problems](solve-complex-problems/)
-* [Notes on System Thinking](system-thinking/)
+* [Notes on System Thinking](thinking-in-systems/)
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
 
