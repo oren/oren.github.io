@@ -3,7 +3,6 @@
 # Articles
 
 ## 1. Leadership
-* [Navigate Complex Systems, Challenges, and Relationships. A Visual Guide](navigate-complex-systems/)
 * [How to Score a Business Plan](score-business-plan/)
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
@@ -20,6 +19,7 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
+* [Navigate Complex Systems, Challenges, and Relationships. A Visual Guide](navigate-complex-systems/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
@@ -86,5 +86,6 @@
 * [Better Decision Making](decision-making/)
 * [Cognitive Biases](cognitive-biases/)
 * [Solve Complex Problems](solve-complex-problems/)
+* [Notes on System Thinking](system-thinking/)
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
 
