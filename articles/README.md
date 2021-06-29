@@ -19,11 +19,10 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
-* [Navigate Complex Systems, Challenges, and Relationships. A Visual Guide](navigate-complex-systems/)
+* [Notes on System Thinking](thinking-in-systems/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
-* [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Relationship Guidelines](relationship-guidelines/)
@@ -81,11 +80,12 @@
 * [Regex](regex/)
 
 ## 9. Work in Progress:
+* [Navigate Complex Systems, Challenges, and Relationships. A Visual Guide](navigate-complex-systems/)
+* [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Cynefin Framework](cynefin/)
 * [Wardley Maps](wardley-maps/)
 * [Better Decision Making](decision-making/)
 * [Cognitive Biases](cognitive-biases/)
 * [Solve Complex Problems](solve-complex-problems/)
-* [Notes on System Thinking](thinking-in-systems/)
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
 
