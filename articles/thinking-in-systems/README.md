@@ -5,7 +5,7 @@ I am listening to the audio book [Thinking in Systems: A Primer](1) by Donella H
 ![thinking-in-systems.png](thinking-in-systems.png)
 
 ## Places to Intervene in a System
-Chapter 6 talkes about places to intervene in a system, or leverage points. [Here is a blog post about that](2). Here are the leverage points sorted my most effective to least:
+Chapter 6 talkes about places to intervene in a system, or leverage points. [Here is a blog post about that](2). Here are the leverage points sorted by the most effective to least:
 
 1. The power to transcend paradigms.
 1. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
