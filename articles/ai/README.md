@@ -5,9 +5,6 @@
 
 ![ai](ai.jpg)
 
-I recently [gave a talk](https://oren.github.io/talks/ai-healthcare.html) about the potential impact that AI will have on the healthcare industry.
+I was a guest at Chineasy podcast. ShaoLan Hsuehhl, the podcast host, asked me about being human and about the biggest promlems humanity faces. Here is the [Human](https://www.chineasy.com/talk/lessons/314-human/) episode and the [To Solve](https://www.chineasy.com/talk/lessons/332-to-solve/) episode. I also gave a [the talk](https://oren.github.io/talks/ai-healthcare/) in LA about the potential impact that AI will have on the healthcare industry.
 
-As a preparations for the talk I reached out to the team behind my favorite Alexa skill - [Chineasy](https://www.chineasy.com/), and asked them to be a guest on their show. We recorded two episodes for about 40 minutes which are condensed into 7 minutes each. The first one about AI and the second is about the biggest problems humanity faces.
-
-You can listen to the [AI episode](https://www.chineasy.com/talk/lessons/314-human/) here. The other one will be published soon and you can listen to it from any Alexa enabled device by saying `"Alexa, install Chineasy"`.
-
+Let me know what you think about any of the topics!
