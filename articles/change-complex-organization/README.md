@@ -1,6 +1,6 @@
 # How to change a complex organization
 
-This page is a crash course in [Agendashift](1).
+This page is a crash course in [Agendashift](https://www.agendashift.com/).
 
 How long do you need for a team of 6?
 
@@ -11,5 +11,3 @@ How long do you need for a team of 6?
 * Operation: as long as you have
 
 Shortcut: skip discovery and come back later if needed.
-
-[1]: https://www.agendashift.com/
