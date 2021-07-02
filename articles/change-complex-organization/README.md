@@ -2,13 +2,13 @@
 
 This page is a crash course in [Agendashift](https://www.agendashift.com/).
 
-Organization of 6 will spend minimum of 7 hours to go through the entire Agendashift process.
+Organization of 6 will spend minimum of 4.5 hours to go through the entire Agendashift process.
 
-1. Discovery: 2-4 hours
-1. Exploration 2-3
+1. Discovery: 1.5-4 hours
+1. Exploration 1.5-3
 1. Mapping: 1-3 at the lower end if you do only 1 exercise
 1. Elaboration 1 hour’s enough for each group to work on 1 item
-1. Operation: as long as you have. minumiu
+1. Operation: 1 hour minimum but use more time if you can
 
 ## Frequently Asked Questions (FAQ)
 ### Quetsion 1
