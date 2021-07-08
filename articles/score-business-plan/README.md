@@ -1,10 +1,6 @@
 # How to Score a Business Plan
 
-Validate your business plan scoring skills with an industry-recognized credential and grow your career.  Cost: 6 minutes.
-
-## Training (5 minutes)
-
-A Business plan is a document. You score it between 0 and 37. Spend only 5-10 minutes reading and scoring it.
+A Business plan is a document that you can score between 0 and 37.
 
 ### 1. Overall Impression of the Executive Summary (0-5)
 * Does the summary adequately describe the idea — does the idea make sense?
