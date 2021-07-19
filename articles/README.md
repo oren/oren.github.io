@@ -20,7 +20,7 @@
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
 * [Notes on System Thinking](thinking-in-systems/)
-* [How to change a complex organization](change-complex-organization/)
+* [How to navigate a complex organization](navigate-complex-organization/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
