@@ -32,7 +32,22 @@ Advantages such as being a first mover, scale, scope, network effects, reputatio
 * Using dynamics - Start higher. Observe changes in the that gives you signals for emarging strategies. Examples: Cisco's Router. The power came from 100 lines of C code. IBM and AT&T, Silicon Valey, and Tokyo used the same super power in their strategies.
 * Inertia and entropy
 
-## 4. Examples of a Bad Strategy
+# 4. Examples of a Good Strategy
+The Defense Advanced Research Projects Agency (DARPA)
+
+## 4. Challenge
+Matching military problems with technological opportunities, including the new operational concepts those technologies make possible. Parts of this challenge are extremely difficult because: (1) some military problems have no easy or obvious technical solutions; and (2) some emerging technologies may have far-reaching military consequences that are still unclear. DARPA focuses its investments on this “DARPA-hard” niche—a set of technical challenges that, if solved, will be of enormous benefit to U.S. national security, even if the risk of technical failure is high.
+
+## 5. Guiding Policies
+Retains program managers for only four to six years to limit empire building and to bring in fresh talent. The expectation is that a new program manager will be willing to challenge the ideas and work of predecessors. In addition, DARPA has a very limited investment in overhead and physical facilities in order to prevent entrenched interests from thwarting progress in new directions. These policies are based on a realistic appraisal of the obstacles to innovation. They are a far cry from vague aspirations such as “retain the best talent” and “maintain a culture of innovation.”
+
+## 6. Coherent Actions
+Defeat the Taliban and rebuild a decaying infrastructure
+
+## 7. Notes
+To help clarify this distinction it is helpful to use the word “goal” to express overall values and desires and to use the word “objective” to denote specific operational targets. Thus, the United States may have “goals” of freedom, justice, peace, security, and happiness. It is strategy which transforms these vague overall goals into a coherent set of actionable objectives—defeat the Taliban and rebuild a decaying infrastructure. A leader’s most important job is creating and constantly adjusting this strategic bridge between goals and objectives.
+
+## 8. Examples of a Bad Strategy
 
 ### Strategy A:
 
@@ -55,15 +70,7 @@ Score: 0 out of 3. This is not a strategy since it's doesn't include a diagnosis
 
 This is not a strategy. It's an objective. There is no diagnosis of the problem, no guiding policy, and no coherent actions.
 
-## 5. Examples of a Good Strategy
-*Note: This section is under development*
-The Defense Advanced Research Projects Agency (DARPA)
-
-Military research organization
-
-Challenge: matching military problems with technological apportunities, including the new operaional concepts those technologies makes possible. Part of this challenge
-
-## 6. Good Strategy Bad Strategy Book
+## 9. Good Strategy Bad Strategy Book
 
 ### Table of contents
 
