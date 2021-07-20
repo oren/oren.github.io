@@ -3,6 +3,7 @@
 # Articles
 
 ## 1. Leadership
+* [How to navigate a complex organization](navigate-complex-organization/)
 * [How to Score a Business Plan](score-business-plan/)
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
@@ -20,7 +21,6 @@
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
 * [Notes on System Thinking](thinking-in-systems/)
-* [How to navigate a complex organization](navigate-complex-organization/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
