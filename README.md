@@ -2,6 +2,10 @@
 
 # Oren's Website
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U59mnx2NIbQ" frameborder="0" allowfullscreen></iframe>
+
+How to Navigate a Complex System [Read the Article(15 min)](articles/navigate-complex-organization/)
+
 ## 1. Writing and speaking
 * [Articles](articles/)
 * [Talks](talks/)
