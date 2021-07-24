@@ -1,11 +1,11 @@
 # Notes on the book Thinking in Systems
 
-I am listening to the audio book [Thinking in Systems: A Primer](1) by Donella H. Meadows and use this page to capture any insights.
+I am listening to the audio book [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows and use this page to capture any insights.
 
 ![thinking-in-systems.png](thinking-in-systems.png)
 
 ## Places to Intervene in a System
-Chapter 6 talkes about places to intervene in a system, or leverage points. [Here is a blog post about that](2). Here are the leverage points sorted by the most effective to least:
+Chapter 6 talkes about places to intervene in a system, or leverage points. [Here is a blog post about that](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). Here are the leverage points sorted by the most effective to least:
 
 1. The power to transcend paradigms.
 1. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
@@ -19,9 +19,6 @@ Chapter 6 talkes about places to intervene in a system, or leverage points. [Her
 1. The structure of material stocks and flows (such as transport networks, population age structures).
 1. The sizes of buffers and other stabilizing stocks, relative to their flows.
 1. Constants, parameters, numbers (such as subsidies, taxes, standards).
-
-[1]: https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
-[2]: https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
 
 ## Quotes
 
