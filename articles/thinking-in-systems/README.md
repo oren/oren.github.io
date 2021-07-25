@@ -1,6 +1,6 @@
 # Thinking in Systems
 
-I read [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows and find Donella and her vision inspiring. I use this page to capture practical insights.
+I read [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows and I find her vision inspiring. I use this page to capture practical insights from her writing and speaking.
 
 ![thinking-in-systems.png](thinking-in-systems.png)
 
@@ -50,4 +50,4 @@ Chapter 6 talkes about traps in a system and how to avoid them. [Here is a blog 
 ## Other Resources
 **Envisioning a Sustainable World**
 
-Donella H. Meadows talked about the need for building a responsible vision before policies and implementation. She also indicates how to develop a vision. [30 min video](https://donellameadows.org/donella-meadows-legacy/envisioning-a-sustainable-world/) and in a [Text format](https://donellameadows.org/archives/envisioning-a-sustainable-world/).
+Donella H. Meadows talked about the need for building a responsible vision before policies and implementation. She also demonstrate how to develop a vision, using something that feels like a type of meditation. [30 min video](https://donellameadows.org/donella-meadows-legacy/envisioning-a-sustainable-world/) and in a [Text format](https://donellameadows.org/archives/envisioning-a-sustainable-world/).
