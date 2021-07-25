@@ -4,6 +4,7 @@
 
 ## 1. Leadership
 * [How to navigate a complex organization](navigate-complex-organization/)
+* [Thinking in Systems](thinking-in-systems/)
 * [How to Score a Business Plan](score-business-plan/)
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
@@ -20,7 +21,6 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
-* [Notes on System Thinking](thinking-in-systems/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)

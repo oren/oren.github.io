@@ -1,6 +1,6 @@
-# Notes on the book Thinking in Systems
+# Thinking in Systems
 
-I am listening to the audio book [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows and use this page to capture any insights.
+I read [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows and find Donella and her vision inspiring. I use this page to capture practical insights.
 
 ![thinking-in-systems.png](thinking-in-systems.png)
 
@@ -20,7 +20,20 @@ Chapter 6 talkes about places to intervene in a system, or leverage points. [Her
 1. The sizes of buffers and other stabilizing stocks, relative to their flows.
 1. Constants, parameters, numbers (such as subsidies, taxes, standards).
 
-## Quotes
+
+## Traps In a System
+Chapter 6 talkes about traps in a system and how to avoid them. [Here is a blog post about that](https://bytepawn.com/systems-thinking.html). Here are names of the traps:
+
+* Policy resistance
+* Drift to low performance
+* Seeking wrong goals
+* Shifting the burden
+* The tragedy of commons
+* Success to the Successful
+* Rule beating
+* Seeeking the wrong goal
+
+## Quotes From the Book
 
 > People don't need enormous cars; they need admiration and respect. They don't need a constant stream of new clothes; they need to feel that others consider them to be attractive, and they need excitement and variety and beauty. People don't need electronic entertainment; they need something interesting to occupy their minds and emotions. And so forth. Trying to fill real but nonmaterial needs-for identity, community, self-esteem, challenge, love, joy-with material things is to set up an unquenchable appetite for false solutions to never-satisfied longings. A society that allows itself to admit and articulate its nonmaterial human needs, and to find nonmaterial ways to satisfy them, world require much lower material and energy throughputs and would provide much higher levels of human fulfillment
 
@@ -33,3 +46,8 @@ Chapter 6 talkes about places to intervene in a system, or leverage points. [Her
 > We can't impose our will on a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone.
 
 > The gross national product does not allow for the health of our children, the quality of their education or the joy of their play.  It  does  not  include  the  beauty  of  our  poetry  or  the  strength  of  our  marriages,  the  intelligence  of  our  public  debate  or  the  integrity  of  our  public  offi  cials.    It  measures  neither  our  wit  nor our courage, neither our wisdom nor our learning, neither our  compassion  nor  our  devotion  to  our  country,  it  measures  everything in short, except that which makes life worthwhile.
+
+## Other Resources
+**Envisioning a Sustainable World**
+
+Donella H. Meadows talked about the need for building a responsible vision before policies and implementation. She also indicates how to develop a vision. [30 min video](https://donellameadows.org/donella-meadows-legacy/envisioning-a-sustainable-world/) and in a [Text format](https://donellameadows.org/archives/envisioning-a-sustainable-world/).
