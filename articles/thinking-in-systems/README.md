@@ -1,11 +1,13 @@
 # Thinking in Systems
 
-I read [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows and I find her vision inspiring. I use this page to capture practical insights from her writing and speaking.
+Did you try to change the way your organization or your team work? What did you do? What was the impact? Spend 10 minutes reading this page and think about your situation while reading it. [Email me](mailto:orengolan@gmail.com) your feedback/suggestions.
+
+This page is a summary of [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows.
 
 ![thinking-in-systems.png](thinking-in-systems.png)
 
-## Places to Intervene in a System
-Chapter 6 talkes about places to intervene in a system, or leverage points. [Here is a blog post about that](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). Here are the leverage points sorted by the most effective to least:
+## Places to Intervene in an Organization
+Places to intervene in a system, or leverage points, allows you to change things in your organization. Below are the leverage points sorted by the most effective to least and [Here is a blog post with examples](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/).
 
 1. The power to transcend paradigms.
 1. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
@@ -21,8 +23,8 @@ Chapter 6 talkes about places to intervene in a system, or leverage points. [Her
 1. Constants, parameters, numbers (such as subsidies, taxes, standards).
 
 
-## Traps In a System
-Chapter 6 talkes about traps in a system and how to avoid them. [Here is a blog post about that](https://bytepawn.com/systems-thinking.html). Here are names of the traps:
+## Traps In an Organization
+Traps are things that change the direction of your organization away from it's goals. Below are the names of the traps and [here is a blog post with examples](https://bytepawn.com/systems-thinking.html).
 
 * Policy resistance
 * Drift to low performance
