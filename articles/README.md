@@ -21,6 +21,8 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
+* [Navigate Uncertainty Using Cynefin Framework](cynefin/)
+* [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
@@ -81,12 +83,8 @@
 * [Regex](regex/)
 
 ## 9. Work in Progress:
-* [Navigate Complex Systems, Challenges, and Relationships. A Visual Guide](navigate-complex-systems/)
 * [Compassionate Communication. A Visual Guide](compassionate-communication/)
-* [Cynefin Framework](cynefin/)
-* [Wardley Maps](wardley-maps/)
 * [Better Decision Making](decision-making/)
 * [Cognitive Biases](cognitive-biases/)
 * [Solve Complex Problems](solve-complex-problems/)
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
-
