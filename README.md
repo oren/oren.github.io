@@ -5,7 +5,7 @@
 ## 1. How to Navigate a Complex Organization
 This is the name of an upcoming talk. Here is a 5 min video of testing my reMarkable as a way to deliver it. [Download the slides](articles/navigate-complex-organization/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U59mnx2NIbQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3zTE07nFvo" frameborder="0" allowfullscreen></iframe>
 
 Email me feedback or ideas: <orengolan@gmail.com>
 
