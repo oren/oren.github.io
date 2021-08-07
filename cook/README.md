@@ -38,6 +38,7 @@ A CookBook for Strength Athletes
 * [Spring Rolls](spring-rolls/)
 * [Squash and Quinoa](squash-quinoa/)
 * [Steamed Eggs](steamed-eggs/)
+* [String Beans, Sichuan Style](string-beans-sichuan/)
 * [Stuffed Bittermelon](stuffed-bittermelon/)
 * [Stuffed Chicken](stuffed-chicken/)
 * [Thai Curry Chicken](thai-curry-chicken/)
