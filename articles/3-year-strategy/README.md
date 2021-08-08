@@ -1,13 +1,21 @@
 # Mechanism for Building a 3-Year Org Strategy
 
-1. Sort the team's challenges into simple, Complicated, Complex, and Chaotic Domains ([Agreement-&-Certainty Matrix. 45 min workshop](https://www.liberatingstructures.com/27-agreement-certainty-matrix/))
+## Workshop 1 (45 min)
+1. Sort the team's challenges into simple, Complicated, Complex, and Chaotic Domains ([Agreement-&-Certainty Matrix](https://www.liberatingstructures.com/27-agreement-certainty-matrix/))
 ![](agreement-certainty-matrix.jpg)
-1. Develop Strategies for Operating in a Range of Plausible Yet Unpredictable Futures ([Critical Uncertainties. 45 min workshop](https://www.liberatingstructures.com/30-critical-uncertainties/))
+
+## Workshop 2 (45 min)
+1. Develop Strategies for Operating in a Range of Plausible Yet Unpredictable Futures ([Critical Uncertainties](https://www.liberatingstructures.com/30-critical-uncertainties/))
 ![](critical-uncertainties.jpg)
-1. Design the Five Essential Elements for a Resilient and Enduring Initiative ([Purpose-To-Practice (P2P). 60 min workshop](https://www.liberatingstructures.com/33-purpose-to-practice-p2p/))
-![](p2p.jpg)
-1. Specify Only the Absolute "Must dos" and "Must not dos" for Achieving a Purpose ([Min Specs. 30 min workshop](https://www.liberatingstructures.com/14-min-specs/))
+
+## Workshop 3 (30 min)
+1. Specify Only the Absolute "Must dos" and "Must not dos" for Achieving a Purpose ([Min Specs](https://www.liberatingstructures.com/14-min-specs/))
 ![](min-spec.jpg)
+
+## Other Useful Workhops
+
+For new teams or for a challenge that requires re-thinking the team's purpose you can use ([Purpose-To-Practice (P2P). 60 min workshop](https://www.liberatingstructures.com/33-purpose-to-practice-p2p/)) to design the five essential elements for a resilient and enduring initiative.
+![](p2p.jpg)
 
 If the team struggles in identifying the most impactful work use [Ecocycle Planning](https://www.liberatingstructures.com/31-ecocycle-planning/) to Analyze the Full Portfolio of Activities and Relationships to Identify Obstacles and Opportunities for Progress.
 ![](ecocycle.jpg)
@@ -18,7 +26,7 @@ What are those 4 workshops? In order to understand them, you should get familiar
 
 ### 1. Liberating Structures
 
-Liberating Structures (LS) are  simple rules that make it possible to include and engage every voice in shaping the future. LS consists of 33 practical methods versatile enough for anyone to use for a wide array of activities and challenges. None require expert training. Seeing them in action once is enough for many novices to get results and adapt them for use in other settings.
+[Liberating Structures](https://www.liberatingstructures.com) (LS) are  simple rules that make it possible to include and engage every voice in shaping the future. LS consists of 33 practical methods versatile enough for anyone to use for a wide array of activities and challenges. None require expert training. Seeing them in action once is enough for many novices to get results and adapt them for use in other settings.
 
 ### 2. Cynefin
 
