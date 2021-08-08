@@ -21,7 +21,7 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
-* [Navigate Uncertainty Using Cynefin Framework](cynefin/)
+* [Match Strategies to Challenges With Cynefin](cynefin/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
 
 ## 2. Relationships and Communication
