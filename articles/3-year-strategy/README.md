@@ -1,6 +1,6 @@
 <!-- numbers -->
 
-# Build a 3 Years Org Strategy
+# Build a 3-Year Org Strategy
 
 ## 1. How to Build a Strategy Using Liberating Structures
 
