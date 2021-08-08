@@ -20,7 +20,6 @@
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
-* [How to Develop a Business Strategy](develop-business-strategy/)
 * [Match Strategies to Challenges With Cynefin](cynefin/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
 
@@ -85,6 +84,7 @@
 ## 9. Work in Progress:
 * [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Better Decision Making](decision-making/)
+* [How to Develop a Business Strategy](develop-business-strategy/)
 * [Cognitive Biases](cognitive-biases/)
 * [Solve Complex Problems](solve-complex-problems/)
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
