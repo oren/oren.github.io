@@ -20,7 +20,7 @@
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
-* [Match Strategies to Challenges With Cynefin](cynefin/)
+* [Build 3 Years Org Strategy](3-year-strategy/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
 
 ## 2. Relationships and Communication
