@@ -1,11 +1,4 @@
-<!-- numbers -->
-
-# Build a 3-Year Org Strategy
-
-## 1. How to Build a Strategy Using Liberating Structures
-
-Liberating Structures (LS) are  simple rules that make it possible to include and engage every voice in shaping the future. LS consists of 33 practical methods versatile enough for anyone to use for a wide array of activities and challenges. None require expert training. Seeing them in action once is enough for many novices to get results and adapt them for use in other settings.
-
+# Mechanism for Building a 3-Year Org Strategy
 
 1. Sort the team's challenges into simple, Complicated, Complex, and Chaotic Domains ([Agreement-&-Certainty Matrix. 45 min workshop](https://www.liberatingstructures.com/27-agreement-certainty-matrix/))
 ![](agreement-certainty-matrix.jpg)
@@ -19,7 +12,15 @@ Liberating Structures (LS) are  simple rules that make it possible to include an
 If the team struggles in identifying the most impactful work use [Ecocycle Planning](https://www.liberatingstructures.com/31-ecocycle-planning/) to Analyze the Full Portfolio of Activities and Relationships to Identify Obstacles and Opportunities for Progress.
 ![](ecocycle.jpg)
 
-## 2. What is Cynefin?
+## The Concepts Behind This Mechanism
+
+What are those 4 workshops? In order to understand them, you should get familiar with a few concepts. I'll update this section of the page with more concepts.
+
+### 1. Liberating Structures
+
+Liberating Structures (LS) are  simple rules that make it possible to include and engage every voice in shaping the future. LS consists of 33 practical methods versatile enough for anyone to use for a wide array of activities and challenges. None require expert training. Seeing them in action once is enough for many novices to get results and adapt them for use in other settings.
+
+### 2. Cynefin
 
 Notice that the first workshop, Agreement-&-Certainty Matrix, is based on Cynefin. Cynefin is a framework for decision making. It's a tool that helps to navigate uncertainty by aligning the solution to the challenge. Making sense of situations depending on how predictable or unpredictable they are.
 
