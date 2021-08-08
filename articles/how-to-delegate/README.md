@@ -1,6 +1,6 @@
 <!-- numbers -->
 
-# How to Align Teams
+# How To Delegate
 
 ## 1. Delegation Levels
 
@@ -15,7 +15,7 @@ Agility, according to Jurgen Appelo, is moving back and forth between Command & 
 
 ## 2. Commander's Intent
 
-Aligning Teams with Commander's Intent
+Delegate with with Commander's Intent
 
 ### Step 1: Tell the what/intent
 
