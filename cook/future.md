@@ -1,5 +1,8 @@
 # Future Recipes
 
+Sichuan Dry Fried Green Beans
+ganbian sijidou
+干煸四季豆
 https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 
 ---
