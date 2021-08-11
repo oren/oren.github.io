@@ -1,8 +1,6 @@
 # Future Recipes
 
-Chinese green beans
-https://en.wikipedia.org/wiki/Meigan_cai
-芽菜
+https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 
 ---
 
