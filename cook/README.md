@@ -19,6 +19,7 @@ A CookBook for Strength Athletes
 * [Indian Dal](dal/)
 * [Cottage Cheese Pancakes](cottage-cheese-pancakes/)
 * [Daikon Salad](daikon-salad/)
+* [Delicata Squash and Miso](delicata-squash/)
 * [Eggs Avocado](eggs-avocado/)
 * [Green Beans, Sichuan Style](green-beans-sichuan/)
 * [Israeli Hummus](israeli-hummus/)
