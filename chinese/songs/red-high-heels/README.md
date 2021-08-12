@@ -1,0 +1,113 @@
+# 紅色高跟鞋
+
+紅色高跟鞋 / Hóngsè gāogēnxié / Red High Heels
+
+<div class="video-container">
+  <iframe
+  src="https://www.youtube.com/embed/ATblV50Odx8"
+  allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
+<pre>
+該怎麼去形容你最貼切
+gai zen me qu xing rong ni zui tie qie
+How to describe you is the most appropriate
+
+拿什麼跟你作比較才算特別
+na shi me gen ni zuo bi jiao cai suan te bie
+What to compare with you is special?
+
+對你的感覺強烈
+dui ni de gan jiao qiang lie
+I feel strong for you.
+
+卻又不太了解只憑直覺
+que you bu tai le jie zhi ping zhi jiao
+But you don’t know much about it. just a hunch.
+
+你像窩在被子裡的舒服
+ni xiang wo zai bei zi li de shu fu
+You feel like you’re in a quilt.
+
+卻又像風捉摸不住
+que you xiang feng zhuo mo bu zhu
+But like the wind can not fathom
+
+像手腕上散發的香水味
+xiang shou wan shang san fa de xiang shui wei
+Like a perfume on your wrist.
+
+像愛不釋手的紅色高跟鞋
+xiang ai bu shi shou de hong se gao gen xie
+Like the red heels that I couldn’t put down.
+
+該怎麼去形容你最貼切
+gai zen me qu xing rong ni zui tie qie
+How to describe you is the most appropriate
+
+拿什麼跟你作比較才算特別
+na shi me gen ni zuo bi jiao cai suan te bie
+What to compare with you is special?
+
+對你的感覺強烈
+dui ni de gan jiao qiang lie
+I feel strong for you.
+
+卻又不太了解只憑直覺
+que you bu tai le jie zhi ping zhi jiao
+But you don’t know much about it. just a hunch.
+
+你像窩在被子裡的舒服
+ni xiang wo zai bei zi li de shu fu
+You feel like you’re in a quilt.
+
+卻又像風捉摸不住
+que you xiang feng zhuo mo bu zhu
+But like the wind can not fathom
+
+像手腕上散發的香水味
+xiang shou wan shang san fa de xiang shui wei
+Like a perfume on your wrist.
+
+像愛不釋手的紅色高跟鞋
+xiang ai bu shi shou de hong se gao gen xie
+Like the red heels that I couldn’t put down.
+
+你像窩在被子裡的舒服
+ni xiang wo zai bei zi li de shu fu
+You feel like you’re in a quilt.
+
+卻又像風捉摸不住
+que you xiang feng zhuo mo bu zhu
+But like the wind can not fathom
+
+像手腕上散發的香水味
+xiang shou wan shang san fa de xiang shui wei
+Like a perfume on your wrist.
+
+像愛不釋手的
+xiang ai bu shi shou de
+You like it very much
+
+我愛你有種左燈右行的衝突
+wo ai ni you zhong zuo deng you hang de chong tu
+I love you is a kind of conflict
+
+瘋狂卻怕沒有退路
+feng kuang que pa mei you tui lu
+Crazy but afraid there is no escape
+
+你能否讓我停止這種追逐
+ni neng fou rang wo ting zhi zhe zhong zhui zhu
+Can you make me stop this chase?
+
+就這麼雙最後唯一的
+jiu zhe me shuang zui hou wei yi de
+Just the last one.
+
+紅色高跟鞋
+hong se gao gen xie
+The red high heels
+</pre>
+
