@@ -17,6 +17,7 @@ Email me feedback or ideas: <orengolan@gmail.com>
 * [Strength Training](strength-training/)
 * [Surfing](surf/)
 * [Swimming](swim/)
+* [Freediving](freediving/)
 * [Cooking](cook/)
 * [Dancing](dance/)
 * [Top rop climbing](top-rope/)
