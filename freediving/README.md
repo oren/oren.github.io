@@ -3,6 +3,7 @@
 ## Safety Tips
 
 * Adjust your weight belt so you float without moving
+* Don't use the snorkel (since you will swollow water if you blackout)
 * One up one down - when your partner dive, you stay on the surface
 * Watch your partner as they go down
 * Stay 3 feet away from your partner when they come back so you can grab them if they blackout
