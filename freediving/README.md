@@ -9,6 +9,7 @@
 * Watch your partner for 30 seconds after they came back
 * Watch for your partner's lips color - blue lips might indicate lack of oxygen
 * Don't hyperventilate
+* When you are back at the surface, take 3 hook breaths (count to 3 before exhale), and 3 short cleansing breaths.
 
 ## What to do if your partner blackedout
 
