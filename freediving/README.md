@@ -13,11 +13,18 @@
 * Don't hyperventilate
 * When you are back at the surface, take 3 hook breaths (count to 3 before exhale), and 3 short cleansing breaths
 
+Based on [Free online safety course](https://immersionfreediving.teachable.com/) (videos. 1 hour total)
+
 ## What to do if your partner blackedout
 
 * Hold them above the water in one hand, and keep his chin up in the other hand
 * Turn them on their back
 * Breath toward both eyes, Tap on thier cheek, and call their name. Repate until they wake up
 
-## Links
-* [Free online safety course](https://immersionfreediving.teachable.com/) (videos. 1 hour total)
+
+## Edmonds Underwater Park (UWP)
+They've moved buoys around at Edmonds so it's outdated
+![edmonds](freedive1.jpeg)
+
+## Alki
+![alki](freedive2.jpeg)
