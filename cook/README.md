@@ -16,6 +16,7 @@ A CookBook for Strength Athletes
 * [Chicken Salmon](chicken-salmon/)
 * [Chicken Soup](chicken-soup/)
 * [Chili](chili/)
+* [Cholent](cholent/)
 * [Indian Dal](dal/)
 * [Cottage Cheese Pancakes](cottage-cheese-pancakes/)
 * [Daikon Salad](daikon-salad/)
