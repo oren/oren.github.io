@@ -18,6 +18,7 @@ Email me feedback or ideas: <orengolan@gmail.com>
 * [Surfing](surf/)
 * [Swimming](swim/)
 * [Freediving](freediving/)
+* [Springboard Diving](springboard-diving/)
 * [Cooking](cook/)
 * [Dancing](dance/)
 * [Top rop climbing](top-rope/)
