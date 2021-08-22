@@ -32,6 +32,12 @@ Pick a user and write down one of their needs. Than write down what capabilities
 
 ![map](map.png)
 
+If you want a deeper learning package:
+1. [Situational awareness](https://learnwardleymapping.com/introduction/). 5 min video.
+2. [Tutorial (click on 'Next Section')](https://learnwardleymapping.com/introduction/). 20 min read.
+3. [Draw your first map](https://learnwardleymapping.com). 10 min video.
+4. [Official Book](https://learnwardleymapping.com/book/). 14 hours audio/read. You can choose between reading from a website, a pdf, or audio. If you can read and listen on your laptop at the same time, it will be optimal since there are a lot of visuals.
+
 ## 4. Links:
 * [30 min video - Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs)
 * [Youtube Channel](https://www.youtube.com/c/HiredThought/videos)
