@@ -1,5 +1,6 @@
 # Words
 
+* [Gym](gym/)
 * [To Feel](feel/)
 * [To Think](think/)
 * [Arrogant / 臭屁 / chòu pì](arrogant/)
