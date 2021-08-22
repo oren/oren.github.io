@@ -2,11 +2,13 @@
 
 # Wardley Maps
 
+## 1. What are Wardley Maps?
+
 The process of making strategic decisions (leadership) based on the purpose (“the game”), a description of the competitive landscape (a map), the external forces acting on the landscape (climate), and the training of your people (doctrine).
 
 ![art of war](art-of-war.png)
 
-## 1. Example for Using Wardley Maps
+## 2. What Can You Do with Wardely Maps?
 
 ### Decide Between Outsuorcing and Building Your Own
 
@@ -16,22 +18,23 @@ Without the x and the y (a map), it's hard to tell what to do with A and B:
 With a map, it make sense to outsource A and build B:
 ![buy vs bulid 2](outsource-or-build-2.png)
 
+There is much more you can do with them. I'll add more examples soon.
 ### Where to Invest?
 
 Compute (renting compute from a public cloud vendor) and platform (deploy tools and programming languages) are moving toward commodization. Should you build a compute or platform (genesis/chaotic) or wait until you can buy from a vendor (commodity/simple)? Generate experimental strategies, debate their impact with the team and test your assumptions as fast as possible.
 ![where to invest](where-to-invest.png).
 
-## 2. How to Start with Wardley Maps?
+## 3. How to Start with Wardley Maps?
 Pick a user and write down one of their needs. Than write down what capabilities are required to achieve that need.
 
 ![map](map.png)
 
-## 3. Links:
+## 4. Links:
 * [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs) (30 min video)
 * [Evalutionary Characteristics](evolution/)
 * [Website](https://learnwardleymapping.com/)
 
-## 4. Book
+## 5. Book
 Wardley Maps - Topographical intelligence in business
 
 
