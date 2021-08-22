@@ -8,6 +8,9 @@ The process of making strategic decisions (leadership) based on the purpose (“
 
 ![art of war](art-of-war.png)
 
+Looping through the strategy cycle ([OODA loop](https://en.wikipedia.org/wiki/OODA_loop)):
+![strategy cycle](strategy-cycle.png)
+
 ## 2. What Can You Do with Wardely Maps?
 
 ### Decide Between Outsuorcing and Building Your Own
