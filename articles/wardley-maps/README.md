@@ -30,9 +30,10 @@ Pick a user and write down one of their needs. Than write down what capabilities
 ![map](map.png)
 
 ## 4. Links:
-* [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs) (30 min video)
-* [Evalutionary Characteristics](evolution/)
+* [30 min video - Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs)
+* [Community Hub](https://list.wardleymaps.com/)
 * [Website](https://learnwardleymapping.com/)
+* [Twitter](https://twitter.com/search?q=%23WardleyMaps)
 
 ## 5. Book
 Wardley Maps - Topographical intelligence in business
