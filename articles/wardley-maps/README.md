@@ -2,9 +2,7 @@
 
 # Wardley Maps
 
-Why? make better decisions when facing complex challenges
-
-What? Map a landscape while exposing the visibility of sytems and products to the customer and how mature they are.
+The process of making strategic decisions (leadership) based on the purpose (“the game”), a description of the competitive landscape (a map), the external forces acting on the landscape (climate), and the training of your people (doctrine).
 
 ## 1. Links:
 * [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs) (30 min video)
