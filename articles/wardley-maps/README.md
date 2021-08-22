@@ -6,18 +6,25 @@ The process of making strategic decisions (leadership) based on the purpose (“
 
 ## 1. Example for Using Wardley Maps
 
+## 2. Decide Between Outsuorcing and Building Your Own
+
 Without the x and the y (a map), it's hard to tell what to do with A and B:
 ![buy vs bulid](outsource-or-build-1.png)
 
 With a map, it make sense to outsource A and build B:
 ![buy vs bulid 2](outsource-or-build-2.png)
 
-## 2. Links:
+## 3. Where to Invest?
+
+Compute (renting compute from a public cloud vendor) and platform (deploy tools and programming languages) are moving toward commodization. Should you build a compute or platform (genesis/chaotic) or wait until you can buy from a vendor (commodity/simple)? Generate experimental strategies, debate their impact with the team and test your assumptions as fast as possible.
+![where to invest](where-to-invest.png).
+
+## 4. Links:
 * [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs) (30 min video)
 * [Evalutionary Characteristics](evolution/)
 * [Website](https://learnwardleymapping.com/)
 
-## 3. Book
+## 5. Book
 Wardley Maps - Topographical intelligence in business
 
 
