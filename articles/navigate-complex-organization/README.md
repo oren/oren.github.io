@@ -1,6 +1,6 @@
 ![navigate-complex-org](01.png)
 
-Imagine challenges that your team or organization struggles to solve: innovating while working remotely, migrating to a new platform, painful reorg, keeping the best employees, etc. This talk will provide you a toolbox to help solve them.
+Imagine challenges that your team or organization struggles to solve: building and selling new products in a new market, innovating while working remotely, migrating to a new platform, painful reorg, keeping the best employees, etc. This talk will provide you a toolbox to help solve them.
 
 What will you learn?
 
