@@ -1,7 +1,5 @@
 # 平凡之路
 
-
-
 歌曲名： 平凡之路 / Píngfán zhī lù / Ordinary road
 
 ge qu ming: Píngfán zhī lù
