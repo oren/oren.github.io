@@ -1,8 +1,12 @@
 # 北京北京
 
-北京北京 / Bei jing bei jing
+歌曲名：北京北京
 
-by 汪峰 Wang feng
+ge qu ming: bei jing bei jing
+
+演唱： 汪峰
+
+yan chang: wang feng
 
 <div class="video-container">
   <iframe
@@ -11,13 +15,6 @@ by 汪峰 Wang feng
   </iframe>
 </div>
 
-歌曲名：北京北京
-
-ge qu ming bei jing bei jing
-
-演唱：汪峰
-
-yan chang wang feng
 
 当我走在这里的每一条街道
 
