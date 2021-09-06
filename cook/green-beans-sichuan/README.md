@@ -19,6 +19,9 @@ Optional: ground pork
 * Add green beans, wine, soy sauce, and sesame oil.
 * Increase the hit and cook for 1 min.
 
+Note: I stopped using the sui mi ya cai becasue it's too salty for my taste.
+
 **Links:**
 * [Similar Recipe](https://thewoksoflife.com/sichuan-dry-fried-green-beans/)
+* [What is Shaoxing Wine?](https://www.youtube.com/watch?v=5UyKUI5U67k)
 * [Youtube Channel for Chinese cooking](https://www.youtube.com/c/ChineseCookingDemystified/videos)
