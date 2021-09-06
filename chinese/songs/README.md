@@ -13,6 +13,8 @@
 * [學貓叫/ Xué māo jiào / Learn to Meow](learn-to-meow/)
 * [漂洋过海来看你 / Piāo yángguò hǎi lái kàn nǐ / Across the Ocean to See You](across-the-ocean/)
 * [平凡之路 / Píngfán zhī lù / Ordinary road](ordinary-road/)
+* [朴那些花儿 / nà xiē huā ér / Those Flowers](those-flowers/)
+* [北京北京 / Bei jing bei jing](beijing-beijing/)
 * [夜空中最亮的星 / Yèkōng zhōng zuì liàng de xīngxīng / The brightest star in the night sky](brightest-star/)
 * [董小姐 / Dǒng xiǎo jiě / Miss Dong](miss-dong/)
 * [怎麼了 / What's Wrong / zěnmele](what-is-wrong/)
