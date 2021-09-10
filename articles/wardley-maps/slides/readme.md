@@ -3,14 +3,10 @@ theme: uncover
 size: 4:3
 -->
 
-
 ![bg contain](01-test.png)
 
 ---
 
-<!--
-paginate: true
--->
 
 ## What will you learn?
 
