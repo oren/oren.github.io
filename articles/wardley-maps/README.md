@@ -49,6 +49,7 @@ If you want a deeper learning package:
 * [Community Hub](https://list.wardleymaps.com/)
 * [Website](https://learnwardleymapping.com/)
 * [Twitter](https://twitter.com/search?q=%23WardleyMaps)
+* [Getting Started](getting-started/) (my practical guide. just a draft)
 
 ## 5. Book
 Wardley Maps - Topographical intelligence in business
