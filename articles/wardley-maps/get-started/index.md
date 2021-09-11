@@ -1,16 +1,12 @@
 <!--
-theme: uncover
-theme: default
 size: 4:3
+theme: default
 -->
 
 ## Create strategies using Wardley Maps
 
 ---
-
-<!--
-paginate: true
--->
+<!-- paginate: true -->
 
 ## What will you learn?
 
@@ -20,7 +16,18 @@ paginate: true
 
 ---
 
-## Write your first map
+## All the steps in one page
+1. Write a customer, need, and dependency
+1. Draw a map
+1. Move the dependencies
+1. Add trends to the map
+1. Add moves to the map
+1. Add strategic moves
+1. Decide on actions
+
+---
+
+## 1. Write down a customer, need, and dependency
 
 Steps:
 1. write down name of a customer.
@@ -32,17 +39,15 @@ Example:
 1. need: building a web service.
 1. dependency: choose a technology.
 
-That's it! Now let's draw it!
-
 ---
 
-## Draw your first map
+## 2. Draw a map
 
 TODO: add drawing
 
 ---
 
-## Move the dependencies
+## 3. Move the dependencies
 
 Use this diagram:
 
@@ -50,25 +55,25 @@ TODO: add evolution/landscape diagram
 
 ---
 
-## Add trends to the map
+## 4. Add trends to the map
 
 Add to the map:
 TODO: add climate diagram
 
 ---
 
-## Add moves to the map
+## 5. Add moves to the map
 
 Add this to the map:
 TODO: add doctrine (orient) chart
 
 ---
 
-## Add strategic moves
+## 6. Add strategic moves
 
 ---
 
-## Take actions
+## 7. Take actions
 
 ---
 
@@ -81,7 +86,9 @@ TODO: add doctrine (orient) chart
 
 ---
 
-## Repeat with your team once in a few weeks
+## Repeat the cycle
+
+Repeat this strategy cycle with the team every few weeks.
 
 ---
 
@@ -90,4 +97,3 @@ TODO: add doctrine (orient) chart
 - If you want to dive deeper into Wardley Maps watch [Introduction to Wardley Maps]() (30 min video).
 - If you want to dive deeper into strategy and organizational development [introduction to strategy and organizational development]() (30 min video).
 
----
