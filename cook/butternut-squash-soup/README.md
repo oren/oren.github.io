@@ -29,3 +29,7 @@ Easy to make, spicy and healthy soup. 8 min in an instant pot. I copied it from 
 * Add everything except for the coconut milk to instant pot. cook for 8 minutes.
 * Add coconut milk
 * Blend it into a soup. Immersion stick is the easiest but any blender/food processor will work.
+
+## Thicker Version
+Add potatoe, bay leaves, yellow onion instead of white, and no cinnamon. Serve with pumpkins seeds
+
