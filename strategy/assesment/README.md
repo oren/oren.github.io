@@ -1,6 +1,8 @@
 # Strategy Assesment
 
-Let's ensure you can apply what we learned in the Strategy Workshop. Score the two strategies below. This page is a work in progress.
+(This page is a 'work in progress' state)
+
+To verify you can apply what you learned in the Strategy Workshop, Score the two strategies below:
 
 ## Strategy A
 TODO: write strategy A
