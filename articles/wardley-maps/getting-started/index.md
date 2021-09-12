@@ -115,7 +115,4 @@ Repeat this strategy cycle with the team every few weeks.
 ## Next Steps (optional)
 
 - [Become a Strategy Coach in 5 Minutes](coach/) (5 min video)
-- [Glossary](glossary.html) (5 min read)
-- If you want to dive deeper into Wardley Maps watch [Introduction to Wardley Maps]() (30 min video).
-- If you want to dive deeper into strategy and organizational development [introduction to strategy and organizational development]() (30 min video).
 
