@@ -1,7 +1,6 @@
 # Become a Strategy Coach In 5 Minutes
 
-This is a placeholder for a 5 min video that uses Wardley Maps to score strategies and businesses.
-
-- [Art of War](art-of-war/)
-- [OODA Loop](ooda-loop/)
-- [Wardley Maps](wardley-maps/)
+- [Sun Tzu's Art of War](art-of-war/) (1 min video)
+- [John Boyd's OODA Loop](ooda-loop/) (1 min video)
+- [Simon Wardley's Wardley Maps](wardley-maps/) (1 min video)
+- [Strategy Coach Checklist](checklist/) (2 min video)
