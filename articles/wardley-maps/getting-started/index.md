@@ -4,6 +4,7 @@ theme: default
 -->
 
 ## Create strategies using Wardley Maps
+![wardley](wardley.png)
 
 ---
 <!-- paginate: true -->
