@@ -1,5 +1,3 @@
-# OODA Loop
+# John Boyd's OODA Loop
 
-TODO: Add link to 1 min video about OODA Loop
-
-Date: Sunday 09-18-2021
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xxx?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
