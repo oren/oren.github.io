@@ -94,13 +94,10 @@ Gameplay
 
 ## 7. Take actions
 
-TODO: add drawing
 
 ---
 
 ## Invite your team
-
-TODO: add drawing
 
 ---
 
