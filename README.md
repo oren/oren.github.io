@@ -1,16 +1,15 @@
 <!-- numbers -->
 
-## Strategy Workshop
+# Strategy Workshop
 
-- [Sun Tzu's Art of War](art-of-war/) (1 min video)
-- [John Boyd's OODA Loop](ooda-loop/) (1 min video)
-- [Simon Wardley's Wardley Maps](wardley-maps/) (1 min video)
-- [Strategy Coach Checklist](checklist/) (2 min video)
+## 1. Sun Tzu's Art of War
+<iframe width="640" height="360" src="https://www.youtube.com/embed/IugZaA7ElTI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Total Investment: 5 min
+## 2. OODA Loop
+<iframe width="640" height="360" src="https://www.youtube.com/embed/IugZaA7ElTI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
----
+## 3. Wardley Maps
+<iframe width="640" height="360" src="https://www.youtube.com/embed/IugZaA7ElTI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Congratulations! <3 You learned how to compare strategies and businesses. 
+Congratulations! <3 You learned how to compare strategies and businesses.
 
-Email me feedback or ideas: <orengolan@gmail.com>
