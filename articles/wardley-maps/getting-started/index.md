@@ -59,15 +59,13 @@ Evolution ([text format](evolution.html))
 
 ---
 
----
-
 ## 4. Add climatic patters to the map
 
 TODO: add drawing
 
 ---
 
-Climatic Patterns
+Climatic Patterns ([text format](climatic-patterns.html))
 ![climate](climatic-patterns.jpeg)
 
 ---
@@ -78,7 +76,7 @@ TODO: add drawing
 
 ---
 
-Doctrine
+Doctrine ([text format](doctrine.html))
 ![doctrines](doctrine.jpeg)
 
 ---
@@ -89,7 +87,7 @@ TODO: add drawing
 
 ---
 
-Gameplay
+Gameplay ([text format](gameplay.html))
 ![gameplay](gameplay.jpeg)
 
 ---
@@ -116,6 +114,8 @@ Repeat this strategy cycle with the team every few weeks.
 
 ## Next Steps (optional)
 
+- [Become a Strategy Coach in 5 Minutes](coach/) (5 min video)
+- [Glossary](glossary.html) (5 min read)
 - If you want to dive deeper into Wardley Maps watch [Introduction to Wardley Maps]() (30 min video).
 - If you want to dive deeper into strategy and organizational development [introduction to strategy and organizational development]() (30 min video).
 

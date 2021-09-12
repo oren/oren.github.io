@@ -43,13 +43,13 @@ If you want a deeper learning package:
 
 
 ## 4. Links:
+* [Getting Started](getting-started/) (5 minute workshop)
 * [30 min video - Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=2IW9L1uNMCs)
 * [Youtube Channel](https://www.youtube.com/c/HiredThought/videos)
 * [Online Wardley Maps](https://onlinewardleymaps.com/)
 * [Community Hub](https://list.wardleymaps.com/)
 * [Website](https://learnwardleymapping.com/)
 * [Twitter](https://twitter.com/search?q=%23WardleyMaps)
-* [Getting Started](getting-started/) (my practical guide. just a draft)
 
 ## 5. Book
 Wardley Maps - Topographical intelligence in business
