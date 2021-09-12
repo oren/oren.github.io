@@ -111,13 +111,13 @@ Take the [Strategy Assesment](../assesment/) (10 min read) to verify you can app
 ## Optional Material
 
 Cheatsheets:
-- [Evolutionary Characteristics](evolution.html)
-- [Climatic Patterns](climatic-patterns.html)
-- [Doctrine](doctrine.html)
-- [Gameplay](gameplay.html)
-- [Glossary](glossary.html)
+- [Evolutionary Characteristics](powerpoint/evolution.html)
+- [Climatic Patterns](powerpoint/climatic-patterns.html)
+- [Doctrine](powerpoint/doctrine.html)
+- [Gameplay](powerpoint/gameplay.html)
+- [Glossary](powerpoint/glossary.html)
 
 Resources:
-- [Sun Tzu's Sūn zi bīng fǎ (孫子兵法 / Art of War)](art-of-war/) (1 min video)
-- [John Boyd's OODA Loop](ooda-loop/) (1 min video)
-- [Simon Wardley's Wardley Maps](wardley-maps/) (1 min video)
+- [Sun Tzu's Sūn zi bīng fǎ (孫子兵法 / Art of War)](powerpoint/art-of-war/) (1 min video)
+- [John Boyd's OODA Loop](powerpoint/ooda-loop/) (1 min video)
+- [Simon Wardley's Wardley Maps](powerpoint/wardley-maps/) (1 min video)
