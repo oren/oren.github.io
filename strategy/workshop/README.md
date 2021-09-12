@@ -112,7 +112,7 @@ Repeat this strategy cycle with the team every few weeks.
 
 Take the [Strategy Assesment](../assesment/)
 
-#### Optional Material
+## Optional Material
 
 Cheatsheets:
 - [Evolutionary Characteristics](evolution.html)
