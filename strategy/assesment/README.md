@@ -2,15 +2,8 @@
 
 (This page is in 'work in progress' state)
 
-To verify you can apply what you learned in the Strategy Workshop, Score the two strategies below:
+This is an assesment to verify you can apply what you learned in the [Strategy Workshop](../strategy/workshop/). It is a 10 minutes video and text.
 
-## Strategy A
-TODO: write strategy A
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xxx?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Strategy B
-TODO: write strategy B
-
-## Other Formats
-* Video Format (5 min video)
-
-Congratulations! <3 You learned how to create and compare strategies.
+If you pass the assesment - Congratulations! <3 You learned how to build and compare strategies.
