@@ -1,16 +1,8 @@
-<!-- numbers -->
-
-## Strategy Workshop
+# Become a Strategy Coach In 5 Minutes
 
 - [Sun Tzu's Art of War](art-of-war/) (1 min video)
 - [John Boyd's OODA Loop](ooda-loop/) (1 min video)
 - [Simon Wardley's Wardley Maps](wardley-maps/) (1 min video)
 - [Strategy Coach Checklist](checklist/) (2 min video)
 
-Total Investment: 5 min
-
----
-
-Congratulations! <3 You learned how to compare strategies and businesses. 
-
-Email me feedback or ideas: <orengolan@gmail.com>
+Congratulations! <3
