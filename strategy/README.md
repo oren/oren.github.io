@@ -2,10 +2,10 @@
 
 Watch the video or other formats and take the Strategy Assesment
 
-- [Video Format](video) (5 min video)
+- [Video Format](video/) (5 min video)
 - [Text Format](text/) (5 min read)
 - [PDF Format](pdf/) (5 min read)
-- [Powerpoint Format](html) (5 min read)
+- [Powerpoint Format](powerpoint/) (5 min read)
 
 [Strategy Assesment](assesment/) (1 min read)
 
