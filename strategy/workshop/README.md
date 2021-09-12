@@ -2,7 +2,7 @@
 
 (This page is in 'work in progress' state)
 
-This workshop will teach you how to build and compare business strategies.
+This workshop will teach you how to build and compare business strategies. This is a 10 minutes video and text. You can also read the [powerpoint](powerpoint/index.html) and the [pdf](powerpoint/strategy-workshop.pdf) formats.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xxx?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -106,9 +106,10 @@ Repeat this strategy cycle with the team every few weeks.
 
 ---
 
-## Next Steps (optional)
+## Next Steps
 
-TODO
+Take the [Strategy Assesment](../assesment/)
+
 
 ## Other Formats
 
