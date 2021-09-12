@@ -2,4 +2,4 @@
 
 # after this command, open the doc in firefox
 
-marp --watch index.md
+marp --html --watch index.md

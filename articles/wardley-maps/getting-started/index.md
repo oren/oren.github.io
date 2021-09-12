@@ -54,8 +54,10 @@ TODO: add drawing
 
 ---
 
-Evolution
+Evolution ([text format](evolution.html))
 ![evolution](evolution.jpeg)
+
+---
 
 ---
 
