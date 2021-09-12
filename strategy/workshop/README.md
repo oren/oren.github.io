@@ -97,20 +97,16 @@ References:
 
 ---
 
-## Here is the cycle you went through:
+## Here is a visual way to look at the steps you took:
 ![cycle](powerpoint/strategy-cycle.png)
 
----
-
-## Repeat the cycle
-
-Repeat this strategy cycle with the team every few weeks.
+Repeat the 9 steps with the team every few weeks. Drawing maps together is fun!
 
 ---
 
 ## Next Steps - Strategy Assesment
 
-Take the [Strategy Assesment](../assesment/)
+Take the [Strategy Assesment](../assesment/) (10 min read) to verify you can apply what you learn in this workshop. You should be able build and compare business strategies.
 
 ## Optional Material
 
