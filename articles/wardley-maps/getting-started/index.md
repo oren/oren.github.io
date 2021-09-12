@@ -17,7 +17,7 @@ theme: default
 ---
 
 ## All the steps in one page
-1. Write a customer, need, and dependency
+1. Write a customer, a need, and dependencies
 1. Draw a map
 1. Move the dependencies
 1. Add trends to the map
@@ -31,13 +31,13 @@ theme: default
 
 Steps:
 1. write down name of a customer.
-1. Write one need of this user.
-1. Write something that depends on that need.
+1. Write one need of this customer.
+1. Write a few things that are needed to meet this need.
 
 Example:
-1. user: software engineer.
-1. need: building a web service.
-1. dependency: choose a technology.
+1. User: software engineer.
+1. Need: build a web site.
+1. Dependencies: choose a technology, learn how to use it, build a web site, test it, deploy it, maintain it.
 
 ---
 
@@ -47,37 +47,59 @@ TODO: add drawing
 
 ---
 
-## 3. Move the dependencies
+## 3. Move the dependencies on the evolution scale
 
-Use this diagram:
-
-TODO: add evolution/landscape diagram
+TODO: add drawing
 
 ---
 
-## 4. Add trends to the map
-
-Add to the map:
-TODO: add climate diagram
+Evolution
+![evolution](evolution.jpeg)
 
 ---
 
-## 5. Add moves to the map
+## 4. Add climatic patters to the map
 
-Add this to the map:
-TODO: add doctrine (orient) chart
+TODO: add drawing
 
 ---
 
-## 6. Add strategic moves
+Climatic Patterns
+![climate](climatic-patterns.jpeg)
+
+---
+
+## 5. Add doctrine to the map
+
+TODO: add drawing
+
+---
+
+Doctrine
+![doctrines](doctrine.jpeg)
+
+---
+
+## 6. Add strategic move
+
+TODO: add drawing
+
+---
+
+Gameplay
+![gameplay](gameplay.jpeg)
 
 ---
 
 ## 7. Take actions
 
+TODO: add drawing
+
 ---
 
 ## Invite your team
+
+TODO: add drawing
 
 ---
 
