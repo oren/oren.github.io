@@ -2,10 +2,9 @@
 
 # Oren's Website
 
-## 1. Strategy Workshop
+## 1. Workshops
 
-[How to score a business strategy](strategy/)
-
+[Strategy Workshop](strategy/)
 
 Email me feedback or ideas: <orengolan@gmail.com>
 
