@@ -35,4 +35,3 @@ Email me feedback or ideas: <orengolan@gmail.com>
 
 ## 6. Contact Me
 Email: <orengolan@gmail.com>
-
