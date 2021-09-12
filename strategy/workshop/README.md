@@ -27,6 +27,8 @@ Set up a 45 minutes session with your team and together imagine a celebration th
 
 At the end of the session, write down a shared celebration that everyone on the team is part of and share it with other teams. Congrats! You just created a shared true north for the team.
 
+---
+
 ## 2. Write down a customer, need, and dependency
 
 Steps:
@@ -106,12 +108,20 @@ Repeat this strategy cycle with the team every few weeks.
 
 ---
 
-## Next Steps
+## Next Steps - Strategy Assesment
 
 Take the [Strategy Assesment](../assesment/)
 
+#### Optional Material
 
-## Other Formats
+Cheatsheets:
+- [Evolutionary Characteristics](evolution.html)
+- [Climatic Patterns](climatic-patterns.html)
+- [Doctrine](doctrine.html)
+- [Gameplay](gameplay.html)
+- [Glossary](glossary.html)
 
-* [PDF](strategy-workshop.pdf)
-* [Powerpoint](powerpoint/)
+Resources:
+- [Sun Tzu's Sūn zi bīng fǎ (孫子兵法 / Art of War)](art-of-war/) (1 min video)
+- [John Boyd's OODA Loop](ooda-loop/) (1 min video)
+- [Simon Wardley's Wardley Maps](wardley-maps/) (1 min video)

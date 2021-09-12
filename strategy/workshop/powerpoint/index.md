@@ -3,7 +3,7 @@ size: 4:3
 theme: default
 -->
 
-## Create strategies using Wardley Maps
+# Strategy Workshop
 ![wardley](wardley.png)
 
 ---
@@ -11,13 +11,12 @@ theme: default
 
 ## What will you learn?
 
-- How to draw your first map
-- How to use the map to make strategic decisions
-- How to include your team to this process
+This workshop will teach you how to build and compare business strategies. This is a 10 minutes video and text. You can also read the [powerpoint](powerpoint/index.html) and the [pdf](powerpoint/strategy-workshop.pdf) formats.
 
 ---
 
-## Summary of all the steps in this workshop
+## Summary of all the steps in this workshop (Strategy Cycle)
+1. Imagine your team celebrate a successful year
 1. Write a customer, a need, and dependencies
 1. Draw a map
 1. Locate the dependency on the evolution axis
@@ -29,7 +28,15 @@ theme: default
 
 ---
 
-## 1. Write down a customer, need, and dependency
+## 1. Imagine your team celebrates a successful year
+
+Set up a 45 minutes session with your team and together imagine a celebration that everyone is part of. Write down who is there, what are they celebrating, how do they feel, when is it happening, and why are they there. You can start the session in 5 minutes meditation.
+
+At the end of the session, write down a shared celebration that everyone on the team is part of and share it with other teams. Congrats! You just created a shared true north for the team.
+
+---
+
+## 2. Write down a customer, need, and dependency
 
 Steps:
 1. write down name of a customer.
@@ -43,67 +50,62 @@ Example:
 
 ---
 
-## 2. Draw a map
+## 3. Draw a map
 
 TODO: add drawing
 
 ---
 
-## 3. Move the dependencies on the evolution scale
+## 4. Locate the dependency on the evolution axis
 
 TODO: add drawing
 
+References:
+* [Evolutionary Characteristics. text format](powerpoint/evolution.html)
+* [Evolutionary Characteristics. image format](powerpoint/evolution.jpeg)
+
 ---
 
-Evolution ([text format](evolution.html))
-![evolution](evolution.jpeg)
-
----
-
-## 4. Add climatic patters to the map
+## 5. Add climatic patters
 
 TODO: add drawing
 
+References:
+* [Climatic Patterns. text format](powerpoint/climatic-patterns.html)
+* [Climatic Patterns. image format](powerpoint/evolution.jpeg)
+
 ---
 
-Climatic Patterns ([text format](climatic-patterns.html))
-![climate](climatic-patterns.jpeg)
-
----
-
-## 5. Add doctrine to the map
+## 6. Add doctrine
 
 TODO: add drawing
 
+References:
+* [Doctrine. text format](powerpoint/doctrine.html)
+* [Doctrine. image format](powerpoint/doctrine.jpeg)
+
 ---
 
-Doctrine ([text format](doctrine.html))
-![doctrines](doctrine.jpeg)
-
----
-
-## 6. Add strategic move
+## 7. Add gameplay
 
 TODO: add drawing
 
----
-
-Gameplay ([text format](gameplay.html))
-![gameplay](gameplay.jpeg)
-
----
-
-## 7. Take actions
-
+References:
+* [Gameplay. text format](powerpoint/gameplay.html)
+* [Gameplay. image format](powerpoint/gameplay.jpeg)
 
 ---
 
-## Invite your team
+## 8. Decide on actions
+
+---
+
+## 9. Take actions
 
 ---
 
 ## Here is the cycle you went through:
-![cycle](strategy-cycle.png)
+![cycle](powerpoint/strategy-cycle.png)
 
 ---
 
@@ -113,6 +115,6 @@ Repeat this strategy cycle with the team every few weeks.
 
 ---
 
-## Next Steps (optional)
+## Next Steps
 
-TODO
+Take the [Strategy Assesment](../assesment/)
