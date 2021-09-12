@@ -19,7 +19,7 @@ yan chang: Pǔ Shù
 
 徘徊著的 在路上的
 
-pái huái zhe de zài lù shàng de
+pái huái zhe de, zài lù shàng de
 
 Those who are wandering, those who are on the road
 
@@ -45,7 +45,7 @@ Fragile ones, Proud ones
 
 那也曾是我的模樣
 
-nà yě céng shì wǒ de múyàng
+nà yě céng shì, wǒ de múyàng
 
 That was also my appearance, once
 
@@ -77,7 +77,7 @@ Mysterious ones, silent ones
 
 故事 你真的 在聽嗎
 
-gùshì nǐ zhēn de zài tīng ma
+gùshì nǐ zhēn de, zài tīng ma
 
 Are you actually listening to the story?
 
@@ -112,7 +112,7 @@ I once had everything
 
 轉眼都飄散如煙
 
-zhuǎn yǎn dōu piāo sàn rú yān
+zhuǎn yǎn dōu, piāo sàn rú yān
 
 But in the blink of an eye, it disappeared like smoke
 
@@ -120,7 +120,7 @@ But in the blink of an eye, it disappeared like smoke
 
 我曾經 失落 失望 失掉 所有方向
 
-wǒ céng jīng shī luò shī wàng shī diào suǒ yǒu fāng xiàng
+wǒ céng jīng shī luò shī wàng shī diào suǒ yǒu, fāng xiàng
 
 I’ve been lost, disappointed, lost my sense of direction
 
@@ -137,7 +137,7 @@ Until (I) saw that “ordinary” is the only answer
 
 當你仍然 還在幻想
 
-dāng nǐ réngrán hái zài huànxiǎng
+dāng nǐ réngrán hái, zài huànxiǎng
 
 When you’re still fantasizing
 
@@ -153,7 +153,7 @@ nǐ de míngtiān via via
 
 它會好嗎 還是更爛
 
-tā huì hǎo ma háishì gèng làn
+tā huì hǎo ma, háishì gèng làn
 
 Will it be better? Or worse?
 
