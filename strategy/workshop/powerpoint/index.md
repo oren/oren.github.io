@@ -6,12 +6,14 @@ theme: default
 # Strategy Workshop
 ![wardley](wardley.png)
 
+This is a 10 minutes powerpoint format. There are also [video, text, and pdf](https://oren.github.io/strategy/workshop/) formats.
+
 ---
 <!-- paginate: true -->
 
 ## What will you learn?
 
-This workshop will teach you how to build and compare business strategies. This is a 10 minutes video and text. You can also read the [powerpoint](powerpoint/index.html) and the [pdf](powerpoint/strategy-workshop.pdf) formats.
+This workshop will teach you how to build and compare business strategies.
 
 ---
 
@@ -61,8 +63,8 @@ TODO: add drawing
 TODO: add drawing
 
 References:
-* [Evolutionary Characteristics. text format](evolution.html)
-* [Evolutionary Characteristics. image format](evolution.jpeg)
+- [Evolutionary Characteristics. text format](evolution.html)
+- [Evolutionary Characteristics. image format](evolution.jpeg)
 
 ---
 
@@ -71,8 +73,8 @@ References:
 TODO: add drawing
 
 References:
-* [Climatic Patterns. text format](climatic-patterns.html)
-* [Climatic Patterns. image format](evolution.jpeg)
+- [Climatic Patterns. text format](climatic-patterns.html)
+- [Climatic Patterns. image format](evolution.jpeg)
 
 ---
 
@@ -81,8 +83,8 @@ References:
 TODO: add drawing
 
 References:
-* [Doctrine. text format](doctrine.html)
-* [Doctrine. image format](doctrine.jpeg)
+- [Doctrine. text format](doctrine.html)
+- [Doctrine. image format](doctrine.jpeg)
 
 ---
 
@@ -91,8 +93,8 @@ References:
 TODO: add drawing
 
 References:
-* [Gameplay. text format](gameplay.html)
-* [Gameplay. image format](gameplay.jpeg)
+- [Gameplay. text format](gameplay.html)
+- [Gameplay. image format](gameplay.jpeg)
 
 ---
 

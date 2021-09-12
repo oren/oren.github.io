@@ -54,8 +54,8 @@ TODO: add drawing
 TODO: add drawing
 
 References:
-* [Evolutionary Characteristics. text format](powerpoint/evolution.html)
-* [Evolutionary Characteristics. image format](powerpoint/evolution.jpeg)
+- [Evolutionary Characteristics. text format](powerpoint/evolution.html)
+- [Evolutionary Characteristics. image format](powerpoint/evolution.jpeg)
 
 ---
 
@@ -64,8 +64,8 @@ References:
 TODO: add drawing
 
 References:
-* [Climatic Patterns. text format](powerpoint/climatic-patterns.html)
-* [Climatic Patterns. image format](powerpoint/evolution.jpeg)
+- [Climatic Patterns. text format](powerpoint/climatic-patterns.html)
+- [Climatic Patterns. image format](powerpoint/evolution.jpeg)
 
 ---
 
@@ -74,8 +74,8 @@ References:
 TODO: add drawing
 
 References:
-* [Doctrine. text format](powerpoint/doctrine.html)
-* [Doctrine. image format](powerpoint/doctrine.jpeg)
+- [Doctrine. text format](powerpoint/doctrine.html)
+- [Doctrine. image format](powerpoint/doctrine.jpeg)
 
 ---
 
@@ -84,8 +84,8 @@ References:
 TODO: add drawing
 
 References:
-* [Gameplay. text format](powerpoint/gameplay.html)
-* [Gameplay. image format](powerpoint/gameplay.jpeg)
+- [Gameplay. text format](powerpoint/gameplay.html)
+- [Gameplay. image format](powerpoint/gameplay.jpeg)
 
 ---
 
