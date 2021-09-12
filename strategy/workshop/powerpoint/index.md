@@ -17,14 +17,15 @@ theme: default
 
 ---
 
-## All the steps in one page
+## Summary of all the steps in this workshop
 1. Write a customer, a need, and dependencies
 1. Draw a map
-1. Move the dependencies
-1. Add trends to the map
-1. Add moves to the map
-1. Add strategic moves
+1. Locate the dependency on the evolution axis
+1. Add climatic patters
+1. Add doctrine
+1. Add gameplay
 1. Decide on actions
+1. Take actions
 
 ---
 
@@ -114,5 +115,4 @@ Repeat this strategy cycle with the team every few weeks.
 
 ## Next Steps (optional)
 
-- [Become a Strategy Coach in 5 Minutes](coach/) (5 min video)
-
+TODO

@@ -1,6 +1,6 @@
 # Strategy Assesment
 
-(This page is a 'work in progress' state)
+(This page is in 'work in progress' state)
 
 To verify you can apply what you learned in the Strategy Workshop, Score the two strategies below:
 
