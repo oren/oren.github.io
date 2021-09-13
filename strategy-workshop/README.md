@@ -2,22 +2,28 @@
 
 (This page is in 'work in progress' state)
 
-This workshop will teach you how to build and compare business strategies. This is a 10 minutes video and text. You can also read the [powerpoint](powerpoint/index.html) and the [pdf](powerpoint/strategy-workshop.pdf) formats.
+This workshop will teach you how to build business strategies. This is a 10 minutes video and text. You can also read the [powerpoint](powerpoint/index.html) and the [pdf](powerpoint/strategy-workshop.pdf) formats.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xxx?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-## Summary of all the steps in this workshop (Strategy Cycle)
+## Summary of all the steps in this workshop
 1. Imagine your team celebrate a successful year
 1. Write a customer, a need, and dependencies
 1. Draw a map
-1. Locate the dependency on the evolution axis
+1. Locate the dependencies on the evolution axis
 1. Add climatic patters
 1. Add doctrine
 1. Add gameplay
 1. Decide on actions
 1. Take actions
+
+Repeat the 9 steps with the team every few weeks.
+
+![cycle](powerpoint/strategy-cycle.png)
+
+Those steps are called the strategy cycle. You can learn more in the resources section at the end of the workshop.
 
 ---
 
@@ -49,7 +55,7 @@ TODO: add drawing
 
 ---
 
-## 4. Locate the dependency on the evolution axis
+## 4. Locate the dependencies on the evolution axis
 
 TODO: add drawing
 
@@ -96,11 +102,6 @@ References:
 ## 9. Take actions
 
 ---
-
-## Here is a visual way to look at the steps you took:
-![cycle](powerpoint/strategy-cycle.png)
-
-Repeat the 9 steps with the team every few weeks. Drawing maps together is fun!
 
 ## Optional Material
 
