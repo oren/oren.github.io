@@ -65,7 +65,7 @@ TODO: add drawing
 
 References:
 - [Climatic Patterns. text format](powerpoint/climatic-patterns.html)
-- [Climatic Patterns. image format](powerpoint/evolution.jpeg)
+- [Climatic Patterns. image format](powerpoint/climatic-patterns.jpeg)
 
 ---
 
