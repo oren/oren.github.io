@@ -6,8 +6,6 @@
 
 [Strategy Workshop](strategy-workshop/)
 
-Email me feedback or ideas: <orengolan@gmail.com>
-
 ## 2. Writing and speaking
 * [Articles](articles/)
 * [Talks](talks/)
@@ -34,4 +32,4 @@ Email me feedback or ideas: <orengolan@gmail.com>
 * [Twitter](https://www.twitter.com/oreng)
 
 ## 6. Contact Me
-Email: <orengolan@gmail.com>
+Feedback and ideas are always welcome! Email me: <orengolan@gmail.com>
