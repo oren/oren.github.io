@@ -17,16 +17,26 @@ This workshop will teach you how to build and compare business strategies.
 
 ---
 
-## Summary of all the steps in this workshop (Strategy Cycle)
+## Summary of all the steps in this workshop
 1. Imagine your team celebrate a successful year
 1. Write a customer, a need, and dependencies
 1. Draw a map
-1. Locate the dependency on the evolution axis
+1. Locate the dependencies on the evolution axis
 1. Add climatic patters
 1. Add doctrine
 1. Add gameplay
 1. Decide on actions
 1. Take actions
+
+Repeat the 9 steps with the team every few weeks.
+
+---
+
+## Visual of all the steps
+
+Those steps are called the strategy cycle. You can learn more in the resources section at the end of the workshop.
+
+![w:472.6 h:358.6](strategy-cycle.png)
 
 ---
 
@@ -106,17 +116,16 @@ References:
 
 ---
 
-## Here is the cycle you went through:
-![cycle](strategy-cycle.png)
+## Optional Material
 
----
+Cheatsheets:
+- [Evolutionary Characteristics](powerpoint/evolution.html)
+- [Climatic Patterns](powerpoint/climatic-patterns.html)
+- [Doctrine](powerpoint/doctrine.html)
+- [Gameplay](powerpoint/gameplay.html)
+- [Glossary](powerpoint/glossary.html)
 
-## Repeat the cycle
-
-Repeat this strategy cycle with the team every few weeks.
-
----
-
-## Next Steps
-
-Take the [Strategy Assesment](../assesment/)
+Resources:
+- [Sun Tzu's Sūn zi bīng fǎ (孫子兵法 / Art of War)](art-of-war/) (1 min video)
+- [John Boyd's OODA Loop](ooda-loop/) (1 min video)
+- [Simon Wardley's Wardley Maps](wardley-maps/) (1 min video)
