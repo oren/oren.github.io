@@ -4,7 +4,7 @@
 
 ## 1. Workshops
 
-[Strategy Workshop](strategy/)
+[Strategy Workshop](strategy-workshop/)
 
 Email me feedback or ideas: <orengolan@gmail.com>
 
