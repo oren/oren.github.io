@@ -38,7 +38,7 @@ At the end of the session, write down a shared celebration that everyone on the 
 ## 2. Write down a customer, need, and dependency
 
 Steps:
-1. write down name of a customer.
+1. Write down name of a customer.
 1. Write one need of this customer.
 1. Write a few things that are needed to meet this need.
 
