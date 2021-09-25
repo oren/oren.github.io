@@ -61,7 +61,7 @@ TODO: add drawing
 
 References:
 - [Evolutionary Characteristics. text format](powerpoint/evolution.html)
-- [Evolutionary Characteristics. image format](powerpoint/evolution.jpeg)
+- [Evolutionary Characteristics. image format](powerpoint/evolution.jpg)
 
 ---
 
