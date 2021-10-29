@@ -1,0 +1,14 @@
+#title Reduce Total Cost of Ownership (TCO)
+
+#anchor Team [0.93, 0.45]
+#component Reduce TCO [0.79, 0.38] label [8, -4]
+#component ML Product [0.67, 0.10] label [-37, 16]
+#component Compute Service [0.63, 0.35] label [-29, 12]
+#component Analytics Guide [0.64, 0.19] label [-26, 11]
+
+#Team->Reduce TCO
+#Reduce TCO->ML Product
+#Reduce TCO->Compute Service
+#Reduce TCO->Analytics Guide
+
+#evolve Compute Service 0.63 label [-9, 10]
