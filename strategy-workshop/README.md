@@ -1,4 +1,4 @@
-# Srategy Workshop
+# Strategy Workshop
 
 (This page is in 'work in progress' state)
 
