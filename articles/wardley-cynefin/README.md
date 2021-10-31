@@ -12,8 +12,8 @@ Here is a text version of the talk
 Cynefin Dynamics:
 * Innovation cycle - tell the pokemon go story. cameras become a comodity. that lead to innovations like pokemon go.
 * Shallow dive into choas
-* small precentage of things stablize
-* chaos grazing
+* Small precentage of things stablize
+* Chaos grazing
 
 ## What is Wardley Maps?
 
@@ -21,4 +21,5 @@ Cynefin Dynamics:
 
 
 Resources:
-* []()
+* [Cynefin Framework]()
+* [Wardley Maps]()
