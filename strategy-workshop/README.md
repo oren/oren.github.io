@@ -4,7 +4,7 @@
 
 This workshop will teach you how to build business strategies. This is a 10 minutes text. In the future we will add more formats: video, [powerpoint](powerpoint/index.html), and [pdf](powerpoint/strategy-workshop.pdf).  Here is a 3 min trailer:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gkXijW25ALE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QAjnWtYo_zk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
