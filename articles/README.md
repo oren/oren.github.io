@@ -3,6 +3,7 @@
 # Articles
 
 ## 1. Leadership
+* [Wardley Maps and Cynefin Framework](wardley-cynefin/)
 * [How to navigate a complex organization](navigate-complex-organization/)
 * [Thinking in Systems](thinking-in-systems/)
 * [How to Score a Business Plan](score-business-plan/)
