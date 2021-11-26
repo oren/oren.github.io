@@ -4,7 +4,8 @@
 
 ## 1. Workshops
 
-[Strategy Workshop](strategy-workshop/)
+* [Build a Product Workshop](product-workshop/)
+* [Build a Business Strategy Workshop](strategy-workshop/)
 
 ## 2. Writing and speaking
 * [Articles](articles/)
