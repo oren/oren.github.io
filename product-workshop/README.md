@@ -1,13 +1,12 @@
-# Product Strategies Workshop
-Discover product strategies with your team in 20 minutes
+# Build a Product Workshop
+Build product strategy and roadmap with your team in 20 minutes.
 
 This workshop is evolving. The following deliverables are in-development:
-* Powerpoint format
-* PDF format
-* Video format
-* Instructions for the 4 steps
+* [ ] Powerpoint format
+* [ ] PDF format
+* [ ] Video format
+* [ ] Instructions for the 4 steps
 
-This workshop will teach you how to build business strategies.
 Other formats:
 * [pdf](pdf/strategy-workshop.pdf)
 * [powerpoint](powerpoint/strategy-workshop/)
