@@ -24,7 +24,7 @@ Contact: 2121 6th Ave, #N315, Seattle, WA 98121. [orengolan@gmail.com](mailto:or
 * Leading the hiring of various roles at Amazon and AWS
 
 ### Technical Business Developer, AWS. Apr 2018 – Mar 2021. Seattle
-* Built and implemented a go-to-market strategy to decrease the time-to-adoption of AWS Services by Amazon. The solution was a program that includes multiple products that are based on Elastic Compute Service (ECS) and Elastic Compute (EC2). The impact was reducing 52.30 engineering years at Amazon (10 days per team). It was adopted by 1360 software engineering teams during 2020
+* Built and implemented a go-to-market strategy to decrease the time-to-adoption of AWS Services by Amazon. The solution is a program that includes multiple products that are based on Elastic Compute Service (ECS) and Elastic Compute (EC2). The impact was reducing 52.30 engineering years at Amazon (10 days per team). It was adopted by 1360 software engineering teams during 2020
 * Developed an engineering organization of 17 engineers at Amazon and AWS (15 SDEs, Principal Engineer, and a Solution Architect) with the purpose of increasing the productivity of SDEs at Amazon.com. The team operated in two domains: 1. Consulting for Amazon engineering teams. 2. Advisory for AWS Product Teams
 * Created mechanism to address unmet needs at Amazon.com by fostering cross-org product development with teams at AWS (Account Managers, Marketing, Solutions Architects, Customer Solution Managers, Technical Account Managers, Professional Services, Global System Integrators, AWS Training & Certificates, and Cloud Support Engineering) and Amazon.com (Tools, Platform, Operational Excellence, Security, and Compliance)
 
