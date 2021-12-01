@@ -19,13 +19,14 @@ Contact: 2121 6th Ave, #N315, Seattle, WA 98121. [orengolan@gmail.com](mailto:or
 
 ## 💼 Experience
 
-### Technical Product Manager, Amazon Engineering Excellence. Mar 2021 - Present. Seattle
-* Single threaded owner of time-to-production of Amazon Teams. Building and implementing strategies and products for accelerating migration and new workloads on AWS
+### Technical Product Manager, Amazon Engineering Excellence. May 2021 - Present. Seattle
+* Single threaded owner with objective of reducing time-to-production of Amazon Teams - 100,000 engineers and 20,000 teams
+* Defining, owning and executing strategies for accelerating the development of compute workloads by Amazon teams. The solutions are based on AWS Lambda and Elastic Compute Service (ECS). The predicted impact is reducing 200 engineering years during 2022 and product adoption by 5000 engineering teams at Amazon.
 * Leading the hiring of various roles at Amazon and AWS
 
 ### Technical Business Developer, AWS. Apr 2018 – Mar 2021. Seattle
-* Built and implemented a go-to-market strategy to decrease the time-to-adoption of AWS Services by Amazon. The solution is a program that includes multiple products that are based on Elastic Compute Service (ECS) and Elastic Compute (EC2). The impact was reducing 52.30 engineering years at Amazon (10 days per team). It was adopted by 1360 software engineering teams during 2020
-* Developed an engineering organization of 17 engineers at Amazon and AWS (15 SDEs, Principal Engineer, and a Solution Architect) with the purpose of increasing the productivity of SDEs at Amazon.com. The team operated in two domains: 1. Consulting for Amazon engineering teams. 2. Advisory for AWS Product Teams
+* Built and implemented a go-to-market strategy to decrease the time-to-adoption of AWS Services by Amazon. The solution is a program with two products that are based on Elastic Compute Service (ECS) and Elastic Compute Cloud (EC2). The impact was reducing 52.30 engineering years at Amazon (10 days per team). It was adopted by 1360 software engineering teams during 2020
+* Developed an engineering organization of 17 engineers at Amazon and AWS (15 SDEs, Principal Engineer, and a Solution Architect) with the purpose of increasing the productivity of SDEs at Amazon.com. The team operates in two domains: 1. Consulting for Amazon engineering teams. 2. Advisory for AWS Product Teams
 * Created mechanism to address unmet needs at Amazon.com by fostering cross-org product development with teams at AWS (Account Managers, Marketing, Solutions Architects, Customer Solution Managers, Technical Account Managers, Professional Services, Global System Integrators, AWS Training & Certificates, and Cloud Support Engineering) and Amazon.com (Tools, Platform, Operational Excellence, Security, and Compliance)
 
 ### Software Development Manager, Amazon Video. Aug 2016 – Apr 2018.   Seattle
@@ -40,7 +41,7 @@ Contact: 2121 6th Ave, #N315, Seattle, WA 98121. [orengolan@gmail.com](mailto:or
 * Lead cloud strategy based on AWS
 * Built HIPAA compliant infrastructure for clinical research projects
 * Applied Lean practices for company-wide process improvements
-* lmplemented software development processes - Scrum and Canban
+* Implemented software development processes - Scrum and Kanban
 * Increased team's productivity by building CI based on Docker
 * Developed highly available services and applications using Javascript, Node.js, and Golang
 
@@ -77,4 +78,3 @@ Contact: 2121 6th Ave, #N315, Seattle, WA 98121. [orengolan@gmail.com](mailto:or
 * B.A in Computer Science - Academic college of Tel Aviv-Jaffa, Israel (Graduated: 2003)
 * AWS Solution Architect Associate
 * Certified Scrum Master (with Jeff Sutherland)
-* Veteran of Israeli Army - combat soldier in an Elite Unit
