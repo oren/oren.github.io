@@ -2,7 +2,7 @@
 
 You can read and download [a PDF version of my resume](oren-golan-resume.pdf).
 
-I am a leader and builder of product and engineering teams. 15+ years experience envisioning, building, launching, operating, and scaling products. I am passionate about innovation, business strategy, and organizational development.
+I owned product and technology strategies at various organizations. I have 15+ years of experience in building, leading, operating, and scaling product and engineering teams. I build inclusive culture of trust and safety that accelerate innovation. I do that by integrating strategy, organizational developmentd and delivery through participation.
 
 ## 👤 Profile
 
@@ -37,13 +37,13 @@ Contact: 2121 6th Ave, #N315, Seattle, WA 98121. [orengolan@gmail.com](mailto:or
 * Lead Amazon Video hackathon for US and UK teams
 
 ### VP of Engineering, Sanguine Biosciences. Jan 2015 – Aug 2016.   Los Angeles
-* Formed and mentored a new development team
+* Built and lead the technology and product strategy for the company
+* Lean an execution strategy based on OKRs for aligning engineering, sales, marketing, and finance
 * Lead cloud strategy based on AWS
 * Built HIPAA compliant infrastructure for clinical research projects
-* Applied Lean practices for company-wide process improvements
-* Implemented software development processes - Scrum and Kanban
-* Increased team's productivity by building CI based on Docker
-* Developed highly available services and applications using Javascript, Node.js, and Golang
+* Lead teams that built services and applications using Javascript, Node.js, and Golang
+* Hired and mentored engineers and designers for new teams
+* Implemented software development processes - Scrum, Kanban, and FDD
 
 ### Senior Software Engineer, AT&T Interactive. Jan 2012 - Oct 2014. Los Angeles
 * Lead a technology change for YP.com website – migrating our tech stack from Ruby on Rails to a full stack JavaScript code base (Node.js on the server)
