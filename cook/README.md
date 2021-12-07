@@ -27,6 +27,7 @@ A CookBook for Strength Athletes
 * [Israeli Shakshuka](israeli-shakshuka/)
 * [Khichuri Salmon](khichuri-salmon/)
 * [Lean Sushi](lean-sushi/)
+* [Lentil Soup](lentil-soup/)
 * [Mung Bean Pancakes](mung-bean-pancakes/)
 * [Mahi Mahi Mojo](mahi-mahi-mojo/)
 * [Oatmeal Bars](oatmeal-bars/)
