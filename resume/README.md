@@ -21,7 +21,7 @@ Contact: 2121 6th Ave, #N315, Seattle, WA 98121. [orengolan@gmail.com](mailto:or
 
 ### Technical Product Manager, Amazon Engineering Excellence. May 2021 - Present. Seattle
 * Single threaded owner with objective of reducing time-to-production of Amazon Teams - 100,000 engineers and 20,000 teams
-* Defining, owning and executing strategies for accelerating the development of compute workloads by Amazon teams. The solutions are based on AWS Lambda and Elastic Compute Service (ECS). The predicted impact is reducing 200 engineering years during 2022 and product adoption by 5000 engineering teams at Amazon.
+* Defining, owning and executing strategies for accelerating the development of compute workloads by Amazon teams. The solutions are based on AWS Lambda and Elastic Conainer Service (ECS). The predicted impact is reducing 200 engineering years during 2022 and product adoption by 5000 engineering teams at Amazon.
 * Leading the hiring of various roles at Amazon and AWS
 
 ### Technical Business Developer, AWS. Apr 2018 – Mar 2021. Seattle
