@@ -23,6 +23,7 @@
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [Build 3-Year Org Strategy](3-year-strategy/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
+* [Product Discovery](product-discovery/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
