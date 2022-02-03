@@ -25,8 +25,13 @@
 * [桃花诺 / Táohuā nuò](https://www.youtube.com/watch?v=OoNk_pIROkY)
 * [紅色高跟鞋 / Hóngsè gāogēnxié / Red High Heels](red-high-heels/)
 * [甜蜜蜜 / Tian mi mi ](tian-mi-mi/)
-* https://www.youtube.com/watch?v=KOw5ToU5yug
-* https://www.youtube.com/watch?v=IiFm7AWP9n4
-* https://www.youtube.com/watch?v=L9yCjitoguo
-* https://www.youtube.com/watch?v=-B5gAczFJps
-* https://www.youtube.com/watch?v=QJjSLe8Kt4I
+* [得，未曾有 / Dé, wèi céng yǒu / yes, never](yes-never/)
+
+Links to videos:
+
+* [misc](https://www.youtube.com/watch?v=NR7IlJ2AkYE)
+* [misc](https://www.youtube.com/watch?v=KOw5ToU5yug)
+* [misc](https://www.youtube.com/watch?v=IiFm7AWP9n4)
+* [misc](https://www.youtube.com/watch?v=L9yCjitoguo)
+* [misc](https://www.youtube.com/watch?v=-B5gAczFJps)
+* [misc](https://www.youtube.com/watch?v=QJjSLe8Kt4I)
