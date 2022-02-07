@@ -25,7 +25,6 @@ Those who are wandering, those who are on the road
 
 ---
 
-
 你要走嗎 via via
 
 nǐ yào zǒu ma, via via
@@ -33,7 +32,6 @@ nǐ yào zǒu ma, via via
 You want to go? (Are you going?) Via, via
 
 ---
-
 
 易碎的 驕傲著
 
@@ -82,7 +80,6 @@ gùshì nǐ zhēn de, zài tīng ma
 Are you actually listening to the story?
 
 ---
-
 
 CHORUS 1
 
@@ -134,7 +131,6 @@ Until (I) saw that “ordinary” is the only answer
 
 ---
 
-
 當你仍然 還在幻想
 
 dāng nǐ réngrán hái, zài huànxiǎng
@@ -158,7 +154,6 @@ tā huì hǎo ma, háishì gèng làn
 Will it be better? Or worse?
 
 ---
-
 
 對我而言是另一天
 
@@ -196,7 +191,7 @@ I’ve been like you, like him, like the wild grass and flowers
 
 絕望著 渴望著 也哭也笑也平凡著
 
-juéwàngzhe kěwàngzhe kūzhe xiàozhe píngfánzhe
+jué wàng zhe kě wàng zhe kū zhe xiào zhe píng fán zhe
 
 Despairing, longing, crying, laughing, ordinary
 
@@ -246,7 +241,7 @@ I’ve crossed mountains and seas
 
 也 穿過 人山人海
 
-yě chuānguò rénshānrénhǎi
+yě chuān guò rén shān rén hǎi
 
 And gone through crowds of people
 
@@ -254,7 +249,7 @@ And gone through crowds of people
 
 我曾經問遍整個世界 從來沒得到答案
 
-wǒ céngjīng wèn biàn zhěnggè shìjiè cónglái méi dédào dá’àn
+wǒ céng jīng wèn biàn zhěnggè shìjiè cónglái méi dédào dá’àn
 
 I’ve asked the whole world, (but) never found an answer
 
@@ -294,7 +289,7 @@ Tomorrow is before (your) eyes
 
 風吹過的 路依然遠
 
-fēngchuīguò de lù yīrán yuǎn
+fēng chuī guò de lù yīrán yuǎn
 
 The road that the wind blows past is still far away
 
@@ -305,4 +300,3 @@ The road that the wind blows past is still far away
 nǐ de gùshì jiǎng dàole nǎ
 
 Where were we, with your story?
-
