@@ -10,6 +10,7 @@
 * [帥到分手/ Shuài dào fēnshǒu / So Handsome](so-handsome/)
 * [我的秘密 / Wǒ de mìmì](wo-de-mi-mi/)
 * [给我一个吻 / Gei Wo Yi Ge Wen / give me a kiss](give-me-a-kiss/)
+* [月亮代表我的心 / The Moon Represents My Heart / Yue Liang Dai Biao Wo De Xin](moon-represent-my-heart/)
 * [怎麼還不愛 / Zěnme hái bù ài / Why Not Love](why-not-love/)
 * [胡彥斌 / Waiting For You](waiting-for-you/)
 * [朋友 / Péngyǒu / Friend ](peng-you/)
@@ -31,7 +32,6 @@ Links to videos:
 
 * [misc](https://www.youtube.com/watch?v=NR7IlJ2AkYE)
 * [misc](https://www.youtube.com/watch?v=KOw5ToU5yug)
-* [misc](https://www.youtube.com/watch?v=IiFm7AWP9n4)
 * [misc](https://www.youtube.com/watch?v=L9yCjitoguo)
 * [misc](https://www.youtube.com/watch?v=-B5gAczFJps)
 * [misc](https://www.youtube.com/watch?v=QJjSLe8Kt4I)
