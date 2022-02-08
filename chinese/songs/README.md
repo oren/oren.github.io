@@ -15,6 +15,7 @@
 * [告白氣球 / Gàobái qìqiú / Confession Balloon](love-confession/)
 * [胡彥斌 / Waiting For You](waiting-for-you/)
 * [朋友 / Péngyǒu / Friend ](peng-you/)
+* [好不容易 / Hǎobù róngyì / Finally](finally/)
 * [光年之外 / Guāng nián zhī wài / Light Years Away](light-years-away/)
 * [一個人 / Bizarre Love Triangle](bizarre-love-triangle/)
 * [娘娘驾到 / Niang Niang Jia Dao](niang-niang-jia-dao/)
