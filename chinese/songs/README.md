@@ -12,6 +12,7 @@
 * [给我一个吻 / Gei Wo Yi Ge Wen / give me a kiss](give-me-a-kiss/)
 * [月亮代表我的心 / The Moon Represents My Heart / Yue Liang Dai Biao Wo De Xin](moon-represent-my-heart/)
 * [怎麼還不愛 / Zěnme hái bù ài / Why Not Love](why-not-love/)
+* [告白氣球 / Gàobái qìqiú / Confession Balloon](love-confession/)
 * [胡彥斌 / Waiting For You](waiting-for-you/)
 * [朋友 / Péngyǒu / Friend ](peng-you/)
 * [光年之外 / Guāng nián zhī wài / Light Years Away](light-years-away/)
