@@ -22,6 +22,7 @@
 * [學貓叫/ Xué māo jiào / Learn to Meow](learn-to-meow/)
 * [漂洋过海来看你 / Piāo yángguò hǎi lái kàn nǐ / Across the Ocean to See You](across-the-ocean/)
 * [朴那些花儿 / nà xiē huā ér / Those Flowers](those-flowers/)
+* [海浪 / Hǎi làng / Waves](waves/)
 * [北京北京 / Bei jing bei jing](beijing-beijing/)
 * [怎麼了 / What's Wrong / zěnmele](what-is-wrong/)
 * [同桌的你 / Tong Zhuo De Ni / you who sat next to me](you-who-sat-next-to-me/)
