@@ -1,6 +1,25 @@
 # Comedy
 
 ## Joke 1
+A Chinese bro and a Jewish bro are sitting at a bar. Suddenly the jew-bro stands up and punches the Chinese guy in the face.
+
+Jew Bro: that's for Pearl Harbor!
+
+China-bro: Pearl Harbor?!? That's Japanese! I'm Chinese
+
+Jew-bro: Chinese Japanese... it's all the same to me
+
+5 mins later
+
+China bro stands up and punches jew Bro in the nose
+
+China bro: that's for the Titanic!!
+
+Jew Bro: titanic was sunk by an iceberg.
+
+China bro: iceberg/Goldberg.   It s all the same to m
+
+## Joke 2
 笑话2：一个中国人和一个犹太人去酒吧...
 
 哈哈哈哈 然后呢
@@ -71,22 +90,18 @@ The jewish say: I forgot my phone
 Yóutàirén shuō: Wǒ wàngjìle wǒ de diànhuà
 
 
-## Joke 2
-A Chinese bro and a Jewish bro are sitting at a bar. Suddenly the jew-bro stands up and punches the Chinese guy in the face.
+## Joke 3
+Jew Bro says: I feel bad, the church next door is giving $100 to convey to Christianity. I'll go real quick to pay for dinner
 
-Jew Bro: that's for Pearl Harbor!
+China bro says: you sure dude? Giving up your religion for $100?
 
-China-bro: Pearl Harbor?!? That's Japanese! I'm Chinese
+Jew Bro: shiet... $100 is $100
 
-Jew-bro: Chinese Japanese... it's all the same to me
+He goes into the church
 
-5 mins later
+5 mins later... he comes out
 
-China bro stands up and punches jew Bro in the nose
+Chinese bro: did you get the money?
 
-China bro: that's for the Titanic!!
-
-Jew Bro: titanic was sunk by an iceberg.
-
-China bro: iceberg/Goldberg.   It s all the same to m
+Christianity-bro: that's all you people think about isn't it?
 
