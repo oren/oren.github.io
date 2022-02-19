@@ -1,5 +1,17 @@
 # Comedy
 
+We can start with the iceberg joke combined with 1st joke about leaving wallet at home.
+
+Than segways into second joke where the two friends go to Christmas Day dinner at Chinese resatauant
+
+At the restaurant we can explain that Chinese dinner for Christmas is a Jewish tradition. they can talk about the 4000/5000 culture joke.
+
+Then Segway into asking for Chinese Jews
+
+After that, they Get the check and transition into Apple Pay/church baptism joke
+
+This is a good balance... equally deprecating of Chinese and Jewish stereotypes
+
 ## Joke 1
 一个中国人和一个犹太人坐在酒吧里……突然，犹太人站了起来，打了中国人的脸。
 
@@ -178,3 +190,18 @@ Waiter says: sorry sir no Chinese jews
 Jew bro and China bro are in disbelief...
 
 Waiter says: no Chinese Jews, but we have Grape Jews, Mango Jews, pineapple Jews, and Oren Jews
+
+## Joke 6
+
+Chinese engineer negotiating salary with an Israeli recruiter...
+
+## Joke 7
+
+Chinese say: Did I pass the loop?
+Jewish say: you raised on frugality and invent and simplify.
+Chines say: what about empathy?
+
+## Joke 8
+
+OMG, in the healthcare startup i worked at before joining Amazon, the Jewish CEO introduce one of the Chinese engineers I hired and said the same: WOOOOOO
+
