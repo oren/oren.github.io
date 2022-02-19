@@ -1,23 +1,61 @@
 # Comedy
 
 ## Joke 1
-A Chinese bro and a Jewish bro are sitting at a bar. Suddenly the jew-bro stands up and punches the Chinese guy in the face.
+一个中国人和一个犹太人坐在酒吧里……突然，犹太人站了起来，打了中国人的脸。
 
-Jew Bro: that's for Pearl Harbor!
+犹太人说：那是为了珍珠港！
 
-China-bro: Pearl Harbor?!? That's Japanese! I'm Chinese
+中国人说：珍珠港？！？那是日本人！我是中国人
 
-Jew-bro: Chinese Japanese... it's all the same to me
+犹太人说：中国日本人……对我来说都一样
 
 5 mins later
 
+中国人站起来打犹太人的鼻子
+
+中国人说：那是给泰坦尼克号的！！
+
+犹太人说：泰坦尼克号被冰山沉没。
+
+中国人说：iceberg/Goldberg。对我来说都是一样的
+
+---
+
+A Chinese bro and a Jewish bro are sitting at a bar. Suddenly the jew-bro stands up and punches the Chinese guy in the face.
+一个中国人和一个犹太人坐在酒吧里……突然，犹太人站了起来，打了中国人的脸。
+Yīgè zhōngguó rén hé yīgè yóutàirén zuò zài jiǔbā lǐ……túrán, yóutàirén zhànle qǐlái, dǎle zhōngguó rén de liǎn.
+
+Jew Bro: that's for Pearl Harbor!
+犹太人说：那是为了珍珠港！
+Yóutàirén shuō: Nà shì wèile zhēnzhū gǎng!
+
+China-bro: Pearl Harbor?!? That's Japanese! I'm Chinese
+中国人说：珍珠港？！？那是日本人！我是中国人
+Zhōngguó rén shuō: Zhēnzhū gǎng?!? Nà shì rìběn rén! Wǒ shì zhōngguó rén
+
+Jew-bro: Chinese Japanese... it's all the same to me
+犹太人说：中国日本人……对我来说都一样
+Yóutàirén shuō: Zhōngguó rìběn rén……duì wǒ lái shuō dōu yīyàng
+
+5 mins later
+5分钟后
+5 Fēnzhōng hòu
+
 China bro stands up and punches jew Bro in the nose
+中国人站起来打犹太人的鼻子
+Zhōngguó rén zhàn qǐlái dǎ yóutàirén de bízi
 
 China bro: that's for the Titanic!!
+中国人说：那是给泰坦尼克号的！！
+Zhōngguó rén shuō: Nà shì gěi tàitǎn níkè hào de!!
 
 Jew Bro: titanic was sunk by an iceberg.
+犹太人说：泰坦尼克号被冰山沉没。
+Yóutàirén shuō: Tàitǎn níkè hào bèi bīngshān chénmò.
 
-China bro: iceberg/Goldberg.   It s all the same to m
+China bro: iceberg/Goldberg.   It s all the same to me
+中国人说：iceberg/Goldberg。对我来说都是一样的
+Zhōngguó rén shuō:Iceberg/Goldberg. Duì wǒ lái shuō dōu shì yīyàng de
 
 ## Joke 2
 笑话2：一个中国人和一个犹太人去酒吧...
@@ -52,6 +90,7 @@ China bro: iceberg/Goldberg.   It s all the same to m
 
 犹太人说：我忘记了我的电话
 
+---
 
 joke 2: a chinese and a jewish go to a bar
 笑话2：一个中国人和一个犹太人去酒吧...
@@ -105,3 +144,37 @@ Chinese bro: did you get the money?
 
 Christianity-bro: that's all you people think about isn't it?
 
+
+## Joke 4
+
+A Chinese and Jewish guy are sitting in a Chinese restaurant
+
+China bro: our culture is over 4000 years old
+
+Jew Bro: that's nothing... our culture is 5000 years old
+
+China bro: that's impossible, where did you eat for the first 1000 years?
+
+Joke about Jewish people always eating at Chinese restaurants
+
+## Joke 5
+
+Joke about Jewish people always eating at Chinese restaurants
+
+Jew bro asks: are there any Jews in China?
+
+China bro: I dunno. I grew up in America, let's ask the waiter. Waiter... are there any Jews in China?
+
+Waiter: let me check... he goes into the kitchen... comes back and says. No sorry sir no Chinese Jews
+
+Jew bro says: are you sure, there are 1.4 billion people in China and no Jews?
+
+Waiter: I go check again.
+
+Waiter goes to kitchen and comes back out
+
+Waiter says: sorry sir no Chinese jews
+
+Jew bro and China bro are in disbelief...
+
+Waiter says: no Chinese Jews, but we have Grape Jews, Mango Jews, pineapple Jews, and Oren Jews
