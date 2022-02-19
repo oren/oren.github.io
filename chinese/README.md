@@ -1,7 +1,8 @@
 # Learn Chinese
 
 ## Table of Contents
-* [Chinese for Beginners](beginners-course/)
+* [Comedy](comedy/)
 * [Songs](songs/)
+* [Chinese for Beginners](beginners-course/)
 * [Words](words/)
 * [Pinyin](pinyin/)
