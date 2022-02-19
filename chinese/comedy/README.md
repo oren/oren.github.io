@@ -205,3 +205,9 @@ Chines say: what about empathy?
 
 OMG, in the healthcare startup i worked at before joining Amazon, the Jewish CEO introduce one of the Chinese engineers I hired and said the same: WOOOOOO
 
+## Joke 9
+
+How does Moses make is tea?
+
+Hebrews it. I'm serious, that Israeli how he makes it.
+
