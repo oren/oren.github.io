@@ -2,6 +2,7 @@
 
 A CookBook for Strength Athletes
 
+
 * [Baked Salmon](baked-salmon/)
 * [Beets Salad](beets-salad/)
 * [Bibimbap](bibimbap/)
@@ -30,6 +31,7 @@ A CookBook for Strength Athletes
 * [Lentil Soup](lentil-soup/)
 * [Mung Bean Pancakes](mung-bean-pancakes/)
 * [Mahi Mahi Mojo](mahi-mahi-mojo/)
+* [Matcha Latte](matcha-latte/)
 * [Oatmeal Bars](oatmeal-bars/)
 * [Omlet with Pork](omlet-with-pork/)
 * [Oyakodon](oyakodon/)
@@ -37,6 +39,7 @@ A CookBook for Strength Athletes
 * [Ptgy](ptgy/)
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)
+* [Risotto](risotto/)
 * [Sesame Balls](sesame-balls/)
 * [Spaghetti Squash](spaghetti-squash/)
 * [Spring Rolls](spring-rolls/)
