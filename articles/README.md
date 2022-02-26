@@ -6,7 +6,6 @@
 * [Wardley Maps and Cynefin Framework](wardley-cynefin/)
 * [How to navigate a complex organization](navigate-complex-organization/)
 * [Thinking in Systems](thinking-in-systems/)
-* [How to Score a Business Plan](score-business-plan/)
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
 * [How to Set the Direction of an Organization](set-org-direction/)
@@ -24,6 +23,7 @@
 * [Build 3-Year Org Strategy](3-year-strategy/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
 * [Product Discovery](product-discovery/)
+* [How to Score a Business Plan](score-business-plan/)
 
 ## 2. Relationships and Communication
 * [Nonviolent Communication](nvc/)
