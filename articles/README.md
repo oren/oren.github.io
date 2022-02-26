@@ -11,7 +11,6 @@
 * [How to Set the Direction of an Organization](set-org-direction/)
 * [Liberating Structures](liberating-structures/)
 * [The Art of Strategy](art-of-strategy/)
-* [Spontaneous Speaking](spontaneous-speaking/)
 * [Influence Without Authority](influence/)
 * [How to Lead Leaders?](lead-leaders/)
 * [How to Write Business Plan](business-plan/)
@@ -21,17 +20,18 @@
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [Build 3-Year Org Strategy](3-year-strategy/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
-* [Product Discovery](product-discovery/)
 * [How to Score a Business Plan](score-business-plan/)
 
 ## 2. Product
 * [How to Build a Product](build-product/)
 * [Find customer needs and value proposition](needs-and-value-prop/)
+* [Product Discovery](product-discovery/)
 
 ## 3. Relationships and Communication
 * [Nonviolent Communication](nvc/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
+* [Spontaneous Speaking](spontaneous-speaking/)
 * [Relationship Guidelines](relationship-guidelines/)
 * [How to Build Exceptional Relationships](exceptional-relationships/)
 * [Hacking Relationships](hacking-relationships/)
