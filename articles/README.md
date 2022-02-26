@@ -9,7 +9,6 @@
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
 * [How to Set the Direction of an Organization](set-org-direction/)
-* [How to Build a Product](build-product/)
 * [Liberating Structures](liberating-structures/)
 * [The Art of Strategy](art-of-strategy/)
 * [Spontaneous Speaking](spontaneous-speaking/)
@@ -25,7 +24,11 @@
 * [Product Discovery](product-discovery/)
 * [How to Score a Business Plan](score-business-plan/)
 
-## 2. Relationships and Communication
+## 2. Product
+* [How to Build a Product](build-product/)
+* [Find customer needs and value proposition](needs-and-value-prop/)
+
+## 3. Relationships and Communication
 * [Nonviolent Communication](nvc/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
@@ -36,7 +39,7 @@
 * [Love](love/)
 * [Documentation](documentation/)
 
-## 3. Technology
+## 4. Technology
 * [AWS Cookbook](aws-cookbook/)
 * [Visualizing Software Architecture](visualize/)
 * [re:Invent 2018 Videos](reinvent2018/)
@@ -55,20 +58,20 @@
 * [Level DB](leveldb/)
 * [Modular Website](modular/)
 
-## 4. Programing Languages
+## 5. Programing Languages
 * [Rust](rust/)
 * [Deno](deno/)
 * [Crystal](crystal/)
 * [Javascript/Node.js](javascript-node/)
 * [Go on App Engine](appengine/)
 
-## 5. Front-end Technology
+## 6. Front-end Technology
 * [Svelte](svelte/)
 
-## 6. Algorithms
+## 7. Algorithms
 * [Interviews](interviews/)
 
-## 7. Tools
+## 8. Tools
 * [Element](element/)
 * [Create presentation fast with Marp](marp/)
 * [Manage Tmux](manage-tmux/)
@@ -80,10 +83,10 @@
 * [Run command when a file is changed with rerun2](https://github.com/tartley/rerun2)
 * [Transfer files between laptops or phones](https://webwormhole.io)
 
-## 8. Misc
+## 9. Misc
 * [Regex](regex/)
 
-## 9. Work in Progress:
+## 10. Work in Progress:
 * [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Better Decision Making](decision-making/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
