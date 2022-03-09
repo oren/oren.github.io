@@ -21,6 +21,7 @@
 * [Dancing](dance/)
 * [Top rop climbing](top-rope/)
 * [Learning Chinese](chinese/)
+* [Hebrew](hebrew/)
 * [My Operating Manual](operating-manual/)
 
 ## 4. Apps
