@@ -1,6 +1,6 @@
 # Messed Up With Certifications
 
-Eyal, my HEBREW friend, called me 'dafuk im teudot' which means I am an idiot. The literal translation is 'messed up with certifications'. He made his diagnosis after I refused to installed the Blind application on my phone since "I don't like to install anything". He also shared a beautiful Israeli song with that name. The singer is Eyal Golan, very famous singer and no, we are not related. I just realized that the name Eyal Golan is a hybrid between my friend and I. Wonderful.
+Eyal, my HEBREW friend, called me 'dafuk im teudot' which means I am an idiot. The literal translation is 'messed up with certifications'. He made his diagnosis after I refused to install the 'Blind' application on my phone since "I don't like to install anything". He also shared a beautiful Israeli song with that name. The singer is Eyal Golan, very famous singer and no, we are not related. I just realized that the name Eyal Golan is a hybrid between my friend and I. Wonderful.
 
 <div class="video-container">
   <iframe
