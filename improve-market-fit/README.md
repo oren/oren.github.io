@@ -19,4 +19,10 @@ Products for which 40 percent or more of users reply “very disappointed” ten
 
 If you achieved product-market fit, invest in trying to grow your business. If not, modify your hypotheses and your MVP so you can test them with customers again. Send the email again after making a change in your product and see if your product-market fit score improved.
 
+## Step 3: When to pivot?
+
+Spend a few hours on user testing of various feauters. Do 4 waves of testing.
+
+![pivot](pivot.png)
+
 Note: this is taken from the book Lean Product Playbook by Dan Olsen.
