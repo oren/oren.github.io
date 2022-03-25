@@ -24,5 +24,6 @@ If you achieved product-market fit, invest in trying to grow your business. If n
 Spend a few hours on user testing of various feauters. Do 4 waves of testing and improve the product quickly. If the produc-market fit is not improving, write down a few challenges and map them to the correct layer in the Product-Market Fit Pyramid. If the challege is at a lower layer, it means that you iterating on a higher layer and you should go down. Maybe even to the base layer - your user.
 
 ![pivot](pivot.png)
+![product market-fit pyramid](product-market-fit.png)
 
-Note: this is taken from the book Lean Product Playbook by Dan Olsen.
+Note: this is my summary of the chapter 'iterate and pivot to improve product-market fit' from the book Lean Product Playbook by Dan Olsen.
