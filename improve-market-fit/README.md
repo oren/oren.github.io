@@ -21,9 +21,16 @@ If you achieved product-market fit, invest in trying to grow your business. If n
 
 ## Step 3: When to pivot?
 
-Spend a few hours on user testing of various feauters. Do 4 waves of testing and improve the product quickly. If the produc-market fit is not improving, write down a few challenges and map them to the correct layer in the Product-Market Fit Pyramid. If the challege is at a lower layer, it means that you iterating on a higher layer and you should go down. Maybe even to the base layer - your user.
+![hypothesize-design-test-learn loop](loop.png)
+
+
+Spend a few hours on user testing of various feauters. Do 4 waves of testing and improve the product quickly. If the produc-market fit is not improving, write down a few challenges and map them to the correct layer in the Product-Market Fit Pyramid.
+
+
+![product market-fit pyramid](product-market-fit.png)
+
+If the challege is at a lower layer, it means that you iterating on a higher layer and you should go down. Maybe even to the base layer - your user. There is a chance that the hypotheses on who your user are are incorrect. Iterate your product and measure the rate of your increase or decrease. In the process of user testing you might find a different un-met need or even a different user. Maybe the amount of market value that can potentialy be created is greater. You decide to revise your hypotheses and pivot to pursue this new market opportunity. You iterate through the hypothesize-design-test-learn loop and find that you are able to improve your product-market fit, reaching much higher heights.
 
 ![pivot](pivot.png)
-![product market-fit pyramid](product-market-fit.png)
 
 Note: this is my summary of the chapter 'iterate and pivot to improve product-market fit' from the book Lean Product Playbook by Dan Olsen.
