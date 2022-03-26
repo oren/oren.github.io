@@ -33,4 +33,4 @@ If the challege is at a lower layer, it means that you iterating on a higher lay
 
 ![pivot](pivot.png)
 
-Note: this is my summary of the chapter 'iterate and pivot to improve product-market fit' from the book Lean Product Playbook by Dan Olsen.
+Note: this is my summary of the chapter 'iterate and pivot to improve product-market fit' from the book [Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by Dan Olsen.
