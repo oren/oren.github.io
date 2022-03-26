@@ -6,7 +6,6 @@
 
 * [Build a Product Workshop](product-workshop/)
 * [Build a Business Strategy Workshop](strategy-workshop/)
-* [How to improve Product-Market Fit](improve-market-fit/)
 
 ## 2. Writing and speaking
 * [Articles](articles/)
