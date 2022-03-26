@@ -25,6 +25,7 @@
 ## 2. Product
 * [How to Build a Product](build-product/)
 * [Find customer needs and value proposition](needs-and-value-prop/)
+* [How to improve Product-Market Fit](improve-market-fit/)
 * [Product Discovery](product-discovery/)
 
 ## 3. Relationships and Communication
