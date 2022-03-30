@@ -3,14 +3,12 @@
 # Articles
 
 ## 1. Leadership
-* [Wardley Maps and Cynefin Framework](wardley-cynefin/)
 * [How to navigate a complex organization](navigate-complex-organization/)
 * [Thinking in Systems](thinking-in-systems/)
 * [What is a Good Strategy?](good-strategy/)
 * [Execution Strategy](execution/)
 * [How to Set the Direction of an Organization](set-org-direction/)
 * [Liberating Structures](liberating-structures/)
-* [The Art of Strategy](art-of-strategy/)
 * [Influence Without Authority](influence/)
 * [How to Lead Leaders?](lead-leaders/)
 * [How to Write Business Plan](business-plan/)
@@ -18,15 +16,18 @@
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
-* [Build 3-Year Org Strategy](3-year-strategy/)
-* [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
-* [How to Score a Business Plan](score-business-plan/)
+* [Software Delivery Performance](software-delivery-performance/)
 
 ## 2. Product
 * [How to Build a Product](build-product/)
 * [Find customer needs and value proposition](needs-and-value-prop/)
 * [How to improve Product-Market Fit](improve-market-fit/)
 * [Product Discovery](product-discovery/)
+* [The Art of Strategy](art-of-strategy/)
+* [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
+* [Wardley Maps and Cynefin Framework](wardley-cynefin/)
+* [How to Score a Business Plan](score-business-plan/)
+* [Build 3-Year Org Strategy](3-year-strategy/)
 
 ## 3. Relationships and Communication
 * [Nonviolent Communication](nvc/)
