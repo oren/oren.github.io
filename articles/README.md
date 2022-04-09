@@ -89,6 +89,7 @@
 * [Regex](regex/)
 
 ## 10. Work in Progress:
+* [2022 Dempsey Startup Competition](dempsey-2022/)
 * [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Better Decision Making](decision-making/)
 * [How to Develop a Business Strategy](develop-business-strategy/)
