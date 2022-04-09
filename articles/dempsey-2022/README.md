@@ -21,9 +21,9 @@ Judging Criteria: COMPETITIVE STRATEGY (1-5 points)
 * Does the team have an adequate strategy for defending their market position?
 
 Judging Criteria: GO TO MARKET STRATEGY (1-5 points)
-Is it clear how the company will reach its initial customer?
-Does the summary clearly identify a sales strategy?
-Is the distribution plan clearly defined and reasonable?
+* Is it clear how the company will reach its initial customer?
+* Does the summary clearly identify a sales strategy?
+* Is the distribution plan clearly defined and reasonable?
 
 Judging Criteria: MANAGEMENT TEAM (1-5 points)
 * Does this management team have the skills required to execute the plan?
@@ -46,8 +46,7 @@ Judging Criteria: SOCIAL RESPONSIBILITY (1-5 points)
 * Does the entry have the potential to make a significant positive impact on society? Will it improve
 * the quality of life for people and our planet and help contribute to a better, safer, and more
 prosperous world?
-* Does the team discuss measurable efforts to minimize consumption, use, and byproduct waste,
-* while bolstering profitability/cost containment?
+* Does the team discuss measurable efforts to minimize consumption, use, and byproduct waste, while bolstering profitability/cost containment?
 
 
 score between 0 - 40
