@@ -19,6 +19,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * Kaboch Korean soup. something like https://futuredish.com/korean-pumpkin-soup
 * https://www.reddit.com/r/instantpot/comments/kn3az3/moroccanstyle_sweet_potato_soup/
 * https://www.reddit.com/r/instantpot/comments/mtzank/vegan_pumpkin_chilli/
+* [Matzo Ball Soup](https://www.thekitchn.com/matzo-ball-soup-recipe-23136146)
 
 ## I made the following:
 
