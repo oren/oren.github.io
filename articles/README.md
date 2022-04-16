@@ -44,6 +44,7 @@
 * [Documentation](documentation/)
 
 ## 5. Technology
+* [Deno Web Service](deno-web-service/)
 * [AWS Cookbook](aws-cookbook/)
 * [AWS Well-Architected](aws-well-architected/)
 * [Visualizing Software Architecture](visualize/)

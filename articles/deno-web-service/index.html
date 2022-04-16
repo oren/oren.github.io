@@ -1,0 +1,96 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	.sidenav {
+		font-size: 14px;
+		float: left;
+		height: 100%;
+		width: 160px;
+		list-style: none;
+	}
+
+	.sidenav ul {
+		list-style: none;
+	}
+
+	article {
+		float: right;
+		max-width:600px
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+
+		.sidenav {
+			display: none;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+
+</div>
+
+<div class="sidenav">
+	
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<h1>Deno Web Services</h1>
+<h2>Install Deno on your laptop</h2>
+<p>curl -fsSL https://deno.land/install.sh | sh</p>
+<h2>Create new Typescript file: hello.ts</h2>
+<pre><code>	import { serve } from &quot;https://deno.land/std@0.135.0/http/server.ts&quot;;
+
+	console.log(&quot;http://localhost:8000/&quot;);
+	serve((req) =&gt; new Response(&quot;Hello World\n&quot;), { port: 8000 });
+</code></pre>
+<h2>Run the service on your laptop</h2>
+<p>deno run --allow-net hello.ts</p>
+<h2>Try it out</h2>
+<p>open your browser: http://localhost:8000/</p>
+<p>You can also try it without the browser with this command: curl localhost:8000</p>
+
+</article>
