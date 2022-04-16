@@ -16,7 +16,6 @@
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
-* [Software Delivery Performance](software-delivery-performance/)
 
 ## 2. Product
 * [How to Build a Product](build-product/)
@@ -29,7 +28,10 @@
 * [How to Score a Business Plan](score-business-plan/)
 * [Build 3-Year Org Strategy](3-year-strategy/)
 
-## 3. Relationships and Communication
+## 3. Engineering
+* [Software Delivery Performance](software-delivery-performance/)
+
+## 4. Relationships and Communication
 * [Nonviolent Communication](nvc/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
@@ -41,7 +43,7 @@
 * [Love](love/)
 * [Documentation](documentation/)
 
-## 4. Technology
+## 5. Technology
 * [AWS Cookbook](aws-cookbook/)
 * [AWS Well-Architected](aws-well-architected/)
 * [Visualizing Software Architecture](visualize/)
@@ -61,20 +63,20 @@
 * [Level DB](leveldb/)
 * [Modular Website](modular/)
 
-## 5. Programing Languages
+## 6. Programing Languages
 * [Rust](rust/)
 * [Deno](deno/)
 * [Crystal](crystal/)
 * [Javascript/Node.js](javascript-node/)
 * [Go on App Engine](appengine/)
 
-## 6. Front-end Technology
+## 7. Front-end Technology
 * [Svelte](svelte/)
 
-## 7. Algorithms
+## 8. Algorithms
 * [Interviews](interviews/)
 
-## 8. Tools
+## 9. Tools
 * [Element](element/)
 * [Create presentation fast with Marp](marp/)
 * [Manage Tmux](manage-tmux/)
@@ -86,10 +88,10 @@
 * [Run command when a file is changed with rerun2](https://github.com/tartley/rerun2)
 * [Transfer files between laptops or phones](https://webwormhole.io)
 
-## 9. Misc
+## 10. Misc
 * [Regex](regex/)
 
-## 10. Work in Progress:
+## 11. Work in Progress:
 * [2022 Dempsey Startup Competition](dempsey-2022/)
 * [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Better Decision Making](decision-making/)
