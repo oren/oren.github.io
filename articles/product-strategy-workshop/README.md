@@ -11,7 +11,8 @@ Your product-market fit will be stronger if you explore multiple product strateg
 ## Who is this for?
 Product Managers
 
-## OK, Where do I start?
-* Setup a 60 min meeting with 3 levels of your org
-* Draw together a Wardley Map for a new product
-* End up with a few product strategies, pick one, implement it, and observe it's impact.
+## Agenda
+* Watch how we draft a Wardley Map for a new product
+* Watch how we generate a few product strategies
+* Understand How to do that with your team
+* Understand where to learn more about Wardely Mapping
