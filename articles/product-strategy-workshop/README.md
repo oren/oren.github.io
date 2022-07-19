@@ -1,5 +1,7 @@
 # Product Strategy Workshop
 
+![wardley map](wardley.jpg)
+
 ## What is this workshop?
 Build a product strategy in 60 minutes
 
