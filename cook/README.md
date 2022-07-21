@@ -2,7 +2,7 @@
 
 A CookBook for Strength Athletes
 
-
+* [Adobo Taco](adobo-taco/)
 * [Baked Salmon](baked-salmon/)
 * [Beets Salad](beets-salad/)
 * [Bibimbap](bibimbap/)
