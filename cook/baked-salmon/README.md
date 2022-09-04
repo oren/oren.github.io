@@ -4,10 +4,9 @@
 ![salmon](baked-salmon2.jpg)
 
 **Ingredients:**
-* Salmon, lemon, soy sauce, olive oil, garlic
+* Salmon, lemon, olive oil, salt, pepper, rosemary. Optional: soy sauce, garlic
 
 **How to make it:**
-* Bake for 20 min on 375
-
-
-
+* add Aluminum foil and a parchment paper to a pan
+* Rub the salmon with oil, squeez lemon, salt, pepper, and rosemary
+* Bake for 18 min on 450 (6 min for half inch of thickness
