@@ -28,3 +28,11 @@ They've moved buoys around at Edmonds so it's outdated
 
 ## Alki
 ![alki](freedive2.jpeg)
+
+## Magnolia
+
+[W McGraw St Public Shore](https://www.google.com/maps/place/W+McGraw+St+Public+Shore/@47.6482027,-122.402787,12.92z/data=!4m5!3m4!1s0x54903fa5ea383d6d:0x2f83bb783ed8aa47!8m2!3d47.6388862!4d-122.4122232)
+
+## Mercer Island
+
+7820 78th Ave SE, Mercer Island, WA 98040

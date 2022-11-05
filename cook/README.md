@@ -11,6 +11,7 @@ A CookBook for Strength Athletes
 * [Cabbage Salad](cabbage-salad/)
 * [Cauliflower Pancakes](cauliflower-pancakes/)
 * [Cauliflower Soup](cauliflower-soup/)
+* [Chicken Rice](chicken-rice/)
 * [Chicken Congee](chicken-congee/)
 * [Chicken Corn Chowder](chicken-corn-chowder/)
 * [Chicken Salmon Beef](chicken-salmon-beef/)
