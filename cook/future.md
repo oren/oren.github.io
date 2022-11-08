@@ -21,6 +21,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * https://www.reddit.com/r/instantpot/comments/mtzank/vegan_pumpkin_chilli/
 * [Matzo Ball Soup](https://www.thekitchn.com/matzo-ball-soup-recipe-23136146)
 * [Parmesan Chicken and Rice with Mushrooms](https://www.lecremedelacrumb.com/instant-pot-parmesan-chicken-and-rice-with-mushrooms/)
+* https://www.reddit.com/r/slowcooking/comments/yos5bv/i_made_a_moroccan_chicken_lentil_and_chickpea_soup/
 
 ## I made the following:
 
