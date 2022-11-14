@@ -28,3 +28,4 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * [Instant Pot Butternut Squash Soup](https://www.gimmesomeoven.com/instant-pot-butternut-squash-soup/)
 * Baked Delicta Squash with olive oil. try with miso, ginger, honey: https://bojongourmet.com/roasted-delicata-squash-miso-butter/
 * [Baked Tomatoes](https://www.youtube.com/watch?v=zFkQcmgZWKw)
+* [Ukrainian Borscht Soup](https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/)

@@ -50,6 +50,7 @@ A CookBook for Strength Athletes
 * [Stuffed Chicken](stuffed-chicken/)
 * [Thai Curry Chicken](thai-curry-chicken/)
 * [Tony Gainz Yogurt](tony-gainz-yogurt/)
+* [Ukrainian Borscht Soup](https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/)
 * [Uni Shooters](uni-shooters/)
 * [Wonton](wonton/)
 * [Yamaimo Honey](yamaimo-honey/)
