@@ -23,6 +23,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * [Parmesan Chicken and Rice with Mushrooms](https://www.lecremedelacrumb.com/instant-pot-parmesan-chicken-and-rice-with-mushrooms/)
 * https://www.reddit.com/r/slowcooking/comments/yos5bv/i_made_a_moroccan_chicken_lentil_and_chickpea_soup/
 * https://veggiedesserts.com/beetroot-soup/
+* https://www.chasingthedonkey.com/croatian-recipes-traditional-croatian-goulash/
 
 ## I made the following:
 
