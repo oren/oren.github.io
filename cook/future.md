@@ -24,6 +24,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * https://www.reddit.com/r/slowcooking/comments/yos5bv/i_made_a_moroccan_chicken_lentil_and_chickpea_soup/
 * https://veggiedesserts.com/beetroot-soup/
 * https://www.chasingthedonkey.com/croatian-recipes-traditional-croatian-goulash/
+* https://omnivorescookbook.com/roasted-kabocha-squash-soup/
 
 ## I made the following:
 
