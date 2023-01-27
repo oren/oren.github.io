@@ -26,6 +26,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * https://www.chasingthedonkey.com/croatian-recipes-traditional-croatian-goulash/
 * https://omnivorescookbook.com/roasted-kabocha-squash-soup/
 * https://fitslowcookerqueen.com/slow-cooker-fish-tomatoes/
+* https://www.foodandwine.com/recipes/chawanmushi
 
 ## I made the following:
 
