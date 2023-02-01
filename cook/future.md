@@ -27,6 +27,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * https://omnivorescookbook.com/roasted-kabocha-squash-soup/
 * https://fitslowcookerqueen.com/slow-cooker-fish-tomatoes/
 * https://www.foodandwine.com/recipes/chawanmushi
+* [Roasted Cabbage with Tahini](https://www.youtube.com/watch?v=ZMAwm2gqiVs)
 
 ## I made the following:
 
