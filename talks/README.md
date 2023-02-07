@@ -9,7 +9,7 @@
 * [Graph databases workshop](graphs/)
 * [Docker as a catalyst of culture change](docker-culture/)
 * [Docker Crash Course](docker/)
-* [Don't Panic - The Hitchhiker's Guide to Node](https://www.youtube.com/watch?v=ml0RXLHCsJ8)
+* [Don't Panic - The Hitchhiker's Guide to Node](https://www.tritondatacenter.com/blog/node-js-on-the-road-la-oren-golan)
 * [Node.js at YP.com](https://jsconfchina.com/)
 * [Flappy Bird Arcade game](https://www.youtube.com/watch?v=qkqRBHw7iNk)
 * [How I learned to stop worrying and love the Node](https://www.youtube.com/watch?v=1RW9bxQ1EXI)
