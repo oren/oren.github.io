@@ -31,5 +31,5 @@ AppSheet co-founder, Praveen Seshadri, left Google after 3 years. His startup wa
 
 "Yay, time-to-first answer was less than 30 minutes so customer success dashboard is all green!"
 
-**Learn from technology and processes that outside of your company.**
+**Learn from technology and processes that are outside of your company.**
 
