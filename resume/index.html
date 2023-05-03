@@ -1,154 +1,441 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+<!DOCTYPE html>
+<html>
+<head>
+<title>oren.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 
 <style>
-	body {
-		font-family: Helvetica;
-		font-size: 20px;
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
 
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
 
-	.sidenav ul {
-		list-style: none;
-	}
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
 
-	article {
-		float: right;
-		max-width:600px
-	}
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
 
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
 
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
+body.showEditorSelection .code-line {
+	position: relative;
+}
 
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
-	}
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
 
-	@media (max-width: 767px) {
-		body {
-			padding: 15px;
-		}
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
 
-		.sidenav {
-			display: none;
-		}
-	}
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
 
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
-	}
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
 </style>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a></li>
-</ul>
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
 
-</div>
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
 
-<div class="sidenav">
-	
-</div>
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1>Oren Golan</h1>
-<p>You can read and download <a href="oren-golan-resume.pdf">a PDF version of my resume</a>.</p>
-<p>I owned product and technology strategies at various organizations. I have 15+ years of experience in building, leading, operating, and scaling product and engineering teams. I build inclusive culture of trust and safety that accelerate innovation. I do that by integrating strategy, organizational developmentd and delivery through participation.</p>
-<h2>👤 Profile</h2>
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+<link rel="stylesheet" href="file:///home/oren/m/tech/vscode/markdown-pdf.css" type="text/css">
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="oren-golan">Oren Golan</h1>
+<p>I am a leader and builder of product and engineering teams. 15+ years experience envisioning, building, launching, operating, and scaling products. I am passionate about innovation, business strategy, and organizational development.</p>
+<h2 id="%F0%9F%91%A4-profile">👤 Profile</h2>
 <p>Contact: 2121 6th Ave, #N315, Seattle, WA 98121. <a href="mailto:orengolan@gmail.com">orengolan@gmail.com</a>. +1 818 233 0645</p>
 <ul>
 <li><a href="https://oren.github.io/articles">Website</a></li>
 <li>15+ years of experience in building and leading remote engineering and product teams</li>
-<li>Hired, coached and scaled cross functional, global teams</li>
+<li>Hired, coached, and scaled cross-functional, global teams</li>
 <li>Certified Scrum Master (with Jeff Sutherland)</li>
-<li>Speaking at conferences around the world about technology, leadership, and culture</li>
+<li>Speaking at conferences about technology, leadership, and culture</li>
 <li>Member and mentor in LA CTO Forum and Seattle CTO Club</li>
 <li>Advisor to technology companies</li>
-<li>Judge at 2020 and 2021 Dempsey Startup Competition (University of Washington)</li>
+<li>Judge at 2020, 2021, and 2022 Dempsey Startup Competitions (University of Washington)</li>
 </ul>
-<h2>💼 Experience</h2>
-<h3>Technical Product Manager, Amazon Engineering Excellence. May 2021 - Present. Seattle</h3>
+<h2 id="%F0%9F%92%BC-experience">💼 Experience</h2>
+<h3 id="senior-product-manager---tech-amazon-engineering-excellence-asbx-mar-2021---present-seattle">Senior Product Manager - Tech, Amazon Engineering Excellence (ASBX). Mar 2021 - Present. Seattle</h3>
 <ul>
-<li>Single threaded owner with objective of reducing time-to-production of Amazon Teams - 100,000 engineers and 20,000 teams</li>
-<li>Defining, owning and executing strategies for accelerating the development of compute workloads by Amazon teams. The solutions are based on AWS Lambda and Elastic Conainer Service (ECS). The predicted impact is reducing 200 engineering years during 2022 and product adoption by 5000 engineering teams at Amazon.</li>
-<li>Leading the hiring of various roles at Amazon and AWS</li>
+<li>Conceived, developed, and launched a program that enabled Amazon engineers to go to market 2 weeks faster. Adopted by 7000 engineers with a net promoter score of 80</li>
+<li>Built a product flywheel that improved Amazon development tools. It led to the creation and maintenance of technical workshops and CloudAuth Onboarding Wizard.</li>
+<li>Built a community of engineers for revealing needs, finding local solutions, and generalizing them for the rest of Amazon builders community</li>
+<li>Led hundreds of interviews as part of Amazon Bar Raiser program. Mentored and graduated 8 Bar Raisers</li>
 </ul>
-<h3>Technical Business Developer, AWS. Apr 2018 – Mar 2021. Seattle</h3>
+<h3 id="technical-business-developer-aws-apr-2018-%E2%80%93-mar-2021-seattle">Technical Business Developer, AWS. Apr 2018 – Mar 2021. Seattle</h3>
 <ul>
-<li>Built and implemented a go-to-market strategy to decrease the time-to-adoption of AWS Services by Amazon. The solution is a program with two products that are based on Elastic Compute Service (ECS) and Elastic Compute Cloud (EC2). The impact was reducing 52.30 engineering years at Amazon (10 days per team). It was adopted by 1360 software engineering teams during 2020</li>
-<li>Developed an engineering organization of 17 engineers at Amazon and AWS (15 SDEs, Principal Engineer, and a Solution Architect) with the purpose of increasing the productivity of SDEs at Amazon.com. The team operates in two domains: 1. Consulting for Amazon engineering teams. 2. Advisory for AWS Product Teams</li>
-<li>Created mechanism to address unmet needs at Amazon.com by fostering cross-org product development with teams at AWS (Account Managers, Marketing, Solutions Architects, Customer Solution Managers, Technical Account Managers, Professional Services, Global System Integrators, AWS Training &amp; Certificates, and Cloud Support Engineering) and Amazon.com (Tools, Platform, Operational Excellence, Security, and Compliance)</li>
+<li>Built and implemented a go-to-market strategy to decrease the time-to-adoption of AWS Services by Amazon. The solution was a program that includes multiple products that are based on Elastic Compute Service (ECS) and Elastic Compute (EC2). Adopted by 13600 engineers and reduced 10 days per engineer</li>
+<li>Built a volunteering organization of 17 engineers at Amazon and AWS (15 engineers, Principal Engineer, and a Solution Architect) with the purpose of increasing the productivity of SDEs at Amazon.com. The team operated in two domains: 1. Consulting for Amazon engineering teams. 2. Advisory for AWS Product Teams</li>
+<li>Created mechanism to address unmet needs at Amazon.com by fostering cross-organizational product development with teams at AWS (Account Managers, Marketing, Solutions Architects, Customer Solution Managers, Technical Account Managers, Professional Services, Global System Integrators, AWS Training &amp; Certificates, and Cloud Support Engineering) and Amazon.com (Tools, Platform, Operational Excellence, Security, and Compliance)</li>
 </ul>
-<h3>Software Development Manager, Amazon Video. Aug 2016 – Apr 2018.   Seattle</h3>
+<h3 id="software-development-manager-amazon-video-aug-2016-%E2%80%93-apr-2018-seattle">Software Development Manager, Amazon Video. Aug 2016 – Apr 2018. Seattle</h3>
 <ul>
-<li>Lead engineering team that managed a tier-1 service that powers the landing pages of all Amazon Video devices</li>
-<li>Lead multiple work streams of a critical project as part of Thursday Night Football</li>
-<li>Hired and mentored, and promoted software engineers</li>
+<li>Led engineering team that managed a tier-1 service that powers the landing pages of all Amazon Video devices</li>
+<li>Led multiple work streams of a critical project as part of Thursday Night Football</li>
+<li>Hired, mentored, and promoted software engineers</li>
 <li>Reduced operational overhead by 20% by driving OKRs for Operational Excellence</li>
-<li>Lead Amazon Video hackathon for US and UK teams</li>
+<li>Led Amazon Video hackathon for US and UK teams</li>
 </ul>
-<h3>VP of Engineering, Sanguine Biosciences. Jan 2015 – Aug 2016.   Los Angeles</h3>
+<h3 id="vp-of-engineering-sanguine-biosciences-jan-2015-%E2%80%93-aug-2016-los-angeles">VP of Engineering, Sanguine Biosciences. Jan 2015 – Aug 2016. Los Angeles</h3>
 <ul>
-<li>Built and lead the technology and product strategy for the company</li>
-<li>Lean an execution strategy based on OKRs for aligning engineering, sales, marketing, and finance</li>
-<li>Lead cloud strategy based on AWS</li>
-<li>Built HIPAA compliant infrastructure for clinical research projects</li>
-<li>Lead teams that built services and applications using Javascript, Node.js, and Golang</li>
-<li>Hired and mentored engineers and designers for new teams</li>
-<li>Implemented software development processes - Scrum, Kanban, and FDD</li>
+<li>Formed and mentored a new development team</li>
+<li>Led cloud strategy based on AWS</li>
+<li>Built HIPAA-compliant infrastructure for clinical research projects</li>
+<li>Applied lean practices for company-wide process improvements</li>
+<li>Implemented software development processes - Scrum and Kanban</li>
+<li>Increased team's productivity by building CI based on Docker</li>
+<li>Developed highly available services and applications using Javascript, Node.js, and Golang</li>
 </ul>
-<h3>Senior Software Engineer, AT&amp;T Interactive. Jan 2012 - Oct 2014. Los Angeles</h3>
+<h3 id="senior-software-engineer-att-interactive-jan-2012---oct-2014-los-angeles">Senior Software Engineer, AT&amp;T Interactive. Jan 2012 - Oct 2014. Los Angeles</h3>
 <ul>
-<li>Lead a technology change for YP.com website – migrating our tech stack from Ruby on Rails to a full stack JavaScript code base (Node.js on the server)</li>
+<li>Led a technology change for YP.com website – migrating our tech stack from Ruby on Rails to a full-stack JavaScript code base (Node.js on the server)</li>
 <li>Won 2012 Hackathon which was to initiate YP's Engineering website</li>
-<li>Built a Node service that handle traffic from 10 million YP mobile apps and responsible for push notifications</li>
+<li>Built a Node service that handles traffic from 10 million YP mobile apps and is responsible for push notifications</li>
 <li>Built a generic queuing platform that handles 500 request/sec, based on RabbitMQ, and Node.js processes</li>
-<li>Speaking at International conferences about client/server side technologies and software best practices</li>
+<li>Spoke at international conferences about client/server side technologies and software best practices</li>
 </ul>
-<h3>Ruby Developer, Borderstylo. Jul 2009 - May 2011. Los Angeles</h3>
+<h3 id="ruby-developer-borderstylo-jul-2009---may-2011-los-angeles">Ruby Developer, Borderstylo. Jul 2009 - May 2011. Los Angeles</h3>
 <ul>
-<li>Built RESTful CMS Web Service + Web interface (Sinatra, MongoDB, jQuery and Git)</li>
+<li>Built RESTful CMS Web Service + Web interface (Sinatra, MongoDB, jQuery, and Git)</li>
 <li>Developed 2 Rails websites using MySQL and decent test coverage with Rspec and Cucumber</li>
 <li>Developed mobile optimized sites using HTML5 and CSS3</li>
-<li>Ownership of my projects – requirements, development, deployment and maintenance</li>
+<li>Ownership of my projects – requirements, development, deployment, and maintenance</li>
 <li>Implemented a Kanban system for multiple teams</li>
 </ul>
-<h3>Technical Project Manager and Scrum Master, MySpace. Oct 2007 - May 2009. Beverly Hills</h3>
+<h3 id="technical-project-manager-and-scrum-master-myspace-oct-2007---may-2009-beverly-hills">Technical Project Manager and Scrum Master, MySpace. Oct 2007 - May 2009. Beverly Hills</h3>
 <ul>
-<li>Accelerated the Integration of an acquired start-up (kSolo) to Myspace Karaoke</li>
+<li>Accelerated the integration of an acquired start-up (kSolo) to Myspace Karaoke</li>
 <li>Worked with Project Managers, Architects, and 30 global Scrum teams</li>
 <li>Managed all aspects of Scrum: sprint planning and review, retrospectives, and Scrum of Scrums</li>
 <li>Measured team's velocity that helped in creating a release plan</li>
 <li>Increased team's velocity by implementing lean practices and tools such as Kaizen and Kanban</li>
 </ul>
-<h3>VP of Engineering,CSS LivePos. Jun 2005 - Oct 2007. San Diego</h3>
+<h3 id="vp-of-engineeringcss-livepos-jun-2005---oct-2007-san-diego">VP of Engineering,CSS LivePos. Jun 2005 - Oct 2007. San Diego</h3>
 <ul>
 <li>Scaled the engineering team from 5 to 25 in San Diego and Shenzhen</li>
 <li>Implemented an Agile methodology (Scrum and XP)</li>
@@ -157,11 +444,13 @@
 <li>Managed requirements by collaborating with clients and product owners</li>
 <li>Migrated legacy projects (VB6 and ASP) to modern environment (C# and ASP.NET)</li>
 </ul>
-<h2>🎓 Education and Misc</h2>
+<h2 id="%F0%9F%8E%93-education-and-misc">🎓 Education and Misc</h2>
 <ul>
 <li>B.A in Computer Science - Academic college of Tel Aviv-Jaffa, Israel (Graduated: 2003)</li>
 <li>AWS Solution Architect Associate</li>
 <li>Certified Scrum Master (with Jeff Sutherland)</li>
+<li>Israeli Army veteran</li>
 </ul>
 
-</article>
+</body>
+</html>
