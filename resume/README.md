@@ -1,5 +1,6 @@
 # Oren Golan
 
+
 You can read and download [a PDF version of my resume](oren-golan-resume.pdf).
 
 I owned product and technology strategies at various organizations. I have 15+ years of experience in building, leading, operating, and scaling product and engineering teams. I build inclusive culture of trust and safety that accelerate innovation. I do that by integrating strategy, organizational developmentd and delivery through participation.
