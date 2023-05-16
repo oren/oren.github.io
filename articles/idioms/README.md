@@ -1,5 +1,7 @@
 # Idioms
 
+If you want less people to understand you, use the following without explaining what they mean.
+
 * Bird-dog - (verb) To engage in the relentless pursuit of an objective or goal, often involving the accomplishment of tasks through other, less expedient people. "I had to bird-dog Larry all day to get him to sign that damn contract." 
 * Cool Your Jets - To calm oneself down; to become less agitated. I was really angry, so I had to just take a second and cool my jets before I did anything rash. Cool your jets back there, we'll be home in a few minutes.
 * Mice XXX
