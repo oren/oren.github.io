@@ -43,6 +43,7 @@
 * [Gratitude](gratitude/)
 * [Love](love/)
 * [Documentation](documentation/)
+* [Idioms](idioms/)
 
 ## 5. Technology
 * [Deno Web Service](deno-web-service/)
