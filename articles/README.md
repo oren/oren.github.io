@@ -46,8 +46,6 @@
 
 ## 5. Technology
 * [Deno Web Service](deno-web-service/)
-* [AWS Cookbook](aws-cookbook/)
-* [AWS Well-Architected](aws-well-architected/)
 * [Visualizing Software Architecture](visualize/)
 * [re:Invent 2018 Videos](reinvent2018/)
 * [AI vs Humans - 人工智能](ai/)
