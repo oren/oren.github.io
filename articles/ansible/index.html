@@ -26,7 +26,24 @@
 
 	article {
 		float: right;
-		max-width:600px
+		max-width:600px;
+		background-color: white;
+	}
+
+	.markdown-body {
+		background-color: white;
+	}
+
+	h1 {
+		color: black;
+	}
+
+	h2 {
+		color: black;
+	}
+
+	h3 {
+		color: black;
 	}
 
 	iframe {
@@ -147,7 +164,7 @@ db2.example.com
     sudo_user: git
 </code></pre>
 <h3>Run</h3>
-<p><code>ansible-playbook -i prod-hosts web-server.yaml -K</code><br />
+<p><code>ansible-playbook -i prod-hosts  web-server.yaml -K</code><br />
 That's it. you'll see a nice output about each step of the installation:</p>
 <pre><code class="language-bash">TASK: [install debian packages]
 TASK: [add git user]
@@ -187,7 +204,7 @@ In Ansible's terminology it's called a Module. There are many <a href="http://ww
 web2.example.com
 </code></pre>
 <p><strong>Display a summary of our webserver's install script</strong><br />
-<code>ansible-playbook -i prod-hosts web-server.yaml --list-tasks</code></p>
+<code>ansible-playbook -i prod-hosts  web-server.yaml --list-tasks</code></p>
 <p>output</p>
 <pre><code class="language-bash">playbook: web-server.yaml
 
