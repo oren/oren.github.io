@@ -1,14 +1,12 @@
 # Learn Python in 7 days
 
-Test-driven programming in Python.
-
-## 1. About the lesson
-Lesson 1: write your first python program with tests.
-Time: 5 minutes
-Requirements: a laptop
+## Lesson 1: test driven development
+* What will you do? write your first python program with tests.
+* Time: 5 minutes
+* Requirements: a laptop
 
 ## 2. Do this
-Open the terminal, copy this into my_program.py file and run 'python my_program.py'
+Open the terminal, copy the code below into my_program.py file and run 'python my_program.py'
 
 You should see OK:
 
