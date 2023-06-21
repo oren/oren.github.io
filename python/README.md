@@ -3,69 +3,15 @@
 Learn Python in 7 days. 1 practical lesson per day.
 
 ## Lesson 1: test driven development
-* What will you do? write your first python program with tests.
+
+* What will you do? write your first python program that adds a few numbers with tests.
 * Time: 5 minutes.
 * Requirements: a laptop.
+* [Link](https://github.com/oren/oren.github.io/tree/master/python/lesson1-calculator)
 
-## 1. Do this
-Open the terminal, copy the code below into my_program.py file and run `python my_program.py`.
+## Lesson 2: build a website
 
-You should see OK:
+* What will you do? write a website that uses the program from lesson 1.
+* Time: 5 minutes.
+* [Link](https://github.com/oren/oren.github.io/tree/master/python/lesson2-website)
 
-```
-Ran 2 tests in 0.000s
-
-OK
-```
-
-my_program.py:
-
-```
-import unittest
-
-def sum(arr):
-    total = 0
-
-    for val in arr:
-        total += val
-
-    return total
-
-class TestSum(unittest.TestCase):
-    def test_list_int(self):
-        """
-        Test that it can sum a list of integers
-        """
-
-        data = [1, 2, 3]
-        result = sum(data)
-
-        self.assertEqual(result, 6)
-
-    def test_negative(self):
-        """
-        Test that negative numbers works
-        """
-
-        data = [-1, 2, 3]
-        result = sum(data)
-
-        self.assertEqual(result, 4)
-
-if _name_ == '_main_':
-    unittest.main()
-```
-
-## 2. What is this?
-Congrats!!!
-
-You wrote a function that adds a few numbers and returns the result, and you wrote 2 tests for it.
-
-Imagine how cool it would be to share this with the world so that everyone with a browser can use it. Let's do that in lesson 2.
-
-## 3. Why is this important?
-Tests help you write systems that evolve with the needs of the business. If the requirements change, you can write a test first. If the test fails, you update the code accordingly. This practice ensures that your code remains reliable and robust, even as the requirements and business needs change over time.
-
-## 4. Next step - lesson 2
-
-Coming in a few days

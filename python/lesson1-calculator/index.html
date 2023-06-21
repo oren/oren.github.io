@@ -1,0 +1,157 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	.sidenav {
+		font-size: 14px;
+		float: left;
+		height: 100%;
+		width: 160px;
+		list-style: none;
+	}
+
+	.sidenav ul {
+		list-style: none;
+	}
+
+	article {
+		float: right;
+		max-width:600px;
+		background-color: white;
+	}
+
+	.markdown-body {
+		background-color: white;
+		color: black;
+	}
+
+	h1 {
+		color: black;
+	}
+
+	h2 {
+		color: black;
+	}
+
+	h3 {
+		color: black;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+
+		.sidenav {
+			display: none;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/python">Python</a></li>
+</ul>
+
+</div>
+
+<div class="sidenav">
+	
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<h1>Python crash course - Lesson 1</h1>
+<h2>Lesson 1: test driven development</h2>
+<ul>
+<li>What will you do? write your first python program with tests.</li>
+<li>Time: 5 minutes.</li>
+<li>Requirements: a laptop.</li>
+</ul>
+<h2>1. Do this</h2>
+<p>Open the terminal, copy the code below into calculator.py file and run <code>python calculator.py</code>.</p>
+<p>You should see OK:</p>
+<pre><code>Ran 2 tests in 0.000s
+
+OK
+</code></pre>
+<p>calculator.py:</p>
+<pre><code>import unittest
+
+def sum(arr):
+    total = 0
+
+    for val in arr:
+        total += val
+
+    return total
+
+class TestSum(unittest.TestCase):
+    def test_list_int(self):
+        &quot;&quot;&quot;
+        Test that it can sum a list of integers
+        &quot;&quot;&quot;
+
+        data = [1, 2, 3]
+        result = sum(data)
+
+        self.assertEqual(result, 6)
+
+    def test_negative(self):
+        &quot;&quot;&quot;
+        Test that negative numbers works
+        &quot;&quot;&quot;
+
+        data = [-1, 2, 3]
+        result = sum(data)
+
+        self.assertEqual(result, 4)
+
+if _name_ == '_main_':
+    unittest.main()
+</code></pre>
+<h2>2. What is this?</h2>
+<p>Congrats!!!</p>
+<p>You wrote a function that adds a few numbers and returns the result, and you wrote 2 tests for it.</p>
+<p>Imagine how cool it would be to share this with the world so that everyone with a browser can use it. Let's do that in lesson 2.</p>
+<h2>3. Why is this important?</h2>
+<p>Tests help you write systems that evolve with the needs of the business. If the requirements change, you can write a test first. If the test fails, you update the code accordingly. This practice ensures that your code remains reliable and robust, even as the requirements and business needs change over time.</p>
+<h2>4. Next step - lesson 2</h2>
+<p>Coming in a few days</p>
+
+</article>

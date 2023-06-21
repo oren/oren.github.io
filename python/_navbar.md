@@ -1,1 +1,1 @@
-* [Home](https://oren.github.io) > [Hebrew](https://oren.github.io/python)
+* [Home](https://oren.github.io) > [Python](https://oren.github.io/python)
