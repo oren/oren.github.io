@@ -1,0 +1,163 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	.sidenav {
+		font-size: 14px;
+		float: left;
+		height: 100%;
+		width: 160px;
+		list-style: none;
+	}
+
+	.sidenav ul {
+		list-style: none;
+	}
+
+	article {
+		float: right;
+		max-width:600px;
+		background-color: white;
+	}
+
+	.markdown-body {
+		background-color: white;
+		color: black;
+	}
+
+	h1 {
+		color: black;
+	}
+
+	h2 {
+		color: black;
+	}
+
+	h3 {
+		color: black;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+
+		.sidenav {
+			display: none;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/python">Python</a></li>
+</ul>
+
+</div>
+
+<div class="sidenav">
+	
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<h1>Python crash course - Lesson 2</h1>
+<h2>Lesson 2: build a website</h2>
+<ul>
+<li>What will you do? write a website that uses the program from lesson 1.</li>
+<li>Time: 5 minutes.</li>
+</ul>
+<h2>1. Do this</h2>
+<p>Open the terminal, create a new folder, add to it the calculator.py file from lesson 1 and create a new file called <code>server.py</code>.</p>
+<p>Copy the code below into server.py file and run <code>python server.py</code>.</p>
+<p>You should see OK:</p>
+<pre><code>Server started http://localhost:8080
+</code></pre>
+<p>server.py:</p>
+<pre><code>from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+from calculator import add
+
+hostName = &quot;localhost&quot;
+serverPort = 8080
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        summary = str(add([5,1,2]))
+        self.send_response(200)
+        self.send_header(&quot;Content-type&quot;, &quot;text/html&quot;)
+        self.end_headers()
+        self.wfile.write(bytes(&quot;&lt;html&gt;&lt;head&gt;&lt;title&gt;https://pythonbasics.org&lt;/title&gt;&lt;/head&gt;&quot;, &quot;utf-8&quot;))
+        self.wfile.write(bytes(&quot;&lt;p&gt;Request: %s&lt;/p&gt;&quot; % self.path, &quot;utf-8&quot;))
+        self.wfile.write(bytes(&quot;&lt;body&gt;&quot;, &quot;utf-8&quot;))
+        self.wfile.write(bytes(&quot;&lt;p&gt;This is an example web server.&lt;/p&gt;&quot;, &quot;utf-8&quot;))
+        self.wfile.write(bytes(summary, &quot;utf-8&quot;))
+        self.wfile.write(bytes(&quot;&lt;/body&gt;&lt;/html&gt;&quot;, &quot;utf-8&quot;))
+
+if __name__ == &quot;__main__&quot;:
+    webServer = HTTPServer((hostName, serverPort), MyServer)
+    print(&quot;Server started http://%s:%s&quot; % (hostName, serverPort))
+
+    try:
+        webServer.serve_forever()
+    except KeyboardInterrupt:
+        pass
+
+    webServer.server_close()
+    print(&quot;Server stopped.&quot;)
+</code></pre>
+<p>Open the browser in localhost:8080</p>
+<p>You should see your website:</p>
+<pre><code>Request: /
+
+This is an example web server.
+
+The result of the calculation is:
+8
+</code></pre>
+<p>It was able to calculate 5 + 1 + 2 and return 8.</p>
+<p>If you look at the code you will see how you will see <code>add([5,1,2])</code> which is the way to call your <code>add</code> function that lives in a separate file.</p>
+<h2>2. What is this?</h2>
+<p>Congrats!!!</p>
+<p>You wrote a website that uses your calculator. It's super simple now but that's ok for now.</p>
+<h2>3. Why is this important?</h2>
+<p>You can now share this website with the world!</p>
+<h2>4. Next step - lesson 3</h2>
+<p>Coming in a few days</p>
+
+</article>

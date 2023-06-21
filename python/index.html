@@ -100,59 +100,16 @@
 <p>Learn Python in 7 days. 1 practical lesson per day.</p>
 <h2>Lesson 1: test driven development</h2>
 <ul>
-<li>What will you do? write your first python program with tests.</li>
+<li>What will you do? write your first python program that adds a few numbers with tests.</li>
 <li>Time: 5 minutes.</li>
 <li>Requirements: a laptop.</li>
+<li><a href="https://github.com/oren/oren.github.io/tree/master/python/lesson1-calculator">Link</a></li>
 </ul>
-<h2>1. Do this</h2>
-<p>Open the terminal, copy the code below into my_program.py file and run <code>python my_program.py</code>.</p>
-<p>You should see OK:</p>
-<pre><code>Ran 2 tests in 0.000s
-
-OK
-</code></pre>
-<p>my_program.py:</p>
-<pre><code>import unittest
-
-def sum(arr):
-    total = 0
-
-    for val in arr:
-        total += val
-
-    return total
-
-class TestSum(unittest.TestCase):
-    def test_list_int(self):
-        &quot;&quot;&quot;
-        Test that it can sum a list of integers
-        &quot;&quot;&quot;
-
-        data = [1, 2, 3]
-        result = sum(data)
-
-        self.assertEqual(result, 6)
-
-    def test_negative(self):
-        &quot;&quot;&quot;
-        Test that negative numbers works
-        &quot;&quot;&quot;
-
-        data = [-1, 2, 3]
-        result = sum(data)
-
-        self.assertEqual(result, 4)
-
-if _name_ == '_main_':
-    unittest.main()
-</code></pre>
-<h2>2. What is this?</h2>
-<p>Congrats!!!</p>
-<p>You wrote a function that adds a few numbers and returns the result, and you wrote 2 tests for it.</p>
-<p>Imagine how cool it would be to share this with the world so that everyone with a browser can use it. Let's do that in lesson 2.</p>
-<h2>3. Why is this important?</h2>
-<p>Tests help you write systems that evolve with the needs of the business. If the requirements change, you can write a test first. If the test fails, you update the code accordingly. This practice ensures that your code remains reliable and robust, even as the requirements and business needs change over time.</p>
-<h2>4. Next step - lesson 2</h2>
-<p>Coming in a few days</p>
+<h2>Lesson 2: build a website</h2>
+<ul>
+<li>What will you do? write a website that uses the program from lesson 1.</li>
+<li>Time: 5 minutes.</li>
+<li><a href="https://github.com/oren/oren.github.io/tree/master/python/lesson2-website">Link</a></li>
+</ul>
 
 </article>
