@@ -66,4 +66,4 @@ Tests help you write systems that evolve with the needs of the business. If the 
 
 ## 4. Next step - lesson 2
 
-[Lesson 2 - build a website](https://github.com/oren/oren.github.io/tree/master/python/lesson2-website)
+[Lesson 2 - build a website](https://github.com/oren/oren.github.io/tree/master/python/lesson2-website/README.md)
