@@ -12,12 +12,15 @@ Open the terminal, copy this into my_program.py file and run 'python my_program.
 
 You should see OK:
 
+```
 Ran 2 tests in 0.000s
 
 OK
+```
 
 my_program.py:
 
+```
 import unittest
 
 def sum(arr):
@@ -52,6 +55,7 @@ class TestSum(unittest.TestCase):
 if _name_ == '_main_':
 
     unittest.main()
+```
 
 ## 3. What is this?
 Congrats!!!
