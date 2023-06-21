@@ -60,6 +60,7 @@ if _name_ == '_main_':
 Congrats!!!
 
 You wrote a function that adds a few numbers and returns the result, and you wrote 2 tests for it.
+
 Imagine how cool it would be to share this with the world so that everyone with a browser can use it. Let's do that in lesson 2.
 
 ## 3. Why is this important?
