@@ -21,7 +21,7 @@ calculator.py:
 ```
 import unittest
 
-def sum(arr):
+def add(arr):
     total = 0
 
     for val in arr:
@@ -29,14 +29,14 @@ def sum(arr):
 
     return total
 
-class TestSum(unittest.TestCase):
+class TestAdd(unittest.TestCase):
     def test_list_int(self):
         """
         Test that it can sum a list of integers
         """
 
         data = [1, 2, 3]
-        result = sum(data)
+        result = add(data)
 
         self.assertEqual(result, 6)
 
@@ -46,7 +46,7 @@ class TestSum(unittest.TestCase):
         """
 
         data = [-1, 2, 3]
-        result = sum(data)
+        result = add(data)
 
         self.assertEqual(result, 4)
 
