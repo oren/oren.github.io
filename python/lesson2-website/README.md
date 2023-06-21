@@ -80,4 +80,4 @@ You can now share this website with the world!
 
 ## 4. Next step - lesson 3
 
-Coming in a few days
+Coming soon!
