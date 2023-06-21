@@ -100,14 +100,16 @@
 <p>Test-driven programming in Python.</p>
 <p>Open the terminal, copy this into my_program.py file and run 'python my_program.py'</p>
 <p>You should see OK:</p>
-<pre><code>..
+<pre>
+..
 ----------------------------------------------------------------------
 Ran 2 tests in 0.000s
 
 OK
-</code></pre>
+</pre>
 <p>my_program.py</p>
-<pre><code>import unittest
+<pre>
+import unittest
 
 # add all numbers in an list
 def sum(arr):
@@ -120,9 +122,9 @@ def sum(arr):
 
 class TestSum(unittest.TestCase):
     def test_list_int(self):
-        &quot;&quot;&quot;
+        """
         Test that it can sum a list of integers
-        &quot;&quot;&quot;
+        """
 
         data = [1, 2, 3]
         result = sum(data)
@@ -130,9 +132,9 @@ class TestSum(unittest.TestCase):
         self.assertEqual(result, 6)
 
     def test_negative(self):
-        &quot;&quot;&quot;
+        """
         Test that negative numbers works
-        &quot;&quot;&quot;
+        """
 
         data = [-1, 2, 3]
         result = sum(data)
@@ -141,6 +143,7 @@ class TestSum(unittest.TestCase):
 
 if _name_ == '_main_':
     unittest.main()
-</code></pre>
+```
+</pre>
 
 </article>
