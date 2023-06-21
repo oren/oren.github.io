@@ -1,4 +1,6 @@
- Learn Python in 7 days
+# Python crash course
+
+Learn Python in 7 days.
 
 ## Lesson 1: test driven development
 * What will you do? write your first python program with tests.
