@@ -8,7 +8,7 @@ Learn Python in 7 days. 1 practical lesson per day.
 * Requirements: a laptop
 
 ## 1. Do this
-Open the terminal, copy the code below into my_program.py file and run 'python my_program.py'
+Open the terminal, copy the code below into my_program.py file and run `python my_program.py`.
 
 You should see OK:
 
