@@ -72,6 +72,11 @@ If you look at the code you will see how you will see `add([5,1,2])` which is th
 
 Don't worry about all the other lines in `server.py`. We will explain it soon.
 
+To stop your website from running type `Ctrl + c` in the terminal. You should see:
+```
+^CServer stopped.
+```
+
 ## 2. What is this?
 Congrats!!!
 
