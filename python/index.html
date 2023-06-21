@@ -105,39 +105,45 @@ Requirements: a laptop</p>
 <h2>2. Do this</h2>
 <p>Open the terminal, copy this into my_program.py file and run 'python my_program.py'</p>
 <p>You should see OK:</p>
-<p>Ran 2 tests in 0.000s</p>
-<p>OK</p>
+<pre><code>Ran 2 tests in 0.000s
+
+OK
+</code></pre>
 <p>my_program.py:</p>
-<p>import unittest</p>
-<p>def sum(arr):
-total = 0</p>
-<pre><code>for val in arr:
-    total += val
+<pre><code>import unittest
 
-return total
-</code></pre>
-<p>class TestSum(unittest.TestCase):
-def test_list_int(self):
-&quot;&quot;&quot;
-Test that it can sum a list of integers
-&quot;&quot;&quot;</p>
-<pre><code>    data = [1, 2, 3]
-    result = sum(data)
+def sum(arr):
+    total = 0
 
-    self.assertEqual(result, 6)
+    for val in arr:
+        total += val
 
-def test_negative(self):
-    &quot;&quot;&quot;
-    Test that negative numbers works
-    &quot;&quot;&quot;
+    return total
 
-    data = [-1, 2, 3]
-    result = sum(data)
+class TestSum(unittest.TestCase):
+    def test_list_int(self):
+        &quot;&quot;&quot;
+        Test that it can sum a list of integers
+        &quot;&quot;&quot;
 
-    self.assertEqual(result, 4)
-</code></pre>
-<p>if <em>name</em> == '<em>main</em>':</p>
-<pre><code>unittest.main()
+        data = [1, 2, 3]
+        result = sum(data)
+
+        self.assertEqual(result, 6)
+
+    def test_negative(self):
+        &quot;&quot;&quot;
+        Test that negative numbers works
+        &quot;&quot;&quot;
+
+        data = [-1, 2, 3]
+        result = sum(data)
+
+        self.assertEqual(result, 4)
+
+if _name_ == '_main_':
+
+    unittest.main()
 </code></pre>
 <h2>3. What is this?</h2>
 <p>Congrats!!!</p>
