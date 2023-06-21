@@ -4,8 +4,8 @@ Learn Python in 7 days. 1 practical lesson per day.
 
 ## Lesson 1: test driven development
 * What will you do? write your first python program with tests.
-* Time: 5 minutes
-* Requirements: a laptop
+* Time: 5 minutes.
+* Requirements: a laptop.
 
 ## 1. Do this
 Open the terminal, copy the code below into my_program.py file and run `python my_program.py`.
