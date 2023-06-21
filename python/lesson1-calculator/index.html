@@ -113,7 +113,7 @@ OK
 <p>calculator.py:</p>
 <pre><code>import unittest
 
-def sum(arr):
+def add(arr):
     total = 0
 
     for val in arr:
@@ -121,14 +121,14 @@ def sum(arr):
 
     return total
 
-class TestSum(unittest.TestCase):
+class TestAdd(unittest.TestCase):
     def test_list_int(self):
         &quot;&quot;&quot;
         Test that it can sum a list of integers
         &quot;&quot;&quot;
 
         data = [1, 2, 3]
-        result = sum(data)
+        result = add(data)
 
         self.assertEqual(result, 6)
 
@@ -138,7 +138,7 @@ class TestSum(unittest.TestCase):
         &quot;&quot;&quot;
 
         data = [-1, 2, 3]
-        result = sum(data)
+        result = add(data)
 
         self.assertEqual(result, 4)
 
