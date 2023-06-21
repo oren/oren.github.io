@@ -59,7 +59,11 @@ if _name_ == '_main_':
 ## 2. What is this?
 Congrats!!!
 
-You wrote a function that calculates the summaries of a few numbers, and you wrote 2 tests for it.
+You wrote a function that adds a few numbers and returns the result, and you wrote 2 tests for it. Imagine how cool it would be to share this with the world so that everyone with a browser can use it. Let's do that in lesson 2.
 
 ## 3. Why is this important?
 Tests help you write systems that evolve with the needs of the business. If the requirements change, you can write a test first. If the test fails, you update the code accordingly. This practice ensures that your code remains reliable and robust, even as the requirements and business needs change over time.
+
+## 4. Next step - lesson 2
+
+Coming in a few days
