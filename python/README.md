@@ -6,20 +6,14 @@ Open the terminal, copy this into my_program.py file and run 'python my_program.
 
 You should see OK:
 
-<pre>
-..
-----------------------------------------------------------------------
 Ran 2 tests in 0.000s
 
 OK
-</pre>
 
-my_program.py
+my_program.py:
 
-<pre>
 import unittest
 
-# add all numbers in an list
 def sum(arr):
     total = 0
 
@@ -51,5 +45,3 @@ class TestSum(unittest.TestCase):
 
 if _name_ == '_main_':
     unittest.main()
-```
-</pre>
