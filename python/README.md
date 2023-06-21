@@ -53,7 +53,6 @@ class TestSum(unittest.TestCase):
         self.assertEqual(result, 4)
 
 if _name_ == '_main_':
-
     unittest.main()
 ```
 
