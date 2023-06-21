@@ -60,4 +60,7 @@ if _name_ == '_main_':
 ## 2. What is this?
 Congrats!!!
 
-You wrote a function that calculate the total numbers of elements and wrote 2 tests for it.
+You wrote a function that calculates the summaries of a few numbers, and you wrote 2 tests for it.
+
+## 3. Why is this important?
+Tests help you write systems that evolve with the needs of the business. If the requirements change, you can write a test first. If the test fails, you update the code accordingly. This practice ensures that your code remains reliable and robust, even as the requirements and business needs change over time.
