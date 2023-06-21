@@ -5,10 +5,11 @@
 * Time: 5 minutes.
 
 ## 1. Do this
-Open the terminal, create a new folder, add to it the calculator.py file from lesson 1 and create a new file called `server.py`.
+1. Open the terminal, create a new folder, name it `my-website`.
+2. Copy calculator.py file from lesson 1 into this folder.
+2. Create a new file called `server.py` to the same folder.
 
 Copy the code below into server.py file and run `python server.py`.
-
 
 You should see OK:
 
