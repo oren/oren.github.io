@@ -50,7 +50,7 @@ class TestSum(unittest.TestCase):
 
         self.assertEqual(result, 4)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     unittest.main()
 ```
 
@@ -66,4 +66,4 @@ Tests help you write systems that evolve with the needs of the business. If the 
 
 ## 4. Next step - lesson 2
 
-Coming in a few days
+[Lesson 2 - build a website](https://github.com/oren/oren.github.io/tree/master/python/lesson2-website)
