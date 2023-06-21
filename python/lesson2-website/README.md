@@ -70,6 +70,7 @@ It was able to calculate 5 + 1 + 2 and return 8.
 
 If you look at the code you will see how you will see `add([5,1,2])` which is the way to call your `add` function that lives in a separate file.
 
+Don't worry about all the other lines in `server.py`. We will explain it soon.
 
 ## 2. What is this?
 Congrats!!!
