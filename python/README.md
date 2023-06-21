@@ -1,11 +1,11 @@
-# Learn Python in 7 days
+ Learn Python in 7 days
 
 ## Lesson 1: test driven development
 * What will you do? write your first python program with tests.
 * Time: 5 minutes
 * Requirements: a laptop
 
-## 2. Do this
+## 1. Do this
 Open the terminal, copy the code below into my_program.py file and run 'python my_program.py'
 
 You should see OK:
@@ -55,7 +55,7 @@ if _name_ == '_main_':
     unittest.main()
 ```
 
-## 3. What is this?
+## 2. What is this?
 Congrats!!!
 
 You wrote a function that calculate the total numbers of elements and wrote 2 tests for it.
