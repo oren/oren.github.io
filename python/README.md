@@ -2,6 +2,12 @@
 
 Test-driven programming in Python.
 
+## 1. About the lesson
+Lesson 1: write your first python program with tests.
+Time: 5 minutes
+Requirements: a laptop
+
+## 2. Do this
 Open the terminal, copy this into my_program.py file and run 'python my_program.py'
 
 You should see OK:
@@ -44,4 +50,10 @@ class TestSum(unittest.TestCase):
         self.assertEqual(result, 4)
 
 if _name_ == '_main_':
+
     unittest.main()
+
+## 3. What is this?
+Congrats!!!
+
+You wrote a function that calculate the total numbers of elements and wrote 2 tests for it.
