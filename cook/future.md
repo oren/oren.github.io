@@ -28,6 +28,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * https://fitslowcookerqueen.com/slow-cooker-fish-tomatoes/
 * https://www.foodandwine.com/recipes/chawanmushi
 * [Roasted Cabbage with Tahini](https://www.youtube.com/watch?v=ZMAwm2gqiVs)
+* [Thomas Keller Zucchini](https://www.easyanddelish.com/thomas-keller-zucchini/)
 
 ## I made the following:
 
