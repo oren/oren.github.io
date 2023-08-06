@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,16 +95,14 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Create a Github Repo in One Command</h1>
+	<h1 id="create-a-github-repo-in-one-command">Create a Github Repo in One Command</h1>
 <p>I use a single command to create my git repositories:</p>
-<pre><code class="language-bash">git-new my-new-git-repo
-</code></pre>
+<pre><code class="bash language-bash">git-new my-new-git-repo</code></pre>
 <p>It's a simple bash script. Here are the steps to create it:</p>
-<pre><code class="language-bash">touch git-new &amp;&amp; chmod 755 git-new
-</code></pre>
+<pre><code class="bash language-bash">touch git-new &amp;&amp; chmod 755 git-new</code></pre>
 <p>Locate this file somewhere on your path.</p>
 <p>Add the following lines to the git-new script:</p>
-<pre><code class="language-bash">#!/bin/bash
+<pre><code class="bash language-bash">#!/bin/bash
 
 # create a new repo on github
 # usage: git-new &lt;repo name&gt;
@@ -114,26 +111,23 @@ set -e
 
 name=$1
 
-if [ &quot;$1&quot; ]; then
-  mkdir &quot;$name&quot;
-  cd &quot;$name&quot;
-  echo &quot;# $name&quot; &gt; readme.md
+if [ "$1" ]; then
+  mkdir "$name"
+  cd "$name"
+  echo "# $name" &gt; readme.md
   git init
   git add readme.md
   git commit -m 'first commit'
-  git hub repo-new &quot;$name&quot;
-  remote=$(git hub repo &quot;$name&quot; | grep URL | awk '{print $3}')
-  git remote add origin &quot;$remote&quot;
+  git hub repo-new "$name"
+  remote=$(git hub repo "$name" | grep URL | awk '{print $3}')
+  git remote add origin "$remote"
   git push origin master
 else
   echo provide a repo name
-fi
-</code></pre>
-<p>You'll notice that I use <code>git hub</code>. This is a <a href="https://github.com/ingydotnet/git-hub">repository</a> of bash scripsts that use github API so you won't need to use your web browser to interact with Github (create, fork, clone etc).
+fi</code></pre>
+<p>You'll notice that I use <code>git hub</code>. This is a <a href="https://github.com/ingydotnet/git-hub">repository</a> of bash scripsts that use github API so you won't need to use your web browser to interact with Github (create, fork, clone etc).<br />
 Here is how to set it up:</p>
-<pre><code class="language-bash">git clone https://github.com/ingydotnet/git-hub ~/projects/git-hub
-echo &quot;source ~/projects/git-hub/init&quot; &gt;&gt; ~/.bashrc
-</code></pre>
+<pre><code class="bash language-bash">git clone https://github.com/ingydotnet/git-hub ~/projects/git-hub
+echo "source ~/projects/git-hub/init" &gt;&gt; ~/.bashrc</code></pre>
 <p>That's it! Go ahead and try <code>git-new my-awesome-project</code> and notice a new project was created on github.</p>
-
 </article>

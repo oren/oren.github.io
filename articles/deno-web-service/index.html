@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,17 +95,16 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Deno Web Services</h1>
-<h2>Install Deno on your laptop</h2>
-<p>curl -fsSL https://deno.land/install.sh | sh</p>
-<h2>Create new Typescript file: hello.ts</h2>
-<p>import { serve } from &quot;https://deno.land/std@0.135.0/http/server.ts&quot;;</p>
-<p>console.log(&quot;http://localhost:8000/&quot;);</p>
-<p>serve((req) =&gt; new Response(&quot;Hello World\n&quot;), { port: 8000 });</p>
-<h2>Run the service on your laptop</h2>
+	<h1 id="deno-web-services">Deno Web Services</h1>
+<h2 id="install-deno-on-your-laptop">Install Deno on your laptop</h2>
+<p>curl -fsSL <a href="https://deno.land/install.sh">https://deno.land/install.sh</a> | sh</p>
+<h2 id="create-new-typescript-file-hellots">Create new Typescript file: hello.ts</h2>
+<p>import { serve } from "https://deno.land/std@0.135.0/http/server.ts";</p>
+<p>console.log("http://localhost:8000/");</p>
+<p>serve((req) =&gt; new Response("Hello World\n"), { port: 8000 });</p>
+<h2 id="run-the-service-on-your-laptop">Run the service on your laptop</h2>
 <p>deno run --allow-net hello.ts</p>
-<h2>Try it out</h2>
+<h2 id="try-it-out">Try it out</h2>
 <p>open your browser: http://localhost:8000/</p>
 <p>You can also try it without the browser with this command: curl localhost:8000</p>
-
 </article>

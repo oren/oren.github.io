@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/aws-cookbook">AWS Cookbok</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,46 +95,41 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Build HTTP Web Service on AWS</h1>
+	<h1 id="build-http-web-service-on-aws">Build HTTP Web Service on AWS</h1>
 <p>This is a recipe for an HTTP Web Service using AWS Fargate.</p>
-<h2>1. Setup</h2>
-<pre><code class="language-bash">mkdir MyEcsConstruct
+<h2 id="1-setup">1. Setup</h2>
+<pre><code class="bash language-bash">mkdir MyEcsConstruct
 cd MyEcsConstruct
 cdk init --language typescript
 npm run build
 cdk synth
-npm install @aws-cdk/aws-ec2 @aws-cdk/aws-ecs @aws-cdk/aws-ecs-patterns
-</code></pre>
-<h2>2. Write the Web service code</h2>
+npm install @aws-cdk/aws-ec2 @aws-cdk/aws-ecs @aws-cdk/aws-ecs-patterns</code></pre>
+<h2 id="2-write-the-web-service-code">2. Write the Web service code</h2>
 <p>Open the file <code>lib/my_ecs_construct-stack.ts</code> with a text editor.</p>
-<pre><code class="language-javascript">import ec2 = require(&quot;@aws-cdk/aws-ec2&quot;);
-import ecs = require(&quot;@aws-cdk/aws-ecs&quot;);
-import ecs_patterns = require(&quot;@aws-cdk/aws-ecs-patterns&quot;);
+<pre><code class="javascript language-javascript">import ec2 = require("@aws-cdk/aws-ec2");
+import ecs = require("@aws-cdk/aws-ecs");
+import ecs_patterns = require("@aws-cdk/aws-ecs-patterns");
 
-const vpc = new ec2.Vpc(this, &quot;MyVpc&quot;, {
-	maxAzs: 3 // Default is all AZs in region
+const vpc = new ec2.Vpc(this, "MyVpc", {
+    maxAzs: 3 // Default is all AZs in region
 });
 
-const cluster = new ecs.Cluster(this, &quot;MyCluster&quot;, {
-	vpc: vpc
+const cluster = new ecs.Cluster(this, "MyCluster", {
+    vpc: vpc
 });
 
 // Create a load-balanced Fargate service and make it public
-new ecs_patterns.ApplicationLoadBalancedFargateService(this, &quot;MyFargateService&quot;, {
-	cluster: cluster,
-	taskImageOptions: { image: ecs.ContainerImage.fromRegistry(&quot;amazon/amazon-ecs-sample&quot;) },
-	publicLoadBalancer: true // Default is false
-});
-</code></pre>
-<h2>3. Deploy your Web service</h2>
+new ecs_patterns.ApplicationLoadBalancedFargateService(this, "MyFargateService", {
+    cluster: cluster,
+    taskImageOptions: { image: ecs.ContainerImage.fromRegistry("amazon/amazon-ecs-sample") },
+    publicLoadBalancer: true // Default is false
+});</code></pre>
+<h2 id="3-deploy-your-web-service">3. Deploy your Web service</h2>
 <pre><code>npm run build
-cdk deploy
-</code></pre>
-<h2>4. Understand what you built</h2>
+cdk deploy</code></pre>
+<h2 id="4-understand-what-you-built">4. Understand what you built</h2>
 <p>You just created a public HTTP Web Service. Under the hood it's a Fargate service running on an ECS cluster fronted by an application load balancer. Learn how to customize it <a href="https://docs.aws.amazon.com/cdk/api/latest/docs/@aws-cdk_aws-ecs-patterns.ApplicationLoadBalancedFargateService.html">here</a>.</p>
-<h2>5. Clean up</h2>
+<h2 id="5-clean-up">5. Clean up</h2>
 <p>If you want to clean all the AWS resources that you created run the following:</p>
-<pre><code>cdk destroy
-</code></pre>
-
+<pre><code>cdk destroy</code></pre>
 </article>

@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a>&gt; <a href="https://oren.github.io/articles/pass">pass</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,24 +95,18 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Useful Commands</h1>
+	<h1 id="useful-commands">Useful Commands</h1>
 <p>List secret keys</p>
-<pre><code>gpg -k
-</code></pre>
+<pre><code>gpg -k</code></pre>
 <p>Delete a private key</p>
-<pre><code>gpg --delete-secret-key &quot;User Name&quot;
-</code></pre>
+<pre><code>gpg --delete-secret-key "User Name"</code></pre>
 <p>Delete a public key</p>
-<pre><code>gpg --delete-key &quot;User Name&quot;
-</code></pre>
+<pre><code>gpg --delete-key "User Name"</code></pre>
 <p>Backup the gpg keys</p>
-<pre><code>gpg2 --export-secret-keys &gt; secret.gpg
-</code></pre>
+<pre><code>gpg2 --export-secret-keys &gt; secret.gpg</code></pre>
 <p>Restore the gpg keys</p>
 <pre><code>gpg2 --import secret.gpg
 gpg --edit-key &lt;KEY_ID&gt;
 gpg&gt;trust
-enter '5'
-</code></pre>
-
+enter '5'</code></pre>
 </article>

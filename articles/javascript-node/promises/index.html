@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/javascript-node">Javascript/Node.js</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,38 +95,27 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Promises Basics</h1>
+	<h1 id="promises-basics">Promises Basics</h1>
 <p>(This is a summary of <a href="https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html">this blog post</a>)</p>
 <p>Here is a real world promise chain:</p>
-<pre><code class="language-js">login().then(getContacts).then(getAttachments).catch(error);
-</code></pre>
+<pre><code class="js language-js">login().then(getContacts).then(getAttachments).catch(error);</code></pre>
 <p>What can you do inside the functions <code>getContacts</code> and <code>getAttachments</code>?</p>
 <p>You have 3 options:</p>
-<ol>
-<li>a function that returns a promise</li>
-</ol>
-<pre><code class="language-js">function getContacts(result) {
+<p>1) a function that returns a promise</p>
+<pre><code class="js language-js">function getContacts(result) {
   return new Promise(function(resolve, reject) {
     setTimeout(function() {
       resolve(result + ' get contacts.');
     }, 10);
   })
-}
-</code></pre>
-<ol start="2">
-<li>a function that returns a single value</li>
-</ol>
-<pre><code class="language-js">function getContacts(result) {
+}</code></pre>
+<p>2) a function that returns a single value</p>
+<pre><code class="js language-js">function getContacts(result) {
   return result + ' I am doing something sync.';
-}
-</code></pre>
-<ol start="3">
-<li>a function that throws</li>
-</ol>
-<pre><code class="language-js">function getContacts(result) {
+}</code></pre>
+<p>3) a function that throws</p>
+<pre><code class="js language-js">function getContacts(result) {
   throw new Error('user logged out!');
-}
-</code></pre>
+}</code></pre>
 <p>If you want to run the examples clone my <a href="https://github.com/oren/promises-example">git repo</a>.</p>
-
 </article>

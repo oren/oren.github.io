@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,7 +95,7 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>How to quickly contribute to a codebase on github</h1>
+	<h1 id="how-to-quickly-contribute-to-a-codebase-on-github">How to quickly contribute to a codebase on github</h1>
 <pre><code>#!/bin/bash
 
 # 1. What is this? fork and clone a repo on github
@@ -113,17 +112,15 @@
 set -e
 
 me=oren
-org=$(dirname &quot;$1&quot;)
-repo=$(basename &quot;$1&quot;)
+org=$(dirname "$1")
+repo=$(basename "$1")
 
-if [ &quot;$org&quot; ] &amp;&amp; [ &quot;$repo&quot; ]; then
-  git hub fork &quot;$1&quot;
-  git hub clone &quot;$me&quot;/&quot;$repo&quot;
-  cd &quot;$repo&quot;
-  git remote add upstream git@github.com:&quot;$1&quot;
+if [ "$org" ] &amp;&amp; [ "$repo" ]; then
+  git hub fork "$1"
+  git hub clone "$me"/"$repo"
+  cd "$repo"
+  git remote add upstream git@github.com:"$1"
 else
   echo provide one arguments: org/repo
-fi
-</code></pre>
-
+fi</code></pre>
 </article>

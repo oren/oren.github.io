@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,15 +95,13 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Manage Tmux</h1>
-<h2>What in Tmuxinator?</h2>
+	<h1 id="manage-tmux">Manage Tmux</h1>
+<h2 id="what-in-tmuxinator">What in Tmuxinator?</h2>
 <p><a href="https://github.com/tmuxinator/tmuxinator">Tmuxinator</a> is a tool that automate the creation of multiple tmux sessions.</p>
-<h2>Install ith</h2>
-<pre><code>sudo aptitude install tmuxinator
-</code></pre>
-<h2>Create a new project file and open it in your editor</h2>
-<pre><code>tmuxinator new dev
-</code></pre>
+<h2 id="install-ith">Install ith</h2>
+<pre><code>sudo aptitude install tmuxinator</code></pre>
+<h2 id="create-a-new-project-file-and-open-it-in-your-editor">Create a new project file and open it in your editor</h2>
+<pre><code>tmuxinator new dev</code></pre>
 <p>Your text editor will open with a default config. Clean, add the text bellow, and save the file.</p>
 <pre><code>name: dev
 root: ~/p/site-generator
@@ -115,18 +112,14 @@ windows:
       panes:
         - vim src/main.rs
         -
-  - other:
-</code></pre>
+  - other:</code></pre>
 <p>We created a new project and named it dev. You can as many projects as you want with different names.</p>
-<h2>Start Tmux session</h2>
-<pre><code>tmuxinator start dev
-</code></pre>
+<h2 id="start-tmux-session">Start Tmux session</h2>
+<pre><code>tmuxinator start dev</code></pre>
 <p>This command will start a new session with two windows and the first one will have a two panes. The config file is in ~/.config/tmuxinator/dev.yml. The project name is dev. You can also run this without the start argument: <code>tmuxinator dev</code>.</p>
-<h2>List all projects</h2>
+<h2 id="list-all-projects">List all projects</h2>
 <pre><code>tmuxinator ls
 
 tmuxinator projects:
-dev      notes    interviews     website
-</code></pre>
-
+dev      notes    interviews     website</code></pre>
 </article>

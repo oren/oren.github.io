@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/python">Python</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,20 +95,19 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Python crash course - Lesson 1</h1>
-<h2>Lesson 1: test driven development</h2>
+	<h1 id="python-crash-course---lesson-1">Python crash course - Lesson 1</h1>
+<h2 id="lesson-1-test-driven-development">Lesson 1: test driven development</h2>
 <ul>
 <li>What will you do? write your first python program with tests.</li>
 <li>Time: 5 minutes.</li>
 <li>Requirements: a laptop.</li>
 </ul>
-<h2>1. Do this</h2>
+<h2 id="1-do-this">1. Do this</h2>
 <p>Open the terminal, copy the code below into calculator.py file and run <code>python calculator.py</code>.</p>
 <p>You should see OK:</p>
 <pre><code>Ran 2 tests in 0.000s
 
-OK
-</code></pre>
+OK</code></pre>
 <p>calculator.py:</p>
 <pre><code>import unittest
 
@@ -123,9 +121,9 @@ def add(arr):
 
 class TestAdd(unittest.TestCase):
     def test_list_int(self):
-        &quot;&quot;&quot;
+        """
         Test that it can sum a list of integers
-        &quot;&quot;&quot;
+        """
 
         data = [1, 2, 3]
         result = add(data)
@@ -133,9 +131,9 @@ class TestAdd(unittest.TestCase):
         self.assertEqual(result, 6)
 
     def test_negative(self):
-        &quot;&quot;&quot;
+        """
         Test that negative numbers works
-        &quot;&quot;&quot;
+        """
 
         data = [-1, 2, 3]
         result = add(data)
@@ -143,15 +141,13 @@ class TestAdd(unittest.TestCase):
         self.assertEqual(result, 4)
 
 if __name__ == '__main__':
-    unittest.main()
-</code></pre>
-<h2>2. What is this?</h2>
+    unittest.main()</code></pre>
+<h2 id="2-what-is-this">2. What is this?</h2>
 <p>Congrats!!!</p>
 <p>You wrote a function that adds a few numbers and returns the result, and you wrote 2 tests for it.</p>
 <p>Imagine how cool it would be to share this with the world so that everyone with a browser can use it. Let's do that in lesson 2.</p>
-<h2>3. Why is this important?</h2>
+<h2 id="3-why-is-this-important">3. Why is this important?</h2>
 <p>Tests help you write systems that evolve with the needs of the business. If the requirements change, you can write a test first. If the test fails, you update the code accordingly. This practice ensures that your code remains reliable and robust, even as the requirements and business needs change over time.</p>
-<h2>4. Next step - lesson 2</h2>
+<h2 id="4-next-step---lesson-2">4. Next step - lesson 2</h2>
 <p><a href="https://github.com/oren/oren.github.io/tree/master/python/lesson2-website/README.md">Lesson 2 - build a website</a></p>
-
 </article>
