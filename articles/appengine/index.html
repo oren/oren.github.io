@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,35 +95,29 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<meta property="og:title" content="Go on App Engine" />
-<meta property="og:image" content="appengine-go.png" />
-<h1>Go on App Engine</h1>
+	<p><meta property="og:title" content="Go on App Engine" /><br />
+<meta property="og:image" content="appengine-go.png" /></p>
+<h1 id="go-on-app-engine">Go on App Engine</h1>
 <p><img src="appengine-go.png" alt="appengine" /></p>
 <p>This post is the code for the official 'Hello World' <a href="https://cloud.google.com/appengine/docs/flexible/go/hello-world">tutorial</a>.</p>
 <p>Download the App Engine SDK for Go</p>
-<pre><code class="language-bash">wget https://storage.googleapis.com/appengine-sdks/featured/go_appengine_sdk_linux_amd64-1.9.36.zip
+<pre><code class="bash language-bash">wget https://storage.googleapis.com/appengine-sdks/featured/go_appengine_sdk_linux_amd64-1.9.36.zip
 unzip go_appengine_sdk_linux_amd64-1.9.36.zip
 add to .bashrc: export PATH=$PATH:$TMP/apps/go_appengine/
-which goapp
-</code></pre>
+which goapp</code></pre>
 <p>Test the app on your laptop</p>
-<pre><code class="language-bash">git clone git@github.com:oren/appengine.git
+<pre><code class="bash language-bash">git clone git@github.com:oren/appengine.git
 cd appengine
-goapp serve
-</code></pre>
+goapp serve</code></pre>
 <p>Create an app on Google's dashboard and copy the app id (my app id is hello-1292)</p>
-<pre><code class="language-bash">https://console.cloud.google.com/home/dashboard
-</code></pre>
+<pre><code class="bash language-bash">https://console.cloud.google.com/home/dashboard</code></pre>
 <p>Deploy</p>
-<pre><code class="language-bash">appcfg.py -A hello-1292 -V v1 update .
-</code></pre>
+<pre><code class="bash language-bash">appcfg.py -A hello-1292 -V v1 update .</code></pre>
 <p>Enjoy</p>
-<pre><code class="language-bash">http://hello-1292.appspot.com
-</code></pre>
-<br/>
+<pre><code class="bash language-bash">http://hello-1292.appspot.com</code></pre>
+<p><br/></p>
 <p>Resources</p>
 <ul>
-<li>My github repository with this code sample - https://github.com/oren/appengine</li>
+<li>My github repository with this code sample - <a href="https://github.com/oren/appengine">https://github.com/oren/appengine</a></li>
 </ul>
-
 </article>

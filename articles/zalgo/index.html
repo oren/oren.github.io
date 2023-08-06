@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,11 +95,11 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Don't release Zalgo!</h1>
-<p>Here is a short and practical version of Isaac's post - [Designing APIs for Asynchrony] <a href="http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony">1</a>.<br />
+	<h1 id="dont-release-zalgo">Don't release Zalgo!</h1>
+<p>Here is a short and practical version of Isaac's post - <a href="http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony">Designing APIs for Asynchrony</a>.  <br />
 Zalgo is a Issac's nickname for a function that is not predictable. What it means is a function that accepts a callback and sometimes returns it right away, and some other times it returns it after some delay, in the future.</p>
 <p>forEach is an example of a function that returns the passed callback immediately:</p>
-<pre><code class="language-js">var arr = [1,2,3];
+<pre><code class="js language-js">var arr = [1,2,3];
 
 arr.forEach(function (x) {
   console.log('first');
@@ -109,22 +108,20 @@ arr.forEach(function (x) {
 console.log('last');
 
 // first first first
-// last
-</code></pre>
+// last</code></pre>
 <p>setTimeout calls the callback sometime in the future:</p>
-<pre><code class="language-js">setTimeout(function () {
+<pre><code class="js language-js">setTimeout(function () {
   console.log('last')
 }, 1000);
 
 console.log('first');
 
 // first
-// last
-</code></pre>
+// last</code></pre>
 <p>So when you write a function that accept a callback, make sure your function always sync or always async. don't mix the two.</p>
-<p>Here is a Zalgo in our codebase.
+<p>Here is a Zalgo in our codebase.<br />
 This function will return right away if first name or last name is missing but if they exist, it will return sometime in the future with the payload from the login server.</p>
-<pre><code class="language-js">function register(options, callback) {
+<pre><code class="js language-js">function register(options, callback) {
     var first_name = (options['first_name'] || '').trim();
     var last_name = (options['last_name'] || '').trim();
     var errors = [];
@@ -153,20 +150,16 @@ This function will return right away if first name or last name is missing but i
     };
 
     requestWithSignature('post', '/api/v2/users', params, callback);
-}
-</code></pre>
+}</code></pre>
 <p>How to fight a Zalgo when you see one?</p>
-<pre><code class="language-js">if (errors.length) {
+<pre><code class="js language-js">if (errors.length) {
   process.nextTick(function() {
     callback(null, errors);
   });
   return;
-}
-</code></pre>
-<p>[process.nextTick] <a href="http://nodejs.org/docs/latest/api/process.html#process_process_nexttick_callback">2</a> is the way to tell node we want to execute something in the future (the next 'tick' of the event loop).
+}</code></pre>
+<p><a href="http://nodejs.org/docs/latest/api/process.html#process_process_nexttick_callback">process.nextTick</a> is the way to tell node we want to execute something in the future (the next 'tick' of the event loop).<br />
 Now our register function is consistant - it always delays the callback call.</p>
-<p>Two more things: the error should be the first argument and it's [better to pass an Error object than a string] <a href="http://www.devthought.com/2011/12/22/a-string-is-not-an-error/">3</a>.</p>
-<pre><code class="language-js">callback(new Error(errors), null);
-</code></pre>
-
+<p>Two more things: the error should be the first argument and it's <a href="http://www.devthought.com/2011/12/22/a-string-is-not-an-error/">better to pass an Error object than a string</a>.</p>
+<pre><code class="js language-js">callback(new Error(errors), null);</code></pre>
 </article>

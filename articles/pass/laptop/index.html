@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a>&gt; <a href="https://oren.github.io/articles/pass">pass</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -97,14 +96,11 @@
 
 <article class="markdown-body" style="font-size: 20px;">
 	<!-- numbers -->
-<h1>Setup your pass on your laptop</h1>
-<h2>1. Generate a gpg key</h2>
-<pre><code>gpg2 --full-gen-key
-</code></pre>
+<h1 id="setup-your-pass-on-your-laptop">Setup your pass on your laptop</h1>
+<h2 id="1-generate-a-gpg-key">1. Generate a gpg key</h2>
+<pre><code>gpg2 --full-gen-key</code></pre>
 <p>Explanation: the pass application uses gpg keys to encrypt your passwords</p>
-<h2>2.  Initialize pass</h2>
-<pre><code>pass init my-email@gmail.com
-</code></pre>
+<h2 id="2--initialize-pass">2.  Initialize pass</h2>
+<pre><code>pass init my-email@gmail.com</code></pre>
 <p>Explanation: the <code>init</code> command creates the folder where your passwords will be encrypted and stored - <code>~/.password-store</code></p>
-
 </article>

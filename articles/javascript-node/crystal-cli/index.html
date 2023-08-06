@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/javascript-node">Javascript/Node.js</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,38 +95,34 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Build CLI in Crystal</h1>
-<h2>1. Install Crystal</h2>
-<p>https://crystal-lang.org/install/</p>
-<h2>2. Build a CLI</h2>
+	<h1 id="build-cli-in-crystal">Build CLI in Crystal</h1>
+<h2 id="1-install-crystal">1. Install Crystal</h2>
+<p><a href="https://crystal-lang.org/install/">https://crystal-lang.org/install/</a></p>
+<h2 id="2-build-a-cli">2. Build a CLI</h2>
 <p>This CLI is a todo list in the terminal. You don't have to build the app from scratch. Instead you will download an existing one and play with it.</p>
 <p>Download the code and build the command line executable:</p>
 <pre><code>git clone https://git.sceptique.eu/Sceptique/todo
-make
-</code></pre>
+make</code></pre>
 <p>Congrats! Now you have an executable file called todo.</p>
-<h2>3.Use the CLI</h2>
-<pre><code>./todo &quot;buy milk&quot;
-./todo &quot;buy eggs&quot; --date 4/13/20
+<h2 id="3use-the-cli">3.Use the CLI</h2>
+<pre><code>./todo "buy milk"
+./todo "buy eggs" --date 4/13/20
 
 ./todo
 =&gt;
   id |         date | message
 ---- | ------------ | --------
    0 |              | buy milk
-   1 |      4/13/20 | buy eggs
-</code></pre>
+   1 |      4/13/20 | buy eggs</code></pre>
 <p>You can also have other lists. Let's say you are building an app and you want to have all the tasks related to that app together:</p>
-<pre><code>./todo &quot;Allow adding a meal&quot; --list nutrition-app
-./todo &quot;Allow uploading food&quot; --list nutrition-app
+<pre><code>./todo "Allow adding a meal" --list nutrition-app
+./todo "Allow uploading food" --list nutrition-app
 ./todo --list nutrition-app
 =&gt;
   id |         date | message
 ---- | ------------ | --------------------
    0 |              | Allow adding a meal
-   1 |              | Allow uploading food
-</code></pre>
-<h2>4. Experiment</h2>
+   1 |              | Allow uploading food</code></pre>
+<h2 id="4-experiment">4. Experiment</h2>
 <p>The code is in src folder. Make small changes just for fun and run <code>make</code> again.</p>
-
 </article>

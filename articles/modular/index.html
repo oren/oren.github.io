@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,19 +95,18 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Modular Website</h1>
+	<h1 id="modular-website">Modular Website</h1>
 <p><img src="https://25.media.tumblr.com/2e300fd39f1f99087292b8f58ee39062/tumblr_mia72sqn9w1r3gb3zo1_400.gif" alt="router2" /></p>
-<h2>TLDR</h2>
+<h2 id="tldr">TLDR</h2>
 <p>Cutting big website into small pieces is really nice.</p>
-<h2>What</h2>
-<p>We always try to modularize our code - break down a big function to smaller ones or chunk a feature to it's use-cases.
-What about the application level? what if we could take a big website and break it into multiple website?</p>
-<p>In our example we have a website with the following sections: Home, Profile and Authentication (login/logout/registration etc).
-We are going to split it into small websites, each one is autonomous - it has a git repo with dependencies, and it can be deployed by itself.
+<h2 id="what">What</h2>
+<p>We always try to modularize our code - break down a big function to smaller ones or chunk a feature to it's use-cases.<br />
+What about the application level? what if we could take a big website and break it into multiple website?  </p>
+<p>In our example we have a website with the following sections: Home, Profile and Authentication (login/logout/registration etc).<br />
+We are going to split it into small websites, each one is autonomous - it has a git repo with dependencies, and it can be deployed by itself.<br />
 The dependencies for each site will be NPM packages and some of them will be shared with other sites (tracking, css, utilities).</p>
-<h2>How</h2>
-<pre><code class="language-bash">
-                  +---------+
+<h2 id="how">How</h2>
+<pre><code class="bash language-bash">                  +---------+
                   |         | Load Balancing
                   |  Nginx  |
                   |         | SSL Termination
@@ -132,13 +130,12 @@ The dependencies for each site will be NPM packages and some of them will be sha
 |   +---------+   +---------+  +---------+   |
 |    port 3001     port 3002    port 3003    |
 +--------------------------------------------+
-              Production host 1
-</code></pre>
-<p>The router can be a simple Node app or a reverse proxy such as Nginx. In this example our router will be a Node app, More specificaly we use the <a href="https://github.com/nodejitsu/node-http-proxy">http-proxy</a> package written by Nodejitsu.
+              Production host 1</code></pre>
+<p>The router can be a simple Node app or a reverse proxy such as Nginx. In this example our router will be a Node app, More specificaly we use the <a href="https://github.com/nodejitsu/node-http-proxy">http-proxy</a> package written by Nodejitsu.<br />
 For the sake of simplicity (deployment and management) the router and the websites will live on the same host, each on it's own process, but it's possible to put each app on a different host.</p>
-<p>So how does the router work? it pass each request to the right website based on the request url.
+<p>So how does the router work? it pass each request to the right website based on the request url.<br />
 In our example I want to send '/' and '/api' to the home app, '/profile' to the profile app, etc.</p>
-<h2>Why</h2>
+<h2 id="why">Why</h2>
 <ul>
 <li>Maintenance - easier to add feature/fix bug when working on smaller codebase.</li>
 <li>Flexible - each project might require different architecture/framework.</li>
@@ -147,15 +144,15 @@ In our example I want to send '/' and '/api' to the home app, '/profile' to the 
 <li>Scaling - sub-app that receives more traffic is scaled horizontally by adding more instances.</li>
 <li>Innovation - big codebase makes it hard to experiment with new tools/technologies.</li>
 </ul>
-<h2>Deployment</h2>
+<h2 id="deployment">Deployment</h2>
 <p>We have mainly 2 options:</p>
 <ol>
 <li><a href="http://martinfowler.com/bliki/BlueGreenDeployment.html">Blue-green deployment</a> - setup new hosts, deploy new code and point the load-balancer to those hosts.</li>
 <li>Rolling deployment - Disconnect host-1 from load balancer, deploy app(s), reconnect host-1 and repeat with all hosts.</li>
 </ol>
-<h2>Performance</h2>
-<p>http-proxy adds around 20ms to each request.</p>
-<h2>Try it</h2>
+<h2 id="performance">Performance</h2>
+<p>http-proxy adds around 20ms to each request. </p>
+<h2 id="try-it">Try it</h2>
 <ol>
 <li>git clone git@github.com:oren/multi-sites.git</li>
 <li>cd router &amp;&amp; npm install &amp;&amp; node server</li>
@@ -165,7 +162,6 @@ In our example I want to send '/' and '/api' to the home app, '/profile' to the 
 </ol>
 <p>Go to localhost:3000, localhost:3000/login and localhost:3000/profile</p>
 <p>Each of those url are being served from different app - the first uses the home app, the second uses profile and the third uses the auth app.</p>
-<h2>Other examples</h2>
-<p>Groupon recently switched from Rails to node and they divided their site into 20 small websites - https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/</p>
-
+<h2 id="other-examples">Other examples</h2>
+<p>Groupon recently switched from Rails to node and they divided their site into 20 small websites - <a href="https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/">https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/</a></p>
 </article>

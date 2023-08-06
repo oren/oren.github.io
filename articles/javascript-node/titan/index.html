@@ -88,7 +88,6 @@
 	<ul>
 <li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/javascript-node">Javascript/Node.js</a></li>
 </ul>
-
 </div>
 
 <div class="sidenav">
@@ -96,61 +95,58 @@
 </div>
 
 <article class="markdown-body" style="font-size: 20px;">
-	<h1>Getting started with Titan Database and Node.js</h1>
+	<h1 id="getting-started-with-titan-database-and-nodejs">Getting started with Titan Database and Node.js</h1>
 <p><img src="https://tinkerpop.incubator.apache.org/images/tinkerpop3-splash.png" alt="Gremlin" /></p>
 <p>This is a getting started guide for running a <a href="https://thinkaurelius.github.io/titan">Titan</a> graph database using Node.js and <a href="http://tinkerpop.incubator.apache.org/">Gremlin</a>.</p>
 <p>What is Gremlin? A few open source tools that help you interact with graph databases. It allows you to avoid lock-in by switching seamlessly between different graph databases. Neo4j, Titan, OrientDB, and ArangoDB all support it. The Gremlin tools that you probably care about are the query language (the green creature in the picture above) and the HTTP server (called Rexster, that's the yellow dog).</p>
-<h2>Run Titan</h2>
-<p><code>git clone https://github.com/oren/titan.git</code><br />
-<code>cd titan</code><br />
-<code>bin/run</code></p>
+<h2 id="run-titan">Run Titan</h2>
+<p><code>git clone https://github.com/oren/titan.git</code>  <br />
+<code>cd titan</code>  <br />
+<code>bin/run</code>  </p>
 <p>Runs 3 Docker containers: Titan, ElasticSearch, (Indexing) and Cassandra (Storage). The HTTP server runs on port 8182.</p>
 <p>(Note - You need to have docker installed. If you are on Mac you'll need to modify index.js to use the IP you get from  boot2docker or docker-machine.)</p>
-<h2>Interact with the Database</h2>
+<h2 id="interact-with-the-database">Interact with the Database</h2>
 <p><code>node index.js</code></p>
 <p>Let's look at the nodes (also called vertices) in our database: <code>curl http://localhost:8182/graphs/graph/vertices</code></p>
-<pre><code class="language-js">{
-  version: &quot;2.5.0&quot;,
+<pre><code class="js language-js">{
+  version: "2.5.0",
   results: [
     {
-    name: &quot;Alice&quot;,
+    name: "Alice",
     _id: 512,
-    _type: &quot;vertex&quot;
+    _type: "vertex"
     },
     {
-    name: &quot;Bob&quot;,
+    name: "Bob",
     _id: 256,
-    _type: &quot;vertex&quot;
+    _type: "vertex"
     }
   ],
   totalSize: 2,
   queryTime: 66.634585
-}
-</code></pre>
+}</code></pre>
 <p>And now for the edges: <code>curl http://localhost:8182/graphs/graph/edges</code></p>
-<pre><code class="language-js">{
-  version: &quot;2.5.0&quot;,
+<pre><code class="js language-js">{
+  version: "2.5.0",
   results: [
     {
-      since: &quot;now&quot;,
-      _id: &quot;ps-74-36d-e8&quot;,
-      _type: &quot;edge&quot;,
+      since: "now",
+      _id: "ps-74-36d-e8",
+      _type: "edge",
       _outV: 256,
       _inV: 512,
-      _label: &quot;likes&quot;
+      _label: "likes"
     }
   ],
   totalSize: 1,
   queryTime: 179.556075
-}
-</code></pre>
+}</code></pre>
 <p>This code uses <a href="https://github.com/jbmusso/grex">grex</a>, the <a href="https://github.com/tinkerpop/rexster/wiki">Rexster</a> client for Node.js. It's a <code>request</code> package wrapper that adds a few higher level functions.</p>
 <p>The following lines are all that are required to create two vertices and an edge:</p>
-<pre><code class="language-js">var bob = query.var(g.addVertex({ name: 'Bob' }));
+<pre><code class="js language-js">var bob = query.var(g.addVertex({ name: 'Bob' }));
 var alice = query.var(g.addVertex({ name: 'Alice' }));
-query(g.addEdge(bob, alice, 'likes', { since: 'now' }));
-</code></pre>
-<h2>Resources</h2>
+query(g.addEdge(bob, alice, 'likes', { since: 'now' }));</code></pre>
+<h2 id="resources">Resources</h2>
 <ul>
 <li><a href="https://s3.thinkaurelius.com/docs/titan/0.9.0-M2">Titan docs</a></li>
 <li><a href="https://github.com/jbmusso/grex">grex</a> - Rexter client for Node.js</li>
@@ -159,5 +155,4 @@ query(g.addEdge(bob, alice, 'likes', { since: 'now' }));
 <li><a href="https://github.com/apobbati/titan-rexster">Docker repository</a></li>
 <li><a href="https://groups.google.com/forum/#!forum/gremlin-users">Gremlin google group</a></li>
 </ul>
-
 </article>
