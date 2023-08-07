@@ -1,17 +1,15 @@
-# Thai Curry Soup
+# Tomato Coconut Soup
 
+Cook for 1 min in a pot
 * Onion
 * Garlic
 
-Cook for 1 min in a pot
-
+Cook for 15 min in the same pot
 * Peeled tomatoes
 * Coconut meal
 * White beans
 * Italian seasoning and salt
 
-Cook for 15 min in the same pot
-
-blend using a blinder
+Blend with a blender
 
 This is [Alyssa Fontaine's recipe](https://www.tiktok.com/@alyssafontainerd/video/6906317892258778374?lang=en)
