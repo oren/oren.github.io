@@ -6,7 +6,7 @@ Cook for 1 min in a pot
 
 Cook for 15 min in the same pot
 * Peeled tomatoes
-* Coconut meal
+* Coconut milk
 * White beans
 * Italian seasoning and salt
 
