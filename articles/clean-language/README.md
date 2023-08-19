@@ -1,4 +1,4 @@
-# Spontaneous Speaking
+# Clean Language
 
 ## 1. What is this page?
 Spontaneous Speaking is a mechanism to improve the impact of your spontaneous speaking. This page is a summary of [a 1 hour video](https://www.youtube.com/watch?v=HAnw168huqA) by Matt Abrahams, a lecturer at the Stanford Graduate School of Business, teaching strategic communication.
@@ -13,6 +13,6 @@ Spontaneous Speaking is a mechanism to improve the impact of your spontaneous sp
 
 ### 2.2 Practice:
 * Don't try to be perfect. Be honest and voulnerable.
-* See speaking a fun opportunity and not a threat.
+* See speaking interactions a fun opportunity and not a threat.
 * Listen carefuly to the audience.
-* Use a structure in your talks: (1) Problem/opportunity, (2) solution, and (3) benefit.
+* You can use this structure: 'Problem/opportunity, solution, benefit' or 'What? So what? Now what?'.
