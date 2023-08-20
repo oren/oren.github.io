@@ -1,7 +1,7 @@
 # How to facilitate meaningful conversations
 
 ## Problem / Opportunity
-You joined a new team or organization and have one-on-ones with 25 people in 10 days. How do you connect with people, build trust, and learn about their world? How do you accomplish that in a 30-minute conversation?
+You joined a new team or organization and have one-on-ones with 25 people in 10 days. How do you connect with people, build trust, and learn about their world? How do you achieve that in 30-minute conversations?
 
 ## Solution
 Create a psychologically safe environment by using a technique called [Clean Language](https://unconsciousagile.com/articles/clean_language). When the other person shares something that you want to learn more about, ask a question in a way that allows them to use their own vocabulary and metaphors.
