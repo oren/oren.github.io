@@ -19,8 +19,8 @@ Hospitals are so cheap to operate that every community enjoys affordable healthc
 TODO: add the leverages of the company.
 
 1. Mindset/Paradigm: We have expertise in the healthcare industry, machine learning, cloud technology, software architecture, and design.
-1. Goals: increase the quality of life of patients, increase productivity of nurses.
-1. Structure: product and engineering under a single leader.
+1. Goals: Increase the quality of life of patients and increase the productivity of nurses.
+1. Structure: Product and engineering under a single leader.
 1. Policies:
 1. Mechanism:
 1. Information flow:
