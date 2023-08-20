@@ -18,9 +18,9 @@ Hospitals are so cheap to operate that every community enjoys affordable healthc
 ## Chapter 4: leverages
 TODO: add the leverages of the company.
 
-1. Mindset/paradim:
-1. Goals:
-1. Structure:
+1. Mindset/paradim: We have expertise in the healthcare industry, ML, cloud technology, and software architecture and design.
+1. Goals: increase the quality of life of patients, increase productivity of nurses.
+1. Structure: product and engineering under a single leader.
 1. Policies:
 1. Mechanism:
 1. Information flow:
