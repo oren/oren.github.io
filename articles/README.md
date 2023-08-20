@@ -16,6 +16,7 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [Challenges at Google](challenges-at-google)
+* [How to facilitate meaningful meetings?](facilitating-meaningful-meetings/)
 
 ## 2. Product
 * [How to Build a Product](build-product/)
