@@ -16,7 +16,7 @@
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to build an innovative organization: Operating Principles](how-to-build-innovative-organization/)
-* [How to facilitate meaningful meetings?](facilitating-meaningful-meetings/)
+* [How to facilitate meaningful conversations?](facilitating-meaningful-conversations/)
 
 ## 2. Product
 * [How to Build a Product](build-product/)
