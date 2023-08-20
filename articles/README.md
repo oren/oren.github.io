@@ -15,7 +15,7 @@
 * [How to Delegate](how-to-delegate/)
 * [Visual Summary of the Book Team of Teams](team-of-teams/)
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
-* [Challenges at Google](challenges-at-google)
+* [How to build an innovative organization: Operating Principles](how-to-build-innovative-organization/)
 * [How to facilitate meaningful meetings?](facilitating-meaningful-meetings/)
 
 ## 2. Product
