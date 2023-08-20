@@ -1,5 +1,5 @@
 # How to build an innovating organization
-Below is a document that describe a company that builds a software product used by the nurses to reduce their load and improve patient outcomes.
+This document describes a company that builds a software product that is used by the nurses to reduce their load and improve patient outcomes.
 
 ## Chapter 1: mission
 We reduce load of nurses in a hosiptal from ration of 1:10 to 1:20 and increase health of patients by extending the average life span in 5 years.
