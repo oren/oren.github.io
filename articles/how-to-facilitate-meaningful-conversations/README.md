@@ -7,11 +7,11 @@ You joined a new team or organization and have one-on-ones with 25 people in 10 
 Create a psychologically safe environment by using a technique called Clean Language. When the other person shares something that you want to learn more about, ask a question in a way that allows them to use their own vocabulary and metaphors.
 
 Here are a few questions you can use:
-* If you want to know more about the outcome of the situation, ask "What happens next?".
-* If you want to understand what previous event lead to a situation, ask "Where does... come from?" or "What happens just before?".
-* If you want to get more details about a situation, ask "What kind of...?" or "Is there anything else about...?".
-* If you want to learn about the location of a situation, ask "Where is...?".
-* If you want to reveal a metaphor, ask "That's... like what?".
+* If you want to know more about the **outcome or future** of a situation, ask "What happens next?".
+* If you want to understand what **previous** event led to a situation, ask "Where does… come from?" or "What happens just before?".
+* If you want to get **details** about a situation, ask "What kind of…?" or "Is there anything else about…?".
+* If you want to learn about the **location** of a situation, ask "Where is…?".
+* If you want to **reveal a metaphor**, ask "What's that like?" or "That’s… like what?".
 
 ![clean language questions](clean.jpg)
 
