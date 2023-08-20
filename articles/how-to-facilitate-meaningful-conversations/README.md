@@ -1,4 +1,4 @@
-# How to have meaningful conversations
+# How to facilitate meaningful conversations
 
 ## Problem / Opportunity
 You joined a new team or organization and have one on ones with folks. How do you connect with people, build trust, and learn about their world?
