@@ -6,7 +6,7 @@ You joined a new team or organization and have one-on-ones with 25 people in 10 
 ## Solution
 Create a psychologically safe environment by using a technique called [Clean Language](https://unconsciousagile.com/articles/clean_language). When the other person shares something that you want to learn more about, ask a question in a way that allows them to use their own vocabulary and metaphors.
 
-### Example for a conversation
+### Example for a clean conversation
 What challenges are important for the team?
 
 Them: the team needs a testing environment.
