@@ -24,6 +24,7 @@ A CookBook for Strength Athletes
 * [Daikon Salad](daikon-salad/)
 * [Delicata Squash and Miso](delicata-squash/)
 * [Eggs Avocado](eggs-avocado/)
+* [Ginisang Kalabasa (pork squash)](ginisang-kalabasa/)
 * [Green Beans, Sichuan Style](green-beans-sichuan/)
 * [Israeli Hummus](israeli-hummus/)
 * [Israeli Shakshuka](israeli-shakshuka/)
