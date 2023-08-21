@@ -15,8 +15,8 @@ Hospitals are so cheap to operate that every community enjoys affordable healthc
 1. Connect VPs to the customer. VPs should conduct direct customer support themselves.
 1. Increase speed you create, deliver, and replace strategies. Increase manager fanout and decrease the depth of the organizational hierarchy.
 
-## Chapter 4: leverages
-TODO: add the leverages of the company.
+## Chapter 4: levers
+TODO: add the levers of the company.
 
 1. Mindset/Paradigm: We have expertise in the healthcare industry, machine learning, cloud technology, software architecture, and design.
 1. Goals: Increase the quality of life of patients and increase the productivity of nurses.
