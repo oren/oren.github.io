@@ -22,4 +22,4 @@ How many of these statements describe your parent? Since all these items are pot
 
 ## Links
 * This is an assessmet from the book [Adult Children of Emotionally Immature Parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents/dp/1626251703).
-* [More assessments from the book](http://curioushealing.com/wp-content/uploads/2019/11/ACEIP_exercises.pdf) (PDF format)
+* [More assessments from the book](http://curioushealing.com/wp-content/uploads/2019/11/ACEIP_exercises.pdf) (PDF format).
