@@ -1,11 +1,11 @@
 # How to build an innovating organization
-This document describes a company that builds a software product used by nurses to reduce their workload and improve patient outcomes.
+This document describes a company that builds a software product used by air traffic controllers to reduce their workload.
 
 ## Chapter 1: mission
-We reduce the workload of nurses in a hospital from a ratio of 1:10 to 1:20 (nurse-to-patients) and increase the health of patients by extending the average lifespan by 5 years.
+We reduce the workload of air traffic controllers. An airport will only need 5 traffic controllers when 100 aircrafts land in hour instead of current average of 10.
 
 ## Chapter 2: vision
-Hospitals are so cheap to operate that every community enjoys affordable healthcare.
+TODO:
 
 ## Chapter 3: operating principles
 1. Every team member understand the business priorities and prioritize ruthlessly.
@@ -19,7 +19,7 @@ Hospitals are so cheap to operate that every community enjoys affordable healthc
 TODO: add the levers of the company.
 
 1. Mindset/Paradigm: We have expertise in the healthcare industry, machine learning, cloud technology, software architecture, and design.
-1. Goals: Increase the quality of life of patients and increase the productivity of nurses.
+1. Goals: Increase the productivity of air traffic controler.
 1. Structure: Product and engineering under a single leader.
 1. Policies:
 1. Mechanism:
