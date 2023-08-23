@@ -34,6 +34,7 @@
 
 ## 4. Relationships and Communication
 * [Nonviolent Communication](nvc/)
+* [Is your parent emotionally mature](is-your-parent-emotionally-mature/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Spontaneous Speaking](spontaneous-speaking/)
