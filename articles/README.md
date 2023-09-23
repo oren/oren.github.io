@@ -28,6 +28,7 @@
 * [Wardley Maps and Cynefin Framework](wardley-cynefin/)
 * [How to Score a Business Plan](score-business-plan/)
 * [Build 3-Year Org Strategy](3-year-strategy/)
+* [Full stack product manager](full-stack-pm/)
 
 ## 3. Engineering
 * [Software Delivery Performance](software-delivery-performance/)
