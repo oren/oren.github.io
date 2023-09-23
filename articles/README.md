@@ -103,3 +103,4 @@
 * [Practical Deep Learning for Coders (online course. cost: 5 minutes)](practical-deep-learning-for-coders/)
 * [Product Strategy Workshop](product-strategy-workshop/)
 * [Build a Business Strategy Workshop](strategy-workshop/)
+* [An American Sickness](american-sickness/)
