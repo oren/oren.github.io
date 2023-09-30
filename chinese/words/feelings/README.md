@@ -17,6 +17,10 @@ Why do you ask?
 Wǒ hěn hàoqí
 I was curious
 
+I said I wasn't angry at all
+我说我根本没有生气
+Wǒ shuō wǒ gēnběn méiyǒu shēngqì
+
 ---
 
 To Feel = gǎn shòu dào / 感受到
