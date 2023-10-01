@@ -105,3 +105,4 @@
 * [Product Strategy Workshop](product-strategy-workshop/)
 * [Build a Business Strategy Workshop](strategy-workshop/)
 * [An American Sickness](american-sickness/)
+* [Sense making for kids](sense-making-for-kids/)
