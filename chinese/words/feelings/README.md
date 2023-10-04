@@ -23,6 +23,30 @@ Wǒ shuō wǒ gēnběn méiyǒu shēngqì
 
 ---
 
+I am ...
+
+I am angry
+Wǒ hěn shēngqì
+我很生气
+
+scared
+Hàipà
+害怕
+
+Worried
+Dānxīn
+担心
+
+Happy
+Gāoxìng
+高兴
+
+excited
+Xīngfèn
+兴奋
+
+---
+
 To Feel = gǎn shòu dào / 感受到
 
 ---
