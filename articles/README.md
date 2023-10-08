@@ -36,6 +36,7 @@
 ## 4. Relationships and Communication
 * [Nonviolent Communication](nvc/)
 * [Is your parent emotionally mature](is-your-parent-emotionally-mature/)
+* [7 questions you can use when coaching](7-coaching-questions/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Spontaneous Speaking](spontaneous-speaking/)
