@@ -1,4 +1,4 @@
-# Reduce confcits at work
+# Reduce conflicts at work
 
 Prepare a script for a difficult conversation at work.
 
