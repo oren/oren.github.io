@@ -36,5 +36,3 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * [Baked Tomatoes](https://www.youtube.com/watch?v=zFkQcmgZWKw)
 * [Roasted Cabbage with Tahini](https://www.youtube.com/watch?v=ZMAwm2gqiVs)
 * [Thomas Keller Zucchini](https://www.easyanddelish.com/thomas-keller-zucchini/)
-* [Instant Pot Chilli](https://www.wellplated.com/instant-pot-vegetarian-chili/)
-* [Greek Avgolemono Soup](https://www.youtube.com/watch?v=6_U3ZMrX8gM)

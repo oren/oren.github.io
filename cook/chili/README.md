@@ -1,9 +1,14 @@
-# Chili
+# Chili Soup
 
 ![bars](chili.jpeg)
 
 **Ingredients:**
-* Ground beef, kidney beans, diced tomatoes, onion, chili powder, cocoa powder, salt, pepper, etc
+* olive oil, onion, a few garlic cloves
+* sweet potato, a few bel peppers, 2 type of beans
+* Beef/pork/chicken (optional)
+* 4 cups of vegetable broth
+* salt, chili powder, chipotle chili powder, cumin
 
 **How to make it:**
-"put stuff together"
+* In instant pot, saute olive oil, onion, and garlic.
+* Add everything else, seal the pot, and cook for 7 minutes
