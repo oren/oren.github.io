@@ -54,6 +54,7 @@ A CookBook for Strength Athletes
 * [Thai Curry Soup](thai-curry-soup/)
 * [Tomato coconut soup](tomato-coconut-soup/)
 * [Tony Gainz Yogurt](tony-gainz-yogurt/)
+* [Tuna Cabbage Salad](tuna-cabbage/]
 * [Ukrainian Borscht Soup](https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/)
 * [Uni Shooters](uni-shooters/)
 * [Wonton](wonton/)
