@@ -12,7 +12,7 @@ Note: the author was an investigative reporter with BA in environmental science 
 * [Summary of the book by it's author](https://www.ted.com/talks/david_epstein_why_specializing_early_doesn_t_always_mean_career_success) (20 min TED talk).
 * [Link to book](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484)
 
-## Working Backwords
+## Working Backwords: Insights, Stories, and Secrets from Inside Amazon
 Note: the authors worked closely to Amazon founder and CEO, Jeff Bezos, for 20 years.
 
 * Build products, processes, and teams by starting from the customer impact.
