@@ -35,6 +35,7 @@ A CookBook for Strength Athletes
 * [Mung Bean Pancakes](mung-bean-pancakes/)
 * [Mahi Mahi Mojo](mahi-mahi-mojo/)
 * [Matcha Latte](matcha-latte/)
+* [Moroccan Chicken](moroccan-chicken/)
 * [Oatmeal Bars](oatmeal-bars/)
 * [Omlet with Pork](omlet-with-pork/)
 * [Oyakodon](oyakodon/)
