@@ -3,6 +3,8 @@
 # Actionable insights from books
 
 ## Range: Why Generalists Triumph in a Specialized World
+Note: the author was an investigative reporter with BA in environmental science and astronomy and master's degree in environmental science and journalism.
+
 * Delay your specialization in order to explore and learn different domains. The more hats you wear, the more empathy and understanding you gain. You will be able to connect seperate areas of expertise.
 * Matching a strategy to a challenge as a key to successful life. Optimize your learning for this mapping. Note: [Cynifin framework](https://www.youtube.com/watch?v=N7oz366X0-8) can help in this mapping.
 
@@ -19,7 +21,7 @@ Note: the authors worked closely to Amazon founder and CEO, Jeff Bezos, for 20 y
 * Create process for creating a vision collaboratively and ensure this vision is visible during the delivery. Keep the implementation details flexible.
 
 #### Links
-* [Link to book](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/B088MFRK1H1)
+* [Link to book](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/B088MFRK1H)
 
 ## Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing Urgency, and Elevating Intensity
 Note: the author is the former CEO of ServiceNow and current (2023) CEO of Snowflake.
