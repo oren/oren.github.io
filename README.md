@@ -5,6 +5,7 @@
 
 ## 1. Writing and speaking
 * [Articles](articles/)
+* [Actionable insights from books](actionalbe-books/)
 * [Talks](talks/)
 
 ## 2. Fun
