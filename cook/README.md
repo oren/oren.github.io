@@ -61,6 +61,9 @@ A CookBook for Strength Athletes
 * [Wonton](wonton/)
 * [Yamaimo Honey](yamaimo-honey/)
 
+## I want to try these recipies
+* [Try](try/)
+
 ## Awesome Recipes
 
 * [Beans in Instant Pot](beans/)
