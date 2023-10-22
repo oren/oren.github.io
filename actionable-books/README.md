@@ -17,7 +17,7 @@ Note: the authors worked closely to Amazon founder and CEO, Jeff Bezos, for 20 y
 
 * Build products, processes, and teams by starting from the customer impact.
 * Example for processes: hiring (Amazon Bar Raiser Program), building products (working backwards and PRFAQ)
-* If you are not meeting your customer needs fast enough and the reason is too many hands offs between teams, consider having a single leader to oversea those teams. Amazon calls it a Single Threaded Leader (STL).
+* If you are not meeting your customer needs fast enough and the reason is too many hands offs between teams, consider having a single leader to oversee those teams. Amazon calls it a Single Threaded Leader (STL).
 * Create process for creating a vision collaboratively and ensure this vision is visible during the delivery. Keep the implementation details flexible.
 
 #### Links
@@ -39,7 +39,7 @@ Notes: the author was a professional poker player. In the book, she generalizes 
 * Build trust by (1) expressing uncertainty, and (2) start with things you agree with and follow with "and" and not with "but".
 * Improve decision making with the 10-10-10 process: before a decision, ask yourself “What are the consequences of each of my options in 10 minutes? 10 months? 10 years?”. This process might trigger feeling af regret, which the author calls "mental time travel".
 * If you want to achieve something, write down the outcomes first and than the dependencies/obstacles. The author calls it "Backcasting". This can reveal events or obstacles that are rare or hard to overcome and can lead you to develop strategies to address them.
-* In addition to writing down the positive outcomes, write down the negative ones. Studies shows that it will increase the chance your success because it will give you more perspective, empathy, and nuance of our challenge/goal.
+* In addition to writing down the positive outcomes, write down the negative ones. Studies shows that it will increase the chance your success because it will give you more perspective, empathy, and nuance of your challenge/goal.
 
 #### Links
 * [Link to book](https://www.amazon.com/Thinking-in-Bets-Annie-Duke-audiobook/dp/B078SBSBW3)
