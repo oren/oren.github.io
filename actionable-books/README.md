@@ -43,3 +43,6 @@ Notes: the author was a professional poker player. In the book, she generalizes 
 
 #### Links
 * [Link to book](https://www.amazon.com/Thinking-in-Bets-Annie-Duke-audiobook/dp/B078SBSBW3)
+
+## Principles: Life and Work
+[List of principles](https://gist.github.com/johnpryan/7db2239fc19a53181fdd2ac86cc014b6)
