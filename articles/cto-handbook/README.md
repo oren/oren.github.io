@@ -265,7 +265,7 @@ Table of contents of the book [The Startup CTO's Handbook: Essential skills and 
 ### Analytical Business Intelligence Data
 ### Behavioral Data
 ### General Tips And Best Practices For Architecture Design
-## Put Business Logic In The Backend
+#### Put Business Logic In The Backend
 #### Make Services Externalizable
 #### Use As Few Languages As Possible
 
