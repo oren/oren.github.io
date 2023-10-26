@@ -32,6 +32,7 @@
 
 ## 3. Engineering
 * [Software Delivery Performance](software-delivery-performance/)
+* [CTO Handbook](cto-handbook/)
 
 ## 4. Relationships and Communication
 * [Nonviolent Communication](nvc/)
