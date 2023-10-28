@@ -1,5 +1,8 @@
 # Delicata Squash and Miso
 
+![delicata](delicata1.jpg)
+![delicata2](delicata2.jpg)
+
 Cooking time: 40 min
 
 **Ingredients:**
