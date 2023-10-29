@@ -62,6 +62,7 @@ A CookBook for Strength Athletes
 * [Yamaimo Honey](yamaimo-honey/)
 
 ## I want to try these recipies
+* [Chicken Teriyaki](chicken-teriyaki/)
 * [Try](try/)
 
 ## Awesome Recipes
