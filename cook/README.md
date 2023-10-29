@@ -17,6 +17,7 @@ A CookBook for Strength Athletes
 * [Chicken Salmon Beef](chicken-salmon-beef/)
 * [Chicken Salmon](chicken-salmon/)
 * [Chicken Soup](chicken-soup/)
+* [Chicken Teriyaki](chicken-teriyaki/)
 * [Chili Soup](chili/)
 * [Cholent](cholent/)
 * [Indian Dal](dal/)
@@ -62,7 +63,6 @@ A CookBook for Strength Athletes
 * [Yamaimo Honey](yamaimo-honey/)
 
 ## I want to try these recipies
-* [Chicken Teriyaki](chicken-teriyaki/)
 * [Try](try/)
 
 ## Awesome Recipes
