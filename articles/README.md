@@ -17,6 +17,7 @@
 * [Why and How to Align Autonomous Teams](align-autonomous-teams/)
 * [How to build an innovative organization](how-to-build-innovative-organization/)
 * [How to facilitate meaningful conversations](how-to-facilitate-meaningful-conversations/)
+* [Skunk Works management rules and operating princpiles](skunk-works/)
 
 ## 2. Product
 * [How to Build a Product](build-product/)
