@@ -2,7 +2,7 @@
 
 ![chicken](moroccan-chicken.jpg)
 
-**Ingredients:**
+## Ingredients
 * 1 teaspoon paprika
 * 1 teaspoon turmeric
 * 1 teaspoon ground cumin
@@ -19,7 +19,7 @@
 * 1.5 cups chicken broth
 * optional: finely chopped cilantro leaves or parsley leaves
 
-**How to make it:**
+## How to make it
 * In a small bowl, mix together paprika, turmeric, cumin, salt, and pepper.
 * Coat chicken with spice rub as evenly as possible on all sides. Set aside on a plate.
 * Add 2 tablespoons olive oil to the bottom of the Instant Pot pan.
@@ -35,4 +35,9 @@
 * Chicken is done when a thermometer inserted into the meat registers 165° F.
 * Plate, garnish with optional cilantro or parsley leaves, and serve immediately.
 
+## Notes
+* Cut the chicken into pieces so it's easier to cook.
+* Use raisins instead of cherries because most cherries have additional sugar.
+
+## Links
 Simplified version of [this](https://urbanblisslife.com/healthy-instant-pot-moroccan-chicken/#recipe).
