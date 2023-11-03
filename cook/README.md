@@ -37,7 +37,7 @@ A CookBook for Strength Athletes
 * [Matcha Latte](matcha-latte/)
 * [Moroccan Chicken](moroccan-chicken/)
 * [Mung Bean Pancakes](mung-bean-pancakes/)
-* [Musubi](Musubi/)
+* [Musubi](musubi/)
 * [Oatmeal Bars](oatmeal-bars/)
 * [Omlet with Pork](omlet-with-pork/)
 * [Oyakodon](oyakodon/)
