@@ -1,4 +1,4 @@
-# Musubi (午餐肉军舰寿司)
+# Musubi (午餐肉军舰寿司 / スパムむすび)
 
 ![musubi](musubi.webp)
 
