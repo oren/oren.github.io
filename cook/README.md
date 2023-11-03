@@ -18,6 +18,7 @@ A CookBook for Strength Athletes
 * [Chicken Salmon](chicken-salmon/)
 * [Chicken Soup](chicken-soup/)
 * [Chicken Teriyaki](chicken-teriyaki/)
+* [5 Spice Chicken](5-spice-chicken/)
 * [Chili Soup](chili/)
 * [Cholent](cholent/)
 * [Indian Dal](dal/)
