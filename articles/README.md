@@ -98,6 +98,7 @@
 * [Regex](regex/)
 
 ## 11. Work in Progress:
+* [The Flow System](flow-system/)
 * [2022 Dempsey Startup Competition](dempsey-2022/)
 * [Compassionate Communication. A Visual Guide](compassionate-communication/)
 * [Better Decision Making](decision-making/)
