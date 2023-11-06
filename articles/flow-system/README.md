@@ -1,6 +1,6 @@
 # Flow System Playbook
 
-This is my attempt to summary a book I want to read.
+This is my attempt to summarize a book I want to read.
 
 ## Complex Thinking
 Understanding uncertainty and complex adaptive systems.
