@@ -1,6 +1,6 @@
 # Flow System Playbook
 
-This is my attempt to summarize a book I want to read.
+This is my attempt to summarize a book I plan to read - [Flow System Playbook](https://www.amazon.com/Flow-System-Playbook-John-Turner/dp/B0CKDCKCQQ).
 
 ## Complex Thinking
 Understanding uncertainty and complex adaptive systems.
@@ -22,7 +22,7 @@ Workbooks:
 ## Distributed Leadership
 The behavior patterns of those who lead people and teams.
 
-* Workbooks:
+Workbooks:
 * Psychological Safety
 * Active Listening
 * Leader’s Intent
@@ -38,6 +38,7 @@ The behavior patterns of those who lead people and teams.
 ## Team Science
 The science of teams, their interdependencies and interactions.
 
+Workbooks:
 * Teamwork Training
 * Human Centered Design
 * Team Design
