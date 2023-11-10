@@ -66,6 +66,7 @@ If you want less people to understand you, use the following without explaining 
 * Pep - burst of energy. "you don't sound peppy today"
 * Circle the drain - experience a rapidly worsening situation apparently leading to failure or disaster. "Starting my own business feels like I am cicrling the drain".
 * Loose lips, sinks ships - any excessive talk might sabotage a project. If they talked too much (had 'loose lips') they might accidentally provide the enemy with anecdotal information that might later cause their ship to be tracked, and bombed and sunk, hence 'Loose lips sink ships'. The phrase originated on propaganda posters during World War II.
+* Valhalla - an ideal place. Valhalla comes from Norse mythology and means "heaven". "The valhalla of the vertical axis seems to be summed up by two statements...".
 
 Other Words
 * Pertinent - relevant
