@@ -1,12 +1,15 @@
 ## Tuna Cabage Salad
 
-**Ingredients:**
+![tuna cabage pic 1](tuna-cabage1.jpeg)
+![tuna cabage pic 2](tuna-cabage2.jpeg)
+
+### Ingredients:
 * Half cabbage, lemon
 * Onion, tuna, potato, carrot, chili
 * Potato
 * Bell pepper, olive oil, pepper, dill
 
-**How to make it:**
+### How to make it:
 Chop everything
 
 * Put cabbage with squeezed lemon in a bowl for 10 min.
