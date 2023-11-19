@@ -8,7 +8,7 @@ Spam, rice, rice vinegar, furikake, seaweed
 Optional: eggs, kimchee, cucumber, beets
 
 ## How to make it
-* Cook rice with water (ratio of 1:1.5, 4 min in instant pot)
+* Cook rice with water (ratio of 1:1, 4 min in instant pot)
 * Cut spam to slices and Lightly fry it. It's salty so don't use soy or oil
 * Fry a few eggs
 * Use the spam box to add layers: spam, egg, rice
