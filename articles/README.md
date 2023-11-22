@@ -36,7 +36,7 @@
 * [CTO Handbook](cto-handbook/)
 
 ## 4. Relationships and Communication
-* [Nonviolent Communication](nvc/)
+* [Nonviolent Communication (NVC)](nvc/)
 * [Is your parent emotionally mature](is-your-parent-emotionally-mature/)
 * [7 questions you can use when coaching](7-coaching-questions/)
 * [Empathy](empathy/)

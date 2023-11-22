@@ -11,4 +11,4 @@ Oren exposes two application programming interface (API) for submission of bugs:
 If Oren find the bug as valid and reproducable, it can take between a few minutes or a few years, depends on the complexity of the bug.
 
 * **Is there a preffered format for submitting the bug?**
-Yes. Mean Time to Resolution (MTTR) is shorter when you submit a bug using the [Non Violent Communication (NVC)](https://oren.github.io/#/articles/nvc/) format.
+Yes. Mean Time to Resolution (MTTR) is shorter when you submit a bug using the [Non Violent Communication (NVC)](https://oren.github.io/articles/nvc/) format.
