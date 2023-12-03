@@ -7,22 +7,24 @@ This is a 30 minutes self-guided workshop. Link will be avaliable soon. Email [o
 ![3 liberating structures](nunchi.png)
 
 ## Learning Outcomes:
+After completing the workshop you will be able to:
+* Describe the word Nunchi (눈치).
+* Recognize the importance of Nunchi.
 * Increase your Nunchi (situational awareness) with people you care for.
-* What is Nunchi (눈치)?
 
-Optional outcomes:
-* What is LS?
-* How to use LS?
-* What situation can you use LS?
+**Optional outcomes:**
+* Describe what are Liberating Structures (LS).
+* Explain the value of LS for relationships and business.
+* Identify situations where LS can be used.
 
-## Agenda
+## Agenda:
 1. List of things (5 minutes)
 2. Ecocycle (5 minutes)
 3. Coaching style (10 minutes)
 4. LS crash course (optional. 5 minutes)
 5. W3 - What, So What, Now What (5 minutes)
 
-## Concepts and terminology
+## Concepts and terminology:
 * 눈치 (nunchi), “Art of understanding”
 * 정 (jeong), Attachment
 * 인화 (inhwa), Harmony
