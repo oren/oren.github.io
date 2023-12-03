@@ -1,4 +1,4 @@
-# Nunchi Workshop
+# Nunchi (눈치) Workshop
 
 Powered by Liberating Structures (LS) and Play Therapy.
 
