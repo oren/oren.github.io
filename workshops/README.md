@@ -3,4 +3,4 @@
 ![workshops](workshop.png)
 
 * [Nonviolent Communiction (NVC)](nvc/)
-* [Nunchi Workshop](nunchi/)
+* [Nunchi (눈치) Workshop](nunchi/)
