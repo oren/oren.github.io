@@ -2,7 +2,7 @@
 
 Powered by Liberating Structures (LS) and Play Therapy.
 
-Self-guided, online, 30 minutes.
+This is a 30 minutes self-guided workshop. Link will be avaliable soon. Email [orengolan@gmail.com](mailto:orengolan@gmail.com?Subject=Email%20me%20when%20the%20Nunchi%20Workshop%20is%20available&Body=Thank%20you%20❤️) to get notified.
 
 ![3 liberating structures](nunchi.png)
 
