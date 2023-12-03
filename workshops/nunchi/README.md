@@ -4,6 +4,8 @@ Powered by Liberating Structures (LS) and Play Therapy.
 
 Self-guided, online, 30 minutes.
 
+![3 liberating structures](nunchi.png)
+
 ## Learning Outcomes:
 * What is LS?
 * What situations can you use LS?
