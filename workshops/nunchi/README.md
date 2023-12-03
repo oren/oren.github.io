@@ -1,4 +1,4 @@
-# Nunchi (눈치) Workshop
+# Increase your Nunchi (눈치) - Workshop
 
 Powered by Liberating Structures (LS) and Play Therapy.
 
@@ -7,15 +7,19 @@ This is a 30 minutes self-guided workshop. Link will be avaliable soon. Email [o
 ![3 liberating structures](nunchi.png)
 
 ## Learning Outcomes:
+* Increase your Nunchi (situational awareness) with people you care for.
+* What is Nunchi (눈치)?
+
+Optional outcomes:
 * What is LS?
-* What situations can you use LS?
-* How to increase your Nunchi (recognition of feelings) using LS?
+* How to use LS?
+* What situation can you use LS?
 
 ## Agenda
 1. List of things (5 minutes)
 2. Ecocycle (5 minutes)
 3. Coaching style (10 minutes)
-4. LS crash course (5 minutes)
+4. LS crash course (optional. 5 minutes)
 5. W3 - What, So What, Now What (5 minutes)
 
 ## Concepts and terminology
