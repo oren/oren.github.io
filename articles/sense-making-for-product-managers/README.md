@@ -47,4 +47,8 @@ Write it down: How would you find quickly if someone has the tools to deal with 
 * Myers-Briggss Type Indicator: https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator (Weekend reading. Skip to test)
 * Myers-Briggss Personality Test: https://www.16personalities.com/free-personality-test (20 min)
 
-This is a summary of the book [Product Roadmap Relaunched](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X).
+## Cynefin Dynamics
+* Innovation cycle. Example: Pokemon Go. This lead to innovations like Pokemon Go.
+* Shallow dive into choas.
+* Small precentage of things stablize.
+* Chaos grazing.

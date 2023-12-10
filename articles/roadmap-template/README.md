@@ -23,3 +23,6 @@ Diagram that shows the roadmap and the release plan.
 #### Theme 2
 * Feature 2
 * Experiment 2
+
+## Links
+* How to set the direction of an organization: https://oren.github.io/articles/set-org-direction/
