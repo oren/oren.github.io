@@ -4,16 +4,17 @@
 
 ![cynefin framework](cynefin.jpg)
 
-Operating Principle 1:
+Cynefin is a framework for making sense of different situations, depending on how predictable or unpredictable they are. Wardley Mapping is a method for developing strategy, depending on the maturity and visibility of the components involved. There are some obvious commonalities between them, and both are helpful for making decisions - but what is it that makes them different? And what can we do differently by looking at them together?
+
+## Objective 1:
 Everyone on the team understand sense-making and system thinking and can describe the 4 domains above.
 
-Operating Principle 2:
-Ensure that folks who have tools to deal with complexity (bottom-up strategies) are leading complex challenges.
+## Objective 2:
+Folks who have tools to deal with complexity (multiple experiments, bottom-up strategies) are leading complex challenges as Amazon single threaded owners (STO).
 
-## Examples
-Example. Martin Fowler vs John Carmack (complicated vs complex)
+## Test: assess Martin vs John
 
-Which of them understand the difference between complex and complicated? My take is that Martin believes that software systems are in the Complicated Domain while John sense them as part of the Complex Domain.
+Which of them considers software systems as complex and which one considers it complicated?
 
 Martin:
 > "If you have to spend effort into looking at a fragment of code to figure out what it's doing, then you should extract it into a function and name the function after that 'what'."
@@ -35,7 +36,10 @@ John:
 
 >To make things more complicated, the 'do always, then inhibit or ignore' strategy, while a very good idea for high reliability systems, is less appropriate in power and thermal constrained environments like mobile."
 
-How to find quickly if someone has the tools to deal with a complex challenge? Can you use Myers–Briggs Type Indicator (MBTI)? Does J represent complicated and P complex?
+John's looks at software systems as a complex challenge while Martin see them as complicated.
+
+## Reflection
+Write it down: How would you find quickly if someone has the tools to deal with a complex challenge? Can you use Myers–Briggs Type Indicator (MBTI)? Does J represent complicated and P complex?
 
 ## Links
 * Cynefin framework: https://en.wikipedia.org/wiki/Cynefin_framework (1 minute to stare at the  domains diagram)
@@ -44,4 +48,3 @@ How to find quickly if someone has the tools to deal with a complex challenge? C
 * Myers-Briggss Personality Test: https://www.16personalities.com/free-personality-test (20 min)
 
 This is a summary of the book [Product Roadmap Relaunched](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X).
-
