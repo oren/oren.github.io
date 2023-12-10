@@ -1,0 +1,146 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+
+<style>
+	body {
+		font-family: Helvetica;
+		font-size: 20px;
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	.sidenav {
+		font-size: 14px;
+		float: left;
+		height: 100%;
+		width: 160px;
+		list-style: none;
+	}
+
+	.sidenav ul {
+		list-style: none;
+	}
+
+	article {
+		float: right;
+		max-width:600px;
+		background-color: white;
+	}
+
+	.markdown-body {
+		background-color: white;
+		color: black;
+	}
+
+	h1 {
+		color: black;
+	}
+
+	h2 {
+		color: black;
+	}
+
+	h3 {
+		color: black;
+	}
+
+	iframe {
+		width: 100%;
+		max-width: 640px;
+	}
+
+	.video-container {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+
+	.video-container iframe, .video-container object, .video-container embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+
+	@media (max-width: 767px) {
+		body {
+			padding: 15px;
+		}
+
+		.sidenav {
+			display: none;
+		}
+	}
+
+	.header ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+</style>
+
+<div class="header">
+	<ul>
+<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</ul>
+</div>
+
+<div class="sidenav">
+	
+</div>
+
+<article class="markdown-body" style="font-size: 20px;">
+	<!-- numbers -->
+<h1 id="sense-making-for-product-managers">Sense making for product managers</h1>
+<p><img src="cynefin.jpg" alt="cynefin framework" /></p>
+<p>Operating Principle 1:<br />
+Everyone on the team understand sense-making and system thinking and can describe the 4 domains above.</p>
+<p>Operating Principle 2:<br />
+Ensure that folks who have tools to deal with complexity (bottom-up strategies) are leading complex challenges.</p>
+<h2 id="examples">Examples</h2>
+<p>Example. Martin Fowler vs John Carmack (complicated vs complex)</p>
+<p>Which of them understand the difference between complex and complicated? My take is that Martin believes that software systems are in the Complicated Domain while John sense them as part of the Complex Domain.</p>
+<p>Martin:</p>
+<blockquote>
+  <p>"If you have to spend effort into looking at a fragment of code to figure out what it's doing, then you should extract it into a function and name the function after that 'what'."</p>
+</blockquote>
+<p>John:</p>
+<blockquote>
+  <p>"I'm not going to issue any mandates, but I want everyone to seriously consider some of these issues.</p>
+</blockquote>
+<blockquote>
+  <p>If a function is only called from a single place, consider inlining it.</p>
+</blockquote>
+<blockquote>
+  <p>If a function is called from multiple places, see if it is possible to arrange for the work to be done in a single place, perhaps with flags, and inline that.</p>
+</blockquote>
+<blockquote>
+  <p>If there are multiple versions of a function, consider making a single function with more, possibly defaulted, parameters.</p>
+</blockquote>
+<blockquote>
+  <p>If the work is close to purely functional, with few references to global state, try to make it completely functional.</p>
+</blockquote>
+<blockquote>
+  <p>Try to use const on both parameters and functions when the function really must be used in multiple places.</p>
+</blockquote>
+<blockquote>
+  <p>Minimize control flow complexity and "area under ifs", favoring consistent execution paths and times over "optimally" avoiding unnecessary work.</p>
+</blockquote>
+<blockquote>
+  <p>To make things more complicated, the 'do always, then inhibit or ignore' strategy, while a very good idea for high reliability systems, is less appropriate in power and thermal constrained environments like mobile."</p>
+</blockquote>
+<p>How to find quickly if someone has the tools to deal with a complex challenge? Can you use Myers–Briggs Type Indicator (MBTI)? Does J represent complicated and P complex?</p>
+<h2 id="links">Links</h2>
+<ul>
+<li>Cynefin framework: <a href="https://en.wikipedia.org/wiki/Cynefin_framework">https://en.wikipedia.org/wiki/Cynefin_framework</a> (1 minute to stare at the  domains diagram)<br />
+*Reflections on a decade of coding:  <a href="https://www.scattered-thoughts.net/writing/on-bad-advice/">https://www.scattered-thoughts.net/writing/on-bad-advice/</a> (1 hour of reading)</li>
+<li>Myers-Briggss Type Indicator: <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator</a> (Weekend reading. Skip to test)</li>
+<li>Myers-Briggss Personality Test: <a href="https://www.16personalities.com/free-personality-test">https://www.16personalities.com/free-personality-test</a> (20 min)</li>
+</ul>
+<p>This is a summary of the book <a href="https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X">Product Roadmap Relaunched</a>.</p>
+</article>
