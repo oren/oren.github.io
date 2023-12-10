@@ -31,6 +31,7 @@
 * [Build 3-Year Org Strategy](3-year-strategy/)
 * [Full stack product manager](full-stack-pm/)
 * [Sense Making for Product Managers](sense-making-for-product-managers/)
+* [Roadmap template](roadmap-template/)
 
 ## 3. Engineering
 * [Software Delivery Performance](software-delivery-performance/)
