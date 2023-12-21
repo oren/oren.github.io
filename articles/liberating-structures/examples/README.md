@@ -45,3 +45,31 @@ Sample strings:
 * Nine Whys + Min Specs + Ecocycle + Panarchy
 * Nine Whys + Social Network Webbing + 15% Solutions + Troika Consulting
 * Celebrity Interview + Min Specs + Ecocycle
+
+## Increase innovation of a large organization
+
+### 1. Introduction
+* **Time:** 5 min
+* **Why?** Share the challenge and the purpose of the session.
+* **Challenge:** Working from home might impact our ability to innovate.
+* **Objective 1:** Generate mechanisms that fuel innovation.
+
+### 2. Impromptu Networking
+* **Time:** 20 min
+* **Why?** Rapidly share challenges and expectations while building new connections.
+* **How:** 3 sessions, each one 4 minutes with random pair. Ask each other: "Have you ever worked in or heard of an open source project or environment where everyone came up with product or process ideas? What was about this environment that made it so good? Go wild! There are no bad ideas."
+
+### 3. 1-2-4-all
+* **Time**: 20 min
+* **Why?** Engage everyone simultaneously in generating questions/ideas/suggestions.
+* **How:** Write down by yourself, in pairs, and in 4s. Each group of 4s write item on a shared document: "what one thing we must do to become more innovative?".
+* **Output**: quip document with 25 mechanisms that fuels innovation or product ideas.
+
+### (Optional) 4. What, so what? now what? (W3)
+* **Time:** 20 minutes
+* **Why?** Together, look back on progress to-date and decide what adjustments are needed
+* **How?** 3 sessions, each one 3 minutes with 5 people.
+  * Session 1: "What happened? What did you notice, what facts or observations stood out?"
+  * Session 2: "Why is that important? What patterns or conclusions are emerging? What hypotheses can I/we make?"
+  * Session 3: "Now what? What actions make sense?"
+* **Output:** action items or mechanisms to dive deep into.
