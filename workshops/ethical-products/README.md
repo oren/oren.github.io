@@ -1,6 +1,8 @@
 # Ethical products and how to build them
 
-Building products that makes you and others feel good about themselves is complex. It requires understanding of ethical frameworks, behavioural economics, game theory, system thinking, comlpexity science, and other deep topics. At the end of the workshop you will have a few documents that describes an experiment, a product that you can build with others.
+Building products that makes you and others feel good about themselves is complex. It requires understanding of ethical frameworks, behavioural economics, game theory, system thinking, complexity science, and other deep topics. At the end of the workshop you will have a few documents that describes an experiment, a product that you can build with others.
+
+I didn't decide on the format of the workshop. It might be a 2 hours self-guided content or a game. Email orengolan@gmail.com to get notified when the workshop is available or to share feedback and ideas!
 
 ## Learning Outcomes:
 After completing the workshop you will be able to:
