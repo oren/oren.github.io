@@ -39,13 +39,13 @@
 
 ## 4. Relationships and Communication
 * [Nonviolent Communication (NVC)](nvc/)
+* [How to Build Exceptional Relationships](exceptional-relationships/)
 * [Is your parent emotionally mature](is-your-parent-emotionally-mature/)
 * [7 questions you can use when coaching](7-coaching-questions/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Relationship Guidelines](relationship-guidelines/)
-* [How to Build Exceptional Relationships](exceptional-relationships/)
 * [Hacking Relationships](hacking-relationships/)
 * [Gratitude](gratitude/)
 * [Love](love/)
