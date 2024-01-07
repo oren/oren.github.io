@@ -1,6 +1,8 @@
-# How to apologize?
+# Apology Workshop
 
-This is a 30 minutes self-guided workshop.
+How to apologize?
+
+This is a 30 minutes self-guided workshop. Email [orengolan@gmail.com](mailto:orengolan@gmail.com?Subject=Sharing%20feedback%20on%20the%20Apology%20Workshop&Body=Thank%20you%20❤️) if you find this useful or if you want to share your thoughts.
 
 ## The process
 1. Admit.
@@ -14,7 +16,7 @@ Note: this process is borrowed from Judaism. If you know a better process, let m
 I will complete this in a few days.
 
 ## Practice
-Write down an apology and ask a friend or me (orengolan@gmail.com) for assessment.
+Write down an apology and ask a friend or me ([orengolan@gmail.com](mailto:orengolan@gmail.com?Subject=Apology%20Workshop&Body=My%20Apology%20❤️)) for assessment.
 
 ## Links
 * [https://www.sefaria.org/sheets/262459](https://www.sefaria.org/sheets/262459)
