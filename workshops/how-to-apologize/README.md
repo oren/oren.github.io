@@ -1,6 +1,6 @@
 # Apology Workshop
 
-How to apologize?
+How to apologize and repair a relationship?
 
 This is a 30 minutes self-guided workshop. Email [orengolan@gmail.com](mailto:orengolan@gmail.com?Subject=Sharing%20feedback%20on%20the%20Apology%20Workshop&Body=Thank%20you%20❤️) if you find this useful or if you want to share your thoughts.
 
