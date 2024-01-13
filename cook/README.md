@@ -43,6 +43,7 @@ A CookBook for Strength Athletes
 * [Omlet with Pork](omlet-with-pork/)
 * [Oyakodon](oyakodon/)
 * [Peruvian Fish Ceviche](ceviche/)
+* [Persian Omelette](persian-omlette/)
 * [Ptgy](ptgy/)
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)
