@@ -7,7 +7,7 @@ There is communication gap between solving a business problem and the granular p
 
 ## Suggested solution
 
-Teach product managers how to use experimental designs together with the PRFAQ.
+Teach product managers how to use experimental designs together with a Press Release, Frequently Asked Quesitions (PRFAQ) document.
 
 ## Exmaple
 How to increase social interaction of autistic kids.
