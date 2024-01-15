@@ -23,6 +23,7 @@
 * [How to Build a Product](build-product/)
 * [Find customer needs and value proposition](needs-and-value-prop/)
 * [How to improve Product-Market Fit](improve-market-fit/)
+* [Product Hypothesis](product-hypothesis/)
 * [Product Discovery](product-discovery/)
 * [The Art of Strategy](art-of-strategy/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
