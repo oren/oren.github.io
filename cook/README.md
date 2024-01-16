@@ -32,6 +32,7 @@ A CookBook for Strength Athletes
 * [Israeli Hummus](israeli-hummus/)
 * [Israeli Shakshuka](israeli-shakshuka/)
 * [Khichuri Salmon](khichuri-salmon/)
+* [Korean Dishes](korean/)
 * [Lean Sushi](lean-sushi/)
 * [Lentil Soup](lentil-soup/)
 * [Mahi Mahi Mojo](mahi-mahi-mojo/)
