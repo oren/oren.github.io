@@ -50,6 +50,7 @@
 * [Hacking Relationships](hacking-relationships/)
 * [Gratitude](gratitude/)
 * [Love](love/)
+* [ADHD](adhd/)
 * [Documentation](documentation/)
 * [Idioms](idioms/)
 
