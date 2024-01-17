@@ -4,6 +4,9 @@
 
 The following resources may be helpful in learning more about executive functioning skills and ADHD.
 
+## Do you have ADHD? 2 minutes assessment
+https://psychcentral.com/quizzes/adhd-quiz#take-the-quiz
+
 ## Support groups and strategies
 
 * https://caddac.ca/adhd/
