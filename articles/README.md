@@ -9,6 +9,7 @@
 * [Execution Strategy](execution/)
 * [How to Set the Direction of an Organization](set-org-direction/)
 * [Liberating Structures](liberating-structures/)
+* [Stoicism](stoicism/)
 * [Influence Without Authority](influence/)
 * [How to Lead Leaders?](lead-leaders/)
 * [Reveal What Matters](reveal-what-matters/)
