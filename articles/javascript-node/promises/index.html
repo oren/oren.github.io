@@ -82,6 +82,13 @@
 		list-style: none;
 		padding-left: 0px;
 	}
+
+	@supports (-webkit-touch-callout: none) {
+	/* CSS specific to iOS devices */
+		.markdown-body {
+			padding: 20px;
+		}
+	}
 </style>
 
 <div class="header">
