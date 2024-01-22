@@ -1,7 +1,6 @@
 # 12 Stoic Questions
 
 Ask yourself the following:
-
 1. Who are you spending time with?
 1. Is this in my Control?
 1. What does your ideal day look like?
