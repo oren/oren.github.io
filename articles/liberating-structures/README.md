@@ -4,7 +4,7 @@
 LS is a mechanism for unleashing innovation by quickly finding solutions, leveraging everyone's strengths, and having fun!
 
 ## Examples for applying LS
-* [Mechainsm for emergent strategise/](mechainsm-for-emergent-strategise/)
+* [Mechanism for emergent strategies](mechainsm-for-emergent-strategies/)
 
 ## Examples for Structures
 * [Celebrity Interview](celebrity-interview/)
