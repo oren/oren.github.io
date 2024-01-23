@@ -1,7 +1,9 @@
 # Mechanism for revealing emergent strategies
 
 ## 1. Introduction (5 min)
-Share with the group: "The desired outcomes of this 1 hour session is a list of ideal states and a list of obstacles in the way to get there. We will use 3 meeting structures: Impromptu Networking (20 min), 1-2-all (20 min), and W3 (15 min). If anyone is interested in Liberating Structures, go to https://oren.github.io/ls. This site doesn't exist yet so you can email orengolan@gmail.com and ask Oren to call you.
+Share with the group: "The desired outcomes of this 1 hour session is a list of ideal states and a list of obstacles in the way to get there. We will use 3 meeting structures: Impromptu Networking (20 min), 1-2-all (20 min), and W3 (15 min)".
+
+If anyone is interested in Liberating Structures, go to https://oren.github.io/ls. This site doesn't exist yet so you can email orengolan@gmail.com and Oren will share with you a 10 minutes crash course: **How to use Liberating Structures?**.
 
 ## 2. Impromptu Networking (20 min)
 * **Why?** Rapidly share challenges and expectations while building new connections.
