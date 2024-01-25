@@ -9,6 +9,7 @@ The following resources may be helpful in learning more about executive function
 * https://chadd.org/for-adults/organizing-the-home-and-office-space
 * https://chadd.org/for-adults/time-management-planner/
 * https://chadd.org/for-adults/time-management-and-adhd-to-do-lists/
+* Bullet Journal: https://www.youtube.com/watch?v=5hLnY9L1c-M&t=243s
 
 ## Books
 * Taking Charge of Adult ADHD: Proven Strategies to Succeed at Work, at Home and in Relationships. By Russell Barkley.
