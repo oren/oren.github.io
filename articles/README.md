@@ -43,6 +43,7 @@
 * [Nonviolent Communication (NVC)](nvc/)
 * [How to Build Exceptional Relationships](exceptional-relationships/)
 * [Is your parent emotionally mature](is-your-parent-emotionally-mature/)
+* [How to apologize and repair a relationship?](how-to-apologize/)
 * [7 questions you can use when coaching](7-coaching-questions/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
