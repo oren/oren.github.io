@@ -17,6 +17,7 @@ A CookBook for Strength Athletes
 * [Chicken Salmon Beef](chicken-salmon-beef/)
 * [Chicken Salmon](chicken-salmon/)
 * [Chicken Soup](chicken-soup/)
+* [Chicken Taro](chicken-taro/)
 * [Chicken Teriyaki](chicken-teriyaki/)
 * [5 Spice Chicken](5-spice-chicken/)
 * [Chili Soup](chili/)
