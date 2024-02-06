@@ -1,28 +1,17 @@
 # Chicken Taro
 
-Prep time: 5 min
-Cooking time: 45 min
-
 **Ingredients:**
 
-taro
-chicken (breast or thighs)
-all purpose flower
-salt
-
-carrots
-onion
-curry powder
-ginger powder
-chicken stock
-garlic
-curry leaves
+* taro.
+* flower, salt, chicken.
+* onion, ginger powder, garlic curry leaves.
+* curry powder, chicken broth, carrots.
 
 **How to make it:**
 
 Boil or steam taro.
 
-* Mixed flower and salt in chicken.
+* Cut chicken and mix flower and salt.
 * Cook chicken in pan. After a few minutes, cover pan and remove chicken.
 * Add onion, ginger powder, garlic, and curry leaves to pan.
 * Add curry powder (2 tbsp), chicken broth, taro, and carrots and fry for a few minutes.
