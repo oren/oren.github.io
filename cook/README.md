@@ -14,6 +14,7 @@ A CookBook for Strength Athletes
 * [Chicken Rice](chicken-rice/)
 * [Chicken Congee](chicken-congee/)
 * [Chicken Corn Chowder](chicken-corn-chowder/)
+* [Chicken Miso](chicken-miso/)
 * [Chicken Salmon Beef](chicken-salmon-beef/)
 * [Chicken Salmon](chicken-salmon/)
 * [Chicken Soup](chicken-soup/)

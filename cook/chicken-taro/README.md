@@ -1,5 +1,8 @@
 # Chicken Taro
 
+![chicken](chicken-taro.jpeg)
+![chicken](chicken-taro2.jpeg)
+
 **Ingredients:**
 
 * taro.
