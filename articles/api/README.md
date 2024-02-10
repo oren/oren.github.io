@@ -1,4 +1,4 @@
-# How to build APIs
+# 7 tips for API design
 
 Summary of a 6 min video - Crafting effective, secure RESTful APIs
 

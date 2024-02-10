@@ -38,7 +38,7 @@
 ## 3. Engineering
 * [Software Delivery Performance](software-delivery-performance/)
 * [CTO Handbook](cto-handbook/)
-* [How to build APIs](api/)
+* [7 tips for API design](api/)
 
 ## 4. Relationships and Communication
 * [Nonviolent Communication (NVC)](nvc/)
