@@ -1,6 +1,6 @@
 # Help a friend with anxious attachment style
 
-![attachment style test](attachment-style-quiz.png)
+![attachment style test](attachment-style.jpg)
 
 How to help your romantic or platonic friend if your attachment style is secure and their is Anxious? Below are ChatGPT's answers.
 
