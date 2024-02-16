@@ -2,7 +2,7 @@
 
 ![attachment style test](attachment-style.jpg)
 
-How to help your romantic or platonic friend if your attachment style is secure and their is Anxious? Below are ChatGPT's answers.
+How to help your romantic or platonic friend if your attachment style is "secure" and their is "anxious"? Below are ChatGPT's answers.
 
 ## Romantic friend
 Having a secure attachment style puts you in a good position to support your partner who has an anxious attachment style. Here are some ways you can help her:
