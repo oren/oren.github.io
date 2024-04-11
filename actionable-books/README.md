@@ -2,6 +2,17 @@
 
 # Actionable insights from books
 
+## The Culture Code: The Secrets of Highly Successful Groups
+
+Team performance is driver by 5 factors:
+1. Everyone in the group talks and listen in roughly equal measure and keeps things short.
+2. Members maintain high level of eye contact and their gestures are energetic.
+3. Members communicate directry with one another, not just with the team leader.
+4. Members carry on side conversations within the team.
+5. Members break, go exploring outside the team and bring information back to share with the others.
+
+This factors ignores every individual skills.
+
 ## Range: Why Generalists Triumph in a Specialized World
 Note: the author was an investigative reporter with BA in environmental science and astronomy and master's degree in environmental science and journalism.
 
