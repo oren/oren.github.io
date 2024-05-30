@@ -5,4 +5,5 @@ Impact Mapping is a visualization technique that aligns technical work to the ob
 ![impact mapping](impact-mapping.png)
 
 ## Links
-* A few minutes video that explains it: https://www.youtube.com/watch?v=OCKmryIE4nY&t=935s
+* A few minutes video: https://www.youtube.com/watch?v=OCKmryIE4nY&t=935s
+* Videos and articles: https://www.impactmapping.org/intro-resources.html
