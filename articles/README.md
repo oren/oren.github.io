@@ -39,7 +39,7 @@
 * [Software Delivery Performance](software-delivery-performance/)
 * [CTO Handbook](cto-handbook/)
 * [7 tips for API design](api/)
-* [Align Tech and Business with Impact Mapping](business-mapping/)
+* [Align Tech and Business with Impact Mapping](impact-mapping/)
 
 ## 4. Relationships and Communication
 * [Nonviolent Communication (NVC)](nvc/)
