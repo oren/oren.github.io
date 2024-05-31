@@ -1,6 +1,6 @@
 # Double-Loop Learning
 
-![double loop learning](double-loop-learning.png)
+![double loop learning](double-loop-learning.jpg)
 
 Double-loop learning is a way to increase innovation at a team or an orgaization. You can also apply it on your own processes or on your relationships. If you use double-loop learning, you will not only adapt to change but you will also be able to anticipate it.
 
