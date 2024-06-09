@@ -60,6 +60,7 @@ A CookBook for Strength Athletes
 * [Stuffed Chicken](stuffed-chicken/)
 * [Thai Curry Chicken](thai-curry-chicken/)
 * [Thai Curry Soup](thai-curry-soup/)
+* [Tofu](tofu/)
 * [Tomato coconut soup](tomato-coconut-soup/)
 * [Tony Gainz Yogurt](tony-gainz-yogurt/)
 * [Tuna Cabbage Salad](tuna-cabbage/)
