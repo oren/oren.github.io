@@ -1,6 +1,7 @@
 ## Tofu
 
 ![](tofu.png)
+![](tofu2.jpeg)
 
 **Ingredients:**
 
