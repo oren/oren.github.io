@@ -2,8 +2,6 @@
 
 In Hebrew, "Tiukkn Olam" is a concept that means improve the world. In this 30 minute workshop you will learn how to document and asses your team, and the organization you are part of.
 
-![Tiukn Organization](tikkun-org.png)
-
 ## Learning Outcomes:
 After completing the workshop you will be able to:
 * Describe the elements within a team and organization.
