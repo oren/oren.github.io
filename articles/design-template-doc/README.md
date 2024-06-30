@@ -1,4 +1,6 @@
-## <Title>
+# Design Document
+
+## Title
 
 Author: <name>
 Team: <team name>
