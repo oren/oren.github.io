@@ -1,5 +1,7 @@
 # Build teams in 1 minute
 
+![sketch of a book cover and a core concepts page](build-teams-in-1-minute.jpeg)
+
 ## Book cover
 • Title "Build teams in 1 minute".
 • Sub title: "A visual hands-on guide for building teams"
