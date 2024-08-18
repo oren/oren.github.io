@@ -19,8 +19,10 @@
 * Visual of Cynefin Framework.
 
 ## Chapter 1: Identify complex and complicated challenges.
+![cynefin](cynefin.jpg)
 
 ## Chapter 2: Build teams that fit each challenge.
+![agendashift concepts](agendashift.png)
 
 ## Back of book
 Same as Core concepts page
