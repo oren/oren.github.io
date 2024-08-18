@@ -32,4 +32,3 @@
 
 ## 5. Contact Me
 Feedback and ideas are always welcome! Email me: <orengolan@gmail.com>
- 
