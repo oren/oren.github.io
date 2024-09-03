@@ -4,23 +4,24 @@
 
 Cauliflower seasoned with a few simple spices and topped with a creamy golden turmeric tahini sauce.
 
-Ingredients:
-1 large head of cauliflower
-1/2 tsp salt
-1/2 tsp black pepper
-1 tsp paprika
-1 tsp garlic powder
-1/2 tsp cumin
-Olive oil
+**Ingredients**
+* 1 large head of cauliflower
+* 1/2 tsp salt
+* 1/2 tsp black pepper
+* 1 tsp paprika
+* 1 tsp garlic powder
+* 1/2 tsp cumin
+* Olive oil
 
-Turmeric Tahini:
-1/4 cup tahini
-1/4 cup cold water
-1.5 tbsp lemon juice
-1 tsp garlic powder
-1/2 tsp turmeric
-1/4 tsp salt
+**Turmeric Tahini**
+* 1/4 cup tahini
+* 1/4 cup cold water
+* 1.5 tbsp lemon juice
+* 1 tsp garlic powder
+* 1/2 tsp turmeric
+* 1/4 tsp salt
 
+**How to make it**
 1. Preheat your oven to 400 F
 2. Rinse the cauliflower well and cut off the leaves and stem. Bring a large pot of water to a boil and and boil the cauliflower for 20 minutes
 3. Gently remove the cauliflower and place on a sheet pan
