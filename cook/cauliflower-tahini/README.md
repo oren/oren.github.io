@@ -1,5 +1,7 @@
 # Cauliflower Tahini
 
+![cauliflower tahini](cauliflower-tahini.jpeg)
+
 Cauliflower seasoned with a few simple spices and topped with a creamy golden turmeric tahini sauce.
 
 Ingredients:
