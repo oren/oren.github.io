@@ -16,3 +16,5 @@
 1. Cook a few eggs on a pan
 
 Good Job. You are awesome!
+
+Note: another version, in instant pot: https://www.instagram.com/reel/C-oEqffyJ7t/?igsh=MXRhZncycWV6ZXQ2Zw==
