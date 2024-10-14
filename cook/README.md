@@ -48,6 +48,7 @@ A CookBook for Strength Athletes
 * [Oyakodon](oyakodon/)
 * [Peruvian Fish Ceviche](ceviche/)
 * [Persian Omelette](persian-omlette/)
+* [Pickled Onions](pickled-onions/)
 * [Ptgy](ptgy/)
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)
