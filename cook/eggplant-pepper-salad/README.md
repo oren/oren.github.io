@@ -2,7 +2,7 @@
 
 **Ingredients:**
 
-* Eggplant, onions, bell pepper, jalapeno, tomato sauce, salt, cilantro (optional)
+* Eggplant, onions, bell pepper, jalapeno, salt, pepper, consommé, tomato sauce, paprika, cilantro (optional)
 
 **How to make it:**
 
