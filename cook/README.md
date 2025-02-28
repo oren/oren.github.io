@@ -28,6 +28,7 @@ A CookBook for Strength Athletes
 * [Daikon Salad](daikon-salad/)
 * [Delicata Squash and Miso](delicata-squash/)
 * [Eggs Avocado](eggs-avocado/)
+* [Eggplant Pepper Salad](eggplant-pepper-salad/)
 * [Ginisang Kalabasa (pork squash)](ginisang-kalabasa/)
 * [Greek Avgolemono Soup](https://www.youtube.com/watch?v=6_U3ZMrX8gM)
 * [Green Beans, Sichuan Style](green-beans-sichuan/)
