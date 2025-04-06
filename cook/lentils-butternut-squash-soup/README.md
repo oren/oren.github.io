@@ -2,9 +2,10 @@
 
 **Ingredients:**
 
-* One pound of yellow lentils
-* One yellow onion, diced
-* A few celery stalks, diced
+* 2 cups of yellow lentils
+* Butternut squash
+* Yellow onion, diced
+* A few celery stalks
 * A few garlic cloves
 
 **Spices:**
