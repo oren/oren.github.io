@@ -38,6 +38,7 @@ A CookBook for Strength Athletes
 * [Khichuri Salmon](khichuri-salmon/)
 * [Korean Dishes](korean/)
 * [Lean Sushi](lean-sushi/)
+* [Lentils Butternut Squash Soup](lentils-butternut-squash-soup/)
 * [Lentil Soup](lentil-soup/)
 * [Mahi Mahi Mojo](mahi-mahi-mojo/)
 * [Matcha Latte](matcha-latte/)
