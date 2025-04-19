@@ -65,6 +65,7 @@ A CookBook for Strength Athletes
 * [Thai Curry Chicken](thai-curry-chicken/)
 * [Thai Curry Soup](thai-curry-soup/)
 * [Tofu](tofu/)
+* [Tofu Curry](tofu-curry/)
 * [Tomato coconut soup](tomato-coconut-soup/)
 * [Tony Gainz Yogurt](tony-gainz-yogurt/)
 * [Tuna Cabbage Salad](tuna-cabbage/)
