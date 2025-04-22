@@ -1,9 +1,9 @@
 ## Tofu Curry (instant pot)
 
-**Ingredients:**
+**Ingredients:** (in the order of usage)
 
-* Firm tofu, onion, olive oil, garlic, ginger, red pepper, coconut milk, corn, crushed tomatoes.
-* Spices: trumeric, cayenne, coriander, salt, cumin, garam masala.
+* Onion, firm tofu olive oil, half bulb garlic, ginger, red pepper, coconut milk, corn, crushed tomatoes.
+* Spices: (1 tsp each) trumeric, cayenne, coriander, cumin (1/2 tsp), salt, garam masala.
 * Optional: lemon juice, cilantro.
 
 **How to make it:**
