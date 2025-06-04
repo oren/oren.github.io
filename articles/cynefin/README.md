@@ -1,4 +1,4 @@
-# Solving complex challenges using Cynefin Framework
+# Solving Challenges With Cynefin
 
 I wanted to share a bit about complexity science and sense-making. Because it's a relatively new field, many leaders are not familiar with tools for dealing with complex/ambiguous challenges. It's a big topic, so I'll just share a framework that I find useful: **Cynefin**. Cynefin is a framework for making sense of challenges, depending on how predictable or unpredictable they are. It helps you in deciding on an approach for solving a challenge. Cynefin describes 4 domains: Obvious, Complicated, Complex, and Chaotic. In order to be brief, I'll focus on the Complicated and Complex domains since they are the most important.
 
