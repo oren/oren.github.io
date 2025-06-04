@@ -28,7 +28,7 @@
 * [Product Hypothesis](product-hypothesis/)
 * [Product Discovery](product-discovery/)
 * [The Art of Strategy](art-of-strategy/)
-* [Solving Complex Challenges Using Cynefin](cynefin/)
+* [Solving Challenges With Cynefin](cynefin/)
 * [Create Multiple Strategies Using Wardley Maps](wardley-maps/)
 * [Wardley Maps and Cynefin Framework](wardley-cynefin/)
 * [How to Score a Business Plan](score-business-plan/)
