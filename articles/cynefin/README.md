@@ -4,7 +4,7 @@ I wanted to share a bit about complexity science and sense-making. Because it's 
 
 A challenge is **Complicated** if the array of solutions is known and you can bring experts to solve it. For example - sending a rocket to the moon or fixing a car. It might be hard but can be done in a top-down manner (traditional project management). A challenge is **Complex** if the solution(s) is not known and requires experiments. Sometimes it also requires adaptation and learning of a group of people. Examples include building a product that delights your customer, geo-political conflict, or raising kids. It's not likely that someone has a checklist that will guarantee solving those challenges. The solution is emergent and not top-down.
 
-[Cynefin](cynefin.jpg)
+![Cynefin](cynefin.jpg)
 
 Leaders who understand complexity science can take advantage of it. Here are 2 ways:
 
