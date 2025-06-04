@@ -21,3 +21,4 @@ Leaders who understand complexity science can take advantage of it. Here are 3 w
 ## Learn more
 * 8-minute video by David Snowden, the guy behind Cynefin: https://www.youtube.com/watch?v=N7oz366X0-8.
 * My blog post about generating strategies using Cynefin and Wardley Maps: https://oren.github.io/articles/wardley-maps. Wardley Maps is another useful tool for untangling complexity.
+
