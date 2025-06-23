@@ -2,7 +2,7 @@
 
 3 servings
 
-## Salad
+Salad
 * 4 cups mixed greens (such as a spring mix)
 * l medium ripe avocados, pit removed and diced into 1-in cubes
 * 1/2 cup cherry tomatoes, halved
@@ -10,7 +10,7 @@
 * 3 oz smoked salmon, thinly sliced
 * crumbled feta cheese
 
-## Dijon Honey Vinaigrette
+Dijon Honey Vinaigrette
 * 1/8 cup lemon juice
 * 1 tablespoons honey
 * 1/2 tablespoon Dijon mustard
