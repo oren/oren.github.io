@@ -1,4 +1,4 @@
-## Salmon Avocado Salad
+# Salmon Avocado Salad
 
 3 servings
 
