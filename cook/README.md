@@ -1,7 +1,5 @@
 # CookBook
 
-A CookBook for Strength Athletes
-
 * [Adobo Taco](adobo-taco/)
 * [Baked Salmon](baked-salmon/)
 * [Beets Salad](beets-salad/)
@@ -55,6 +53,7 @@ A CookBook for Strength Athletes
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)
 * [Risotto](risotto/)
+* [Salmon Avocado Salad](https://wholeandheavenlyoven.com/2021/01/11/avocado-smoked-salmon-salad-with-dijon-honey-vinaigrette/)
 * [Sesame Balls](sesame-balls/)
 * [Spaghetti Squash](spaghetti-squash/)
 * [Spring Rolls](spring-rolls/)
