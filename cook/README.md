@@ -53,7 +53,7 @@
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)
 * [Risotto](risotto/)
-* [Salmon Avocado Salad](https://wholeandheavenlyoven.com/2021/01/11/avocado-smoked-salmon-salad-with-dijon-honey-vinaigrette/)
+* [Salmon Avocado Salad](salmon-avocado-salad/)
 * [Sesame Balls](sesame-balls/)
 * [Spaghetti Squash](spaghetti-squash/)
 * [Spring Rolls](spring-rolls/)
