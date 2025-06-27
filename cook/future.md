@@ -7,6 +7,7 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 
 ---
 
+* Tuna recipes: https://www.ynet.co.il/laisha/article/r1dajo007ge
 * Healthy vegetable rice bowl (1 pot meal: 건강식 영양밥): https://www.youtube.com/watch?v=GH65gpXg2Ig
 * [Taiwanese Turnip Cake](http://thewayriceshouldbe.blogspot.com/2016/02/taiwanese-turnip-cake.html)
 * http://www.visiontimes.com/2019/04/03/7-healthy-and-delicious-millet-porridge-variations.html
