@@ -16,7 +16,7 @@
 * [Springboard Diving](springboard-diving/)
 * [Cooking](cook/)
 * [Dancing](dance/)
-* [Top rop climbing](top-rope/)
+* [Top rope climbing](top-rope/)
 * [Learning Chinese](chinese/)
 * [Hebrew](hebrew/)
 * [My Operating Manual](operating-manual/)
