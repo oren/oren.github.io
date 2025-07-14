@@ -1,127 +1,85 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
+<article class="markdown-body">
+<h1>Your own Heroku in 5 minutes</h1>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="your-own-heroku-in-5-minutes">Your own Heroku in 5 minutes</h1>
-<p><a href="https://www.convox.com">convox</a> is an open source project started by 3 ex-Heroku engineers with the goal of having your own Heroku-like setup running on AWS. It follows <a href="https://12factor.net">The 12-Factor App</a> that not surprisingly was written by one of Heroku's founders.</p>
-<p>Let's get started. all you need is to install the CLI (called convox) and than than run <code>convox install</code>. Wait 5 minutes and your AWS looks like this:</p>
+<p><a href="https://www.convox.com">convox</a> is an open source project started by 3 ex-Heroku engineers with the goal of having your own Heroku-like setup running on AWS. It follows <a href="https://12factor.net">The 12-Factor App</a> that not surprisingly was written by one of Heroku&rsquo;s founders.</p>
+
+<p>Let&rsquo;s get started. all you need is to install the CLI (called convox) and than than run <code>convox install</code>. Wait 5 minutes and your AWS looks like this:</p>
+
 <p><img src="convox.png" alt="pic" /></p>
-<p>That's all you need to run your your apps and services. Let's deploy a ruby web app with Redis and PostgreSOL:</p>
-<pre><code class="bash language-bash">git clone git@github.com:convox-examples/sinatra.git
+
+<p>That&rsquo;s all you need to run your your apps and services. Let&rsquo;s deploy a ruby web app with Redis and PostgreSOL:</p>
+
+<pre><code class="language-bash">git clone git@github.com:convox-examples/sinatra.git
 cd sinatra
 convox apps create
-convox deploy</code></pre>
-<p>After a minute you'll see a URL of your new app. You can point your DNS to this host to have nice URL (something like app1.my-server.com).<br />
+convox deploy
+</code></pre>
+
+<p>After a minute you&rsquo;ll see a URL of your new app. You can point your DNS to this host to have nice URL (something like app1.my-server.com).
 Behind the scenes convox is doing the following:</p>
+
 <ul>
 <li>Create an ELB for your app (ports 80 and 443)</li>
 <li>Gzip your local folder to one of the EC2s</li>
 <li>Build an image</li>
-<li>Upload it to it's private docker registry (stored on S3)</li>
+<li>Upload it to it&rsquo;s private docker registry (stored on S3)</li>
 <li>Pull the image and run it on an EC2</li>
 <li>Register the EC2 with the ELB</li>
 </ul>
+
 <p>Deploying a new version is just a matter of running the <code>deploy</code> again.</p>
+
 <p>What if you want to scale your app and have 3 instances of it running?</p>
-<pre><code class="bash language-bash">convox scale --count 3</code></pre>
-<p>Here is how it looks like:<br />
+
+<pre><code class="language-bash">convox scale --count 3
+</code></pre>
+
+<p>Here is how it looks like:
 <img src="images/convox-new-app.png" alt="pic" /></p>
-<p>convox is not the only player in the Docker management world. There are others such as Deis, Flynn, Kubernetes, and Docker Swarm. The beauty of convox is its usage of battle tested building blocks - instead of using CoreOS, fleet, etcd and custom schedulers it uses EC2, S3, ELB, Auto Scaling group, EC2 Container Service, DynamoDB, and other familiar friends. The downside might be the coupling to Amazon's platform. But if that's your poison, you'll feel right at home with convox.</p>
-<p>A good indicator of a healthy open source project is the speed it takes to ramp up new contributors and the friendliness of it's community. It only took me a few hours to add support for dedicated EC2 (a requirement for <a href="https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act">HIPAA</a>).</p>
+
+<p>convox is not the only player in the Docker management world. There are others such as Deis, Flynn, Kubernetes, and Docker Swarm. The beauty of convox is its usage of battle tested building blocks - instead of using CoreOS, fleet, etcd and custom schedulers it uses EC2, S3, ELB, Auto Scaling group, EC2 Container Service, DynamoDB, and other familiar friends. The downside might be the coupling to Amazon&rsquo;s platform. But if that&rsquo;s your poison, you&rsquo;ll feel right at home with convox.</p>
+
+<p>A good indicator of a healthy open source project is the speed it takes to ramp up new contributors and the friendliness of it&rsquo;s community. It only took me a few hours to add support for dedicated EC2 (a requirement for <a href="https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act">HIPAA</a>).</p>
+
 <p><a href="https://twitter.com/goconvox/status/625218176775790592"><img src="images/tweet.png" alt="tweet" /></a></p>
+
 <p>Issues are being responded within mintues and there is a slack channel where the core team hang out. Email <a href="mailto:david@convox.com">David</a> to get an invite or ask any questions.</p>
+
 <p><em>Thanks <a href="https://twitter.com/cyx">@cyx</a> for telling me about this project and destroying my weekend</em></p>
+
 </article>
+</body>
+</html>

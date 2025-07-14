@@ -1,105 +1,45 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
+<article class="markdown-body">
+<h1>Don&rsquo;t release Zalgo!</h1>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="dont-release-zalgo">Don't release Zalgo!</h1>
-<p>Here is a short and practical version of Isaac's post - <a href="http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony">Designing APIs for Asynchrony</a>.  <br />
-Zalgo is a Issac's nickname for a function that is not predictable. What it means is a function that accepts a callback and sometimes returns it right away, and some other times it returns it after some delay, in the future.</p>
+<p>Here is a short and practical version of Isaac&rsquo;s post - <a href="http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony">Designing APIs for Asynchrony</a>.<br>
+Zalgo is a Issac&rsquo;s nickname for a function that is not predictable. What it means is a function that accepts a callback and sometimes returns it right away, and some other times it returns it after some delay, in the future.</p>
+
 <p>forEach is an example of a function that returns the passed callback immediately:</p>
-<pre><code class="js language-js">var arr = [1,2,3];
+
+<pre><code class="language-js">var arr = [1,2,3];
 
 arr.forEach(function (x) {
   console.log('first');
@@ -108,20 +48,27 @@ arr.forEach(function (x) {
 console.log('last');
 
 // first first first
-// last</code></pre>
+// last
+</code></pre>
+
 <p>setTimeout calls the callback sometime in the future:</p>
-<pre><code class="js language-js">setTimeout(function () {
+
+<pre><code class="language-js">setTimeout(function () {
   console.log('last')
 }, 1000);
 
 console.log('first');
 
 // first
-// last</code></pre>
-<p>So when you write a function that accept a callback, make sure your function always sync or always async. don't mix the two.</p>
-<p>Here is a Zalgo in our codebase.<br />
+// last
+</code></pre>
+
+<p>So when you write a function that accept a callback, make sure your function always sync or always async. don&rsquo;t mix the two.</p>
+
+<p>Here is a Zalgo in our codebase.
 This function will return right away if first name or last name is missing but if they exist, it will return sometime in the future with the payload from the login server.</p>
-<pre><code class="js language-js">function register(options, callback) {
+
+<pre><code class="language-js">function register(options, callback) {
     var first_name = (options['first_name'] || '').trim();
     var last_name = (options['last_name'] || '').trim();
     var errors = [];
@@ -150,16 +97,27 @@ This function will return right away if first name or last name is missing but i
     };
 
     requestWithSignature('post', '/api/v2/users', params, callback);
-}</code></pre>
+}
+</code></pre>
+
 <p>How to fight a Zalgo when you see one?</p>
-<pre><code class="js language-js">if (errors.length) {
+
+<pre><code class="language-js">if (errors.length) {
   process.nextTick(function() {
     callback(null, errors);
   });
   return;
-}</code></pre>
-<p><a href="http://nodejs.org/docs/latest/api/process.html#process_process_nexttick_callback">process.nextTick</a> is the way to tell node we want to execute something in the future (the next 'tick' of the event loop).<br />
+}
+</code></pre>
+
+<p><a href="http://nodejs.org/docs/latest/api/process.html#process_process_nexttick_callback">process.nextTick</a> is the way to tell node we want to execute something in the future (the next &lsquo;tick&rsquo; of the event loop).
 Now our register function is consistant - it always delays the callback call.</p>
-<p>Two more things: the error should be the first argument and it's <a href="http://www.devthought.com/2011/12/22/a-string-is-not-an-error/">better to pass an Error object than a string</a>.</p>
-<pre><code class="js language-js">callback(new Error(errors), null);</code></pre>
+
+<p>Two more things: the error should be the first argument and it&rsquo;s <a href="http://www.devthought.com/2011/12/22/a-string-is-not-an-error/">better to pass an Error object than a string</a>.</p>
+
+<pre><code class="language-js">callback(new Error(errors), null);
+</code></pre>
+
 </article>
+</body>
+</html>

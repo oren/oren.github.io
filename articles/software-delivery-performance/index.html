@@ -1,117 +1,65 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
-
-<div class="sidenav">
-	
-</div>
-
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="how-to-measure-software-delivery-performance-in-a-minute">How to measure software delivery performance in a minute</h1>
-<h2 id="1-what-is-dora">1. What is DORA?</h2>
-<p>The DevOps Research and Assessment (DORA) team is a research program that was acquired by Google in 2018. Their goal is to understand the practices, processes, and capabilities that enable teams to achieve high performance in software and value delivery.</p>
-<p><img src="performance.png" alt="performance" /></p>
-<h2 id="2-how-can-i-measure-it-in-1-minute">2. How can I measure it in 1 minute?</h2>
-<p>Before spending weeks to build up sophisticated dashboard tooling, consider just regularly taking the <a href="https://www.devops-research.com/quickcheck.html">DORA quick check</a> in team retrospectives. This gives the team the opportunity to reflect on which <a href="https://www.devops-research.com/research.html#capabilities">capabilities</a> they could work on to improve their metrics, which can be much more effective than overdetailed out-of-the-box tooling.</p>
-<h2 id="3-whats-in-the-test">3. What's in the test?</h2>
-<p>Deployment frequency (DF), lead time for changes (LT), mean time to recovery (MTTR), and change failure rate (CFR).</p>
-<h2 id="dive-deeper">Dive Deeper</h2>
-<p>The origin of the DORA research program is a book titled <a href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=asc_df_1942788339/?tag=hyprod-20&linkCode=df0&hvadid=312060980065&hvpos=&hvnetw=g&hvrand=2980652452972303210&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060414&hvtargid=pla-446149606248&psc=1">Accelerate</a>. Here is a <a href="https://tdevroome.medium.com/book-summary-accelerate-c531efe4c34c">summary</a>.</p>
-<p>I love the guidelines for creating High-Performance Leadership &amp; Management:</p>
+</head>
+<body>
 <ul>
-<li>Develop and maintain a mindset of shared learning</li>
-<li>Don't copy models or contract out - develop your own coaches and models right for your organization</li>
-<li>You need to change along with your business</li>
-<li>Practice discipline</li>
-<li>Practice patience</li>
-<li>Learn by doing, repeatedly, and incrementally evolving based on learning outcomes</li>
+<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles/">Articles</a></li>
 </ul>
+
+<article class="markdown-body">
+<h1>How to measure software delivery performance in a minute</h1>
+
+<h2>1. What is DORA?</h2>
+
+<p>The DevOps Research and Assessment (DORA) team is a research program that was acquired by Google in 2018. Their goal is to understand the practices, processes, and capabilities that enable teams to achieve high performance in software and value delivery.</p>
+
+<p><img src="performance.png" alt="performance" /></p>
+
+<h2>2. How can I measure it in 1 minute?</h2>
+
+<p>Before spending weeks to build up sophisticated dashboard tooling, consider just regularly taking the <a href="https://www.devops-research.com/quickcheck.html">DORA quick check</a> in team retrospectives. This gives the team the opportunity to reflect on which <a href="https://www.devops-research.com/research.html#capabilities">capabilities</a> they could work on to improve their metrics, which can be much more effective than overdetailed out-of-the-box tooling.</p>
+
+<h2>3. What&rsquo;s in the test?</h2>
+
+<p>Deployment frequency (DF), lead time for changes (LT), mean time to recovery (MTTR), and change failure rate (CFR).</p>
+
+<h2>Dive Deeper</h2>
+
+<p>The origin of the DORA research program is a book titled <a href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=asc_df_1942788339/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312060980065&amp;hvpos=&amp;hvnetw=g&amp;hvrand=2980652452972303210&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9060414&amp;hvtargid=pla-446149606248&amp;psc=1">Accelerate</a>. Here is a <a href="https://tdevroome.medium.com/book-summary-accelerate-c531efe4c34c">summary</a>.</p>
+
+<p>I love the guidelines for creating High-Performance Leadership &amp; Management:
+- Develop and maintain a mindset of shared learning
+- Don&rsquo;t copy models or contract out - develop your own coaches and models right for your organization
+- You need to change along with your business
+- Practice discipline
+- Practice patience
+- Learn by doing, repeatedly, and incrementally evolving based on learning outcomes</p>
+
 </article>
+</body>
+</html>

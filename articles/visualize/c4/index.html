@@ -1,107 +1,51 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	
-</div>
+<article class="markdown-body">
+<h1>Visualizing Software Architecture with C4</h1>
 
-<div class="sidenav">
-	
-</div>
+<h2>1. Problem</h2>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="visualizing-software-architecture-with-c4">Visualizing Software Architecture with C4</h1>
-<h2 id="1-problem">1. Problem</h2>
 <p>Teams are struggling to desribe their software to various audiences. They use confusing diagrams with ambiguously named boxes, unclear responsibilities, unexplained symbols, ambiguous relationships between elements, no key/legend, and unclear abstractions.</p>
-<h2 id="2-solution">2. Solution</h2>
+
+<h2>2. Solution</h2>
+
 <p>Create software architecture diagrams that would be easy for anybody on the project team to understand - use different levels of abstraction (high level, component level, and even code) and include user stories.</p>
-<h2 id="3-demo-of-terrastruct---diagraming-tool">3. Demo of Terrastruct - diagraming tool</h2>
-<p>I found an interesting tool that allow you to create diagrams at multiple levels, zoom into components, and also add user stories.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pO2ryAa1yO8" frameborder="0" allowfullscreen></iframe>
-<h2 id="4-links">4. Links</h2>
+
+<h2>3. Demo of Terrastruct - diagraming tool</h2>
+
+<p>I found an interesting tool that allow you to create diagrams at multiple levels, zoom into components, and also add user stories.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pO2ryAa1yO8" frameborder="0" allowfullscreen></iframe></p>
+
+<h2>4. Links</h2>
+
 <ul>
 <li><a href="https://news.ycombinator.com/item?id=21958986">Terrastruct on Hacker News</a></li>
 <li><a href="https://terrastruct.com">Terrastruct - homepage</a></li>
@@ -110,4 +54,7 @@
 <li><a href="https://c4model.com">The C4 model - homepage</a></li>
 <li><a href="https://github.com/RicardoNiepel/C4-PlantUML">Tool to describe C4 using code</a></li>
 </ul>
+
 </article>
+</body>
+</html>

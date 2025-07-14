@@ -1,154 +1,104 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
+<article class="markdown-body">
+<!-- numbers -->
 
-<div class="sidenav">
-	
-</div>
+<h1>Sense making for product managers</h1>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<!-- numbers -->
-<h1 id="sense-making-for-product-managers">Sense making for product managers</h1>
 <p><img src="cynefin.jpg" alt="cynefin framework" /></p>
+
 <p>Cynefin is a framework for making sense of different situations, depending on how predictable or unpredictable they are. Wardley Mapping is a method for developing strategy, depending on the maturity and visibility of the components involved. There are some obvious commonalities between them, and both are helpful for making decisions - but what is it that makes them different? And what can we do differently by looking at them together?</p>
-<h2 id="objective-1">Objective 1:</h2>
+
+<h2>Objective 1:</h2>
+
 <p>Everyone on the team understand sense-making and system thinking and can describe the 4 domains above.</p>
-<h2 id="objective-2">Objective 2:</h2>
+
+<h2>Objective 2:</h2>
+
 <p>Folks who have tools to deal with complexity (multiple experiments, bottom-up strategies) are leading complex challenges as Amazon single threaded owners (STO).</p>
-<h2 id="test-assess-martin-vs-john">Test: assess Martin vs John</h2>
+
+<h2>Test: assess Martin vs John</h2>
+
 <p>Which of them considers software systems as complex and which one considers it complicated?</p>
+
 <p>Martin:</p>
+
 <blockquote>
-  <p>"If you have to spend effort into looking at a fragment of code to figure out what it's doing, then you should extract it into a function and name the function after that 'what'."</p>
+<p>&ldquo;If you have to spend effort into looking at a fragment of code to figure out what it&rsquo;s doing, then you should extract it into a function and name the function after that &lsquo;what&rsquo;.&rdquo;</p>
 </blockquote>
+
 <p>John:</p>
+
 <blockquote>
-  <p>"I'm not going to issue any mandates, but I want everyone to seriously consider some of these issues.</p>
+<p>&ldquo;I&rsquo;m not going to issue any mandates, but I want everyone to seriously consider some of these issues.</p>
+
+<p>If a function is only called from a single place, consider inlining it.</p>
+
+<p>If a function is called from multiple places, see if it is possible to arrange for the work to be done in a single place, perhaps with flags, and inline that.</p>
+
+<p>If there are multiple versions of a function, consider making a single function with more, possibly defaulted, parameters.</p>
+
+<p>If the work is close to purely functional, with few references to global state, try to make it completely functional.</p>
+
+<p>Try to use const on both parameters and functions when the function really must be used in multiple places.</p>
+
+<p>Minimize control flow complexity and &ldquo;area under ifs&rdquo;, favoring consistent execution paths and times over &ldquo;optimally&rdquo; avoiding unnecessary work.</p>
+
+<p>To make things more complicated, the &lsquo;do always, then inhibit or ignore&rsquo; strategy, while a very good idea for high reliability systems, is less appropriate in power and thermal constrained environments like mobile.&rdquo;</p>
 </blockquote>
-<blockquote>
-  <p>If a function is only called from a single place, consider inlining it.</p>
-</blockquote>
-<blockquote>
-  <p>If a function is called from multiple places, see if it is possible to arrange for the work to be done in a single place, perhaps with flags, and inline that.</p>
-</blockquote>
-<blockquote>
-  <p>If there are multiple versions of a function, consider making a single function with more, possibly defaulted, parameters.</p>
-</blockquote>
-<blockquote>
-  <p>If the work is close to purely functional, with few references to global state, try to make it completely functional.</p>
-</blockquote>
-<blockquote>
-  <p>Try to use const on both parameters and functions when the function really must be used in multiple places.</p>
-</blockquote>
-<blockquote>
-  <p>Minimize control flow complexity and "area under ifs", favoring consistent execution paths and times over "optimally" avoiding unnecessary work.</p>
-</blockquote>
-<blockquote>
-  <p>To make things more complicated, the 'do always, then inhibit or ignore' strategy, while a very good idea for high reliability systems, is less appropriate in power and thermal constrained environments like mobile."</p>
-</blockquote>
-<p>John's looks at software systems as a complex challenge while Martin see them as complicated.</p>
-<h2 id="reflection">Reflection</h2>
+
+<p>John&rsquo;s looks at software systems as a complex challenge while Martin see them as complicated.</p>
+
+<h2>Reflection</h2>
+
 <p>Write it down: How would you find quickly if someone has the tools to deal with a complex challenge? Can you use Myers–Briggs Type Indicator (MBTI)? Does J represent complicated and P complex?</p>
-<h2 id="links">Links</h2>
+
+<h2>Links</h2>
+
 <ul>
-<li>Cynefin framework: <a href="https://en.wikipedia.org/wiki/Cynefin_framework">https://en.wikipedia.org/wiki/Cynefin_framework</a> (1 minute to stare at the  domains diagram)<br />
+<li>Cynefin framework: <a href="https://en.wikipedia.org/wiki/Cynefin_framework">https://en.wikipedia.org/wiki/Cynefin_framework</a> (1 minute to stare at the  domains diagram)
 *Reflections on a decade of coding:  <a href="https://www.scattered-thoughts.net/writing/on-bad-advice/">https://www.scattered-thoughts.net/writing/on-bad-advice/</a> (1 hour of reading)</li>
 <li>Myers-Briggss Type Indicator: <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator</a> (Weekend reading. Skip to test)</li>
 <li>Myers-Briggss Personality Test: <a href="https://www.16personalities.com/free-personality-test">https://www.16personalities.com/free-personality-test</a> (20 min)</li>
 </ul>
-<h2 id="cynefin-dynamics">Cynefin Dynamics</h2>
+
+<h2>Cynefin Dynamics</h2>
+
 <ul>
 <li>Innovation cycle. Example: Pokemon Go. This lead to innovations like Pokemon Go.</li>
 <li>Shallow dive into choas.</li>
 <li>Small precentage of things stablize.</li>
 <li>Chaos grazing.</li>
 </ul>
+
 </article>
+</body>
+</html>

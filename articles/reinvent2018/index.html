@@ -1,230 +1,252 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
-
-<article class="markdown-body" style="font-size: 20px;">
-	<p><meta property="og:title" content="re:invent 2018 Videos" /><br />
+<article class="markdown-body">
+<p><meta property="og:title" content="re:invent 2018 Videos" />
 <meta property="og:image" content="images/reinvent.jpg" /></p>
-<h1 id="interesting-videos-from-reinvent-2018">Interesting Videos from re:Invent 2018</h1>
+
+<h1>Interesting Videos from re:Invent 2018</h1>
+
 <p><img src="serverless.jpeg" alt="serverless" /></p>
+
 <p>(note: Step Functions belong to the compute section)</p>
-<hr />
+
+<hr>
+
 <p>All Videos: <a href="https://gist.github.com/LukasMusebrink/631e80e07c6b2ee73dd373a3192fd0ef">https://gist.github.com/LukasMusebrink/631e80e07c6b2ee73dd373a3192fd0ef</a></p>
-<hr />
-<h2 id="databases-on-aws-the-right-tool-for-the-right-job-dat205-r1">Databases on AWS: The Right Tool for the Right Job (DAT205-R1)</h2>
+
+<hr>
+
+<h2>Databases on AWS: The Right Tool for the Right Job (DAT205-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=-pb-DkD6cWg">https://www.youtube.com/watch?v=-pb-DkD6cWg</a></p>
-<p>Exploring a purpose-built strategy for databases, where you choose the right tool for the job. Shawn explains why your application should drive the requirements of a database, not the other way around. We introduce AWS databases that are purpose-built for your application use cases. Learn why you should select different database services to solve different aspects of an application, and watch a demonstration in which application use cases lend themselves well to specific data services. If you're a developer building modern applications that require high performance, scale, and functional databases, and you're trying to determine which relational and non-relational data services to use, this session is for you.</p>
+
+<p>Exploring a purpose-built strategy for databases, where you choose the right tool for the job. Shawn explains why your application should drive the requirements of a database, not the other way around. We introduce AWS databases that are purpose-built for your application use cases. Learn why you should select different database services to solve different aspects of an application, and watch a demonstration in which application use cases lend themselves well to specific data services. If you&rsquo;re a developer building modern applications that require high performance, scale, and functional databases, and you&rsquo;re trying to determine which relational and non-relational data services to use, this session is for you.</p>
+
 <p>Mapping usecases to a Database: relational, key-value, document, in-memory, graph, time-series, ledger.</p>
+
 <p>Shawn Bice, VP of Non-Relational Databases at AWS</p>
+
 <p><img src="images/db.png" alt="db" /></p>
-<hr />
-<h2 id="mastering-identity-at-every-layer-of-the-cake-sec401-r1">Mastering Identity at Every Layer of the Cake (SEC401-R1)</h2>
+
+<hr>
+
+<h2>Mastering Identity at Every Layer of the Cake (SEC401-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=vbjFjMNVEpc">https://www.youtube.com/watch?v=vbjFjMNVEpc</a></p>
+
 <p>Master identity at each layer of deliciousness: from platform, to infrastructure, to applications, using services like AWS Identity and Access Management (IAM), AWS Directory Service, Amazon Cognito, and many more. Leave with a firm mental model for how identity works both harmoniously and independently throughout these layers, and with ready-to-use reference architectures and sample code</p>
-<hr />
-<h2 id="become-an-iam-policy-master-in-60-minutes-or-less-sec316-r1">Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1)</h2>
+
+<hr>
+
+<h2>Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=YQsK4MtsELU">https://www.youtube.com/watch?v=YQsK4MtsELU</a></p>
+
 <p>Are you interested in becoming a IAM policy master and learning about powerful techniques for controlling access to AWS resources? If your answer is “yes,” this session is for you. Join us as we cover the different types of policies and describe how they work together to control access to resources in your account and across your AWS organization. We walk through use cases that help you delegate permission management to developers by demonstrating IAM permission boundaries. We take an in-depth look at controlling access to specific AWS regions using condition keys. Finally, we explain how to use tags to scale permissions management in your account. This session requires you to know the basics of IAM policies.</p>
-<hr />
-<h2 id="choosing-the-right-messaging-service-for-your-distributed-app-api305">Choosing the Right Messaging Service for Your Distributed App (API305)</h2>
+
+<hr>
+
+<h2>Choosing the Right Messaging Service for Your Distributed App (API305)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=4-JmX6MIDDI">https://www.youtube.com/watch?v=4-JmX6MIDDI</a></p>
+
 <p>In the cloud, modern apps are decoupled into independent building blocks, called microservices, which are easier to develop, deploy, and maintain. Messaging is a central tool used to connect and coordinate these microservices. AWS offers multiple messaging services, which address a variety of use cases. In this session, learn how to choose the service that’s best for your use case as we present the key technical features of each. We pay special attention to integrating messaging services with serverless technology. We cover Amazon Kinesis, Amazon SQS, and Amazon SNS in detail with discussion of other services as appropriate.</p>
+
 <p>When to use SQS, SNS, and Kinesis</p>
-<hr />
-<h2 id="advanced-vpc-design-and-new-capabilities-for-amazon-vpc-net303">Advanced VPC Design and New Capabilities for Amazon VPC (NET303)</h2>
+
+<hr>
+
+<h2>Advanced VPC Design and New Capabilities for Amazon VPC (NET303)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=fnxXNZdf6ew">https://www.youtube.com/watch?v=fnxXNZdf6ew</a></p>
+
 <p>Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features might affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities of Amazon VPC and how you might use them</p>
-<p>Services Mentioned:</p>
-<ul>
-<li>18 more services are supported by privatelinks -<a href="https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html">https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html</a></li>
-<li>VPC Sharing</li>
-<li>AWS Global Accelerator</li>
-</ul>
-<hr />
-<h2 id="cicd-for-serverless-and-containerized-applications-dev309-r">CI/CD for Serverless and Containerized Applications (DEV309-R)</h2>
+
+<p>Services Mentioned:
+* 18 more services are supported by privatelinks -<a href="https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html">https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html</a>
+* VPC Sharing
+* AWS Global Accelerator</p>
+
+<hr>
+
+<h2>CI/CD for Serverless and Containerized Applications (DEV309-R)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=01ewawuL-IY">https://www.youtube.com/watch?v=01ewawuL-IY</a></p>
+
 <p>how to use AwsCodePipelines to develop a full CI/CD flow. A lot of new features that just got released are used in this demo. Using ECR as a action in AwsCodePipelines.</p>
-<p>Modern app development:</p>
-<ul>
-<li>Lambbda - serverless functions</li>
-<li>Fargate - serverless containers</li>
-</ul>
-<hr />
-<h2 id="a-serverless-journey-aws-lambda-under-the-hood-srv409-r1">A Serverless Journey: AWS Lambda Under the Hood (SRV409-R1)</h2>
+
+<p>Modern app development:
+* Lambbda - serverless functions
+* Fargate - serverless containers</p>
+
+<hr>
+
+<h2>A Serverless Journey: AWS Lambda Under the Hood (SRV409-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=QdzV04T_kec">https://www.youtube.com/watch?v=QdzV04T_kec</a></p>
-<p>Serverless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision, scale, and manage any servers. However, under the hood, there is a sophisticated architecture that takes care of all the undifferentiated heavy lifting for the developer. Join Holly Mesrobian, Director of Engineering, and Marc Brooker, Senior Principal of Engineering, to learn how AWS architected one of the fastest-growing AWS services. In this session, we show you how Lambda takes care of everything required to run and scale your code with high availability</p>
-<hr />
-<h2 id="the-future-of-enterprise-applications-is-serverless-ent314-r1">The Future of Enterprise Applications is Serverless (ENT314-R1)</h2>
+
+<p>Serverless computing allows you to build and run applications and services without thinking about servers. Serverless applications don&rsquo;t require you to provision, scale, and manage any servers. However, under the hood, there is a sophisticated architecture that takes care of all the undifferentiated heavy lifting for the developer. Join Holly Mesrobian, Director of Engineering, and Marc Brooker, Senior Principal of Engineering, to learn how AWS architected one of the fastest-growing AWS services. In this session, we show you how Lambda takes care of everything required to run and scale your code with high availability</p>
+
+<hr>
+
+<h2>The Future of Enterprise Applications is Serverless (ENT314-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=w_fZU6hSQkA">https://www.youtube.com/watch?v=w_fZU6hSQkA</a></p>
+
 <p>At re:Invent 2014, we announced AWS Lambda and ushered in a whole new world of application design, one without the need to manage or think about traditional server infrastructure. Since then, serverless has become one of the hottest topics in the industry. Customers like Capital One and Coca Cola talk about how serverless saved them time and money, helped them reduce their operational burden, and drove developer agility and innovation. What is serverless, and what are the key trends you should be aware of? Where does one start on the journey of building serverless applications? We cover all of this and more in this session.</p>
-<hr />
-<h2 id="technology-choices-for-modern-applications-srv305-r1">Technology Choices for Modern Applications (SRV305-R1)</h2>
+
+<hr>
+
+<h2>Technology Choices for Modern Applications (SRV305-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=IPOvrK3S3gQ">https://www.youtube.com/watch?v=IPOvrK3S3gQ</a></p>
+
 <p>AWS offers a wide range of cloud computing services and technologies, but we rarely state opinions about which services and technologies customers should choose. When it comes to building our own services, our engineering groups have strong opinions, and they express them in the technologies they pick. Join Tim Bray, Senior Principal Engineer, to hear about the high-level choices that developers at AWS and our customers have to make. Here are a few: Are microservices always the way to go? Serverless, containers, or serverless containers? Is relational over? Is Java over? The talk is technical and based on our experience in building AWS services and working with customers on their cloud-native apps.</p>
-<hr />
-<h2 id="introducing-aws-app-mesh-–-service-mesh-on-aws-con367">Introducing AWS App Mesh – service mesh on AWS (CON367)</h2>
+
+<hr>
+
+<h2>Introducing AWS App Mesh – service mesh on AWS (CON367)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=GVni3ruLSe0">https://www.youtube.com/watch?v=GVni3ruLSe0</a></p>
+
 <p>AWS App Mesh is a service mesh that makes it easy to monitor and control communications for containerized microservices running on AWS. Join us to learn about how AWS can give you end-to-end visibility, and help manage traffic routing to ensure high availability for your services. We will cover the benefits of service mesh, capabilities provided by AWS App Mesh and how you can use AWS App Mesh with AWS, partner, and community tools.</p>
-<p>Speakers:</p>
-<ul>
-<li>Shubha Rao, Sr. Product Manager, AWS</li>
-<li>Tony Pujals, Sr. Developer Advocat, AWS</li>
-</ul>
-<hr />
-<h2 id="how-hsbc-uses-serverless-to-process-millions-of-transactions-in-real-time-fsv305">How HSBC Uses Serverless to Process Millions of Transactions in Real Time (FSV305)</h2>
+
+<p>Speakers:
+* Shubha Rao, Sr. Product Manager, AWS
+* Tony Pujals, Sr. Developer Advocat, AWS</p>
+
+<hr>
+
+<h2>How HSBC Uses Serverless to Process Millions of Transactions in Real Time (FSV305)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=_UiyIJqDXXQ">https://www.youtube.com/watch?v=_UiyIJqDXXQ</a></p>
+
 <p>For large financial institutions, it can be extremely hard to predict when your architecture may need to scale to process millions of financial transactions per day. HSBC addressed this challenge by integrating its on-premises mainframe with AWS services such as AWS Lambda, Amazon Kinesis, and Amazon DynamoDB. This integration enables the bank to engage in real time with millions of retail banking customers in a more personal, dynamic, and useful way. The bank applies business logic to its transaction data, and it harnesses the information it gleans to communicate directly with customers through a messaging platform that runs on AWS. In this session, we share an architecture pattern that demonstrates how retail banks can add value by investing in their legacy system when integrating streaming data from on-premises systems to an event-driven, serverless architecture at scale. Complete Title: AWS re:Invent 2018: How HSBC Uses Serverless to Process Millions of Transactions in Real Time (FSV305)</p>
-<hr />
-<h2 id="deploying-microservices-using-aws-fargate-con315-r1">Deploying Microservices using AWS Fargate (CON315-R1)</h2>
+
+<hr>
+
+<h2>Deploying Microservices using AWS Fargate (CON315-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=4xqOoRPrnAw">https://www.youtube.com/watch?v=4xqOoRPrnAw</a></p>
+
 <p>KPMG have built a customer due diligence solution for a high-profile banking client in AWS. The solution is made up of a number of microservices which are deployed to containers using AWS Fargate. This presentation will dive into the details of the architecture of the solution, how the infrastructure and applications are deployed using third party tools such as Hashicorp’s Terraform and Jenkins, and the best practices when running containers in production workloads. The presentation will cover details on the AWS resources used in the solution, including DynamoDB, ECS, Fargate and S3, CI/CD and automation, with a focus around security to meet banking regulatory requirements. We will look at how KPMG have configured for canary deployments to ECS Fargate, how we manage secrets management and encryption, and how we manage service discovery between the microservices using ECS Service Discovery and Route 53.</p>
-<hr />
-<h2 id="releasing-mission-critical-software-at-amazon-dev209-r1">Releasing Mission-Critical Software at Amazon (DEV209-R1)</h2>
+
+<hr>
+
+<h2>Releasing Mission-Critical Software at Amazon (DEV209-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=I61KKO1rAQ8">https://www.youtube.com/watch?v=I61KKO1rAQ8</a></p>
-<p>A deeper look at Amazon's approach to releasing mission-critical software. In this session, we take a journey through the release process of an AWS Tier 1 service on its way to production. We follow a single code change from idea to release, and we focus on how Amazon updates critical software quickly and safely for its global customers. Throughout the talk, we demonstrate how our internal software release processes map to AWS developer tools, and we highlight how you can leverage AWS CI/CD services to create your own robust release process.</p>
-<p>Agenda:</p>
-<ol>
-<li>Technical and cultural approach</li>
-<li>Tooling</li>
-<li>Code review, build, and pre-mortem</li>
-<li>Pipeline and deployment</li>
-<li>Manage infrastructure, and auditing</li>
-</ol>
+
+<p>A deeper look at Amazon&rsquo;s approach to releasing mission-critical software. In this session, we take a journey through the release process of an AWS Tier 1 service on its way to production. We follow a single code change from idea to release, and we focus on how Amazon updates critical software quickly and safely for its global customers. Throughout the talk, we demonstrate how our internal software release processes map to AWS developer tools, and we highlight how you can leverage AWS CI/CD services to create your own robust release process.</p>
+
+<p>Agenda:
+1. Technical and cultural approach
+1. Tooling
+1. Code review, build, and pre-mortem
+1. Pipeline and deployment
+1. Manage infrastructure, and auditing</p>
+
 <p>Speaker: Andy Troutman, Senior Manager, AWS Deployment Services</p>
-<hr />
-<h2 id="infrastructure-is-code-with-the-aws-cloud-development-kit-dev372">Infrastructure Is Code with the AWS Cloud Development Kit (DEV372)</h2>
+
+<hr>
+
+<h2>Infrastructure Is Code with the AWS Cloud Development Kit (DEV372)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=Lh-kVC2r2AU">https://www.youtube.com/watch?v=Lh-kVC2r2AU</a></p>
+
 <p>The AWS Cloud Development Kit (AWS CDK) is a new open-source framework from AWS that enables developers to harness the full power of modern programming languages to define reusable cloud components and applications and provision them through AWS CloudFormation. The AWS CDK is shipped with a rich class library that encapsulates the details-defining infrastructure on AWS and enables you to focus on your application. In this session, we discuss why we decided to build the AWS CDK; we describe some of the high-level concepts; and we write some code on stage to demonstrate why we think the AWS CDK is going to be your best friend.</p>
-<p>Speakers:</p>
-<ul>
-<li>Elad Ben-Israel, Principal Engineer, AWS Developer Tools</li>
-<li>Jason Fulghum, Development Manager, AWS Developer Tools</li>
-</ul>
-<p>Resources:</p>
-<ul>
-<li><a href="https://cdkworkshop.com/">https://cdkworkshop.com/</a></li>
-<li><a href="https://awslabs.github.io/aws-cdk/">https://awslabs.github.io/aws-cdk/</a></li>
-<li><a href="https://github.com/awslabs/cdk-reinvent">https://github.com/awslabs/cdk-reinvent</a></li>
-</ul>
-<hr />
-<h2 id="applying-principles-of-chaos-engineering-to-serverless-dvc305">Applying Principles of Chaos Engineering to Serverless (DVC305)</h2>
+
+<p>Speakers:
+* Elad Ben-Israel, Principal Engineer, AWS Developer Tools
+* Jason Fulghum, Development Manager, AWS Developer Tools</p>
+
+<p>Resources:
+* <a href="https://cdkworkshop.com/">https://cdkworkshop.com/</a>
+* <a href="https://awslabs.github.io/aws-cdk/">https://awslabs.github.io/aws-cdk/</a>
+* <a href="https://github.com/awslabs/cdk-reinvent">https://github.com/awslabs/cdk-reinvent</a></p>
+
+<hr>
+
+<h2>Applying Principles of Chaos Engineering to Serverless (DVC305)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=tYJDfsTklH0">https://www.youtube.com/watch?v=tYJDfsTklH0</a></p>
+
 <p>Chaos engineering focuses on improving system resilience through controlled experiments, exposing the inherent chaos and failure modes in our system before they manifest in production and impact users. However, much of the publicized tools and articles focus on killing Amazon EC2 instances, and the efforts in the serverless community have been largely limited to moving those tools into Lambda functions. How can we apply the same principles of chaos to a serverless architecture built around AWS Lambda functions? Can we adapt existing practices to expose the inherent chaos in these systems? What are the limitations and new challenges that we need to consider? Come to this session and find out.</p>
+
 <p>Speaker: Yan Cui, the guy who runs The Burning Monk podcast.</p>
-<hr />
-<h2 id="from-monolith-to-modern-apps-best-practices-srv322-r2">From Monolith to Modern Apps: Best Practices (SRV322-R2)</h2>
+
+<hr>
+
+<h2>From Monolith to Modern Apps: Best Practices (SRV322-R2)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=bWcpmJCFhTM">https://www.youtube.com/watch?v=bWcpmJCFhTM</a></p>
+
 <p>We are a lean team consisting of developers, lead architects, business analysts, and a project manager. To scale our applications and optimize costs, we need to reduce the amount of undifferentiated heavy lifting (e.g., patching, server management) from our projects. We have identified AWS serverless services that we will use. However, we need approval from a security and cost perspective. We need to build a business case to justify this paradigm shift for our entire technology organization. In this session, we learn to migrate existing applications and build a strategy and financial model to lay the foundation to build everything in a truly serverless way on AWS.</p>
-<hr />
-<h2 id="what’s-new-in-amazon-ec2-containers--serverless-cmp207-l">What’s New in Amazon EC2, Containers, &amp; Serverless (CMP207-L)</h2>
+
+<hr>
+
+<h2>What’s New in Amazon EC2, Containers, &amp; Serverless (CMP207-L)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=cb0KvqGjXRE">https://www.youtube.com/watch?v=cb0KvqGjXRE</a></p>
+
 <p>Matt Garman introduces the latest innovations in the compute space. In this keynote address, we announce new compute capabilities, and we share insights into what makes the AWS compute business unique. We also announce new capabilities for Amazon EC2 instances, EC2 networking, EC2 Spot Instances, Amazon Lightsail, Containers, and Serverless. Matt is joined by executives from our customers and partners who share valuable success stories of how Amazon EC2 has helped their journey to digital transformation. Complete Title: AWS re:Invent 2018: AWS Compute Leadership Session: What’s New in Amazon EC2, Containers, &amp; Serverless (CMP207-L)</p>
+
 <p>Speaker: Matt Garman, VP of AWS Compute Services</p>
-<hr />
-<h2 id="operational-excellence-w-containerized-workloads-using-aws-fargate-con320-r1">Operational Excellence w/ Containerized Workloads Using AWS Fargate (CON320-R1)</h2>
+
+<hr>
+
+<h2>Operational Excellence w/ Containerized Workloads Using AWS Fargate (CON320-R1)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=rtk3rRdAZ6s">https://www.youtube.com/watch?v=rtk3rRdAZ6s</a></p>
+
 <p>This session will focus on how leveraging Fargate and its serverless approach to deploying and managing containers will help increase operational efficiencies and reduce the time to ramp up your operations to run production containerized workloads. Datree will share their journey to adopt containers and the steps they were able to accelerate and avoid by using Fargate as well do a demo. Complete Title: AWS re:Invent 2018: [REPEAT 1] Operational Excellence with Containerized Workloads Using AWS Fargate (CON320-R1)</p>
-<hr />
-<h2 id="using-devops-microservices--serverless-to-accelerate-innovation-srv325">Using DevOps, Microservices, &amp; Serverless to Accelerate Innovation (SRV325)</h2>
+
+<hr>
+
+<h2>Using DevOps, Microservices, &amp; Serverless to Accelerate Innovation (SRV325)</h2>
+
 <p><a href="https://www.youtube.com/watch?v=eXl6Bumksnk">https://www.youtube.com/watch?v=eXl6Bumksnk</a></p>
+
 <p>Learn how AWS can help you innovate faster with DevOps, microservices, and serverless. Join us for a rare and intimate discussion with AWS senior leaders: David Richardson, VP of Serverless, Ken Exner, director of AWS Developer Tools, and Deepak Singh, director of Compute Services, Containers, and Linux. Hear them share development best practices and discuss key learnings from building modern applications at Amazon.com. Also, learn how developers can leverage containers, AWS Lambda, and developer tools to build and run production applications in the cloud. Complete Title: AWS re:Invent 2018: Leadership Session: Using DevOps, Microservices, &amp; Serverless to Accelerate Innovation (SRV325)</p>
-<p>Speakers:</p>
-<ul>
-<li>David Richardson, VP serverless</li>
-<li>Deepak Singh, Diroctor Containers and Linux</li>
-<li>Ken Exner, Director AWS Developer Tools</li>
-</ul>
-<hr />
+
+<p>Speakers:
+* David Richardson, VP serverless
+* Deepak Singh, Diroctor Containers and Linux
+* Ken Exner, Director AWS Developer Tools</p>
+
+<hr>
+
 </article>
+</body>
+</html>

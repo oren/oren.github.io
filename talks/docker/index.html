@@ -1,117 +1,65 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/talks">Talks</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="talks/">Talks</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
+<article class="markdown-body">
+<h1>Docker Crash Course</h1>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="docker-crash-course">Docker Crash Course</h1>
 <p>Presentation at the <a href="http://www.meetup.com/SoCal-Node-JS/events/221022035">SoCal Node.js Meetup</a></p>
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/BgDhf50Ya2s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <p>(Click on the image above to watch the video of the talk)</p>
-<h2 id="description">Description</h2>
-<p>Docker is everywhere but nobody knows what to do with it.<br />
+
+<h2>Description</h2>
+
+<p>Docker is everywhere but nobody knows what to do with it.
 The goal of this session is to provide you with everything you need to get started.</p>
-<p>We'll discuss and demonstrate the following:</p>
+
+<p>We&rsquo;ll discuss and demonstrate the following:</p>
+
 <ul>
 <li>What is Docker?</li>
 <li>What does docker solve?</li>
 <li>How to use it for development work flow?</li>
 <li>How to use it for deployment/production work flow?</li>
 </ul>
-<p>Let's skip the boring concepts - we will look at a real-world Node.js application that uses multiple Docker containers.</p>
-<h2 id="slides">Slides</h2>
-<h3 id="0335-what-is-docker">03:35 What is Docker?</h3>
+
+<p>Let&rsquo;s skip the boring concepts - we will look at a real-world Node.js application that uses multiple Docker containers.</p>
+
+<h2>Slides</h2>
+
+<h3>03:35 What is Docker?</h3>
+
 <ul>
 <li>04:35 Demo: Running a project with 7 containers on my laptop</li>
 <li>07:56 Containers vs VMs</li>
@@ -120,7 +68,9 @@ The goal of this session is to provide you with everything you need to get start
 <li>10:14 Terminology</li>
 <li>10:37 Container Ecosystem</li>
 </ul>
-<h3 id="1118-what-does-docker-solve">11:18 What does docker solve?</h3>
+
+<h3>11:18 What does docker solve?</h3>
+
 <ul>
 <li>11:22 Strangler Application - Architecture for dealing with Legacy/Monolith</li>
 <li>12:08 Conway Law - The social structure of your organization will be reflected on your software architecture</li>
@@ -128,13 +78,17 @@ The goal of this session is to provide you with everything you need to get start
 <li>14:30 Related Points: Lean, CI, CD, Immutable Infrastructure, Culture</li>
 <li>15:12 Amazon vs Google - Ownership vs Separate Ops team</li>
 </ul>
-<h3 id="1657-how-to-use-it-for-development-work-flow">16:57 How to use it for development work flow?</h3>
+
+<h3>16:57 How to use it for development work flow?</h3>
+
 <ul>
 <li>17:17 Multiple Containers for running a projects and a Log Server</li>
 <li>18:20 Registration and Discovery with Consul and registrator</li>
 <li>18:50 Demo: Android/Cordova development using Docker</li>
 </ul>
-<h3 id="1913-how-to-use-it-for-deploymentproduction-work-flow">19:13 How to use it for deployment/production work flow?</h3>
+
+<h3>19:13 How to use it for deployment/production work flow?</h3>
+
 <ul>
 <li>19:17 What components do you need for running Docker in Production? Scheduler, Registration, Discovery</li>
 <li>19:26 Scheduler</li>
@@ -147,21 +101,36 @@ The goal of this session is to provide you with everything you need to get start
 <li>24:35 Demo: Deploy a Micro Service using Deis</li>
 <li>25:00 Angular is Dead - Micro Virtual DOM frameworks are taking over. Mithril.js is a good one.</li>
 </ul>
-<h2 id="references">References</h2>
+
+<h2>References</h2>
+
 <ul>
 <li>Strangler Application:  <a href="http://martinfowler.com/bliki/StranglerApplication.html">http://martinfowler.com/bliki/StranglerApplication.html</a></li>
 <li>Docker Ecosystem series:  <a href="https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem">https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem</a></li>
-<li>Conway Law:<br />
+<li>Conway Law:
 <a href="http://www.thoughtworks.com/insights/blog/demystifying-conways-law">http://www.thoughtworks.com/insights/blog/demystifying-conways-law</a></li>
 <li>Inverse Conway Maneuver: <a href="http://www.thoughtworks.com/radar/techniques">http://www.thoughtworks.com/radar/techniques</a></li>
 <li>The twelve-factor app - <a href="http://12factor.net/build-release-run">http://12factor.net/build-release-run</a></li>
 <li>Lean Enterprise: How High Performance Organizations Innovate at Scale - <a href="http://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425">http://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425</a></li>
 </ul>
-<h2 id="run-this-presentation">Run this presentation</h2>
-<pre><code>docker run -p 3000:80 sanguinebio/docker-crash-course</code></pre>
+
+<h2>Run this presentation</h2>
+
+<pre><code>docker run -p 3000:80 sanguinebio/docker-crash-course
+</code></pre>
+
 <p>open <a href="http://localhost:3000">http://localhost:3000</a></p>
-<h2 id="push-this-presentation-to-dockerhub">Push this presentation to Dockerhub</h2>
-<pre><code>bin/push</code></pre>
-<h2 id="deploy-with-deis">Deploy with Deis</h2>
-<pre><code>bin/deploy</code></pre>
+
+<h2>Push this presentation to Dockerhub</h2>
+
+<pre><code>bin/push
+</code></pre>
+
+<h2>Deploy with Deis</h2>
+
+<pre><code>bin/deploy
+</code></pre>
+
 </article>
+</body>
+</html>

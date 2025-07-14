@@ -1,117 +1,70 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
+<article class="markdown-body">
+<h1>Design Document</h1>
 
-<div class="sidenav">
-	
-</div>
+<h2>Title</h2>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="design-document">Design Document</h1>
-<h2 id="title">Title</h2>
-<p>Author: <name><br />
-Team: <team name><br />
+<p>Author: <name>
+Team: <team name>
 Status: In Progress | In Review | Accepted</p>
-<h2 id="objective-and-motivation">Objective and Motivation</h2>
+
+<h2>Objective and Motivation</h2>
+
 <p><em>Discuss what we are changing and why. If relevant, link to a PRD but try to capture the gist of the motivation of the change.</em></p>
-<h2 id="proposed-solution">Proposed Solution</h2>
+
+<h2>Proposed Solution</h2>
+
 <p><em>Describe the proposed solution. Include details about new APIs being added, changes in UX, what services will require changes, etc.</em></p>
-<h2 id="alternatives-considered">Alternatives Considered</h2>
-<p><em>It's highly unlikely that there is only one solution to any given problem. Describe alternative solutions that were considered, the pros and cons of each, and why the solutions were discarded in favor of the proposed one.</em></p>
-<h2 id="metrics-and-observability">Metrics and Observability</h2>
+
+<h2>Alternatives Considered</h2>
+
+<p><em>It&rsquo;s highly unlikely that there is only one solution to any given problem. Describe alternative solutions that were considered, the pros and cons of each, and why the solutions were discarded in favor of the proposed one.</em></p>
+
+<h2>Metrics and Observability</h2>
+
 <p><em>Describe how we are going to monitor the new functionality, including existing or net new logs and metrics, and additions to service dashboards if applicable. Discuss new or modified SLOs and/or new alerts being added.</em></p>
-<h2 id="security">Security</h2>
-<p><em>Discuss any potential security implications that this change brings, e.g. "we are introducing a new ingress path into the control plane", or "we need to modify the network policy that only allows service A to talk to service B".</em></p>
-<h2 id="cogs-impact-and-billing">COGS Impact and Billing</h2>
-<p><em>Describe any impact this work will have on COGS and any mitigation plans, e.g. "this feature will increase the amount of network egress from data planes, increasing our network transfer costs, but this will be offset by us passing along this cost to customers".</em></p>
-<h2 id="rollout-plan-and-risks">Rollout Plan and Risks</h2>
+
+<h2>Security</h2>
+
+<p><em>Discuss any potential security implications that this change brings, e.g. &ldquo;we are introducing a new ingress path into the control plane&rdquo;, or &ldquo;we need to modify the network policy that only allows service A to talk to service B&rdquo;.</em></p>
+
+<h2>COGS Impact and Billing</h2>
+
+<p><em>Describe any impact this work will have on COGS and any mitigation plans, e.g. &ldquo;this feature will increase the amount of network egress from data planes, increasing our network transfer costs, but this will be offset by us passing along this cost to customers&rdquo;.</em></p>
+
+<h2>Rollout Plan and Risks</h2>
+
 <p><em>Describe the rollout plan for this feature, including the estimated timeline for various deliverables. Include what feature flags are going to be introduced to gate this functionality, and the timeline on which we will remove that feature flag. Include any functional or performance risks that this feature or its rollout can introduce, as well as a plan for rollback/disablement if necessary.</em></p>
+
 </article>
+</body>
+</html>
