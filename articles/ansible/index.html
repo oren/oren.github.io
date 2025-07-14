@@ -1,132 +1,82 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
+<article class="markdown-body">
+<h1>Configure your servers with Ansible</h1>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="configure-your-servers-with-ansible">Configure your servers with Ansible</h1>
-<p><a href="http://www.ansibleworks.com/docs/">Ansible</a> a command line tool for configuring servers. It's similar to Puppet and Chef but it's easier to use and it can also be used for deployment.<br />
+<p><a href="http://www.ansibleworks.com/docs/">Ansible</a> a command line tool for configuring servers. It&rsquo;s similar to Puppet and Chef but it&rsquo;s easier to use and it can also be used for deployment.
 Also, there is nothing to configure on your target servers since all it does is running some commands using ssh.</p>
-<h2 id="getting-up-and-running-in-20-seconds">Getting up and running in 20 seconds</h2>
-<h3 id="install">Install</h3>
+
+<h2>Getting up and running in 20 seconds</h2>
+
+<h3>Install</h3>
+
 <pre><code>git clone git://github.com/ansible/ansible.git
 cd ansible
-sudo make install</code></pre>
+sudo make install
+</code></pre>
+
 <p>type <code>ansible</code> to verify you have the Ansible command line. You should see the help info.</p>
-<hr />
-<p>Note: You'll need python 2.6 or greater with the following modules - pyYAML and jinja2.  <br />
-Read <a href="http://www.ansibleworks.com/docs/gettingstarted.html">here</a> for your specific OS.<br />
-If you are on Debian install the following:  <br />
-<code>sudo aptitude install python-jinja2 python-yaml</code>  <br />
+
+<hr>
+
+<p>Note: You&rsquo;ll need python 2.6 or greater with the following modules - pyYAML and jinja2.<br>
+Read <a href="http://www.ansibleworks.com/docs/gettingstarted.html">here</a> for your specific OS.
+If you are on Debian install the following:<br>
+<code>sudo aptitude install python-jinja2 python-yaml</code><br>
 <code>sudo aptitude install sshpass</code>  # for executing commands with sudo</p>
-<h3 id="setup">Setup</h3>
-<p>All you need to start using Ansible are two files:</p>
-<ul>
-<li>a text file with host names</li>
-<li>a yaml file with the install script</li>
-</ul>
+
+<h3>Setup</h3>
+
+<p>All you need to start using Ansible are two files:
+* a text file with host names
+* a yaml file with the install script</p>
+
 <p>prod-hosts</p>
-<pre><code class="bash language-bash">[webservers]
+
+<pre><code class="language-bash">[webservers]
 web1.example.com
 web2.example.com
 
 [dbservers]
 db1.example.com
 db2.example.com
-db2.example.com</code></pre>
+db2.example.com
+</code></pre>
+
 <p>web-server.yaml</p>
-<pre><code class="yaml language-yaml">- hosts: web1.example.com
+
+<pre><code class="language-yaml">- hosts: web1.example.com
   sudo: yes
   tasks:
 
@@ -159,11 +109,15 @@ db2.example.com</code></pre>
 
   - name: install gitolite
     command: /home/git/gitolite/install -to /home/git/bin
-    sudo_user: git</code></pre>
-<h3 id="run">Run</h3>
-<p><code>ansible-playbook -i prod-hosts  web-server.yaml -K</code>  <br />
-That's it. you'll see a nice output about each step of the installation:</p>
-<pre><code class="bash language-bash">TASK: [install debian packages]
+    sudo_user: git
+</code></pre>
+
+<h3>Run</h3>
+
+<p><code>ansible-playbook -i prod-hosts  web-server.yaml -K</code><br>
+That&rsquo;s it. you&rsquo;ll see a nice output about each step of the installation:</p>
+
+<pre><code class="language-bash">TASK: [install debian packages]
 TASK: [add git user]
 TASK: [copy bash_profile]
 TASK: [clone .dotfiles repo]
@@ -172,16 +126,25 @@ TASK: [clone gitolite repo]
 TASK: [install gitolite]
 
 PLAY RECAP 
-web1.example.com               : ok=17   changed=4    unreachable=0    failed=0</code></pre>
-<p>What are all those commands in the yaml file? Things such as <code>git</code>, <code>template</code>, <code>user</code> and <code>command</code>? Let's look at the following as an example:</p>
+web1.example.com               : ok=17   changed=4    unreachable=0    failed=0
+</code></pre>
+
+<p>What are all those commands in the yaml file? Things such as <code>git</code>, <code>template</code>, <code>user</code> and <code>command</code>? Let&rsquo;s look at the following as an example:</p>
+
 <pre><code>  - name: add git user
-    user: name=git</code></pre>
-<p><code>-name</code> is just a humen-readable text that will appear in the output.<br />
-<code>user</code> is a special Ansible command for managing unix users. Here I am creating the git user.<br />
-In Ansible's terminology it's called a Module. There are many <a href="http://www.ansibleworks.com/docs/modules.html">built-in Modules</a> and you can also <a href="http://www.ansibleworks.com/docs/moduledev.html">create you own</a>.</p>
+    user: name=git
+</code></pre>
+
+<p><code>-name</code> is just a humen-readable text that will appear in the output.
+<code>user</code> is a special Ansible command for managing unix users. Here I am creating the git user.
+In Ansible&rsquo;s terminology it&rsquo;s called a Module. There are many <a href="http://www.ansibleworks.com/docs/modules.html">built-in Modules</a> and you can also <a href="http://www.ansibleworks.com/docs/moduledev.html">create you own</a>.</p>
+
 <p>Never run a commad directly on your server. Just add a few lines to the yaml file and run the script again. Ansible is idempotent so you can safely run it again and again.</p>
-<h2 id="folder-structure">Folder structure</h2>
+
+<h2>Folder structure</h2>
+
 <p>This is how I structure my files. Read the <a href="http://www.ansibleworks.com/docs/bestpractices.html">Best Practices</a> page for more info.</p>
+
 <pre><code>install/
 ├── prod-hosts
 ├── stage-hosts
@@ -189,17 +152,26 @@ In Ansible's terminology it's called a Module. There are many <a href="http://ww
 ├── db-server.yaml
 └── templates
     ├── bash_profile
- &amp;nbsp;&amp;nbsp; └── bashrc</code></pre>
-<h2 id="here-are-some-useful-commands">Here are some useful commands</h2>
-<p><strong>Display the hosts that belong to the webserver group</strong>  <br />
+    └── bashrc
+</code></pre>
+
+<h2>Here are some useful commands</h2>
+
+<p><strong>Display the hosts that belong to the webserver group</strong><br>
 <code>ansible -i prod-hosts webservers --list-hosts</code></p>
+
 <p>output</p>
-<pre><code class="bash language-bash">web1.example.com
-web2.example.com</code></pre>
-<p><strong>Display a summary of our webserver's install script</strong>  <br />
+
+<pre><code class="language-bash">web1.example.com
+web2.example.com
+</code></pre>
+
+<p><strong>Display a summary of our webserver&rsquo;s install script</strong><br>
 <code>ansible-playbook -i prod-hosts  web-server.yaml --list-tasks</code></p>
+
 <p>output</p>
-<pre><code class="bash language-bash">playbook: web-server.yaml
+
+<pre><code class="language-bash">playbook: web-server.yaml
 
   play #1 (web1.example.com):
     install debian packages
@@ -208,7 +180,12 @@ web2.example.com</code></pre>
     clone .dotfiles repo
     run symlink-dotfiles
     clone gitolite repo
-    setup gitolite</code></pre>
-<p><strong>Exectue a command on one of the web servers</strong>  <br />
-<code>ansible -i prod-hosts web1.example.com -a "ls -l"</code></p>
+    setup gitolite
+</code></pre>
+
+<p><strong>Exectue a command on one of the web servers</strong><br>
+<code>ansible -i prod-hosts web1.example.com -a &quot;ls -l&quot;</code></p>
+
 </article>
+</body>
+</html>

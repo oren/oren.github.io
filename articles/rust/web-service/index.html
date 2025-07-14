@@ -1,135 +1,89 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a> &gt; <a href="https://oren.github.io/articles/rust/">Rust</a></li>
-</ul>
-</div>
+<article class="markdown-body">
+<h1>Production Web Service in 1 minute</h1>
 
-<div class="sidenav">
-	
-</div>
-
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="production-web-service-in-1-minute">Production Web Service in 1 minute</h1>
 <ol>
 <li>Install Rust</li>
 </ol>
+
 <pre><code>curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup install nightly
-rustup default nightly</code></pre>
-<ol start="2">
+rustup default nightly
+</code></pre>
+
+<ol>
 <li>Download the Web Service code</li>
 </ol>
+
 <pre><code>git clone https://github.com/LukeMathWalker/zero-to-production
 cd chapter04
-cargo build</code></pre>
-<ol start="3">
+cargo build
+</code></pre>
+
+<ol>
 <li>Setup the database</li>
 </ol>
+
 <pre><code>cargo install --version=0.1.0-beta.1 sqlx-cli --no-default-features --features postgres
 sqlx database create
 export DATABASE_URL=postgres://postgres:password@localhost:5432/newsletter
 sqlx migrate add create_subscriptions_table
 sqlx migrate run
-SKIP_DOCKER=true ./scripts/init_db.sh</code></pre>
-<ol start="4">
+SKIP_DOCKER=true ./scripts/init_db.sh
+</code></pre>
+
+<ol>
 <li>Create an executable for the Web Service</li>
 </ol>
-<pre><code>cargo build</code></pre>
-<ol start="5">
+
+<pre><code>cargo build
+</code></pre>
+
+<ol>
 <li>Run the Web Service</li>
 </ol>
-<pre><code>../target/debug/chapter04</code></pre>
-<ol start="6">
+
+<pre><code>../target/debug/chapter04
+</code></pre>
+
+<ol>
 <li>Test that the service is running:</li>
 </ol>
-<pre><code>curl localhost:8000/health_check -v</code></pre>
+
+<pre><code>curl localhost:8000/health_check -v
+</code></pre>
+
 <p>You should see the following:</p>
+
 <pre><code>=&gt;
 *   Trying 127.0.0.1...
 * Connected to localhost (127.0.0.1) port 8000 (#0)
@@ -142,12 +96,18 @@ SKIP_DOCKER=true ./scripts/init_db.sh</code></pre>
 &lt; content-length: 0
 &lt; date: Sun, 18 Oct 2020 21:48:04 GMT
 &lt;
-* Connection #0 to host localhost left intact</code></pre>
-<ol start="7">
+* Connection #0 to host localhost left intact
+</code></pre>
+
+<ol>
 <li>Add email subscription</li>
 </ol>
-<pre><code>curl -d 'email=johndoe%40gmail.com&amp;name=John%20Doe' localhost:8000/subscriptions -v</code></pre>
+
+<pre><code>curl -d 'email=johndoe%40gmail.com&amp;name=John%20Doe' localhost:8000/subscriptions -v
+</code></pre>
+
 <p>You should see the following:</p>
+
 <pre><code>*   Trying 127.0.0.1...
 * Connected to localhost (127.0.0.1) port 8000 (#0)
 &gt; POST /subscriptions HTTP/1.1
@@ -162,12 +122,21 @@ SKIP_DOCKER=true ./scripts/init_db.sh</code></pre>
 &lt; content-length: 0
 &lt; date: Sun, 18 Oct 2020 21:44:42 GMT
 &lt;
-* Connection #0 to host localhost left intact</code></pre>
+* Connection #0 to host localhost left intact
+</code></pre>
+
 <p>And in the web service log you should see the following:</p>
-<pre><code>{"v":0,"name":"zero2prod","msg":"[SAVING NEW SUBSCRIBER DETAILS IN THE DATABASE - EVENT] INSERT INTO subscriptions (id, …; rows: 0, elapsed: 3.598ms\n\nINSERT INTO\n  subscriptions (id, email, name, subscribed_at)\nVALUES\n  ($1, $2, $3, $4)\n","level":30,"hostname":"oren","pid":24515,"time":"2020-10-18T21:40:26.190301447+00:00","log.target":"","log.module_path":"sqlx::query","name":"John Doe","email":"johndoe@gmail.com","request_id":"75932304-c9ce-4476-83ef-358443aa3e2f","request_path":"/subscriptions","client_ip_address":"127.0.0.1:38494","user_agent":"curl/7.47.0"}</code></pre>
-<h2 id="web-service-api">Web Service API</h2>
+
+<pre><code>{&quot;v&quot;:0,&quot;name&quot;:&quot;zero2prod&quot;,&quot;msg&quot;:&quot;[SAVING NEW SUBSCRIBER DETAILS IN THE DATABASE - EVENT] INSERT INTO subscriptions (id, …; rows: 0, elapsed: 3.598ms\n\nINSERT INTO\n  subscriptions (id, email, name, subscribed_at)\nVALUES\n  ($1, $2, $3, $4)\n&quot;,&quot;level&quot;:30,&quot;hostname&quot;:&quot;oren&quot;,&quot;pid&quot;:24515,&quot;time&quot;:&quot;2020-10-18T21:40:26.190301447+00:00&quot;,&quot;log.target&quot;:&quot;&quot;,&quot;log.module_path&quot;:&quot;sqlx::query&quot;,&quot;name&quot;:&quot;John Doe&quot;,&quot;email&quot;:&quot;johndoe@gmail.com&quot;,&quot;request_id&quot;:&quot;75932304-c9ce-4476-83ef-358443aa3e2f&quot;,&quot;request_path&quot;:&quot;/subscriptions&quot;,&quot;client_ip_address&quot;:&quot;127.0.0.1:38494&quot;,&quot;user_agent&quot;:&quot;curl/7.47.0&quot;}
+</code></pre>
+
+<h2>Web Service API</h2>
+
 <ul>
 <li>Ensure that the Web Service is running: GET /health_check</li>
 <li>Add an email subscription: POST /subscriptions</li>
 </ul>
+
 </article>
+</body>
+</html>

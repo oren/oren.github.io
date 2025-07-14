@@ -1,120 +1,70 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
-
-<div class="sidenav">
-	
-</div>
-
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="build-mobile-apps-with-dockrized-nativescript">Build Mobile apps with Dockrized NativeScript</h1>
-<p><img src="nativescript.jpg" alt="nativescript" /></p>
-<p><a href="https://www.nativescript.org">NativeScript</a> is an interesting way to build Android and iOS apps using Javascript.</p>
-<p>Let's look at some alternatives:</p>
+</head>
+<body>
 <ul>
-<li><strong>Phonegap</strong> uses the DOM. NativeScript uses native UI controls.  </li>
-<li><strong>Xamarin and Titanium</strong> compile C# and JavaScript to Objective-C and Java respectively. In NativeScript the JavaScript you write is running on your phone.  </li>
-<li><strong>React Native</strong> only compiles to iOS (at the moment) and doesn't provide direct access to the native API.</li>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
+
+<article class="markdown-body">
+<h1>Build Mobile apps with Dockrized NativeScript</h1>
+
+<p><img src="nativescript.jpg" alt="nativescript" /></p>
+
+<p><a href="https://www.nativescript.org">NativeScript</a> is an interesting way to build Android and iOS apps using Javascript.</p>
+
+<p>Let&rsquo;s look at some alternatives:
+* <strong>Phonegap</strong> uses the DOM. NativeScript uses native UI controls.<br>
+* <strong>Xamarin and Titanium</strong> compile C# and JavaScript to Objective-C and Java respectively. In NativeScript the JavaScript you write is running on your phone.<br>
+* <strong>React Native</strong> only compiles to iOS (at the moment) and doesn&rsquo;t provide direct access to the native API.</p>
+
 <p>Here is an example using the native Android API:</p>
-<pre><code class="js language-js">var file = new java.io.File(path);</code></pre>
-<p>NativeScript uses the V8 (and Webkit for iOS and Windows) which injects a few global objects. In the above example, <code>java.io.File</code> is one of them. In order to access Java objects, NativeScript uses something called Android JNI which provides a bridge between C++ and Java.<br />
-<code>file</code> then becomes a proxy object that points to a Java Object.<br />
-Is there any performance penalty here? Indeed, but it's only %10 precent slower than native applications.</p>
+
+<pre><code class="language-js">var file = new java.io.File(path);
+</code></pre>
+
+<p>NativeScript uses the V8 (and Webkit for iOS and Windows) which injects a few global objects. In the above example, <code>java.io.File</code> is one of them. In order to access Java objects, NativeScript uses something called Android JNI which provides a bridge between C++ and Java.
+<code>file</code> then becomes a proxy object that points to a Java Object.
+Is there any performance penalty here? Indeed, but it&rsquo;s only %10 precent slower than native applications.</p>
+
 <p>Two more interesting points about NativeScript:</p>
+
 <ul>
 <li>NPM and CommonJS friendly - if you use Node.js you will feel at home.</li>
 <li>CSS for styling - you can use regular CSS syntax for styling your UI.</li>
 </ul>
-<p>I wanted to explore NativeScript but didn't want to install and configure Java, Android SDK, Ant, etc. Life is too short so I created a Docker container with everything needed to run it.</p>
+
+<p>I wanted to explore NativeScript but didn&rsquo;t want to install and configure Java, Android SDK, Ant, etc. Life is too short so I created a Docker container with everything needed to run it.</p>
+
 <p><a href="https://github.com/oren/docker-nativescript">Try it</a> and let me know what you think!</p>
+
 <p><img src="https://raw.githubusercontent.com/oren/docker-nativescript/master/demo-video.gif" alt="demo-video" /></p>
+
 </article>
+</body>
+</html>

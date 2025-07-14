@@ -1,410 +1,658 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
+<article class="markdown-body">
+<p>﻿# The Startup CTO&rsquo;s Handbook</p>
 
-<div class="sidenav">
-	
-</div>
+<p>Table of contents of the book <a href="https://www.amazon.com/dp/1955811563">The Startup CTO&rsquo;s Handbook: Essential skills and best practices for high performing engineering teams</a>. The book is also available as a <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md">single markdown file</a>.</p>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<p>﻿# The Startup CTO's Handbook</p>
-<p>Table of contents of the book <a href="https://www.amazon.com/dp/1955811563">The Startup CTO's Handbook: Essential skills and best practices for high performing engineering teams</a>. The book is also available as a <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md">single markdown file</a>.</p>
-<h2 id="1-introductionhttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdintroduction">1. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#introduction">Introduction</a></h2>
-<h3 id="the-author">The Author</h3>
-<h3 id="using-this-book">Using this Book</h3>
-<h2 id="2-business-processeshttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdbusiness-processes">2. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#business-processes">Business Processes</a></h2>
-<h2 id="3-people--culturehttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdpeople--culture">3. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#people--culture">People & Culture</a></h2>
-<h3 id="31-management-fundamentals">3.1 Management Fundamentals</h3>
-<h4 id="the-professional-skill-tree">The Professional Skill Tree</h4>
-<h4 id="kaizen-continuous-improvement">Kaizen: Continuous Improvement</h4>
-<h4 id="coaching">Coaching</h4>
-<h4 id="find-a-management-mentor">Find a Management Mentor</h4>
-<h4 id="11-meetings">1:1 MEETINGS</h4>
-<h4 id="skip-level-meetings">SKIP-LEVEL MEETINGS</h4>
-<h4 id="coaching-managers">COACHING MANAGERS</h4>
-<h4 id="11-meetings-with-engineers">1:1 Meetings with Engineers</h4>
-<h5 id="11-content-and-agenda">1:1 Content and Agenda</h5>
-<h5 id="11-playbooks">1:1 Playbooks</h5>
-<h5 id="radical-candor">Radical Candor</h5>
-<h4 id="benefits-of-overcommunication">Benefits of Overcommunication</h4>
-<h5 id="email">EMAIL</h5>
-<h5 id="synchronous-chat">SYNCHRONOUS CHAT</h5>
-<h5 id="asynchronous-communication">ASYNCHRONOUS COMMUNICATION</h5>
-<h5 id="asynchronous-culture">ASYNCHRONOUS CULTURE</h5>
-<h5 id="documentation">DOCUMENTATION</h5>
-<h5 id="on-acronyms-at-work">On Acronyms at Work</h5>
-<h4 id="meetings-and-time-management">Meetings and Time Management</h4>
-<h5 id="time-management">TIME MANAGEMENT</h5>
-<h5 id="meeting-timing">MEETING TIMING</h5>
-<h5 id="engineers-time-recommendation">ENGINEER'S TIME RECOMMENDATION</h5>
-<h4 id="the-hippo">The HIPPO</h4>
-<h5 id="to-do-lists">TO-DO LISTS</h5>
-<h5 id="calendar-retrospectives-and-time-balance">CALENDAR RETROSPECTIVES AND TIME BALANCE</h5>
-<h4 id="mini-management-frameworks">Mini Management Frameworks</h4>
-<h5 id="three-stages-of-management-problem-solving">THREE STAGES OF MANAGEMENT PROBLEM-SOLVING</h5>
-<h5 id="team-based-decisioning-models">TEAM-BASED DECISIONING MODELS</h5>
-<h5 id="two-types-of-decisions">Two Types of Decisions</h5>
-<h5 id="breaking-ties">BREAKING TIES</h5>
-<h5 id="task-triage-the-urgentimportant-matrix">Task Triage The Urgent/Important Matrix</h5>
-<h5 id="people-puzzle-solver">PEOPLE-PUZZLE SOLVER</h5>
-<h5 id="joining-a-team">Joining a Team</h5>
-<h5 id="being-promoted-into-managementleadership">Being Promoted into Management/Leadership</h5>
-<h5 id="actionable-management-tips">Actionable Management Tips</h5>
-<h5 id="being-hired-to-lead">BEING HIRED TO LEAD</h5>
-<h5 id="giving-technical-advice-to-friendsstrangers">Giving Technical Advice to Friends/Strangers</h5>
-<h5 id="traffic-funnels-and-umbrellas">Traffic: Funnels and Umbrellas</h5>
-<h5 id="your-first-team">Your First Team</h5>
-<h4 id="working-with-the-ceo">Working With The CEO</h4>
-<h5 id="aligning-specific-objectives">ALIGNING SPECIFIC OBJECTIVES</h5>
-<h5 id="aligning-business-direction">ALIGNING BUSINESS DIRECTION</h5>
-<h5 id="aligning-culture-and-values">ALIGNING CULTURE AND VALUES</h5>
-<h4 id="delivering-bad-news">Delivering Bad News</h4>
-<h4 id="speaking-the-language-of-your-audience">Speaking the Language of Your Audience</h4>
-<h4 id="technical-communication-best-practices">Technical Communication Best Practices</h4>
-<h3 id="32-hiring-and-interviewing">3.2 Hiring and Interviewing</h3>
-<h4 id="hire-like-a-startup">Hire like a Startup</h4>
-<h4 id="speed-is-your-friend">Speed is Your Friend!</h4>
-<h4 id="when-to-hire-headcount-planning">WHEN TO HIRE: HEADCOUNT PLANNING</h4>
-<h5 id="role-needteam-gap">ROLE NEED/TEAM GAP</h5>
-<h5 id="role-prioritization-and-timing">ROLE PRIORITIZATION AND TIMING</h5>
-<h5 id="budgeting-for-new-hires">BUDGETING FOR NEW HIRES</h5>
-<h4 id="hiring-goals-and-objectives">Hiring Goals and Objectives</h4>
-<h5 id="efficiency">EFFICIENCY</h5>
-<h5 id="success-rate">SUCCESS RATE</h5>
-<h5 id="candidate-experience">CANDIDATE EXPERIENCE</h5>
-<h5 id="equitable-opportunities">EQUITABLE OPPORTUNITIES</h5>
-<h5 id="scalability">SCALABILITY</h5>
-<h4 id="the-job-description">The Job Description</h4>
-<h5 id="surveying-the-market">Surveying the Market</h5>
-<h5 id="creating-clarity-on-a-role">Creating Clarity on a Role</h5>
-<h5 id="job-descriptions-as-an-advertisement">Job Descriptions as an Advertisement</h5>
-<h4 id="sourcing-candidates">Sourcing Candidates</h4>
-<h5 id="inbound-recruiting">INBOUND RECRUITING</h5>
-<h5 id="outbound-recruiting">OUTBOUND RECRUITING</h5>
-<h5 id="referrals">REFERRALS</h5>
-<h4 id="a-note-on-the-mathematics-of-incentivizing-referrals">A Note on the Mathematics of Incentivizing Referrals</h4>
-<h4 id="interviewing-best-practices">Interviewing Best Practices</h4>
-<h5 id="rejected-candidates-opinions-matter">REJECTED CANDIDATES OPINIONS MATTER</h5>
-<h5 id="be-timely-and-make-scheduling-easy">BE TIMELY AND MAKE SCHEDULING EASY</h5>
-<h5 id="ask-only-new-questions">ASK ONLY NEW QUESTIONS</h5>
-<h5 id="avoid-biases">AVOID BIASES</h5>
-<h5 id="usage-of-an-applicant-tracking-system-ats">USAGE OF AN APPLICANT TRACKING SYSTEM (ATS)</h5>
-<h5 id="selling-candidates">SELLING CANDIDATES</h5>
-<h4 id="intake-forms">Intake Forms</h4>
-<h5 id="intake-form-questionnaire">Intake Form Questionnaire</h5>
-<h5 id="phone-screen">Phone Screen</h5>
-<h4 id="culture-interview">Culture Interview</h4>
-<h4 id="coding-challenge">Coding Challenge</h4>
-<h5 id="predictive-ability">Predictive Ability</h5>
-<h5 id="candidate-experience-and-drop-off">Candidate Experience and Drop-Off</h5>
-<h4 id="technical-interviews">Technical Interviews</h4>
-<h5 id="methodology">METHODOLOGY</h5>
-<h5 id="technical-focus-interview-guide">Technical Focus Interview Guide</h5>
-<h5 id="hiring-juniors-vs-seniors">Hiring Juniors vs. Seniors</h5>
-<h5 id="the-interview-itself">The Interview Itself</h5>
-<h4 id="executive-interviews">Executive interviews</h4>
-<h4 id="reference-checks">Reference Checks</h4>
-<h5 id="timing">TIMING</h5>
-<h5 id="content">CONTENT</h5>
-<h5 id="making-an-offer">Making an Offer</h5>
-<h5 id="presenting-the-offer">PRESENTING THE OFFER</h5>
-<h3 id="33-onboarding">3.3 Onboarding</h3>
-<h4 id="boy-scout-rule-onboarding">Boy Scout Rule: Onboarding</h4>
-<h5 id="onboarding-to-the-team-vs-the-company">Onboarding to the Team vs. the Company</h5>
-<h5 id="onboarding-documentation">Onboarding Documentation</h5>
-<h6 id="the-engineering-guidebook">THE ENGINEERING GUIDEBOOK</h6>
-<h6 id="welcome-to-your-company-name-engineering-day-1-guide">WELCOME TO [YOUR COMPANY NAME] ENGINEERING, DAY 1 GUIDE</h6>
-<h5 id="onboarding-milestones-aka-the-ninety-day-scorecard">Onboarding Milestones aka The Ninety-Day Scorecard</h5>
-<h6 id="the-scorecard">THE SCORECARD</h6>
-<h6 id="handling-a-scorecard-failure">HANDLING A SCORECARD FAILURE</h6>
-<h6 id="letting-a-new-employee-go">LETTING A NEW EMPLOYEE GO</h6>
-<h5 id="onboarding-timeline">Onboarding Timeline</h5>
-<h3 id="34-performance-management">3.4 Performance Management</h3>
-<h5 id="competency-matrix-and-leveling">Competency Matrix and Leveling</h5>
-<h6 id="overview">OVERVIEW</h6>
-<h6 id="creating-the-competency-matrix">Creating the Competency Matrix</h6>
-<h6 id="compensation-and-leveling">Compensation and Leveling</h6>
-<h6 id="competitive-rates--market-rate-data">Competitive Rates &amp; Market Rate Data</h6>
-<h5 id="job-titles">Job Titles</h5>
-<h6 id="engineering-individual-contributor-titles">Engineering Individual Contributor Titles</h6>
-<h6 id="manager-titles">Manager Titles</h6>
-<h5 id="performance-reviews-surveys-and-promotions">Performance Reviews, Surveys and Promotions</h5>
-<h6 id="review-cadence">Review Cadence</h6>
-<h6 id="reviewer-selection">Reviewer Selection</h6>
-<h6 id="review-questions">Review Questions</h6>
-<h6 id="review-format">Review Format</h6>
-<h6 id="result-calculation">Result Calculation</h6>
-<h6 id="result-discussion">Result Discussion</h6>
-<h6 id="compensation-adjustment-rollout">Compensation Adjustment Rollout</h6>
-<h4 id="performance-improvement-plans-pips">Performance Improvement Plans (PIPs)</h4>
-<h4 id="changing-seats">Changing Seats</h4>
-<h5 id="brilliant-jerks">Brilliant Jerks</h5>
-<h4 id="firing">Firing</h4>
-<h3 id="35-team-makeup">3.5 Team Makeup</h3>
-<h4 id="seniority-makeup">Seniority Makeup</h4>
-<h4 id="technical-specialization">Technical Specialization</h4>
-<h4 id="project-maintenance-the-two-crews-philosophy">Project Maintenance: The Two Crews Philosophy</h4>
-<h4 id="team-organization">Team Organization</h4>
-<h4 id="managing-remote-teams">Managing Remote Teams</h4>
-<h5 id="documentation-1">Documentation</h5>
-<h5 id="asynchronous-work">Asynchronous Work</h5>
-<h5 id="in-person-meetups">In-Person Meetups</h5>
-<h5 id="time-zone-overlap">Time Zone Overlap</h5>
-<h5 id="create-social-opportunities">Create Social Opportunities</h5>
-<h5 id="camera-on">Camera On</h5>
-<h5 id="recording-meetings">Recording Meetings</h5>
-<h3 id="36-leadership-responsibilities">3.6 Leadership Responsibilities</h3>
-<h4 id="product-and-design-teams">Product and Design Teams</h4>
-<h4 id="design-systems">Design Systems</h4>
-<h4 id="prds-and-specs">PRDs and Specs</h4>
-<h4 id="epd">EPD</h4>
-<h4 id="product-vs-project-management">Product vs. Project Management</h4>
-<h4 id="managing-managers-and-manager-training">Managing Managers and Manager Training</h4>
-<h4 id="finances-and-budgeting">Finances and Budgeting</h4>
-<h4 id="the-budget">The Budget</h4>
-<h4 id="working-with-your-cfo">Working with your CFO</h4>
-<h4 id="measuring-engineering-velocityhealth">Measuring Engineering Velocity/Health</h4>
-<h5 id="cycle-time">Cycle Time</h5>
-<h5 id="work-time-allocation">Work Time Allocation</h5>
-<h4 id="fundraising-and-due-diligence">Fundraising and Due Diligence</h4>
-<h4 id="vendor-management">Vendor Management</h4>
-<h5 id="self-service-signup-tools">Self-Service Signup Tools</h5>
-<h5 id="enterprise-tooling">Enterprise Tooling</h5>
-<h6 id="sales-qualification">Sales Qualification</h6>
-<h6 id="negotiation">Negotiation</h6>
-<h6 id="signing">Signing</h6>
-<h6 id="post-sales">Post-Sales</h6>
-<h3 id="37-which-type-of-startup-cto-are-you">3.7 Which Type of Startup CTO Are You?</h3>
-<h4 id="the-tech-focused-cto-aka-the-chief-architect">The Tech-Focused CTO <em>AKA The Chief Architect</em></h4>
-<h4 id="the-people-focused-cto-aka-the-vp-of-engineering-vpe">The People-Focused CTO <em>AKA the VP of Engineering (VPE)</em></h4>
-<h4 id="the-externally-focused-cto-aka-the-head-of-technical-salesmarketing">The Externally Focused CTO <em>AKA The Head of Technical Sales/Marketing</em></h4>
-<h5 id="transitioning-between-types">Transitioning Between Types</h5>
-<h2 id="4-technical-team-managementhttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdtechnical-team-management">4. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#technical-team-management">Technical Team Management</a></h2>
-<h3 id="41-tech-culture-and-general-philosophy">4.1 Tech Culture and General Philosophy</h3>
-<h4 id="ten-pillars-of-tech-culture">Ten Pillars of Tech Culture</h4>
-<h3 id="42-tech-debt">4.2 Tech Debt</h3>
-<h4 id="tech-debt-and-the-product-lifecycle">Tech Debt And The Product Lifecycle</h4>
-<h5 id="defining-tech-debt">Defining Tech Debt</h5>
-<h5 id="tech-debt-bankruptcy">Tech Debt Bankruptcy</h5>
-<h5 id="measuring-debt-the-debt-inventory">Measuring Debt The Debt Inventory</h5>
-<h5 id="strategies-for-paying-down-debt">Strategies For Paying Down Debt</h5>
-<h6 id="just-in-time-payment">Just-In-Time Payment</h6>
-<h6 id="periodic-paydown">Periodic Paydown</h6>
-<h5 id="continuous-paydown">Continuous Paydown</h5>
-<h4 id="communication-of-tech-debt">Communication of Tech Debt</h4>
-<h3 id="43-technology-roadmap">4.3 Technology Roadmap</h3>
-<h4 id="timeframes">Timeframes</h4>
-<h5 id="short-termhorizon-one">Short-Term/Horizon One</h5>
-<h5 id="medium-termhorizon-two">Medium-Term/Horizon Two</h5>
-<h5 id="long-termhorizon-three">Long-Term/Horizon Three</h5>
-<h5 id="timeline-communication">Timeline Communication</h5>
-<h3 id="44-tech-process">4.4 Tech Process</h3>
-<h4 id="workflow">Workflow</h4>
-<h5 id="waterfall">Waterfall</h5>
-<h5 id="agilescrum">Agile/Scrum</h5>
-<h5 id="shape-up">Shape Up</h5>
-<h4 id="engineering-estimates">Engineering Estimates</h4>
-<h4 id="burndown-charts">Burndown Charts</h4>
-<h4 id="choosing-a-workflow">Choosing A Workflow</h4>
-<h4 id="cooldowninnovation-sprints">Cooldown/Innovation Sprints</h4>
-<h4 id="technical-planning-and-specifications">Technical Planning And Specifications</h4>
-<h5 id="tech-spec-leads">Tech Spec Leads</h5>
-<h5 id="time-for-planning">Time For Planning</h5>
-<h4 id="prototyping-as-part-of-spec-writing">Prototyping as Part of Spec Writing!</h4>
-<h4 id="tech-spec-content">Tech Spec Content</h4>
-<h4 id="tech-spec-approval">Tech Spec Approval</h4>
-<h5 id="review-goals">Review Goals</h5>
-<h5 id="review-process">Review Process</h5>
-<h5 id="leaders-in-specification-review-meetings">Leaders In Specification Review Meetings</h5>
-<h5 id="technical-specifications-as-documentation">Technical Specifications As Documentation</h5>
-<h3 id="45-developer-experience-dx">4.5 Developer Experience (DX)</h3>
-<h4 id="prioritizing-developer-experience">Prioritizing Developer Experience</h4>
-<h4 id="easy-developer-experience-wins">Easy Developer Experience Wins</h4>
-<h4 id="changing-tools-for-developer-experience">Changing Tools For Developer Experience</h4>
-<h2 id="5-tech-architecturehttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdtech-architecture">5 <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#tech-architecture">Tech Architecture</a></h2>
-<h3 id="51-architecture">5.1 Architecture</h3>
-<h4 id="domain-driven-design">Domain-Driven Design</h4>
-<h5 id="high-level-patterns">High-Level Patterns</h5>
-<h6 id="monolithic-architecture">Monolithic Architecture</h6>
-<h6 id="service-oriented-architecture-soamicroservices">Service-Oriented Architecture (Soa)/Microservices</h6>
-<h6 id="choosing-between-a-service-oriented-architecture-and-a-monolith">Choosing Between A Service-Oriented Architecture And A Monolith</h6>
-<h6 id="source-control-for-service-oriented-architectures-monorepo-and-manyrepo">Source Control for Service-Oriented Architectures: monorepo and manyrepo</h6>
-<h6 id="the-distributed-monolith">The Distributed Monolith</h6>
-<h4 id="writing-readable-good-code">Writing Readable, Good Code</h4>
-<h5 id="choice-of-language-and-ecosystem">Choice Of Language And Ecosystem</h5>
-<h5 id="code-style-and-formatting">Code Style And Formatting</h5>
-<h5 id="static-code-analysis">Static Code Analysis</h5>
-<h5 id="greenfield-vs-brownfield">Greenfield vs. Brownfield</h5>
-<h4 id="coding-patterns">Coding Patterns</h4>
-<h5 id="object-oriented-programming-oop">Object-Oriented Programming (OOP)</h5>
-<h5 id="purity">Purity</h5>
-<h5 id="functional-programming">Functional Programming</h5>
-<h5 id="extreme-programming-and-test-driven-development-tdd">Extreme Programming And Test-Driven Development (TDD)</h5>
-<h5 id="dependency-injection">Dependency Injection</h5>
-<h5 id="domain-driven-design-1">Domain-Driven Design</h5>
-<h4 id="api-contracts">API Contracts</h4>
-<h5 id="api-design-governance">API Design Governance</h5>
-<h5 id="api-architecture">API Architecture</h5>
-<h5 id="http-based-apis">HTTP-Based APIs</h5>
-<h5 id="non-http-apis">Non-HTTP APIs</h5>
-<h4 id="documentation-2">Documentation</h4>
-<h4 id="idempotency">Idempotency</h4>
-<h5 id="idempotency-keys">Idempotency Keys</h5>
-<h3 id="52-data-and-analytics">5.2 Data And Analytics</h3>
-<h4 id="transactional-data">Transactional Data</h4>
-<h4 id="analytical-business-intelligence-data">Analytical Business Intelligence Data</h4>
-<h4 id="behavioral-data">Behavioral Data</h4>
-<h4 id="general-tips-and-best-practices-for-architecture-design">General Tips And Best Practices For Architecture Design</h4>
-<h5 id="put-business-logic-in-the-backend">Put Business Logic In The Backend</h5>
-<h5 id="make-services-externalizable">Make Services Externalizable</h5>
-<h5 id="use-as-few-languages-as-possible">Use As Few Languages As Possible</h5>
-<h3 id="53-tools">5.3 Tools</h3>
-<h4 id="implementing-internal-technology-radar">Implementing Internal Technology Radar</h4>
-<h4 id="boring-technology">Boring Technology</h4>
-<h4 id="tool-cost">Tool Cost</h4>
-<h4 id="budget">Budget</h4>
-<h4 id="tracking">Tracking</h4>
-<h3 id="54-devops">5.4 DevOps</h3>
-<h4 id="four-key-metrics-dora">Four Key Metrics (DORA)</h4>
-<h4 id="reproducibility">Reproducibility</h4>
-<h4 id="containerization">Containerization</h4>
-<h5 id="container-management-best-practices">Container Management Best Practices</h5>
-<h6 id="design-containers-to-build-oncerun-anywhere">Design Containers to Build Once/Run Anywhere</h6>
-<h6 id="build-images-in-ci">Build Images in CI</h6>
-<h6 id="use-a-hosted-registry">Use a Hosted Registry</h6>
-<h6 id="keep-image-sizes-as-small-as-possible">Keep Image Sizes as Small as Possible</h6>
-<h5 id="dockerfile-best-practices">Dockerfile Best Practices</h5>
-<h5 id="container-orchestration">Container Orchestration</h5>
-<h6 id="hosted-container-management">Hosted Container Management</h6>
-<h6 id="self-managedkubernetes">Self-Managed/Kubernetes</h6>
-<h5 id="clickops-vs-iac">ClickOps vs. IaC</h5>
-<h4 id="continuous-integration">Continuous Integration</h4>
-<h4 id="continuous-deployment">Continuous Deployment</h4>
-<h4 id="feature-branch-environments">Feature Branch Environments</h4>
-<h4 id="managing-dns">Managing DNS</h4>
-<h4 id="decoupling-shipping-code-from-shipping-features-feature-toggles">Decoupling Shipping Code from Shipping Features (Feature Toggles)</h4>
-<h4 id="system-monitoring-apms-and-rums">System Monitoring: APMs and RUMs</h4>
-<h3 id="55-testing">5.5 Testing</h3>
-<h4 id="testingquality-assurance-teams">Testing/Quality Assurance Teams</h4>
-<h4 id="test-quality">Test Quality</h4>
-<h4 id="what-to-test">What To Test</h4>
-<h4 id="testing-type-comparison">Testing Type Comparison</h4>
-<h4 id="unit-tests">Unit Tests</h4>
-<h4 id="integration-tests">Integration Tests</h4>
-<h4 id="end-to-end-tests">End-To-End Tests</h4>
-<h5 id="visual-regression-testing">Visual Regression Testing</h5>
-<h5 id="manual-testing">Manual Testing</h5>
-<h5 id="specialized-manual-testing">Specialized Manual Testing</h5>
-<h5 id="unspecialized-manual-testing">Unspecialized Manual Testing</h5>
-<h4 id="semi-automated-testing">Semi-Automated Testing</h4>
-<h3 id="56-source-control">5.6 Source Control</h3>
-<h4 id="peer-review">Peer Review</h4>
-<h4 id="ship-show-ask">Ship, Show, Ask</h4>
-<h4 id="branching-models">Branching Models</h4>
-<h4 id="long-lived-vs-short-lived-branches">Long-Lived Vs. Short-Lived Branches</h4>
-<h3 id="57-production-escalations">5.7 Production Escalations</h3>
-<h4 id="implementing-escalators">Implementing Escalators</h4>
-<h4 id="root-cause-analysis-rca-exercises">ROOT CAUSE ANALYSIS (RCA) EXERCISES</h4>
-<h5 id="rca-documents">RCA Documents</h5>
-<h5 id="rca-meetings-and-timeline">RCA Meetings And Timeline</h5>
-<h5 id="choosing-the-rca-lead-author">Choosing the RCA Lead Author</h5>
-<h5 id="scheduling-rca-remediation-work">Scheduling RCA Remediation Work</h5>
-<h3 id="58-it">5.8 IT</h3>
-<h3 id="59-security-and-compliance">5.9 Security and Compliance</h3>
-<h4 id="auth-security-terminology">Auth Security Terminology</h4>
-<h4 id="security-at-startups">Security At Startups</h4>
-<h4 id="compliance">Compliance</h4>
-<h2 id="6-conclusion-measuring-successhttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdconclusion-measuring-success">6. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#conclusion-measuring-success">Conclusion: Measuring Success</a></h2>
-<h2 id="7-book-referenceshttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdbook-references">7. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#book-references">Book References</a></h2>
-<h3 id="71-digital-references">7.1 Digital References</h3>
-<h2 id="8-about-the-authorhttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdabout-the-author">8. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#about-the-author">About the author</a></h2>
-<h2 id="9-about-the-publisherhttpsgithubcomzachgoldbergstartup-cto-handbookblobmainstartupctohandbookmdabout-the-publisher">9. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#about-the-publisher">About the publisher</a></h2>
+<h2>1. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#introduction">Introduction</a></h2>
+
+<h3>The Author</h3>
+
+<h3>Using this Book</h3>
+
+<h2>2. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#business-processes">Business Processes</a></h2>
+
+<h2>3. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#people--culture">People &amp; Culture</a></h2>
+
+<h3>3.1 Management Fundamentals</h3>
+
+<h4>The Professional Skill Tree</h4>
+
+<h4>Kaizen: Continuous Improvement</h4>
+
+<h4>Coaching</h4>
+
+<h4>Find a Management Mentor</h4>
+
+<h4>1:1 MEETINGS</h4>
+
+<h4>SKIP-LEVEL MEETINGS</h4>
+
+<h4>COACHING MANAGERS</h4>
+
+<h4>1:1 Meetings with Engineers</h4>
+
+<h5>1:1 Content and Agenda</h5>
+
+<h5>1:1 Playbooks</h5>
+
+<h5>Radical Candor</h5>
+
+<h4>Benefits of Overcommunication</h4>
+
+<h5>EMAIL</h5>
+
+<h5>SYNCHRONOUS CHAT</h5>
+
+<h5>ASYNCHRONOUS COMMUNICATION</h5>
+
+<h5>ASYNCHRONOUS CULTURE</h5>
+
+<h5>DOCUMENTATION</h5>
+
+<h5>On Acronyms at Work</h5>
+
+<h4>Meetings and Time Management</h4>
+
+<h5>TIME MANAGEMENT</h5>
+
+<h5>MEETING TIMING</h5>
+
+<h5>ENGINEER&rsquo;S TIME RECOMMENDATION</h5>
+
+<h4>The HIPPO</h4>
+
+<h5>TO-DO LISTS</h5>
+
+<h5>CALENDAR RETROSPECTIVES AND TIME BALANCE</h5>
+
+<h4>Mini Management Frameworks</h4>
+
+<h5>THREE STAGES OF MANAGEMENT PROBLEM-SOLVING</h5>
+
+<h5>TEAM-BASED DECISIONING MODELS</h5>
+
+<h5>Two Types of Decisions</h5>
+
+<h5>BREAKING TIES</h5>
+
+<h5>Task Triage The Urgent/Important Matrix</h5>
+
+<h5>PEOPLE-PUZZLE SOLVER</h5>
+
+<h5>Joining a Team</h5>
+
+<h5>Being Promoted into Management/Leadership</h5>
+
+<h5>Actionable Management Tips</h5>
+
+<h5>BEING HIRED TO LEAD</h5>
+
+<h5>Giving Technical Advice to Friends/Strangers</h5>
+
+<h5>Traffic: Funnels and Umbrellas</h5>
+
+<h5>Your First Team</h5>
+
+<h4>Working With The CEO</h4>
+
+<h5>ALIGNING SPECIFIC OBJECTIVES</h5>
+
+<h5>ALIGNING BUSINESS DIRECTION</h5>
+
+<h5>ALIGNING CULTURE AND VALUES</h5>
+
+<h4>Delivering Bad News</h4>
+
+<h4>Speaking the Language of Your Audience</h4>
+
+<h4>Technical Communication Best Practices</h4>
+
+<h3>3.2 Hiring and Interviewing</h3>
+
+<h4>Hire like a Startup</h4>
+
+<h4>Speed is Your Friend!</h4>
+
+<h4>WHEN TO HIRE: HEADCOUNT PLANNING</h4>
+
+<h5>ROLE NEED/TEAM GAP</h5>
+
+<h5>ROLE PRIORITIZATION AND TIMING</h5>
+
+<h5>BUDGETING FOR NEW HIRES</h5>
+
+<h4>Hiring Goals and Objectives</h4>
+
+<h5>EFFICIENCY</h5>
+
+<h5>SUCCESS RATE</h5>
+
+<h5>CANDIDATE EXPERIENCE</h5>
+
+<h5>EQUITABLE OPPORTUNITIES</h5>
+
+<h5>SCALABILITY</h5>
+
+<h4>The Job Description</h4>
+
+<h5>Surveying the Market</h5>
+
+<h5>Creating Clarity on a Role</h5>
+
+<h5>Job Descriptions as an Advertisement</h5>
+
+<h4>Sourcing Candidates</h4>
+
+<h5>INBOUND RECRUITING</h5>
+
+<h5>OUTBOUND RECRUITING</h5>
+
+<h5>REFERRALS</h5>
+
+<h4>A Note on the Mathematics of Incentivizing Referrals</h4>
+
+<h4>Interviewing Best Practices</h4>
+
+<h5>REJECTED CANDIDATES OPINIONS MATTER</h5>
+
+<h5>BE TIMELY AND MAKE SCHEDULING EASY</h5>
+
+<h5>ASK ONLY NEW QUESTIONS</h5>
+
+<h5>AVOID BIASES</h5>
+
+<h5>USAGE OF AN APPLICANT TRACKING SYSTEM (ATS)</h5>
+
+<h5>SELLING CANDIDATES</h5>
+
+<h4>Intake Forms</h4>
+
+<h5>Intake Form Questionnaire</h5>
+
+<h5>Phone Screen</h5>
+
+<h4>Culture Interview</h4>
+
+<h4>Coding Challenge</h4>
+
+<h5>Predictive Ability</h5>
+
+<h5>Candidate Experience and Drop-Off</h5>
+
+<h4>Technical Interviews</h4>
+
+<h5>METHODOLOGY</h5>
+
+<h5>Technical Focus Interview Guide</h5>
+
+<h5>Hiring Juniors vs. Seniors</h5>
+
+<h5>The Interview Itself</h5>
+
+<h4>Executive interviews</h4>
+
+<h4>Reference Checks</h4>
+
+<h5>TIMING</h5>
+
+<h5>CONTENT</h5>
+
+<h5>Making an Offer</h5>
+
+<h5>PRESENTING THE OFFER</h5>
+
+<h3>3.3 Onboarding</h3>
+
+<h4>Boy Scout Rule: Onboarding</h4>
+
+<h5>Onboarding to the Team vs. the Company</h5>
+
+<h5>Onboarding Documentation</h5>
+
+<h6>THE ENGINEERING GUIDEBOOK</h6>
+
+<h6>WELCOME TO [YOUR COMPANY NAME] ENGINEERING, DAY 1 GUIDE</h6>
+
+<h5>Onboarding Milestones aka The Ninety-Day Scorecard</h5>
+
+<h6>THE SCORECARD</h6>
+
+<h6>HANDLING A SCORECARD FAILURE</h6>
+
+<h6>LETTING A NEW EMPLOYEE GO</h6>
+
+<h5>Onboarding Timeline</h5>
+
+<h3>3.4 Performance Management</h3>
+
+<h5>Competency Matrix and Leveling</h5>
+
+<h6>OVERVIEW</h6>
+
+<h6>Creating the Competency Matrix</h6>
+
+<h6>Compensation and Leveling</h6>
+
+<h6>Competitive Rates &amp; Market Rate Data</h6>
+
+<h5>Job Titles</h5>
+
+<h6>Engineering Individual Contributor Titles</h6>
+
+<h6>Manager Titles</h6>
+
+<h5>Performance Reviews, Surveys and Promotions</h5>
+
+<h6>Review Cadence</h6>
+
+<h6>Reviewer Selection</h6>
+
+<h6>Review Questions</h6>
+
+<h6>Review Format</h6>
+
+<h6>Result Calculation</h6>
+
+<h6>Result Discussion</h6>
+
+<h6>Compensation Adjustment Rollout</h6>
+
+<h4>Performance Improvement Plans (PIPs)</h4>
+
+<h4>Changing Seats</h4>
+
+<h5>Brilliant Jerks</h5>
+
+<h4>Firing</h4>
+
+<h3>3.5 Team Makeup</h3>
+
+<h4>Seniority Makeup</h4>
+
+<h4>Technical Specialization</h4>
+
+<h4>Project Maintenance: The Two Crews Philosophy</h4>
+
+<h4>Team Organization</h4>
+
+<h4>Managing Remote Teams</h4>
+
+<h5>Documentation</h5>
+
+<h5>Asynchronous Work</h5>
+
+<h5>In-Person Meetups</h5>
+
+<h5>Time Zone Overlap</h5>
+
+<h5>Create Social Opportunities</h5>
+
+<h5>Camera On</h5>
+
+<h5>Recording Meetings</h5>
+
+<h3>3.6 Leadership Responsibilities</h3>
+
+<h4>Product and Design Teams</h4>
+
+<h4>Design Systems</h4>
+
+<h4>PRDs and Specs</h4>
+
+<h4>EPD</h4>
+
+<h4>Product vs. Project Management</h4>
+
+<h4>Managing Managers and Manager Training</h4>
+
+<h4>Finances and Budgeting</h4>
+
+<h4>The Budget</h4>
+
+<h4>Working with your CFO</h4>
+
+<h4>Measuring Engineering Velocity/Health</h4>
+
+<h5>Cycle Time</h5>
+
+<h5>Work Time Allocation</h5>
+
+<h4>Fundraising and Due Diligence</h4>
+
+<h4>Vendor Management</h4>
+
+<h5>Self-Service Signup Tools</h5>
+
+<h5>Enterprise Tooling</h5>
+
+<h6>Sales Qualification</h6>
+
+<h6>Negotiation</h6>
+
+<h6>Signing</h6>
+
+<h6>Post-Sales</h6>
+
+<h3>3.7 Which Type of Startup CTO Are You?</h3>
+
+<h4>The Tech-Focused CTO <em>AKA The Chief Architect</em></h4>
+
+<h4>The People-Focused CTO <em>AKA the VP of Engineering (VPE)</em></h4>
+
+<h4>The Externally Focused CTO <em>AKA The Head of Technical Sales/Marketing</em></h4>
+
+<h5>Transitioning Between Types</h5>
+
+<h2>4. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#technical-team-management">Technical Team Management</a></h2>
+
+<h3>4.1 Tech Culture and General Philosophy</h3>
+
+<h4>Ten Pillars of Tech Culture</h4>
+
+<h3>4.2 Tech Debt</h3>
+
+<h4>Tech Debt And The Product Lifecycle</h4>
+
+<h5>Defining Tech Debt</h5>
+
+<h5>Tech Debt Bankruptcy</h5>
+
+<h5>Measuring Debt The Debt Inventory</h5>
+
+<h5>Strategies For Paying Down Debt</h5>
+
+<h6>Just-In-Time Payment</h6>
+
+<h6>Periodic Paydown</h6>
+
+<h5>Continuous Paydown</h5>
+
+<h4>Communication of Tech Debt</h4>
+
+<h3>4.3 Technology Roadmap</h3>
+
+<h4>Timeframes</h4>
+
+<h5>Short-Term/Horizon One</h5>
+
+<h5>Medium-Term/Horizon Two</h5>
+
+<h5>Long-Term/Horizon Three</h5>
+
+<h5>Timeline Communication</h5>
+
+<h3>4.4 Tech Process</h3>
+
+<h4>Workflow</h4>
+
+<h5>Waterfall</h5>
+
+<h5>Agile/Scrum</h5>
+
+<h5>Shape Up</h5>
+
+<h4>Engineering Estimates</h4>
+
+<h4>Burndown Charts</h4>
+
+<h4>Choosing A Workflow</h4>
+
+<h4>Cooldown/Innovation Sprints</h4>
+
+<h4>Technical Planning And Specifications</h4>
+
+<h5>Tech Spec Leads</h5>
+
+<h5>Time For Planning</h5>
+
+<h4>Prototyping as Part of Spec Writing!</h4>
+
+<h4>Tech Spec Content</h4>
+
+<h4>Tech Spec Approval</h4>
+
+<h5>Review Goals</h5>
+
+<h5>Review Process</h5>
+
+<h5>Leaders In Specification Review Meetings</h5>
+
+<h5>Technical Specifications As Documentation</h5>
+
+<h3>4.5 Developer Experience (DX)</h3>
+
+<h4>Prioritizing Developer Experience</h4>
+
+<h4>Easy Developer Experience Wins</h4>
+
+<h4>Changing Tools For Developer Experience</h4>
+
+<h2>5 <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#tech-architecture">Tech Architecture</a></h2>
+
+<h3>5.1 Architecture</h3>
+
+<h4>Domain-Driven Design</h4>
+
+<h5>High-Level Patterns</h5>
+
+<h6>Monolithic Architecture</h6>
+
+<h6>Service-Oriented Architecture (Soa)/Microservices</h6>
+
+<h6>Choosing Between A Service-Oriented Architecture And A Monolith</h6>
+
+<h6>Source Control for Service-Oriented Architectures: monorepo and manyrepo</h6>
+
+<h6>The Distributed Monolith</h6>
+
+<h4>Writing Readable, Good Code</h4>
+
+<h5>Choice Of Language And Ecosystem</h5>
+
+<h5>Code Style And Formatting</h5>
+
+<h5>Static Code Analysis</h5>
+
+<h5>Greenfield vs. Brownfield</h5>
+
+<h4>Coding Patterns</h4>
+
+<h5>Object-Oriented Programming (OOP)</h5>
+
+<h5>Purity</h5>
+
+<h5>Functional Programming</h5>
+
+<h5>Extreme Programming And Test-Driven Development (TDD)</h5>
+
+<h5>Dependency Injection</h5>
+
+<h5>Domain-Driven Design</h5>
+
+<h4>API Contracts</h4>
+
+<h5>API Design Governance</h5>
+
+<h5>API Architecture</h5>
+
+<h5>HTTP-Based APIs</h5>
+
+<h5>Non-HTTP APIs</h5>
+
+<h4>Documentation</h4>
+
+<h4>Idempotency</h4>
+
+<h5>Idempotency Keys</h5>
+
+<h3>5.2 Data And Analytics</h3>
+
+<h4>Transactional Data</h4>
+
+<h4>Analytical Business Intelligence Data</h4>
+
+<h4>Behavioral Data</h4>
+
+<h4>General Tips And Best Practices For Architecture Design</h4>
+
+<h5>Put Business Logic In The Backend</h5>
+
+<h5>Make Services Externalizable</h5>
+
+<h5>Use As Few Languages As Possible</h5>
+
+<h3>5.3 Tools</h3>
+
+<h4>Implementing Internal Technology Radar</h4>
+
+<h4>Boring Technology</h4>
+
+<h4>Tool Cost</h4>
+
+<h4>Budget</h4>
+
+<h4>Tracking</h4>
+
+<h3>5.4 DevOps</h3>
+
+<h4>Four Key Metrics (DORA)</h4>
+
+<h4>Reproducibility</h4>
+
+<h4>Containerization</h4>
+
+<h5>Container Management Best Practices</h5>
+
+<h6>Design Containers to Build Once/Run Anywhere</h6>
+
+<h6>Build Images in CI</h6>
+
+<h6>Use a Hosted Registry</h6>
+
+<h6>Keep Image Sizes as Small as Possible</h6>
+
+<h5>Dockerfile Best Practices</h5>
+
+<h5>Container Orchestration</h5>
+
+<h6>Hosted Container Management</h6>
+
+<h6>Self-Managed/Kubernetes</h6>
+
+<h5>ClickOps vs. IaC</h5>
+
+<h4>Continuous Integration</h4>
+
+<h4>Continuous Deployment</h4>
+
+<h4>Feature Branch Environments</h4>
+
+<h4>Managing DNS</h4>
+
+<h4>Decoupling Shipping Code from Shipping Features (Feature Toggles)</h4>
+
+<h4>System Monitoring: APMs and RUMs</h4>
+
+<h3>5.5 Testing</h3>
+
+<h4>Testing/Quality Assurance Teams</h4>
+
+<h4>Test Quality</h4>
+
+<h4>What To Test</h4>
+
+<h4>Testing Type Comparison</h4>
+
+<h4>Unit Tests</h4>
+
+<h4>Integration Tests</h4>
+
+<h4>End-To-End Tests</h4>
+
+<h5>Visual Regression Testing</h5>
+
+<h5>Manual Testing</h5>
+
+<h5>Specialized Manual Testing</h5>
+
+<h5>Unspecialized Manual Testing</h5>
+
+<h4>Semi-Automated Testing</h4>
+
+<h3>5.6 Source Control</h3>
+
+<h4>Peer Review</h4>
+
+<h4>Ship, Show, Ask</h4>
+
+<h4>Branching Models</h4>
+
+<h4>Long-Lived Vs. Short-Lived Branches</h4>
+
+<h3>5.7 Production Escalations</h3>
+
+<h4>Implementing Escalators</h4>
+
+<h4>ROOT CAUSE ANALYSIS (RCA) EXERCISES</h4>
+
+<h5>RCA Documents</h5>
+
+<h5>RCA Meetings And Timeline</h5>
+
+<h5>Choosing the RCA Lead Author</h5>
+
+<h5>Scheduling RCA Remediation Work</h5>
+
+<h3>5.8 IT</h3>
+
+<h3>5.9 Security and Compliance</h3>
+
+<h4>Auth Security Terminology</h4>
+
+<h4>Security At Startups</h4>
+
+<h4>Compliance</h4>
+
+<h2>6. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#conclusion-measuring-success">Conclusion: Measuring Success</a></h2>
+
+<h2>7. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#book-references">Book References</a></h2>
+
+<h3>7.1 Digital References</h3>
+
+<h2>8. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#about-the-author">About the author</a></h2>
+
+<h2>9. <a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md#about-the-publisher">About the publisher</a></h2>
+
 </article>
+</body>
+</html>

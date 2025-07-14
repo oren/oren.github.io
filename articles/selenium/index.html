@@ -1,104 +1,44 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
-
-<article class="markdown-body" style="font-size: 20px;">
-	<p><meta property="og:title" content="Acceptance tests automation with Selenium and Node.js" /><br />
+<article class="markdown-body">
+<p><meta property="og:title" content="Acceptance tests automation with Selenium and Node.js" />
 <meta property="og:image" content="images/selenium.jpg" /></p>
-<h1 id="acceptance-tests-automation-with-selenium-and-nodejs">Acceptance tests automation with Selenium and Node.js</h1>
+
+<h1>Acceptance tests automation with Selenium and Node.js</h1>
+
 <p>Here is a nice flow for automating your user acceptance tests:</p>
+
 <ol>
 <li>Fire up <a href="https://addons.mozilla.org/en-US/firefox/addon/selenium-ide">Selinium IDE</a>(Firefox extension).</li>
 <li>Record your test</li>
@@ -106,12 +46,17 @@
 <li>Copy into node.js file</li>
 <li>Run your node file</li>
 </ol>
+
 <p>There are a lot of tools that were written on top of selenium to help you write your tests in Node.js/Javascript but I found the offical JavaScript driver - <a href="https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs">WebDriverJs</a> to be enough to get the job done. Here is a 3 minutes video demonstrating it:</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kRIz7Gumnik" frameborder="0" allowfullscreen></iframe>
-<p><br/><br />
+
+<p><br/>
 <br/></p>
+
 <p>Code sample - Attempt to signup and take a screenshot of the failure page.</p>
-<pre><code class="js language-js">// npm install selenium-webdriver
+
+<pre><code class="language-js">// npm install selenium-webdriver
 
 var fs = require('fs');
 var webdriver = require('selenium-webdriver');
@@ -122,27 +67,27 @@ var driver = new webdriver.Builder()
   .forBrowser('firefox')
   .build();
 
-driver.get("https://my-awesome-website.com");
+driver.get(&quot;https://my-awesome-website.com&quot;);
 driver.findElement(By.className('signup-link')).click();
-driver.findElement(By.css("label")).click();
-driver.findElement(By.id("continue-button")).click();
-driver.findElement(By.id("first-name")).sendKeys("josh");
-driver.findElement(By.id("last-name")).sendKeys("felkor");
-driver.findElement(By.id("signup-submit")).click();
+driver.findElement(By.css(&quot;label&quot;)).click();
+driver.findElement(By.id(&quot;continue-button&quot;)).click();
+driver.findElement(By.id(&quot;first-name&quot;)).sendKeys(&quot;josh&quot;);
+driver.findElement(By.id(&quot;last-name&quot;)).sendKeys(&quot;felkor&quot;);
+driver.findElement(By.id(&quot;signup-submit&quot;)).click();
 
 driver.takeScreenshot().then(function(data) {
   writeScreenshot(data, 'missing-fields.png');
 });
 
-var textPromise = driver.findElement(By.id("signup-submit")).getText();
+var textPromise = driver.findElement(By.id(&quot;signup-submit&quot;)).getText();
 
 textPromise.then(function(text) {
-  if (text === "TRY AGAIN") {
-    console.log("success");
+  if (text === &quot;TRY AGAIN&quot;) {
+    console.log(&quot;success&quot;);
     process.exit(0);
     return;
   } else {
-    console.log("fail");
+    console.log(&quot;fail&quot;);
     process.exit(1);
   }
 });
@@ -151,11 +96,17 @@ function writeScreenshot(data, name) {
   name = name || 'ss.png';
   var screenshotPath = '/tmp/';
   fs.writeFileSync(screenshotPath + name, data, 'base64');
-};</code></pre>
+};
+</code></pre>
+
 <p>Resources</p>
+
 <ul>
 <li>My github repository with this code sample - <a href="https://github.com/oren/selenium">https://github.com/oren/selenium</a></li>
 <li>Official JavaScript Driver - <a href="https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs">https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs</a></li>
 <li>WebDriver Spec - <a href="https://w3c.github.io/webdriver/webdriver-spec.html">https://w3c.github.io/webdriver/webdriver-spec.html</a></li>
 </ul>
+
 </article>
+</body>
+</html>

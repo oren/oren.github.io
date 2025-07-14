@@ -1,130 +1,81 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
+<article class="markdown-body">
+<!-- numbers -->
 
-<div class="sidenav">
-	
-</div>
+<h1>Wardley Maps</h1>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<!-- numbers -->
-<h1 id="wardley-maps">Wardley Maps</h1>
-<h2 id="1-what-are-wardley-maps">1. What are Wardley Maps?</h2>
+<h2>1. What are Wardley Maps?</h2>
+
 <p>The process of making strategic decisions (leadership) based on the purpose (“the game”), a description of the competitive landscape (a map), the external forces acting on the landscape (climate), and the training of your people (doctrine).</p>
+
 <p><img src="art-of-war.png" alt="art of war" /></p>
-<p>Looping through the strategy cycle (<a href="https://en.wikipedia.org/wiki/OODA_loop">OODA loop</a>):<br />
+
+<p>Looping through the strategy cycle (<a href="https://en.wikipedia.org/wiki/OODA_loop">OODA loop</a>):
 <img src="strategy-cycle.png" alt="strategy cycle" /></p>
-<h2 id="2-what-can-you-do-with-wardely-maps">2. What Can You Do with Wardely Maps?</h2>
-<h3 id="decide-between-outsuorcing-and-building-your-own">Decide Between Outsuorcing and Building Your Own</h3>
-<p>Without the x and the y (a map), it's hard to tell what to do with A and B:<br />
+
+<h2>2. What Can You Do with Wardely Maps?</h2>
+
+<h3>Decide Between Outsuorcing and Building Your Own</h3>
+
+<p>Without the x and the y (a map), it&rsquo;s hard to tell what to do with A and B:
 <img src="outsource-or-build-1.png" alt="buy vs bulid" /></p>
-<p>With a map, it make sense to outsource A and build B:<br />
+
+<p>With a map, it make sense to outsource A and build B:
 <img src="outsource-or-build-2.png" alt="buy vs bulid 2" /></p>
-<p>There is much more you can do with them. I'll add more examples soon.</p>
-<h3 id="where-to-invest">Where to Invest?</h3>
-<p>Compute (renting compute from a public cloud vendor) and platform (deploy tools and programming languages) are moving toward commodization. Should you build a compute or platform (genesis/chaotic) or wait until you can buy from a vendor (commodity/simple)? Generate experimental strategies, debate their impact with the team and test your assumptions as fast as possible.<br />
+
+<p>There is much more you can do with them. I&rsquo;ll add more examples soon.</p>
+
+<h3>Where to Invest?</h3>
+
+<p>Compute (renting compute from a public cloud vendor) and platform (deploy tools and programming languages) are moving toward commodization. Should you build a compute or platform (genesis/chaotic) or wait until you can buy from a vendor (commodity/simple)? Generate experimental strategies, debate their impact with the team and test your assumptions as fast as possible.
 <img src="where-to-invest.png" alt="where to invest" />.</p>
-<h2 id="3-how-to-start-with-wardley-maps">3. How to Start with Wardley Maps?</h2>
+
+<h2>3. How to Start with Wardley Maps?</h2>
+
 <p>Pick a user and write down one of their needs. Than write down what capabilities are required to achieve that need.</p>
+
 <p><img src="map.png" alt="map" /></p>
-<p>Example of a map. You are the user and your need is to be successful at work:<br />
+
+<p>Example of a map. You are the user and your need is to be successful at work:
 <img src="wardley-maps.png" alt="example map" /></p>
-<p>If you want a deeper learning package:</p>
-<ol>
-<li><a href="https://learnwardleymapping.com/introduction/">Situational awareness</a>. 5 min video.</li>
-<li><a href="https://learnwardleymapping.com/introduction/">Tutorial (click on 'Next Section')</a>. 20 min read.</li>
-<li><a href="https://learnwardleymapping.com">Draw your first map</a>. 10 min video.</li>
-<li><a href="https://learnwardleymapping.com/book/">Official Book</a>. 14 hours audio/read. You can choose between reading from a website, a pdf, or audio. If you can read and listen on your laptop at the same time, it will be optimal since there are a lot of visuals.</li>
-</ol>
-<h2 id="4-links">4. Links:</h2>
+
+<p>If you want a deeper learning package:
+1. <a href="https://learnwardleymapping.com/introduction/">Situational awareness</a>. 5 min video.
+2. <a href="https://learnwardleymapping.com/introduction/">Tutorial (click on &lsquo;Next Section&rsquo;)</a>. 20 min read.
+3. <a href="https://learnwardleymapping.com">Draw your first map</a>. 10 min video.
+4. <a href="https://learnwardleymapping.com/book/">Official Book</a>. 14 hours audio/read. You can choose between reading from a website, a pdf, or audio. If you can read and listen on your laptop at the same time, it will be optimal since there are a lot of visuals.</p>
+
+<h2>4. Links:</h2>
+
 <ul>
 <li><a href="getting-started/">Getting Started</a> (5 minute workshop)</li>
 <li><a href="https://www.youtube.com/watch?v=2IW9L1uNMCs">30 min video - Crossing the River by Feeling the Stones - Simon Wardley</a></li>
@@ -134,26 +85,51 @@
 <li><a href="https://learnwardleymapping.com/">Website</a></li>
 <li><a href="https://twitter.com/search?q=%23WardleyMaps">Twitter</a></li>
 </ul>
-<h2 id="5-book">5. Book</h2>
+
+<h2>5. Book</h2>
+
 <p>Wardley Maps - Topographical intelligence in business</p>
+
 <p>On Being Lost (28m read)</p>
+
 <p>Finding a Path (24m read)</p>
+
 <p>Exploring the Map (23m read)</p>
+
 <p>Doctrine (33m read)</p>
+
 <p>The Play and a Decision to Act (35m read)</p>
+
 <p>Getting Started Yourself (20m read)</p>
+
 <p>Finding a New Purpose (39m read)</p>
+
 <p>Keeping the Wolves at Bay (26m read)</p>
+
 <p>Charting the Future (33m read)</p>
+
 <p>I Wasn’t Expecting That! (41m read)</p>
+
 <p>A Smorgasbord of the Slightly Useful (72m read)</p>
+
 <p>The Scenario (14m read)</p>
+
 <p>Something Wicked This Way Comes (19m read)</p>
+
 <p>To Thine Own Self Be True (12m read)</p>
+
 <p>On the Practice of Scenario Planning (34m read)</p>
+
 <p>Super Looper (38m read)</p>
+
 <p>To Infinity and Beyond (24m read)</p>
+
 <p>Better for Less (37m read)</p>
+
 <p>On Playing Chess (27m read)</p>
+
 <p>This book is in a <a href="https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec">website format</a>, <a href="https://feststelltaste.github.io/wardley-maps-audiobook/">audio format</a>, and a <a href="https://raw.githubusercontent.com/HiredThought/wardley-maps-ebook/main/bin/Wardley%20Maps%20-%20Simon%20Wardley.pdf">pdf format</a>. I suggest to listen and read at the same time since there are various visuals in the pdf.</p>
+
 </article>
+</body>
+</html>

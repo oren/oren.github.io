@@ -1,123 +1,73 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
-
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
+</head>
+<body>
+<ul>
+<li><a href="/">Home</a> &gt; <a href="articles/">Articles</a></li>
 </ul>
-</div>
 
-<div class="sidenav">
-	
-</div>
-
-<article class="markdown-body" style="font-size: 20px;">
-	<p><meta property="og:title" content="Microservices with Go Micro and NATS" /><br />
+<article class="markdown-body">
+<p><meta property="og:title" content="Microservices with Go Micro and NATS" />
 <meta property="og:image" content="images/micro.jpg" /></p>
-<h1 id="microservices-with-go-micro-and-nats">Microservices with Go Micro and NATS</h1>
+
+<h1>Microservices with Go Micro and NATS</h1>
+
 <p><img src="micro.gif" alt="micro" /></p>
-<p><a href="https://github.com/micro/micro">Micro</a> is a set of utilities and libraries that makes it easier to write and manage microservices.<br />
+
+<p><a href="https://github.com/micro/micro">Micro</a> is a set of utilities and libraries that makes it easier to write and manage microservices.
 It was written and maintained by <a href="https://twitter.com/chuhnk">Asim Aslam</a>, a developer from London who is getting help from an enthusiastic community.</p>
-<p>A microservice written for micro can be written in any language but it's easier to write it in Go (until ports of Micro will be available in other languages). For non-Go microservices, there exists the <a href="https://github.com/micro/micro/tree/master/car">Sidecar</a> (an HTTP proxy into the microservice) to handle this situation.</p>
+
+<p>A microservice written for micro can be written in any language but it&rsquo;s easier to write it in Go (until ports of Micro will be available in other languages). For non-Go microservices, there exists the <a href="https://github.com/micro/micro/tree/master/car">Sidecar</a> (an HTTP proxy into the microservice) to handle this situation.</p>
+
 <p>Microservices often typically communicate with JSON but micro uses <a href="https://github.com/google/protobuf">protobuf</a> encoding by default. Protobufs offer solid serialization capabilities, static types, and can be used to also declare the API of a specific microservice.</p>
-<p>By default the messages are sent over HTTP but a message broker (RabbitMQ, Kafka, NSQ, etc) can allow improvements on top of this such as persistence, scalability or reliability. In this case we use <a href="https://nats.io">NATS</a> since it's very simple, fast and lean. It also has enough functionality to act as transport, broker and registry (the latter due to its broadcast queries). More information can be found at <a href="https://blog.micro.mu/2016/04/11/micro-on-nats.html">Asim's blogpost</a>.</p>
+
+<p>By default the messages are sent over HTTP but a message broker (RabbitMQ, Kafka, NSQ, etc) can allow improvements on top of this such as persistence, scalability or reliability. In this case we use <a href="https://nats.io">NATS</a> since it&rsquo;s very simple, fast and lean. It also has enough functionality to act as transport, broker and registry (the latter due to its broadcast queries). More information can be found at <a href="https://blog.micro.mu/2016/04/11/micro-on-nats.html">Asim&rsquo;s blogpost</a>.</p>
+
 <p><a href="https://github.com/nii236">John Nguyen</a>, an Australian developer, uses Micro to collect and visualize financial instruments (Bitcoin and foreign exchange). I asked him to demo his setup and we recorded it in a 30 minute video:</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b_Ivq2GYlI4" frameborder="0" allowfullscreen></iframe>
-<h2 id="agenda">Agenda</h2>
+
+<h2>Agenda</h2>
+
 <ul>
 <li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4">0:00</a> Overview of Micro and NATS</li>
-<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&t=8m00s">8:00</a> Demo</li>
-<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&t=16m17s">16:17</a> Publishing a message to NATS</li>
-<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&t=23m50s">23:50</a> Code of a publisher and a subscriber</li>
-<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&t=27m44s">27:44</a> protobuf</li>
-<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&t=29m03s">29:03</a> Python subscriber</li>
-<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&t=31m31s">31:31</a> Persistance with project STAN</li>
+<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&amp;t=8m00s">8:00</a> Demo</li>
+<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&amp;t=16m17s">16:17</a> Publishing a message to NATS</li>
+<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&amp;t=23m50s">23:50</a> Code of a publisher and a subscriber</li>
+<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&amp;t=27m44s">27:44</a> protobuf</li>
+<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&amp;t=29m03s">29:03</a> Python subscriber</li>
+<li><a href="http://www.youtube.com/watch?v=b_Ivq2GYlI4&amp;t=31m31s">31:31</a> Persistance with project STAN</li>
 </ul>
+
 <p><br/></p>
-<h2 id="links">Links</h2>
+
+<h2>Links</h2>
+
 <ul>
 <li><a href="https://github.com/micro/micro">Micro</a> - tools for <strong>managing</strong> microservices</li>
 <li><a href="https://github.com/micro/go-micro">Go Micro</a> - libraries for <strong>writing</strong> microservices</li>
@@ -125,4 +75,7 @@ It was written and maintained by <a href="https://twitter.com/chuhnk">Asim Aslam
 <li><a href="https://skillsmatter.com/skillscasts/8340-london-go-usergroup#video">Recorded presentation</a> by Asim at the Go London User Group</li>
 <li><a href="http://gokit.io/">Go kit</a> - an alternative framework for managing microservices</li>
 </ul>
+
 </article>
+</body>
+</html>

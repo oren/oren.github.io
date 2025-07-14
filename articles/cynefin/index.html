@@ -1,117 +1,65 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>README</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 <style>
 	body {
-		font-family: Helvetica;
-		font-size: 20px;
+		font-size: 1.5em;
+	}
+	.markdown-body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
 		margin: 0 auto;
 		padding: 45px;
-	}
-
-	.sidenav {
-		font-size: 14px;
-		float: left;
-		height: 100%;
-		width: 160px;
-		list-style: none;
-	}
-
-	.sidenav ul {
-		list-style: none;
-	}
-
-	article {
-		float: right;
-		max-width:600px;
 		background-color: white;
-	}
-
-	.markdown-body {
-		background-color: white;
-		color: black;
-	}
-
-	h1 {
-		color: black;
-	}
-
-	h2 {
-		color: black;
-	}
-
-	h3 {
-		color: black;
-	}
-
-	iframe {
-		width: 100%;
-		max-width: 640px;
-	}
-
-	.video-container {
-		position:relative;
-		padding-bottom:56.25%;
-		padding-top:30px;
-		height:0;
-		overflow:hidden;
-	}
-
-	.video-container iframe, .video-container object, .video-container embed {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
+		color: #333;
+		font-size: 0.8em;
 	}
 
 	@media (max-width: 767px) {
-		body {
+		.markdown-body {
 			padding: 15px;
 		}
-
-		.sidenav {
-			display: none;
-		}
-	}
-
-	.header ul {
-		list-style: none;
-		padding-left: 0px;
 	}
 </style>
+</head>
+<body>
 
-<div class="header">
-	<ul>
-<li><a href="https://oren.github.io">Oren Home</a> &gt; <a href="https://oren.github.io/articles">Articles</a></li>
-</ul>
-</div>
+<article class="markdown-body">
+<h1>Solving Challenges With Cynefin</h1>
 
-<div class="sidenav">
-	
-</div>
+<p>I wanted to share a bit about complexity science and sense-making. Because it&rsquo;s a relatively new field, many leaders are not familiar with tools for dealing with complex/ambiguous challenges. It&rsquo;s a big topic, so I&rsquo;ll just share a framework that I find useful: <strong>Cynefin</strong>.</p>
 
-<article class="markdown-body" style="font-size: 20px;">
-	<h1 id="solving-challenges-with-cynefin">Solving Challenges With Cynefin</h1>
-<p>I wanted to share a bit about complexity science and sense-making. Because it's a relatively new field, many leaders are not familiar with tools for dealing with complex/ambiguous challenges. It's a big topic, so I'll just share a framework that I find useful: <strong>Cynefin</strong>. </p>
 <p><img src="cynefin.jpg" alt="Cynefin" /></p>
-<h2 id="what-is-cynefin">What is Cynefin</h2>
-<p>Cynefin is a framework for making sense of challenges, depending on how predictable or unpredictable they are. It helps you in deciding on an approach for solving a challenge. Cynefin describes 4 domains: Obvious, Complicated, Complex, and Chaotic. In order to be brief, I'll focus on the Complicated and Complex domains since they are the most important.</p>
-<p>A challenge is <strong>Complicated</strong> if the array of solutions is known and you can bring experts to solve it. For example - sending a rocket to the moon or fixing a car. It might be hard but can be done in a top-down manner (traditional project management). </p>
-<p>A challenge is <strong>Complex</strong> if the solution(s) is not known and requires experiments. Sometimes it also requires adaptation and learning of a group of people. Examples include building a product that delights your customer, geo-political conflict, or raising kids. It's not likely that someone has a checklist that will guarantee solving those challenges. The solution is emergent and not top-down.</p>
-<h2 id="why-should-i-care">Why should I care?</h2>
+
+<h2>What is Cynefin</h2>
+
+<p>Cynefin is a framework for making sense of challenges, depending on how predictable or unpredictable they are. It helps you in deciding on an approach for solving a challenge. Cynefin describes 4 domains: Obvious, Complicated, Complex, and Chaotic. In order to be brief, I&rsquo;ll focus on the Complicated and Complex domains since they are the most important.</p>
+
+<p>A challenge is <strong>Complicated</strong> if the array of solutions is known and you can bring experts to solve it. For example - sending a rocket to the moon or fixing a car. It might be hard but can be done in a top-down manner (traditional project management).</p>
+
+<p>A challenge is <strong>Complex</strong> if the solution(s) is not known and requires experiments. Sometimes it also requires adaptation and learning of a group of people. Examples include building a product that delights your customer, geo-political conflict, or raising kids. It&rsquo;s not likely that someone has a checklist that will guarantee solving those challenges. The solution is emergent and not top-down.</p>
+
+<h2>Why should I care?</h2>
+
 <p>Leaders who understand complexity science can take advantage of it. Here are 3 ways:</p>
+
 <ol>
-<li><strong>Avoid analysis paralysis.</strong> Very often, we believe a challenge to be Complicated when it is actually Complex. We bring in experts and build a detailed plan for solving the challenge. This might lead to analysis paralysis, where we don't solve the challenge and end up wasting resources and time. Think of a time when your organization brought in consultants with an existing change management framework and tried to force a big organizational/cultural change as if it were a project with a known solution.</li>
-<li><strong>Build strategies by leveraging the commoditization of technology.</strong> Technology goes through phases; it starts in the Chaotic domain and sometimes it moves to the Complex, Complicated, and even to the Obvious domain. Let's take compute as an example. 20 years ago we had to rent a rack at a data center, then AWS allowed us to rent compute (EC2), and now you can use serverless (Lambda, Azure Function, etc.). The same applies to electricity, phones, cameras, etc. Understanding this commoditization flow allows leaders to experiment with various product strategies. If you identify a capability or technology that is in the Chaotic or Complex domain, you can try to move it towards the Complicated or Obvious Domain. And this is a potential strategy that you can develop.</li>
-<li><strong>Generate experiments by introducing chaotic situations.</strong> I'll give an example before explaining the technique. Let's say your organization doesn't think outside of the box and you want folks to come up with innovative ideas for a policy, process, or product. You bring folks from engineering, sales, marketing, and finance to a room. Now, instead of asking them to collaborate on innovative ideas, you ask each group to come up with ideas in isolation and later you bring them together to present their ideas. What you did is called a <em>shallow dive into chaos</em>. You deliberately put each group in a chaotic environment. You can imagine the sales folks coming up with ideas that are extremely hard to implement because there was no engineer in the room to guide them. So by providing a safe and chaotic environment you can generate experiments.</li>
+<li><strong>Avoid analysis paralysis.</strong> Very often, we believe a challenge to be Complicated when it is actually Complex. We bring in experts and build a detailed plan for solving the challenge. This might lead to analysis paralysis, where we don&rsquo;t solve the challenge and end up wasting resources and time. Think of a time when your organization brought in consultants with an existing change management framework and tried to force a big organizational/cultural change as if it were a project with a known solution.</li>
+<li><strong>Build strategies by leveraging the commoditization of technology.</strong> Technology goes through phases; it starts in the Chaotic domain and sometimes it moves to the Complex, Complicated, and even to the Obvious domain. Let&rsquo;s take compute as an example. 20 years ago we had to rent a rack at a data center, then AWS allowed us to rent compute (EC2), and now you can use serverless (Lambda, Azure Function, etc.). The same applies to electricity, phones, cameras, etc. Understanding this commoditization flow allows leaders to experiment with various product strategies. If you identify a capability or technology that is in the Chaotic or Complex domain, you can try to move it towards the Complicated or Obvious Domain. And this is a potential strategy that you can develop.</li>
+<li><strong>Generate experiments by introducing chaotic situations.</strong> I&rsquo;ll give an example before explaining the technique. Let&rsquo;s say your organization doesn&rsquo;t think outside of the box and you want folks to come up with innovative ideas for a policy, process, or product. You bring folks from engineering, sales, marketing, and finance to a room. Now, instead of asking them to collaborate on innovative ideas, you ask each group to come up with ideas in isolation and later you bring them together to present their ideas. What you did is called a <em>shallow dive into chaos</em>. You deliberately put each group in a chaotic environment. You can imagine the sales folks coming up with ideas that are extremely hard to implement because there was no engineer in the room to guide them. So by providing a safe and chaotic environment you can generate experiments.</li>
 </ol>
-<h2 id="learn-more">Learn more</h2>
+
+<h2>Learn more</h2>
+
 <ul>
 <li>8-minute video by David Snowden, the guy behind Cynefin: <a href="https://www.youtube.com/watch?v=N7oz366X0-8">https://www.youtube.com/watch?v=N7oz366X0-8</a>.</li>
 <li>My blog post about generating strategies using Cynefin and Wardley Maps: <a href="https://oren.github.io/articles/wardley-maps">https://oren.github.io/articles/wardley-maps</a>. Wardley Maps is another useful tool for untangling complexity.</li>
 </ul>
+
 </article>
+</body>
+</html>
