@@ -17,7 +17,6 @@
 * [Cooking](cook/)
 * [Dancing](dance/)
 * [Top rope climbing](top-rope/)
-* [Learning Chinese](chinese/)
 * [Hebrew](hebrew/)
 * [My Operating Manual](operating-manual/)
 
