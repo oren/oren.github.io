@@ -17,6 +17,7 @@
 - [Miscellaneous Rules](#miscellaneous-rules)
 - [Resources](#resources)
 
+<a id="rules-to-remember"></a>
 ## Rules to Remember
 
 **The "Basic Speed Law"**
@@ -34,6 +35,7 @@ Slow down at the first sign of rain, drizzle, or snow. The road is most slippery
 **Insurance Limits**
 As of 2025, minimum coverage has increased: $30k for injury/death of one person and $15k for property damage.
 
+<a id="15-mph-rule"></a>
 ## 15 MPH Rule
 
 Drive at **15 mph** in these locations:
@@ -42,6 +44,7 @@ Drive at **15 mph** in these locations:
 - **Blind Intersections** – where you can't see 100 feet in either direction during the last 100 feet of your approach
 - **Alleys** – any alleyway
 
+<a id="number-questions"></a>
 ## Number Questions
 
 - **Speed Limits:** 25 mph for school zones/residential and 15 mph for blind intersections/alleys
@@ -49,6 +52,7 @@ Drive at **15 mph** in these locations:
 - **Signaling:** Signal for at least **100 feet** before turning
 - **Selling a Car:** Notify the DMV within **5 days** of selling your vehicle
 
+<a id="california-rules"></a>
 ## California Rules
 
 **High Beams**
@@ -69,6 +73,7 @@ Illegal to smoke at any time when a minor (under 18) is in the vehicle.
 **Reporting Accidents**
 Report to DMV (form SR-1) within **10 days** if there is more than $1,000 in damage.
 
+<a id="curb-colors"></a>
 ## Curb Colors
 
 **White** – Passenger Loading / Mail
@@ -86,6 +91,7 @@ Do not stop, stand, or park. *Exception: Buses at marked zones only.*
 **Blue** – Disabled Parking
 MUST have a valid placard or plate. No time limit for placard holders.
 
+<a id="parking-distances"></a>
 ## Parking Distances
 
 - **Curb (Parallel Parking):** Within 18 inches (Max)
@@ -96,16 +102,19 @@ MUST have a valid placard or plate. No time limit for placard holders.
 - **Sidewalk Ramp (Disabled Access):** 3 feet (Min)
 - **Railroad Tracks (Nearest Rail):** 7.5 feet (Min)
 
+<a id="important-notes"></a>
 ## Important Notes
 
 - **Refuse blood/breath test** → Driving privilege will be suspended or revoked
 - **Alcohol affects judgment first!**
 
+<a id="flags"></a>
 ## Flags
 
 - **White Flag** – Towing connection (rope/chain)
 - **Red/Orange Flag** – Wide or long loads extending 4+ feet off the back
 
+<a id="following-distance"></a>
 ## Following Distance
 
 ### Passenger Cars
@@ -128,6 +137,7 @@ MUST have a valid placard or plate. No time limit for placard holders.
 
 > **Rear-end crashes** due to following distance are the most dangerous on highways.
 
+<a id="road-types-and-speeds"></a>
 ## Road Types and Speeds
 
 **Freeway** – 65-70 MPH
@@ -148,6 +158,7 @@ Near schools; look for yellow signs/flashing lights.
 **Blind Intersection / Alley** – 15 MPH
 Cannot see 100ft in either direction; narrow passage.
 
+<a id="highway--lane-tips"></a>
 ## Highway & Lane Tips
 
 - **Exit highway** – Slow down as soon as you are on the exit ramp, **not before!**
@@ -156,17 +167,20 @@ Cannot see 100ft in either direction; narrow passage.
 - **Center Left Turn Lane** – For turning left only. Stay there for max **200 feet**
 - **Center Traffic Lane** – For smooth driving
 
+<a id="signs-to-know"></a>
 ## Signs to Know
 
 - **No Passing Zone sign** – Yellow triangle on the **left side** of the road
 - **Man with Flag sign** – Flagger ahead (person with a flag guiding traffic)
 
+<a id="miscellaneous-rules"></a>
 ## Miscellaneous Rules
 
 - **Emergency Vehicle:** If stopped with lights flashing – change lane if possible and slow down
 - **Seatbelt Ticket:** Driver and passenger both get fined (except under 16 – only driver)
 - **Seatbelt Exemption:** Not required if you have a medical condition or car is from before 1972
 
+<a id="resources"></a>
 ## Resources
 
 - [Sample Class C Driver's Written Test 1](https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/sample-driver-license-dl-knowledge-tests/sample-class-c-drivers-written-test-1/)
