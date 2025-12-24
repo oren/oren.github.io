@@ -18,6 +18,7 @@
 * [Dancing](dance/)
 * [Top rope climbing](top-rope/)
 * [Hebrew](hebrew/)
+* [DMV Test](dmv/)
 * [My Operating Manual](operating-manual/)
 
 ## 3. Apps
