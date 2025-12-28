@@ -1,3 +1,15 @@
+## Asado
+![asado](asado.jpeg)
+![asado2](asado2.jpeg)
+
+---
+
+## Rice and Beef
+![rice-meat](rice-meat.jpeg)
+![rice-meat2](rice-meat2.jpeg)
+
+---
+
 ## Bukharian Plof (Plov / Osh Palov)
 
 Ingredients:
@@ -47,10 +59,12 @@ https://www.kosher.com/recipe/kasha-varnishkes-10076/
 
 ---
 
-## Asado
-![asado](asado.jpeg)
-![asado2](asado2.jpeg)
+## Cabbage and tomatoes
 
-## Rice and Beef
-![rice-meat](rice-meat.jpeg)
-![rice-meat2](rice-meat2.jpeg)
+![cabbage](cabbage.jpeg)
+![cabbage2](cabbage2.jpeg)
+
+This isn’t specifically Russian, but Russians/Ukranians love cabbage and it is easy to make
+
+For this one, you can even use a deep pan or any other pit, just make sure to cover tightly with parchment paper and aluminum foil
+Simplest for you would be the asado, buckwheat and cabbage
