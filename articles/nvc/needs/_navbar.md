@@ -1,1 +1,1 @@
-* [Home](/) > [Non Violent Communication](nvc/)
+[Oren Home](/) > [Articles](articles/)

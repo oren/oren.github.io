@@ -1,1 +1,1 @@
-* [Home](/) > [Cook](cook/)
+[Home](/) > [Cook](cook/)

@@ -1,1 +1,1 @@
-* [Home](/) > [Surf Website](surf/) > [Surfing Spots](surf/spots/)
+[Home](/) > [Surf Website](surf/) > [Surfing Spots](surf/spots/)

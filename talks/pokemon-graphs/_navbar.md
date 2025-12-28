@@ -1,1 +1,1 @@
-* [Home](/) > [Talks](talks/)
+[Home](/) > [Talks](talks/)

@@ -1,1 +1,1 @@
-* [Home](/) > [Operating Manual](operating-manual/)
+[Home](/) > [Operating Manual](operating-manual/)
