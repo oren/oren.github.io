@@ -15,6 +15,7 @@
 ## Bukharian Plof (Plov / Osh Palov)
 
 Ingredients:
+
 * 1–2 ladlefuls avocado oil
 * 2 medium–large onions, halved and sliced
 * 1 Tbsp cumin seeds
@@ -31,6 +32,7 @@ Ingredients:
 * Salt & black pepper, to taste
 
 Instructions:
+
 * Heat avocado oil in a heavy-bottomed pot.
 * Add onions and sauté until caramelized.
 * Add cumin seeds, ground cumin, garlic powder, turmeric (or hawaij ), ground coriander, salt, and pepper.
