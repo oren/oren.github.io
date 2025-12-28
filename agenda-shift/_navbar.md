@@ -1,1 +1,1 @@
-* [Home](https://oren.github.io) > [Strategy Workshop](https://oren.github.io/strategy/)
+[Home](https://oren.github.io) > [Strategy Workshop](https://oren.github.io/strategy/)

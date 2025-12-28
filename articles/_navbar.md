@@ -1,1 +1,1 @@
-* [Oren Home](https://oren.github.io) > [Articles](https://oren.github.io/articles)
+[Oren Home](https://oren.github.io) > [Articles](https://oren.github.io/articles)

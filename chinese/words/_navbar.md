@@ -1,2 +1,2 @@
-* [Home](https://oren.github.io) > [Chinese](https://oren.github.io/chinese) > [Words](https://oren.github.io/chinese/words)
+[Home](https://oren.github.io) > [Chinese](https://oren.github.io/chinese) > [Words](https://oren.github.io/chinese/words)
 
