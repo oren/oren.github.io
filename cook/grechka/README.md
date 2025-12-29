@@ -1,4 +1,4 @@
-# Grechka Recipies
+# Grechka Recipes
 
 Grechka (toasted buckwheat) is a staple of Eastern European cuisine because it is incredibly versatile, gluten-free, and has a deep, nutty flavor.
 
