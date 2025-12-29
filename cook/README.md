@@ -54,7 +54,7 @@
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)
 * [Risotto](risotto/)
-* [Russian Dishes](russian/]
+* [Russian Dishes](russian/)
 * [Salmon Avocado Salad](salmon-avocado-salad/)
 * [Sesame Balls](sesame-balls/)
 * [Spaghetti Squash](spaghetti-squash/)
