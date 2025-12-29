@@ -28,6 +28,7 @@
 * [Eggs Avocado](eggs-avocado/)
 * [Eggplant Pepper Salad](eggplant-pepper-salad/)
 * [Ginisang Kalabasa (pork squash)](ginisang-kalabasa/)
+* [Grechka Recipies](grechka/)
 * [Greek Avgolemono Soup](https://www.youtube.com/watch?v=6_U3ZMrX8gM)
 * [Green Beans, Sichuan Style](green-beans-sichuan/)
 * [Indian Dal](dal/)
