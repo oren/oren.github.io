@@ -1,6 +1,7 @@
 # Split Peas Soup
 
-![peas](peas.png)
+![peas](peas.jpeg)
+![peas2](peas2.jpeg)
 
 **Ingredients:**
 
