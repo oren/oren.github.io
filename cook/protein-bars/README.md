@@ -3,6 +3,7 @@
 A chewy, nutrient-dense bar that tastes like a brownie but eats like a meal. It includes the optional egg for structure, the protein powder for macros, and the superfood toppings for that final touch.
 
 **Overview**
+
  * Yields: 8 Bars
  * Prep time: 10 mins
  * Bake time: 20 mins
@@ -11,6 +12,7 @@ A chewy, nutrient-dense bar that tastes like a brownie but eats like a meal. It 
 **Ingredients**
 
 The Base:
+
  * 3 Medium ripe bananas (the more spots, the better)
  * 1.5 cups Old fashioned oats
  * 1/4 cup Unsweetened cacao powder
@@ -22,10 +24,12 @@ The Base:
  * Pinch of Sea salt
 
 The Superfood Toppings (optional):
+
  * 1 tbsp Hemp hearts
  * 2 tbsp melted coconut oil mixed with 1 tbsp cacao and 1 tsp maple syrup.
 
 **Instructions**
+
 1. Prep the Oven: Preheat your oven to 350°F (175°C). Line an 8x8 inch square baking pan with parchment paper, leaving a little overhang on the sides for easy removal.
 1. Mash & Mix Wet: In a large bowl, mash the bananas until mostly smooth. Whisk in the egg and vanilla extract.
 1. Add Dry Ingredients: Stir in the oats, cacao powder, protein powder, baking powder, cinnamon, and salt. Mix until no dry pockets of powder remain.
@@ -37,6 +41,7 @@ The Superfood Toppings (optional):
 1. Optional toppings: If using the cacao drizzle, whisk the ingredients together and zigzag over the cooled bars. Pop them in the fridge for 10 minutes to set the drizzle.
 
 **Nutrition Profile (Per Bar)**
+
  * Calories: 220 kcal
  * Protein: 11g
  * Carbs: 28g
