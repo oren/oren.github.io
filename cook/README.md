@@ -58,6 +58,7 @@
 * [Salmon Avocado Salad](salmon-avocado-salad/)
 * [Sesame Balls](sesame-balls/)
 * [Spaghetti Squash](spaghetti-squash/)
+* [Split Peas Soup](split-peas-soup/)
 * [Spring Rolls](spring-rolls/)
 * [Squash and Quinoa](squash-quinoa/)
 * [Steamed Eggs](steamed-eggs/)
