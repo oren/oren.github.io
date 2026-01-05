@@ -50,6 +50,7 @@
 * [Peruvian Fish Ceviche](ceviche/)
 * [Persian Omelette](persian-omlette/)
 * [Pickled Onions](pickled-onions/)
+* [Protein Bars](protein-bars/)
 * [Ptgy](ptgy/)
 * [Quest Bars](quest-bars/)
 * [Quinoa](quinoa/)

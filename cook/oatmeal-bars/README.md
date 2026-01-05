@@ -19,5 +19,3 @@
 * Total:  calories 617, protein 27.4 g, fat 18 g, carbs 88 g
 
 好吃又健康! / Hào chī yòu jiànkāng! / yummy and healthy!
-
-
