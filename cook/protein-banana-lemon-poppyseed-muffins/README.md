@@ -1,46 +1,32 @@
 # Protein Banana-Lemon Poppyseed Muffins
 
+**Summary**
+
+Prep time: 15 mins | Cook time: 20 mins | Total time: 35 mins Servings: 12 muffins
+
 **Ingredients:**
+1.75 cups Oat Flour (blend approx. 2 cups of whole oats to get this)
+0.5 cup Protein Powder
+2 tbsp Poppyseeds (increased as per original)
+1 tsp Baking Soda
+1 tsp Baking Powder
+0.5 tsp Salt
+3 large Ripe Bananas, mashed
+2 large Eggs
+1 cup Plain Greek Yogurt
+2 tbsp Lemon Juice
+1 tbsp Lemon Zest
 
-* 0.75 cup Oat flour
-* 0.75 cup Almond flour
-* 3 scoops (90g) Vanilla protein powder
-* 2 tbsp Poppyseeds
-* 1 tsp Baking powder
-* 0.5 tsp Baking soda
-* 0.25 tsp Salt
-* 0.75 cup Greek yogurt (non-fat, plain)
-* 1 Large overripe banana (mashed)
-* 1 Large egg
-* 2 Egg whites
-* 0.25 cup Almond milk (unsweetened)
-* 2 tbsp Lemon juice
-* 2 tbsp Lemon zest
-* 1 tsp Vanilla extract
+**Instructions:**
 
-**How to make it:**
+1. Prep: Preheat oven to 375°F (190°C). Grease your muffin tin well.
+1. Blend Oats: Use your hand blender in a narrow container. Blend until you have a fine powder. Measure 1 ¾ cups after blending, not before.
+1. Dry Mix: Whisk the oat flour, protein powder, 2 tbsp poppyseeds, baking soda, baking powder, and salt.
+1. Wet Mix: In a separate bowl, mash the bananas thoroughly. Whisk in the eggs, Greek yogurt, lemon juice, and zest.
+1. The "Oat Soak": Combine wet and dry. Stir until just combined, then let the batter sit for 10 minutes. (Because we are using 100% oats and no sugar, this rest period prevents the muffins from being "mushy" in the middle).
+1. Bake: Fill the tins. Bake for 18–22 minutes until a toothpick comes out clean.
 
-* Preheat oven to 350°F (175°C) and grease a muffin tin.
-* Whisk all dry ingredients in a large bowl (flour, almond flour, protein powder, poppyseeds, baking powder, baking soda, salt).
-* In a separate bowl, mash the banana until smooth, then whisk in the remaining wet ingredients (yogurt, egg/whites, milk, lemon juice, zest, vanilla).
-* Fold wet ingredients into dry until just combined; do not overmix.
-* Fill muffin cups 3/4 full and bake for 18-22 minutes until a toothpick comes out clean.
-
-**Nutrition:**
-
-* Oat flour (0.75 cup/90g) - 340 calories, protein 13g, fat 5.5g, carbs 60g
-* Almond flour (0.75 cup/84g) - 480 calories, protein 18g, fat 42g, carbs 15g
-* Protein powder (3 scoops/90g) - 360 calories, protein 72g, fat 4.5g, carbs 9g
-* Greek yogurt (0.75 cup/170g) - 100 calories, protein 18g, fat 0g, carbs 6g
-* Banana (1 large/135g) - 120 calories, protein 1.5g, fat 0.5g, carbs 31g
-* Egg & Whites (1 egg + 2 whites) - 105 calories, protein 13g, fat 5g, carbs 1g
-* Poppyseeds (2 tbsp) - 90 calories, protein 3g, fat 7g, carbs 5g
-* Misc (Milk, lemon, etc.) - 40 calories, protein 1g, fat 1g, carbs 6g
-
-
-**Total:** calories 1635, protein 139.5g, fat 65.5g, carbs 133g.
-
-**Each muffin (of 12):** 136 calories, protein 11.6g, fat 5.5g, carbs 11.1g.
+**Each muffin (of 12):** 115 calories, protein 9g, fat 2.5g, carbs 16g.
 
 ---
 
