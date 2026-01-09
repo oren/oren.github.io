@@ -1,5 +1,7 @@
 # Protein Banana-Lemon Poppyseed Muffins
 
+![poppyseed](poppyseed.jpeg)
+
 **Summary**
 
 Prep time: 15 mins | Cook time: 20 mins | Total time: 35 mins Servings: 12 muffins
