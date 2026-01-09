@@ -5,6 +5,7 @@
 Prep time: 15 mins | Cook time: 20 mins | Total time: 35 mins Servings: 12 muffins
 
 **Ingredients:**
+
 1.75 cups Oat Flour (blend approx. 2 cups of whole oats to get this)
 0.5 cup Protein Powder
 2 tbsp Poppyseeds (increased as per original)
@@ -16,6 +17,8 @@ Prep time: 15 mins | Cook time: 20 mins | Total time: 35 mins Servings: 12 muffi
 1 cup Plain Greek Yogurt
 2 tbsp Lemon Juice
 1 tbsp Lemon Zest
+
+Note: I used all-purpose flour by accident. We'll see how it turned out...
 
 **Instructions:**
 
