@@ -1,6 +1,7 @@
 # Protein Banana-Lemon Poppyseed Muffins
 
 ![poppyseed](poppyseed.jpeg)
+![poppyseed2](poppyseed2.jpeg)
 
 **Summary**
 
