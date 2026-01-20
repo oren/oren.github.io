@@ -9,17 +9,17 @@ Prep time: 15 mins | Cook time: 20 mins | Total time: 35 mins Servings: 12 muffi
 
 **Ingredients:**
 
-1.75 cups Oat Flour (blend approx. 2 cups of whole oats to get this)
-0.5 cup Protein Powder
-2 tbsp Poppyseeds (increased as per original)
-1 tsp Baking Soda
-1 tsp Baking Powder
-0.5 tsp Salt
-3 large Ripe Bananas, mashed
-2 large Eggs
-1 cup Plain Greek Yogurt
-2 tbsp Lemon Juice
-1 tbsp Lemon Zest
+* 1.75 cups Oat Flour (blend approx. 2 cups of whole oats to get this)
+* 0.5 cup Protein Powder
+* 2 tbsp Poppyseeds (increased as per original)
+* 1 tsp Baking Soda
+* 1 tsp Baking Powder
+* 0.5 tsp Salt
+* 3 large Ripe Bananas, mashed
+* 2 large Eggs
+* 1 cup Plain Greek Yogurt
+* 2 tbsp Lemon Juice
+* 1 tbsp Lemon Zest
 
 Note: I used all-purpose flour by accident. We'll see how it turned out...
 
