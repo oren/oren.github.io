@@ -1,5 +1,9 @@
 # Thai Inspired Chicken Meatball Soup
 
+![soup](thai-soup.jpeg)
+![soup](thai-soup2.jpeg)
+![soup](thai-soup3.jpeg)
+
 **Summary**
 
 Prep time: 15 mins | Cook time: 25 mins | Total time: 40 mins | Servings: 4
