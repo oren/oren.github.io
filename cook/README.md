@@ -66,6 +66,7 @@
 * [Steamed Eggs](steamed-eggs/)
 * [Stuffed Bittermelon](stuffed-bittermelon/)
 * [Stuffed Chicken](stuffed-chicken/)
+* [Thai Chicken Soup](thai-chicken-soup/)
 * [Thai Curry Chicken](thai-curry-chicken/)
 * [Thai Curry Soup](thai-curry-soup/)
 * [Tofu](tofu/)
