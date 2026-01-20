@@ -11,6 +11,7 @@ Prep time: 15 mins | Cook time: 25 mins | Total time: 40 mins | Servings: 4
 **Ingredients:**
 
 Meatballs:
+
 - 1 lb ground chicken
 - 2 scallions, finely chopped
 - 2 tbsp cilantro, chopped
@@ -19,6 +20,7 @@ Meatballs:
 - 1 tbsp soy sauce
 
 Soup:
+
 - 2 large shallots, thinly sliced
 - 6 oz shiitake mushrooms, sliced
 - 5 oz baby spinach
