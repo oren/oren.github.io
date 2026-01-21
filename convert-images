@@ -1,2 +1,2 @@
-magick input.jpg -resize 300x output.jpg
+magick input.jpg -resize 800x output.jpg
 identify image.jpg
