@@ -59,6 +59,7 @@
 * [Russian Dishes](russian/)
 * [Salmon Avocado Salad](salmon-avocado-salad/)
 * [Sesame Balls](sesame-balls/)
+* [Shrimp Avocado Salad](shrimp-avocado-salad/)
 * [Spaghetti Squash](spaghetti-squash/)
 * [Split Peas Soup](split-peas-soup/)
 * [Spring Rolls](spring-rolls/)
