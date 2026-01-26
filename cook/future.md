@@ -42,3 +42,16 @@ https://thewoksoflife.com/sichuan-dry-fried-green-beans/
 * [Baked Tomatoes](https://www.youtube.com/watch?v=zFkQcmgZWKw)
 * [Roasted Cabbage with Tahini](https://www.youtube.com/watch?v=ZMAwm2gqiVs)
 * [Thomas Keller Zucchini](https://www.easyanddelish.com/thomas-keller-zucchini/)
+
+## Mint chimichurri
+
+i made a good mint chimichurri for some lamb chops last night. try this next time you make rich red meat:
+
+* 1/4 cup fresh mint leaves
+* 1/4 cup fresh parsley, large stems removed
+* 1-2 large cloves garlic, roughly chopped
+* juice and zest of 1/2 lemon
+* 3 tbsp good olive oil
+* 1/2 tsp kosher salt
+
+blend until smooth with immersion blender
