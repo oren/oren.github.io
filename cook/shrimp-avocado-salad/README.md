@@ -3,6 +3,8 @@
 ![shrimp](shrimp.jpeg)
 ![shrimp](shrimp2.jpeg)
 
+I forgot the greek yogurt. I'll add it next time.
+
 **Summary**
 
 Prep time: 5 mins | Cook time: 0 mins | Total time: 5 mins | Servings: 4
