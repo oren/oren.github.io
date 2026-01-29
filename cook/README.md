@@ -11,6 +11,7 @@
 * [Cauliflower Soup](cauliflower-soup/)
 * [Cauliflower Tahini](cauliflower-tahini/)
 * [Chicken Rice](chicken-rice/)
+* [Chicken Chili](chicken-chili/)
 * [Chicken Congee](chicken-congee/)
 * [Chicken Corn Chowder](chicken-corn-chowder/)
 * [Chicken Miso](chicken-miso/)
