@@ -1,1 +1,1 @@
-[Oren Home](/) > [Articles](articles/)
+[Oren Home](/) > [Articles](articles/) > [NVC](articles/nvc/)
