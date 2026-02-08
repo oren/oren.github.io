@@ -31,4 +31,4 @@ Prep time: 15 mins | Cook time: 15 mins | Total time: 30 mins | Servings: 4
 
 ---
 
-Source: [The Endless Meal](https://www.theendlessmeal.com/thai-inspired-chicken-meatball-soup/)
+Source: [The Anti-Inflammatory Diet & Action Plans](https://www.amazon.com/Anti-Inflammatory-Diet-Action-Plans-Restore/dp/1942411251)
