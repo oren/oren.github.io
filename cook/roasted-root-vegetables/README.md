@@ -24,6 +24,10 @@ Prep time: 15 mins | Cook time: 25-35 mins | Servings: 4-6
 4. Bake for 10 to 15 minutes. Turn them so they brown on the other side. Continue to bake for 10 to 15 minutes more, or until brown and tender.
 5. Serve warm or at room temperature.
 
+**Alternative Approach**
+
+Just season the veggies with olive oil, salt, pepper. Make sure your veggies are dry before seasoning and the sizes you cut your veggies should be consistent because all these veggies have approximately the same cooking time. I think they are under-shooting the baking time - expect 40-60 minutes depending on the size you cut the veggies.
+
 **Tips:**
 
 - If the vegetables are brown but not quite cooked through, remove them from the oven. Cover the pans with aluminum foil and let the vegetables steam for about 10 minutes. The fresher the vegetables, the less time needed to roast them.
@@ -33,3 +37,4 @@ Prep time: 15 mins | Cook time: 25-35 mins | Servings: 4-6
 ---
 
 Source: [The Anti-Inflammatory Diet & Action Plans](https://www.amazon.com/Anti-Inflammatory-Diet-Action-Plans-Restore/dp/1942411251)
+
