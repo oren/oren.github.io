@@ -1,5 +1,8 @@
 # Chicken with Fennel and Zucchini
 
+![chicken](chicken-fennel-zucchini.jpeg)
+![chicken2](chicken-fennel-zucchini2.jpeg)
+
 **Summary**
 
 Prep time: 15 mins | Cook time: 15 mins | Total time: 30 mins | Servings: 4
