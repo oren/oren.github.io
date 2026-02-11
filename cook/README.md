@@ -43,7 +43,7 @@
 * [Lentil Soup](lentil-soup/)
 * [Mahi Mahi Mojo](mahi-mahi-mojo/)
 * [Matcha Latte](matcha-latte/)
-* [miso-chicken-thighs](Miso Chicken Thighs/)
+* [Miso Chicken Thighs](miso-chicken-thighs/)
 * [Moroccan Chicken](moroccan-chicken/)
 * [Mung Bean Pancakes](mung-bean-pancakes/)
 * [Musubi](musubi/)
