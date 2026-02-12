@@ -1,5 +1,7 @@
 # Miso Chicken Thighs
 
+![miso chicken](miso-chicken.jpeg)
+
 **Summary**
 
 Prep time: 15 mins | Cook time: 40 mins | Total time: 55 mins | Servings: 4
