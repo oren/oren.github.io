@@ -1,5 +1,7 @@
 # Musubi (午餐肉军舰寿司 / スパムむすび)
 
+Servings: 4-6 musubis
+
 **Ingredients:**
 
 Rice:
