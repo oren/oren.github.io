@@ -46,34 +46,30 @@ Toppings:
 12. Optionally add another thin layer of rice on top and press again.
 13. Remove the mold and wrap the nori tightly around the block. Use a dab of water or teriyaki sauce to seal the seaweed.
 
-## Additional ingredients (optional)
+## Variations
 
-Since you're already using Brown Rice and Chicken Teriyaki, you have a great base. Because brown rice is heartier and nuttier than white rice, it pairs exceptionally well with ingredients that offer creamy textures, acidic crunch, or intense umami.
-
-Here are four ways to "level up" your musubi:
-
-**1. The "Creamy & Cool" (Avocado)**
+### 1. Avocado
 
 The richness of avocado perfectly offsets the chewy texture of brown rice and the saltiness of the teriyaki.
 
 - **How to add it:** Slice thin wedges of ripe avocado and place them directly between the chicken and the rice.
 - **Pro Tip:** Squeeze a little lime juice on the avocado first so it doesn't brown if you're packing these for later.
 
-**2. The "Breakfast Twist" (Tamagoyaki/Egg)**
+### 2. Tamagoyaki/Egg
 
 In Hawaii, it's very common to see a layer of egg in musubi. It adds protein and a soft, pillowy texture.
 
 - **How to add it:** Whisk 2 eggs with a splash of water and a pinch of sugar. Fry it in a flat layer, then cut it into rectangles the exact size of your musubi mold.
 - **Placement:** Layer it: Rice → Egg → Chicken → Nori.
 
-**3. The "Crunch & Acid" (Quick Pickled Cucumbers)**
+### 3. Pickled Cucumbers
 
 Since brown rice and chicken are both "earthy," adding something pickled makes the whole bite feel lighter and fresher.
 
 - **How to add it:** Thinly slice cucumbers and toss them in a splash of your rice vinegar and a pinch of sugar for 10 minutes.
 - **Placement:** Put 2–3 slices on top of the chicken before wrapping the seaweed.
 
-**4. The "Umami Bomb" (Furikake & Kimchi)**
+$$ 4. Furikake & Kimchi (Unami Bomb)
 
 If you want bold flavor, this is the route to go.
 
