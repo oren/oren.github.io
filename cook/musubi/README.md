@@ -16,13 +16,9 @@ Chicken:
 - 1 tbsp oil for searing
 - Salt and pepper
 
-Glaze:
+Sauce:
 
-- 1/4 cup soy sauce
-- 2 tbsp water
-- 1.5 tsp fresh grated ginger
-- 2 tbsp sugar (or honey)
-- 1/2 tsp cornstarch (optional, for thickness)
+- 1/4 cup teriyaki sauce
 
 Toppings:
 
@@ -38,14 +34,13 @@ Toppings:
 4. Remove from heat and let it rest for 10 minutes (do not open the lid!).
 5. Fold in 1 tbsp rice vinegar and half of the sliced scallions.
 6. Season chicken strips with salt and pepper. Brown them in a pan over medium-high heat until cooked through (165°F). Remove from pan.
-7. In the same pan, add the soy sauce, water, sugar, and fresh grated ginger.
-8. Simmer for 2-3 minutes until it bubbles and thickens into a syrup.
-9. Toss the cooked chicken back into the sauce to coat.
-10. Lay a strip of nori rough-side up. Place your musubi mold (or a lined Spam tin) in the center.
-11. Scoop about 1/2 inch of scallion-brown rice into the mold. Press down very hard.
-12. Place a piece of teriyaki chicken on the rice. Sprinkle with more scallions.
-13. Optionally add another thin layer of rice on top and press again.
-14. Remove the mold and wrap the nori tightly around the block. Use a dab of water or teriyaki sauce to seal the seaweed.
+7. In the same pan, add the teriyaki sauce and simmer for 1-2 minutes until it bubbles.
+8. Toss the cooked chicken back into the sauce to coat.
+9. Lay a strip of nori rough-side up. Place your musubi mold (or a lined Spam tin) in the center.
+10. Scoop about 1/2 inch of scallion-brown rice into the mold. Press down very hard.
+11. Place a piece of teriyaki chicken on the rice. Sprinkle with more scallions.
+12. Optionally add another thin layer of rice on top and press again.
+13. Remove the mold and wrap the nori tightly around the block. Use a dab of water or teriyaki sauce to seal the seaweed.
 
 ## Additional ingredients (optional)
 
@@ -88,4 +83,4 @@ If you want bold flavor, this is the route to go.
 | Avocado | Rich & Healthy | A drizzle of Sriracha. |
 | Fried Egg | Hearty & Filling | Extra scallions. |
 | Pickled Cucumber | Fresh & Bright | Toasted sesame seeds. |
-| Kimchi | Spicy & Bold | Your homemade ginger-teriyaki sauce. |
+| Kimchi | Spicy & Bold | Your teriyaki sauce. |
