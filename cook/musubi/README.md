@@ -4,13 +4,15 @@ Servings: 4-6 musubis
 
 **Ingredients:**
 
-Rice:
+Rice (or buckwheat):
 
-- 1 cup long-grain brown rice
+- 1 cup long-grain brown rice (or 1 cup buckwheat groats)
 - 2 cups water
 - 1 tsp sesame oil
 - 1 tbsp rice vinegar
 - Pinch of sugar
+
+> **Buckwheat option:** Simmer for 15 minutes instead of 45. Buckwheat is less sticky, so press extra hard in the mold. Adding rice vinegar while still hot helps it hold together.
 
 Chicken:
 
