@@ -1,6 +1,7 @@
 # Skunk Works
 
 Kelly's 14 rules for making impact under impossible deadlines:
+
 1. The Skunk Works ® manager must be delegated practically complete control of his program in all aspects. He should report to a division president or higher.
 1. Strong but small project offices must be provided both by the military and industry.
 1. The number of people having any connection with the project must be restricted in an almost vicious manner. Use a small number of good people (10% to 25% compared to the so-called normal systems).
@@ -17,6 +18,7 @@ Kelly's 14 rules for making impact under impossible deadlines:
 1. Because only a few people will be used in engineering and most other areas, ways must be provided to reward good performance by pay not based on the number of personnel supervised.
 
 7 Principles for Manufacturing Excellence by Lockheed Martin Missiles and Fire Control:
+
 1. leadership
 1. workforce focus
 1. customer focus
