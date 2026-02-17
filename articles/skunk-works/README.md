@@ -28,4 +28,5 @@ Kelly's 14 rules for making impact under impossible deadlines:
 1. continuous improvements
 
 Links:
+
 * [Infographic](https://www.productionmachining.com/blog/post/leadership-workforce-focus-included-in-7-principles-for-manufacturing-excellence) (bad quality).
