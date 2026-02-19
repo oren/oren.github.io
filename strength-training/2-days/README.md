@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Twice a week, 1 hour each session. 4 supersets each session (8 excercises).
+Twice a week, 1 hour each session. 4 supersets each session (8 excercises), 10 reps per excercise.
 
 
 ### Workout A
