@@ -1,4 +1,4 @@
 # Strength Training
 
 * [Push, Pull, Legs - strength and bodybuilding program](ppl/)
-* [How to Grow Your Traps](traps/)
+* [2 days a week - strength program](2-days/)
