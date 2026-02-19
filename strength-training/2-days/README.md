@@ -2,32 +2,31 @@
 
 ## What is it?
 
-Twice a week, 1 hour each session. 4 supersets each session (8 excercises), 10 reps per excercise.
-
+A strength training program to get you stronget until you die. Twice a week, 1 hour each session. 4 supersets each session (8 excercises), 3 sets, 10 reps per set. Each two exercises are a superset - do them back to back with no rest in between, then rest 1-2 minutes before the next superset.
 
 ### Workout A
 
 | Exercise | Muscle Group |
 |---|---|
-| Squats | Quads/Glutes |
-| Pull-Ups | Lats (Back) |
-| Bench Press | Chest |
-| Romanian DL | Hamstrings |
-| Overhead Press | Shoulders |
-| Barbell Rows | Mid-Back |
-| DB Curls | Biceps |
+| [Squats](https://www.youtube.com/watch?v=1oed-UmAxFs) | Quads/Glutes |
+| [Pull-Ups](https://www.youtube.com/watch?v=ylVmNQlKdAI) | Lats (Back) |
+| [Bench Press](https://www.youtube.com/watch?v=ysUTNll8JQ8) | Chest |
+| [Romanian DL](https://www.youtube.com/watch?v=-m45n1_x32E) | Hamstrings |
+| [Overhead Press](https://www.youtube.com/watch?v=j7ULT6dznNc) | Shoulders |
+| [Barbell Rows](https://www.youtube.com/watch?v=WkmlAp776Bk) | Mid-Back |
+| [DB Curls](https://www.youtube.com/watch?v=8XLxfXROrTo) | Biceps |
 
 ### Workout B
 
 | Exercise | Muscle Group |
 |---|---|
-| Leg Press | Quads/Glutes |
-| Cable Rows | Mid-Back |
-| Incline Press | Upper Chest |
-| Leg Curls | Hamstrings |
-| Lateral Raises | Side Shoulders |
-| Dips/Pushdowns | Triceps |
-| Ab Roller | Abs |
+| [Leg Press](https://www.youtube.com/watch?v=sEM_zo9w2ss) | Quads/Glutes |
+| [Cable Rows](https://www.youtube.com/watch?v=CAwf7n6Luuc) | Mid-Back |
+| [Incline Press](https://www.youtube.com/watch?v=SrqOu55lrYU) | Upper Chest |
+| [Leg Curls](https://www.youtube.com/watch?v=IhuboUEej7Y) | Hamstrings |
+| [Lateral Raises](https://www.youtube.com/watch?v=MaCRH6j591w) | Side Shoulders |
+| [Dips/Pushdowns](https://www.youtube.com/watch?v=_w-HpW70nSQ) | Triceps |
+| [Ab Roller](https://www.youtube.com/watch?v=qeqofno2lSM) | Abs |
 
 ## Substitutions
 
