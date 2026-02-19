@@ -5,15 +5,29 @@
 Twice a week, 1 hour each session. 4 supersets each session (8 excercises).
 
 
-| Workout A | Muscle Group | Workout B | Muscle Group |
-|---|---|---|---|
-| 1a. Squats | Quads/Glutes | 1a. Leg Press | Quads/Glutes |
-| 1b. Pull-Ups | Lats (Back) | 1b. Cable Rows | Mid-Back |
-| 2a. Bench Press | Chest | 2a. Incline Press | Upper Chest |
-| 2b. Romanian DL | Hamstrings | 2b. Leg Curls | Hamstrings |
-| 3a. Overhead Press | Shoulders | 3a. Lateral Raises | Side Shoulders |
-| 3b. Barbell Rows | Mid-Back | 3b. Dips/Pushdowns | Triceps |
-| 4. DB Curls | Biceps | 4. Ab Roller | Abs |
+### Workout A
+
+| Exercise | Muscle Group |
+|---|---|
+| Squats | Quads/Glutes |
+| Pull-Ups | Lats (Back) |
+| Bench Press | Chest |
+| Romanian DL | Hamstrings |
+| Overhead Press | Shoulders |
+| Barbell Rows | Mid-Back |
+| DB Curls | Biceps |
+
+### Workout B
+
+| Exercise | Muscle Group |
+|---|---|
+| Leg Press | Quads/Glutes |
+| Cable Rows | Mid-Back |
+| Incline Press | Upper Chest |
+| Leg Curls | Hamstrings |
+| Lateral Raises | Side Shoulders |
+| Dips/Pushdowns | Triceps |
+| Ab Roller | Abs |
 
 ## Notes
 **High-Rep Optimization**
