@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A strength training program to get you stronget until you die. Twice a week, 1 hour each session. 4 supersets each session (8 excercises), 3 sets, 10 reps per set. Each two exercises are a superset - do them back to back with no rest in between, then rest 1-2 minutes before the next superset.
+A strength training program to get you stronget until you die. Twice a week, 1 hour each session. 3-4 supersets each session (7-8 excercises), 3 sets, 10 reps per set. Each two exercises are a superset - do them back to back with no rest in between, then rest 1-2 minutes before the next superset.
 
 ### Workout A
 
