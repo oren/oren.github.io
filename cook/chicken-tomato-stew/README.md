@@ -1,6 +1,4 @@
-# Toriniku no Tomato Nikomi (鶏肉のトマト煮込み)
-
-Chicken and Tomato Stew
+# Chicken and Tomato Stew / Toriniku no Tomato Nikomi / 鶏肉のトマト煮込み
 
 ![chicken](chicken-tomato-stew.jpeg)
 ![chicken2](chicken-tomato-stew2.jpeg)
@@ -49,6 +47,6 @@ This recipe focuses on chicken thighs, tomatoes, onion, cabbage, and bouillon.
 
 ## Pro-Tips for an Authentic Taste
 
-- **Cabbage Size:** Don't chop the cabbage too small. Keeping it in large, rustic chunks (as seen in the video) allows it to soak up the tomato broth without turning into mush.
+- **Cabbage Size:** Don't chop the cabbage too small. Keeping it in large, rustic chunks allows it to soak up the tomato broth without turning into mush.
 
 - **Richness:** For a richer flavor, some Japanese home cooks add a tablespoon of miso paste or a small knob of butter at the very end to give the broth a velvety finish.
