@@ -21,6 +21,7 @@
 * [Chicken Soup](chicken-soup/)
 * [Chicken Taro](chicken-taro/)
 * [Chicken Teriyaki](chicken-teriyaki/)
+* [Chicken Tomato Stew](chicken-tomato-stew/)
 * [5 Spice Chicken](5-spice-chicken/)
 * [Chili Soup](chili/)
 * [Cholent](cholent/)
