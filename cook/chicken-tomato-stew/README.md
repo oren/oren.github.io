@@ -3,7 +3,7 @@
 ![chicken](chicken-tomato-stew.jpeg)
 ![chicken2](chicken-tomato-stew2.jpeg)
 
-This is a classic Japanese "home cooking" style stew—it's lighter and more soup-like than a thick Italian ragu.
+This is a classic Japanese "home cooking" style stew. It's lighter and more soup-like than a thick Italian ragu.
 
 **Japanese Chicken & Tomato Stew (Claire Akibaa Style)**
 
