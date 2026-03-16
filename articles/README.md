@@ -48,6 +48,7 @@
 * [How to Build Exceptional Relationships](exceptional-relationships/)
 * [Is your parent emotionally mature](is-your-parent-emotionally-mature/)
 * [How to apologize and repair a relationship?](how-to-apologize/)
+* [5 Pillars For Personal Growth](5-pillars/)
 * [Help a friend with anxious attachment style](help-attachment-style/)
 * [7 questions you can use when coaching](7-coaching-questions/)
 * [Empathy](empathy/)
