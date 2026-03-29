@@ -47,6 +47,7 @@
 * [Thai Curry Soup](thai-curry-soup/)
 * [Tomato Coconut Soup](tomato-coconut-soup/)
 * [Ukrainian Borscht Soup](https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/)
+* [Pho](https://www.reddit.com/r/instantpot/comments/ai4s62/pho_sho_90_mins_under_pressure_and_the_best_ive/)
 
 ## Salads
 * [Beets Salad](beets-salad/)
@@ -54,6 +55,7 @@
 * [Daikon Salad](daikon-salad/)
 * [Eggplant Pepper Salad](eggplant-pepper-salad/)
 * [Tuna Cabbage Salad](tuna-cabbage/)
+* [Seven Grain Salad](https://thecookiewriter.com/summer-fresh-seven-grain-salad-copycat/)
 
 ## Vegetables
 * [Cauliflower Pancakes](cauliflower-pancakes/)
@@ -103,17 +105,10 @@
 * [Russian Dishes](russian/)
 
 ## I want to try these recipes
-* [TODO](todo/)
-* [Try](try/)
-
-## Awesome Recipes
-
-* [Beans in Instant Pot](beans/)
-* [Instant Pot](https://twosleevers.com/recipe-index/?fwp_cooking_style=instant-pot-pressure-cooker)
-* [Slow Cooker](https://twosleevers.com/recipe-index/?fwp_cooking_style=slow-cooker)
-* [Pho](https://www.reddit.com/r/instantpot/comments/ai4s62/pho_sho_90_mins_under_pressure_and_the_best_ive/)
-* [Seven Grain Salad](https://thecookiewriter.com/summer-fresh-seven-grain-salad-copycat/)
-* [Thai Chicken](thai-chicken/)
+* [Try these](todo/)
+* [Try these too](try/)
 
 ## Misc
 * [Instant Pot Cooking Times](https://instapot.life/instant-pot-cooking-times/)
+* [Beans in Instant Pot](beans/)
+* [Slow Cooker Recipies](https://twosleevers.com/recipe-index/?fwp_cooking_style=slow-cooker)
