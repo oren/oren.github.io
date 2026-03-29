@@ -55,3 +55,5 @@
 3. Sear cauliflower steaks. Serve over herb bean purée, drizzle with harissa tahini, garnish with pomegranate seeds and coriander.
 
 Source: [Alfie Cooks](https://alfiecooks.substack.com/p/the-best-way-to-cook-cauliflower)
+
+Video: [YouTube](https://www.youtube.com/watch?v=BFs5HLrvVko)
