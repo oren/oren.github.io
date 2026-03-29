@@ -4,6 +4,13 @@
 
 ![califlower](cauliflower.jpg)
 
+**Steaks**
+
+* 1 large cauliflower
+* 1 tbsp smoked paprika
+* 3 garlic cloves
+* 2 tbsp butter
+
 **Chimichurri**
 
 * 30g fresh parsley
@@ -22,15 +29,24 @@
 
 **Instructions**
 
-1. Finely chop parsley, chilli, and garlic. Mix with vinegar, then stream in oil while stirring. Season.
-2. Blend butter beans with lemon juice, minced garlic, and nutritional yeast until creamy. Season.
-3. Sear cauliflower steaks in a hot pan. Serve over bean purée topped with chimichurri.
+1. **Chimichurri:** Finely chop parsley, chilli, and garlic. Mix with vinegar, then stream in oil while stirring. Season.
+2. **Butter Bean Purée:** Blend butter beans with lemon juice, minced garlic, and nutritional yeast until creamy. Season.
+3. **Steaks:** Rub cauliflower steaks with smoked paprika and minced garlic. Sear in a hot pan with butter. Serve over bean purée topped with chimichurri.
+
+**Oven alternative:** Roast at 425°F / 220°C for 20-25 min, flipping halfway.
 
 ---
 
 ## Version 2: Cauliflower Steak with Harissa Tahini & Green Herb Beans
 
 ![califlower](cauliflower2.jpg)
+
+**Steaks**
+
+* 1 large cauliflower
+* 1 tbsp smoked paprika
+* 3 garlic cloves
+* 2 tbsp butter
 
 **Harissa Tahini**
 
@@ -50,9 +66,11 @@
 
 **Instructions**
 
-1. Whisk together tahini, harissa, minced garlic, lemon juice, and water until smooth.
-2. Blend butter beans with herbs, lemon, olive oil, and nutritional yeast until creamy.
-3. Sear cauliflower steaks. Serve over herb bean purée, drizzle with harissa tahini, garnish with pomegranate seeds and coriander.
+1. **Harissa Tahini:** Whisk together tahini, harissa, minced garlic, lemon juice, and water until smooth.
+2. **Green Herb Bean Base:** Blend butter beans with herbs, lemon, olive oil, and nutritional yeast until creamy.
+3. **Steaks:** Rub cauliflower steaks with smoked paprika and minced garlic. Sear in a hot pan with butter. Serve over herb bean purée, drizzle with harissa tahini, garnish with pomegranate seeds and coriander.
+
+**Oven alternative:** Roast at 425°F / 220°C for 20-25 min, flipping halfway.
 
 Source: [Alfie Cooks](https://alfiecooks.substack.com/p/the-best-way-to-cook-cauliflower)
 
