@@ -58,6 +58,7 @@
 * [Seven Grain Salad](https://thecookiewriter.com/summer-fresh-seven-grain-salad-copycat/)
 
 ## Vegetables
+* [Cauliflower Chimichurri](cauliflower-chimichurri/)
 * [Cauliflower Pancakes](cauliflower-pancakes/)
 * [Cauliflower Tahini](cauliflower-tahini/)
 * [Delicata Squash and Miso](delicata-squash/)
