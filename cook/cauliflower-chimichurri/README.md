@@ -2,7 +2,11 @@
 
 ## Version 1: Cauliflower Steak with Chimichurri & Butter Bean Purée
 
-![califlower](cauliflower.jpg)
+![ingredients](cauliflower-ingredients.jpg)
+
+![roasting](cauliflower-roasting.jpg)
+
+![cauliflower chimichurri](cauliflower-chimichurri.jpg)
 
 **Steaks**
 
@@ -38,8 +42,6 @@
 ---
 
 ## Version 2: Cauliflower Steak with Harissa Tahini & Green Herb Beans
-
-![califlower](cauliflower2.jpg)
 
 **Steaks**
 
