@@ -3,17 +3,8 @@
 ## Version 1: Cauliflower Steak with Chimichurri & Butter Bean Purée
 
 ![ingredients](cauliflower-ingredients.jpg)
-
 ![roasting](cauliflower-roasting.jpg)
-
 ![cauliflower chimichurri](cauliflower-chimichurri.jpg)
-
-**Steaks**
-
-* 1 large cauliflower
-* 1 tbsp smoked paprika
-* 3 garlic cloves
-* 2 tbsp butter
 
 **Chimichurri**
 
@@ -23,18 +14,24 @@
 * 2 tbsp red wine vinegar
 * 100ml extra virgin olive oil
 
-**Butter Bean Purée**
+**Tahini**
 
-* 500g jarred butter beans
-* 1 lemon
+* Garbanzo bean (can)
+* 1/2 lemon
 * 1 garlic clove
-* 2 tbsp nutritional yeast
 * Salt and pepper
+
+**Steaks**
+
+* 1 large cauliflower
+* 1 tbsp smoked paprika
+* 3 garlic cloves
+* 2 tbsp butter
 
 **Instructions**
 
 1. **Chimichurri:** Finely chop parsley, chilli, and garlic. Mix with vinegar, then stream in oil while stirring. Season.
-2. **Butter Bean Purée:** Blend butter beans with lemon juice, minced garlic, and nutritional yeast until creamy. Season.
+2. **Tahini:** Blend beans with lemon juice, minced garlic until creamy. Season.
 3. **Steaks:** Rub cauliflower steaks with smoked paprika and minced garlic. Sear in a hot pan with butter. Serve over bean purée topped with chimichurri.
 
 **Oven alternative:** Roast at 425°F / 220°C for 20-25 min, flipping halfway.
