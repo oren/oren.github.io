@@ -34,4 +34,4 @@ Prep time: 20 mins | Cook time: 35 mins | Total time: 55 mins | Servings: 8
 
 ---
 
-Source: [Washington Post / Crescent Dragonwagon](https://www.washingtonpost.com/news/voraciously/wp/2020/03/08/this-lentil-soup-is-so-good-one-nurse-has-eaten-it-for-lunch-every-workday-for-17-years/)
+Source: [Washington Post / Crescent Dragonwagon](https://web.archive.org/web/20200309092143/https://www.washingtonpost.com/news/voraciously/wp/2020/03/08/this-lentil-soup-is-so-good-one-nurse-has-eaten-it-for-lunch-every-workday-for-17-years/)
