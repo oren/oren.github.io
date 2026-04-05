@@ -40,6 +40,7 @@
 * [Chili Soup](chili/)
 * [Cholent](cholent/)
 * [Greek Avgolemono Soup](https://www.youtube.com/watch?v=6_U3ZMrX8gM)
+* [Greek Lentil and Spinach Soup With Lemon](greek-lentil-soup/)
 * [Indian Dal](dal/)
 * [Lentil Soup](lentil-soup/)
 * [Lentils Butternut Squash Soup](lentils-butternut-squash-soup/)
