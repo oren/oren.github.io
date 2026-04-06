@@ -23,7 +23,7 @@ Pothos prefer to dry out significantly between waterings. Overwatering is the mo
 | Drainage | Ensure the white pot inside that basket has drainage holes. Standing water leads to root rot. |
 | Yellow Leaves | A few yellow leaves near the base (like the one visible on the left) are normal aging, but many yellow leaves usually mean too much water. |
 | Safety | Note: Pothos are toxic to cats and dogs if ingested, so keep those vines out of reach of curious pets. |
-How much light does this spot get during the day—is it near a window or mostly in the shade?
+How much light does this spot get during the day. Is it near a window or mostly in the shade?
 
 ## Norfolk Isalnd Pine
 
@@ -59,7 +59,7 @@ What plant is this and how often to water it?
 
 ![Snake Plant](snake-plant.jpg)
 
-Also commonly known as "Mother-in-Law's Tongue." It is perhaps the most durable indoor plant you can own—it's very hard to kill, provided you don't overwater it.
+Also commonly known as "Mother-in-Law's Tongue." It is perhaps the most durable indoor plant you can own, it's very hard to kill, provided you don't overwater it.
 
 **Watering Guide**
 The number one rule for Snake Plants is: When in doubt, don't water it. These are succulents that store water in their thick, sword-like leaves.
