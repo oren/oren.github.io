@@ -19,6 +19,7 @@
 * [Top rope climbing](top-rope/)
 * [Hebrew](hebrew/)
 * [DMV Test](dmv/)
+* [Plants](plants/)
 * [My Operating Manual](operating-manual/)
 
 ## 3. Apps
