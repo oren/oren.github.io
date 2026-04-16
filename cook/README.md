@@ -14,6 +14,7 @@
 * [Chicken Teriyaki](chicken-teriyaki/)
 * [Chicken Tomato Stew](chicken-tomato-stew/)
 * [Chicken with Fennel and Zucchini](chicken-fennel-zucchini/)
+* [Gochujang & Coconut Chicken](gochujang-coconut-chicken/)
 * [Miso Chicken Thighs](miso-chicken-thighs/)
 * [Moroccan Chicken](moroccan-chicken/)
 * [Musubi](musubi/)
