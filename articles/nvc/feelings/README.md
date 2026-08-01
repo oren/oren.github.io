@@ -1,6 +1,6 @@
 # Feelings Inventory
 
-![feelings](http://feelingswheel.com/feelings-wheel.jpg)
+![feelings](https://www.neuralnetworks.com.au/uploads/117/96/20231127-Feelings-Wheel.jpg)
 
 ## 1. Feelings when your needs are not satisfied:
 * **Afraid**: apprehensive, dread, foreboding, frightened, mistrustful, panicked, petrified, scared, suspicious, terrified, wary, worried
