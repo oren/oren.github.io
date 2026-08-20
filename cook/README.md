@@ -91,6 +91,7 @@
 * [Risotto](risotto/)
 
 ## Snacks & Drinks
+* [Apple Red Date Ginger Tea](apple-red-date-ginger-tea/)
 * [Matcha Latte](matcha-latte/)
 * [Oatmeal Bars](oatmeal-bars/)
 * [Protein Banana Lemon Poppyseed Muffins](protein-banana-lemon-poppyseed-muffins/)
