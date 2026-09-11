@@ -1,5 +1,7 @@
 # Reduce conflicts using the Drama Triangle
 
+![drama triangle](triangle.jpeg)
+
 Stephen Karpman mapped the three roles people fall into during a conflict:
 Victim, Persecutor, Rescuer. The roles feed each other. A Persecutor needs a
 Victim, a Victim attracts a Rescuer, and a Rescuer who gets no gratitude turns
@@ -45,3 +47,4 @@ loop they are in and are relieved someone stopped it.
 
 * [Karpman drama triangle](https://en.wikipedia.org/wiki/Karpman_drama_triangle)
 * [The Empowerment Dynamic](https://powerofted.com/)
+* Image above: [Management 3.0](https://management30.com/)
