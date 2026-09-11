@@ -53,6 +53,7 @@
 * [7 questions you can use when coaching](7-coaching-questions/)
 * [Empathy](empathy/)
 * [Toxic Behaviors](toxic-behaviors/)
+* [Reduce conflicts using the Drama Triangle](drama-triangle/)
 * [Spontaneous Speaking](spontaneous-speaking/)
 * [Relationship Guidelines](relationship-guidelines/)
 * [Hacking Relationships](hacking-relationships/)
