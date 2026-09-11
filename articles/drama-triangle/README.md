@@ -1,4 +1,4 @@
-# Reduce conflicts using the Drama Triangle
+# How to get off the Drama Triangle
 
 ![drama triangle](triangle.jpeg)
 
