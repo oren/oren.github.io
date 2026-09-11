@@ -26,11 +26,14 @@ Ask yourself which one you slipped into:
 
 ## 3. Swap the role
 
-* **Victim to Creator.** What is one thing you actually control right now?
+* **Victim to Creator.** What is one thing you control right now?
 * **Persecutor to Challenger.** Drop the attack on the person. State the
   boundary or the request.
 * **Rescuer to Coach.** Stop doing the work. Ask a question instead:
   "How do you plan to tackle this?"
+
+Rescuer is the hardest one to leave. Helping feels good, and holding back feels
+like abandoning someone.
 
 ## 4. Re-engage
 
