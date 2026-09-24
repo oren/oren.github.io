@@ -12,5 +12,4 @@ Greek words for love:
 
 Links:
 
-* [Good Summary](https://www.wellandgood.com/benefits-of-weighted-blanket/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Greek_words_for_love)
