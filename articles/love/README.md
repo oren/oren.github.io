@@ -1,6 +1,7 @@
 # Love
 
 Greek words for love:
+
 1. **Eros**: romantic, passionate love
 2. **Philia**: intimate, authentic friendship
 3. **Ludus**: playful, flirtatious love
