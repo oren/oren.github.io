@@ -1,4 +1,4 @@
-# Analysis of Logical Fallacies and Writing Improvements
+# Analysis of Logical Fallacies
 
 ## **Table of Contents**
 1. [Analysis of Statements](#1-analysis-of-statements)
