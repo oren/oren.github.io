@@ -9,12 +9,14 @@
    - 1.5 [Point 5](#15-point-5)
    - 1.6 [Point 6](#16-point-6)
 2. [Actionable Suggestions](#2-actionable-suggestions)
-3. [Fallacies & Links](#3-fallacies-links)
+3. [Fallacies Links](#3-fallacies-links)
 
 ---
 
+<a id="1-analysis-of-statements"></a>
 ## **1. Analysis of Statements**
 
+<a id="11-point-1"></a>
 ### **1.1 Point 1**
 
 > **Quote:** *"I think Chinese/East Asian people perform really well now."*
@@ -27,6 +29,7 @@
 
 ---
 
+<a id="12-point-2"></a>
 ### **1.2 Point 2**
 
 > **Quote:** *"I think whites and Jewish are performing well too but get too political and embroiled in all these bloody wars (plus for whites the history of colonising others that make them seen as "bad people", white guilt, etc). Jewish, you know... bad reputation too, especially due to escalating Palestine-Israel conflict recently. Not sure how Israel can disengage from wars but if I could have advice that would be to just stop being at wars all the time somehow and focus on economy/innovation etc. Maybe thats not possible. Again middle east conflict is too complicated and I dont claim expertise."*
@@ -41,6 +44,7 @@
 
 ---
 
+<a id="13-point-3"></a>
 ### **1.3 Point 3**
 
 > **Quote:** *"Secretly I side with Israel over Palestine bc I hate Islam after growing up in Indonesia and Im glad at least Israel is doing smth there to curb Islam extremism, but I dont want to say these outloud bc Im too practical and want to stay out of it. Best to divide Gaza 50-50."*
@@ -55,6 +59,7 @@
 
 ---
 
+<a id="14-point-4"></a>
 ### **1.4 Point 4**
 
 > **Quote:** *"Yes, like Lee Kuan Yew, Im politically can be incorrect and unapologetic about it. I believe certain races are better than others on some metrics and evolution across populations is not equal, also believe in survival of the fittest."*
@@ -69,6 +74,7 @@
 
 ---
 
+<a id="15-point-5"></a>
 ### **1.5 Point 5**
 
 > **Quote:** *"I dont agree in extreme capitalism, authoritarianism but also dont agree in left leaning liberal policies, overblown woke mindset, welfare states, high taxes."*
@@ -81,6 +87,7 @@
 
 ---
 
+<a id="16-point-6"></a>
 ### **1.6 Point 6**
 
 > **Quote:** *"I think each country is unique and has its own brand of governance, so it's hard to put labels."*
@@ -91,6 +98,7 @@
 
 ---
 
+<a id="2-actionable-suggestions"></a>
 ## **2. Actionable Suggestions**
 
 1. **Separate Nations and Governments from Ethnic or Religious Groups**
@@ -115,6 +123,7 @@
 
 ---
 
+<a id="3-fallacies-links"></a>
 ## **3. Fallacies Links**
 
 Below is a reference guide for all logical fallacies identified in the text, with every link directed to [Your Logical Fallacy Is](https://yourlogicalfallacyis.com/) for easy, accessible explanations:
