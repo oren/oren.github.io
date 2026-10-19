@@ -15,7 +15,7 @@
 <a id="1-analysis-of-statements"></a>
 ## **1. Analysis of Statements**
 
-The context: after the [first analysis](../logical-fallacies/), a friend replied with a screenshot of an Elon Musk tweet and this message:
+The context: Elon Musk tweet something and my friend texted me:
 
 > *"Look Elon even talks about Jewish in the collective instead of saying "some" or naming which Jewish specifically one by one he means by this! Good luck going around the internet trying to fix every single person's statement. Im just saying you are creating stress for yourself and appearing out of sync with social media age."*
 
